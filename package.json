@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "start": "fusuma start"
+    "start": "marp . --server"
   },
-  "devDependencies": {
-    "fusuma": "^2.8.4"
+  "dependencies": {
+    "@marp-team/marp-cli": "^1.2.0"
   }
 }
