@@ -129,16 +129,3 @@
   - 死後、リトアニアからキリスト教は消えた
 
 ---
-
-<style>
-  .reveal .slides {
-    text-align: left;
-    font-size: 2rem;
-  }
-  .reveal .slides h2 {
-    font-size: 4rem;
-  }
-  .reveal .slides h3 {
-    font-size: 3rem;
-  }
-</style>
