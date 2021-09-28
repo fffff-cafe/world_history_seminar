@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "start": "marp . --server",
-    "build": "marp -I . -o dist && cpx 'images/**' dist/images"
+    "start": "marp ./slides --server",
+    "build": "marp -I ./slides -o dist && cpx 'images/**' dist/images"
   },
   "dependencies": {
     "@marp-team/marp-cli": "^1.2.0",
