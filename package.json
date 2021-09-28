@@ -1,8 +1,10 @@
 {
   "scripts": {
-    "start": "marp . --server"
+    "start": "marp . --server",
+    "build": "marp -I . -o dist && cpx 'images/**' dist/images"
   },
   "dependencies": {
-    "@marp-team/marp-cli": "^1.2.0"
+    "@marp-team/marp-cli": "^1.2.0",
+    "cpx": "^1.5.0"
   }
 }
