@@ -1,11 +1,17 @@
 {
   "scripts": {
     "start": "marp ./slides --server",
-    "build": "marp -I ./slides -o dist && cpx 'images/**' dist/images && node generate.js"
+    "build": "marp -I ./slides -o dist && cpx 'images/**' dist/images && node generate.js",
+    "lint": "markdownlint slides -f",
+    "prepare": "husky install"
   },
   "dependencies": {
     "@marp-team/marp-cli": "^1.2.0",
     "cpx": "^1.5.0",
     "glob": "^7.2.0"
+  },
+  "devDependencies": {
+    "husky": "^7.0.4",
+    "markdownlint-cli": "^0.31.1"
   }
 }
