@@ -198,5 +198,5 @@
 
 - 『ニューヨーク』亀井俊介
 - 『ニューヨーク 都市居住の社会史』 リチャード・プランツ
-- https://www.nintendo.co.jp/ds/interview/irbj/vol1/index2.html
-- https://www.at-newyork.com/new-york-history/
+- <https://www.nintendo.co.jp/ds/interview/irbj/vol1/index2.html>
+- <https://www.at-newyork.com/new-york-history/>
