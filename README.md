@@ -2,7 +2,7 @@
 世界史勉強会 資料用レポジトリ
 
 ## Deployment space
-https://wolrd-history.netlify.app/
+https://world-history.netlify.app/
 
 ## Get a started
 ```
