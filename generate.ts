@@ -1,5 +1,6 @@
-const glob = require("glob")
-const fs = require("fs")
+import fs from "fs"
+import glob from "glob-promise"
+
 const styles = `
 <style>
 body {
@@ -21,13 +22,15 @@ text-decoration: underline;
 }
 </style>
 `
-
-glob("slides/**/*", (err, files) => {
+const act = async () => {
+  const files = await glob.promise("slides/**/*")
   const links = files
-    .flatMap(f => f.match(/^slides\/(.*?)\.md$/g))
-    .filter(f => !!f)
+    .filter(f => f.match(/^slides\/(.*?)\.md$/g))
     .map(f => f.replace(/^slides\//g, "").replace(/\.md$/g, ""))
     .map(f => `<li><a href="${f}">${f.replace("_", " ")}</a></li>`)
     .join("\n")
   fs.writeFileSync("dist/index.html", `${styles}<h1>Slides</h1><ul>${links}</ul>`)
-})
+
+}
+
+act()
