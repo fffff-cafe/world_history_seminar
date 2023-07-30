@@ -5,25 +5,28 @@
 ---
 
 # あらすじ
+
 - 前回の自転車の歴史でグランツールを紹介したのでその続き
 
 ---
 
 # 今回のツールドフランス
+
 - 7/1~7/23まで開催
 - 途中２日の休息日
 - 距離 3,405.6 km
 - 獲得標高 55,460 m
 
-
 ---
 
 # コース
+
 ![img](https://www.cyclowired.jp/sites/default/files/images/2023/07/01/e8f6a.jpeg)
 
 ---
 
 # 今回の主役
+
 - ヨナス・ヴィンゲゴー（ユンボ）
 - タデイ・ポガチャル（UAE）
 - ヤスペル・フィリプセン（アルペシン）
@@ -32,26 +35,31 @@
 ---
 
 # ヨナス・ヴィンゲゴー（ユンボ）
+
 ![img](https://www.jsports.co.jp/cycle/img/pickup/2023/Jonas_VINGEGAARD.jpg)
 
 ---
 
 # タデイ・ポガチャル（UAE）
+
 ![img](https://www.jsports.co.jp/cycle/img/pickup/2023/Tadej_POGACAR.jpg)
 
 ---
 
 # ヤスペル・フィリプセン（アルペシン）
+
 ![img](https://www.jsports.co.jp/cycle/img/pickup/2023/Jasper_PHILIPSEN.jpg)
 
 ---
 
 # ティボー・ピノ（グルパマ）
+
 ![img](https://www.jsports.co.jp/cycle/img/pickup/2023/Thibaut_PINOT.jpg)
 
 ---
 
 # レースをざっくりと①
+
 第５ステージ終了時総合
 
 | 1 | ジャイ・ヒンドレー   | オーストラリア | ボーラ・ハンスグローエ | in 22h 15' 12'' |
@@ -65,6 +73,7 @@
 ---
 
 # レースをざっくりと②
+
 第１５ステージ終了時総合
 
 | 1 | ヨナス・ヴィンゲゴー | デンマーク | ユンボ・ヴィスマ      | in 62h 34' 17'' |
@@ -76,6 +85,7 @@
 ---
 
 # レースをざっくりと③
+
 第１６ステージ終了時総合
 
 | 1 | ヨナス・ヴィンゲゴー | デンマーク | ユンボ・ヴィスマ      | in 63h 06' 53'' |
@@ -87,6 +97,7 @@
 ---
 
 # レースをざっくりと④
+
 第１７ステージ終了時総合
 
 | 1 | ヨナス・ヴィンゲゴー | デンマーク | ユンボ・ヴィスマ      | in 67h 57' 51'' |
@@ -98,6 +109,7 @@
 ---
 
 # レースをざっくりと⑤
+
 第２１ステージ終了時総合（最終）
 
 | 1 | ヨナス・ヴィンゲゴー | デンマーク | ユンボ・ヴィスマ       | in 82h 05' 42'' |
@@ -109,17 +121,18 @@
 ---
 
 # ハイライト
+
 - ヴィンゲゴーのTT（１６ステージ）の強さ
 
-https://www.youtube.com/embed/yEHl1K0s3_c
+<https://www.youtube.com/embed/yEHl1K0s3_c>
 
-https://twitter.com/letour_jpn/status/1681793540173754370?s=20
+<https://twitter.com/letour_jpn/status/1681793540173754370?s=20>
 
 ---
 
 - ポガチャルの失速（１７ステージ）
 
-https://www.youtube.com/embed/A--C0n-bqiY
+<https://www.youtube.com/embed/A--C0n-bqiY>
 
 ---
 
@@ -130,17 +143,16 @@ https://www.youtube.com/embed/A--C0n-bqiY
 - ポガチャルの復活（２０ステージ）
 - ピノの独走
 
-https://www.youtube.com/embed/z9uy0n6j1cs
+<https://www.youtube.com/embed/z9uy0n6j1cs>
 
-https://twitter.com/LeTour/status/1682759067461206017?s=20
-https://twitter.com/GroupamaFDJ/status/1682824293166505984?s=20
-
+<https://twitter.com/LeTour/status/1682759067461206017?s=20>
+<https://twitter.com/GroupamaFDJ/status/1682824293166505984?s=20>
 
 ---
 
 - 最終ステージ（２１ステージ）
 
-https://www.youtube.com/embed/5as6jHftDaE
+<https://www.youtube.com/embed/5as6jHftDaE>
 
 ---
 
