@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "marp ./slides --server",
+    "start": "marp ./slides --html --server",
     "build": "marp -I ./slides -o dist && cpx 'images/**' dist/images && ts-node generate.ts",
     "lint": "markdownlint slides -f",
     "prepare": "husky install"
