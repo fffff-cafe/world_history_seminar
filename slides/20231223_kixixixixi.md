@@ -60,7 +60,7 @@ History of Manzai
 背広を着て舞台に立った最初の演者であり、「きみ」「ぼく」と呼び合った。
 
 ネタ「早慶戦」
-https://www.youtube.com/watch?v=QIcLYe52KiM
+<https://www.youtube.com/watch?v=QIcLYe52KiM>
 
 ---
 
