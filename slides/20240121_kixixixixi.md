@@ -192,4 +192,4 @@ History of Calendar
 
 太陽太陰暦における 30 日 29 日の月をそれぞれ大の月、小の月とよんだ
 
-https://www.ndl.go.jp/koyomi/quiz/index.html
+<https://www.ndl.go.jp/koyomi/quiz/index.html>
