@@ -7,6 +7,8 @@ History of Albania [Shqipëri]
 
 # アルバニア？
 
+![国旗](https://www.mofa.go.jp/mofaj/files/100047437.png)
+
 ---
 
 # アルバニアのイメージ
@@ -132,3 +134,5 @@ History of Albania [Shqipëri]
 ---
 
 # 現代
+
+![ベラト](https://worldheritage-mania.com/wp-content/uploads/2022/04/shutterstock_272680445.jpg)
