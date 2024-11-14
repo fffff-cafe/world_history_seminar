@@ -9,9 +9,9 @@
 # 参考
 
 - 東京海上
-  - https://www.web-tac.co.jp/information/column/detail.html?type=column&name=column-2020-017
+  - <https://www.web-tac.co.jp/information/column/detail.html?type=column&name=column-2020-017>
 - アフラック
-  - https://www.aflac.co.jp/soudan/guide/contents/base/history.html
+  - <https://www.aflac.co.jp/soudan/guide/contents/base/history.html>
 
 ---
 
@@ -43,6 +43,7 @@
 ---
 
 # 中世の海上保険
+
 - 地中海
   - 14世紀初頭以来、海上保険は地中海が中心に（特にイタリア、スペイン）
   - コロンブス（イタリア）のアメリカ大陸発見、ポルトガル人の新航路発見に伴い、アントワープが発展
@@ -155,4 +156,3 @@
   - 有価証券の売買
   - 企業への貸付
   - 不動産投資
-
