@@ -11,7 +11,7 @@ History of fiber / cloth
 衣食住として文字より古く、少なくとも 1 万年以上前から生活に関わっていた
 
 Ref. 繊維の歴史（梶慶輔）
-https://www.jstage.jst.go.jp/article/fiber/59/4/59_4_P_121/_pdf/-char/ja
+<https://www.jstage.jst.go.jp/article/fiber/59/4/59_4_P_121/_pdf/-char/ja>
 
 ---
 
