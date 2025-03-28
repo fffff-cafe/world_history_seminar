@@ -24,8 +24,7 @@ History of Image 2
 - 望遠鏡
 - レンズの未来
 
-
-Ref. https://www.kenko-tokina.co.jp/mmf/topics/458.html
+Ref. <https://www.kenko-tokina.co.jp/mmf/topics/458.html>
 
 ---
 
@@ -40,7 +39,7 @@ Ref. https://www.kenko-tokina.co.jp/mmf/topics/458.html
 
 <img src="https://www.coherent.com/content/dam/coherent/site/en/images/diagrams/glossary/lenses-figure-2.jpg" width="300" />
 
-Ref. https://www.coherent.com/ja/news/glossary/lens
+Ref. <https://www.coherent.com/ja/news/glossary/lens>
 
 - 由来はレンズ豆から
 凸レンズがレンズ豆に似た形状をしていたことから
@@ -184,4 +183,3 @@ Ref. https://www.coherent.com/ja/news/glossary/lens
   電場や圧力を利用して液体の形状を変えることによりレンズの焦点距離を調整
   - エレクトロウェッティング：電圧をかけることで液体の表面張力を変化させ、レンズの形状を変える技術
   - 圧電素子：圧力を利用して液体を変形させる技術
-
