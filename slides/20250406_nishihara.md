@@ -10,7 +10,6 @@
 
 - フィリピンの歴史
 
-
 ---
 
 # 参考
@@ -20,7 +19,7 @@
 - wiki(フィリピンの歴史)
   - <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3%E3%81%AE%E6%AD%B4%E5%8F%B2>
 - 外務省
-  - https://www.mofa.go.jp/mofaj/area/philippines/data.html
+  - <https://www.mofa.go.jp/mofaj/area/philippines/data.html>
 
 ---
 
@@ -122,7 +121,7 @@
 
 # 世界遺産
 
-https://philippinetravel.jp/feature-world-heritage-in-the-philippines/
+<https://philippinetravel.jp/feature-world-heritage-in-the-philippines/>
 
 ---
 
@@ -137,7 +136,6 @@ https://philippinetravel.jp/feature-world-heritage-in-the-philippines/
   - 麻薬取引対象に6000人を処刑（人権団体は30,000人と推定）
 - 人道に対する罪で逮捕
 
-
 ---
 
 # エルサルバドルの刑務所
@@ -149,4 +147,3 @@ https://philippinetravel.jp/feature-world-heritage-in-the-philippines/
 # おすすめの観光
 
 - ホセ・リサール博物館
-
