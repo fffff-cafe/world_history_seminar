@@ -6,7 +6,7 @@ History of Universal Exposition
 
 ---
 
-# 2025 年 4 月 13 日 大阪万博開幕 !
+# 2025 年 4 月 13 日 大阪万博開幕
 
 ---
 
@@ -109,7 +109,7 @@ History of Universal Exposition
 
 <img src="https://www.expo2025.or.jp/wp/wp-content/themes/expo2025orjp_2022/assets/img/overview/logomark/logo_expo2025.png" width="200"/>
 
-https://www.expo2025.or.jp/
+<https://www.expo2025.or.jp/>
 
 ---
 
