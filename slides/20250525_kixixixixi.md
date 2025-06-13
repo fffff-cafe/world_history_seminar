@@ -15,7 +15,7 @@ History of Election
 # 参考
 
 女性いなくても「普通選挙法」？　公布百年に考える歴史用語と排除
-https://www.asahi.com/articles/AST4P2DBBT4PULLI00BM.html
+<https://www.asahi.com/articles/AST4P2DBBT4PULLI00BM.html>
 
 ---
 
@@ -63,7 +63,7 @@ https://www.asahi.com/articles/AST4P2DBBT4PULLI00BM.html
 立候補を届ける制度がないため、有権者は選挙に名乗りを挙げていない人にも投票できた
 自由民権運動を展開した旧自由党や立憲改進党が勝利
 
-https://www.ndl.go.jp/portrait/pickup/024/
+<https://www.ndl.go.jp/portrait/pickup/024/>
 
 ---
 
