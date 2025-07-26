@@ -33,9 +33,6 @@ const extractSlideInfo = async (filePath: string): Promise<SlideInfo> => {
       if (match) {
         const [, rawDate, rawAuthor] = match
         dateStr = `${rawDate.slice(0, 4)}-${rawDate.slice(4, 6)}-${rawDate.slice(6, 8)}`
-        if (dateStr) {
-          dateStr = new Date(dateStr).toLocaleDateString("ja-JP")
-        }
         author = rawAuthor
       }
       
@@ -43,9 +40,16 @@ const extractSlideInfo = async (filePath: string): Promise<SlideInfo> => {
         if (line.startsWith("@")) {
           author = line.replace("@", "")
         } else if (line.match(/^\d{4}-\d{1,2}-\d{1,2}/) || line.match(/^\d{4}\/\d{1,2}\/\d{1,2}/)) {
-          dateStr = new Date(line).toLocaleDateString("ja-JP")
+          dateStr = line
         }
       }
+      if (dateStr.length > 0) {
+        dateStr =  new Date(dateStr).toLocaleDateString("ja-JP", {
+            year: "numeric",
+            month: "2-digit",
+            day: "2-digit"
+          })
+        }
       
       resolve({
         title,
