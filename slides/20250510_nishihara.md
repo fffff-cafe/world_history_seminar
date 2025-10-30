@@ -5,15 +5,16 @@
 # 参考
 
 - Youtube
-https://www.youtube.com/watch?v=KKNK02X3q2I
+<https://www.youtube.com/watch?v=KKNK02X3q2I>
 
 - ピークアウトする中国(読んでない)
-https://www.amazon.co.jp/dp/B0DSZN8MZ2
-https://www.youtube.com/watch?v=A_izqh7Qzag
+<https://www.amazon.co.jp/dp/B0DSZN8MZ2>
+<https://www.youtube.com/watch?v=A_izqh7Qzag>
 
 ---
 
 # 中国の不動産状況
+
 - 名目GDP（2023年）
   - 12,597 USD
     - 日本は33,899 USD
@@ -23,6 +24,7 @@ https://www.youtube.com/watch?v=A_izqh7Qzag
 ---
 
 # 中国の近代史
+
 - 1842年　アヘン戦争に敗北（清）
   - 上海が開港（南京条約）
 - イギリス、アメリカ、フランスが租界を設置（後にフランス租界と共同租界に再編）
@@ -40,6 +42,7 @@ https://www.youtube.com/watch?v=A_izqh7Qzag
 ---
 
 # 中国の発展
+
 - 1978年の改革開放政策（鄧小平）
   - 毛沢東の政策を転換し、外国資本の中国投資を増やし、外貨を得る
   - 大量生産、輸出産業が成功。
@@ -52,6 +55,7 @@ https://www.youtube.com/watch?v=A_izqh7Qzag
 ---
 
 # 不動産バブル崩壊
+
 - 2021年　恒大集団　デフォルト
 - 2023年　碧桂園　12月決算開示できず
   - 米ドル建債権の利払い遅延判明（デフォルトと認定）
@@ -63,13 +67,14 @@ https://www.youtube.com/watch?v=A_izqh7Qzag
 ---
 
 # 不動産バブル崩壊の理由
+
 - 投機ブームが強すぎて、習主席が注意喚起
   - 人民銀行（中央銀国）が住宅ローン規制
 - スリーレッドライン政策
   - 人民銀行が大手不動産銀行に対して３つのルールを強いた
-    -  総資産に対する負債（前受け金を除く）の比率が70%以下
-    -  自己資本に対する負債比率が100%以下
-    -  短期負債を上回る現金を保有していること
+    - 総資産に対する負債（前受け金を除く）の比率が70%以下
+    - 自己資本に対する負債比率が100%以下
+    - 短期負債を上回る現金を保有していること
 - コロナ（ゼロコロナ政策）
   - 外国企業が中国から撤退
   - 富裕層も外国に移住（カナダ、オーストラリア、シンガポールなど）
@@ -77,18 +82,19 @@ https://www.youtube.com/watch?v=A_izqh7Qzag
 ---
 
 # 不動産市況
+
 - 空き家は数千万戸とも（8000万～9000万）
 - 若者の失業者数21.3%
 - 各種ショッピングモール内の空きテナント
 - 高銀金融117
   - 地上597メートルの世界一高い未完成建造物
 - 内モンゴル自治区オルドス市
-  - https://www.huffingtonpost.jp/2015/05/11/chinas-gleaming-ghost-city-of-ordos_n_7261878.html
-
+  - <https://www.huffingtonpost.jp/2015/05/11/chinas-gleaming-ghost-city-of-ordos_n_7261878.html>
 
 ---
 
 # 地方政府が抱える負債
+
 - 融資平台
 
 <img src="https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSKKZO5357869019122019FF2000-PN1-2.jpg?s=d8549c1ed0b943a54313d302e9e31ea3" width="600" />
@@ -96,6 +102,7 @@ https://www.youtube.com/watch?v=A_izqh7Qzag
 ---
 
 # 不動産投資
+
 - 2010年あたりに融資平台を中心として不動産購入ブーム
 - 上がり続ける不動産。
   - ２つ目３つ目の不動産購入（投資）
@@ -111,6 +118,7 @@ https://www.youtube.com/watch?v=A_izqh7Qzag
 ---
 
 # 一帯一路
+
 - 2013年あたりから実施している中国を中心とした経済圏およびインフラ設備投資
 - 現代版シルクロード
   - 貿易ルート（地上、海上）
