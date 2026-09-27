@@ -10,6 +10,8 @@ History of Electricity
 
 電気とは、電荷に関係する現象の総称
 
+<img src="./images/kixixixixi/202609/1.jpg" width="300"/>
+
 ---
 
 ## 電子・電流・電圧・電荷・電場・電力の違い
