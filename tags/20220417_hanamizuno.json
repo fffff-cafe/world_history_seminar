@@ -1,0 +1,403 @@
+{
+  "20220417_hanamizuno/バルト三国の歴史-6/バルト三国の歴史-6": {
+    "page_id": "20220417_hanamizuno/バルト三国の歴史-6/バルト三国の歴史-6",
+    "content_hash": "sha256:40dcf8e77d2ee288d553e87abb77971f83b1ff4b4f5537116ba39f1de845bb25",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "バルト三国の歴史 6",
+        "バルト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:10.814Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_hanamizuno/バルト三国の歴史-6/前回までのあらすじ": {
+    "page_id": "20220417_hanamizuno/バルト三国の歴史-6/前回までのあらすじ",
+    "content_hash": "sha256:072a9489ccb4fbfa5f8fb4d21d6eef67e1342a649c79dd6f792c07887cdb00e7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:10.891Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_hanamizuno/バルト三国の歴史-6/今回の内容": {
+    "page_id": "20220417_hanamizuno/バルト三国の歴史-6/今回の内容",
+    "content_hash": "sha256:2bcbc4432d11d9c4e5b9c9474eab7961959036978f5c4ea7599c7ace4e97a7a6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "ソヴィエト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:10.918Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_hanamizuno/バルト三国の歴史-6/第7章-ソヴィエト体制の下で": {
+    "page_id": "20220417_hanamizuno/バルト三国の歴史-6/第7章-ソヴィエト体制の下で",
+    "content_hash": "sha256:897323b67c459f513fa79724e8f0df98321ff1cdfbfbc7473ffce900209901c3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ゴルバチョフ"
+      ],
+      "tags": [
+        "第7章 ソヴィエト体制の下で",
+        "ソヴィエト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:10.989Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_hanamizuno/バルト三国の歴史-6/雪解け-1": {
+    "page_id": "20220417_hanamizuno/バルト三国の歴史-6/雪解け-1",
+    "content_hash": "sha256:1e5b77dc76aacd062dd68830875a2ad5f0a6168ef70b85058506894bc12699cf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ",
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "バルト"
+      ],
+      "tags": [
+        "雪解け 1",
+        "ソ連の中の西"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:11.038Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_hanamizuno/バルト三国の歴史-6/雪解け-2": {
+    "page_id": "20220417_hanamizuno/バルト三国の歴史-6/雪解け-2",
+    "content_hash": "sha256:4cb6ca43b87d14a4e0a40e9ad76ba6c9687f9267c907f50464cb98a1557115d5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ",
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "バルト",
+        "エストニア",
+        "リトアニア"
+      ],
+      "tags": [
+        "雪解け 2"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:11.109Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_hanamizuno/バルト三国の歴史-6/抑圧と抵抗-1": {
+    "page_id": "20220417_hanamizuno/バルト三国の歴史-6/抑圧と抵抗-1",
+    "content_hash": "sha256:3d848d979d7709de3c78927253c4c3dd04153b42dde94eb50cfc1320c7a92475",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ",
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "リトアニア",
+        "リトアニア・カトリック",
+        "エ・ラ"
+      ],
+      "tags": [
+        "抑圧と抵抗 1",
+        "異論派",
+        "ソヴィエト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:11.137Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_hanamizuno/バルト三国の歴史-6/抑圧と抵抗-2": {
+    "page_id": "20220417_hanamizuno/バルト三国の歴史-6/抑圧と抵抗-2",
+    "content_hash": "sha256:43dd27326ef678fdca4129a78d17e949d4ce5d355f45ef631a0b147ded44323f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "バルト・アピール",
+        "バルト"
+      ],
+      "tags": [
+        "抑圧と抵抗 2"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:11.200Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_hanamizuno/バルト三国の歴史-6/人の移動": {
+    "page_id": "20220417_hanamizuno/バルト三国の歴史-6/人の移動",
+    "content_hash": "sha256:56d8add1155606c1d7bd040dff216742c6803eed2f483ac708ee632178a5fc2d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "社会"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "エ・ラ",
+        "エストニア",
+        "ラトヴィア",
+        "リトアニア"
+      ],
+      "tags": [
+        "人の移動"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:11.256Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_hanamizuno/バルト三国の歴史-6/自然保護、軍備": {
+    "page_id": "20220417_hanamizuno/バルト三国の歴史-6/自然保護、軍備",
+    "content_hash": "sha256:b235f1eddc2a7ce2a1c29eb2c382b56cf319590b9102d63a2c8120aba81ba672",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "バルト"
+      ],
+      "tags": [
+        "自然保護、軍備"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:11.327Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_hanamizuno/バルト三国の歴史-6/文化": {
+    "page_id": "20220417_hanamizuno/バルト三国の歴史-6/文化",
+    "content_hash": "sha256:eed8c9c66da0d39b3e4d767267be5e9e77aa44adb34a2599eaf780d3c0aeee93",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "エ・ラ・リ",
+        "バルト"
+      ],
+      "tags": [
+        "文化",
+        "1つの総合的文化",
+        "バルト地域",
+        "ルーツ",
+        "アイデンティティ",
+        "ホモ・ソヴィエティクス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:11.342Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_hanamizuno/バルト三国の歴史-6/歌う革命": {
+    "page_id": "20220417_hanamizuno/バルト三国の歴史-6/歌う革命",
+    "content_hash": "sha256:fd55803e55105a29fb35c5c86bfec228c72630692528c1ed4083627e7ac2f158",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "歌う革命",
+        "ゴルバチョフ",
+        "ラトヴィア",
+        "リーガ",
+        "バルト"
+      ],
+      "tags": [
+        "グラスノスチ",
+        "ペレストロイカ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:11.414Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_hanamizuno/バルト三国の歴史-6/独立へ-1": {
+    "page_id": "20220417_hanamizuno/バルト三国の歴史-6/独立へ-1",
+    "content_hash": "sha256:5eaea154768ede53aff2ba8c38915591b71d3004685a3c86a71db39598dd50d1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "主権に関する宣言",
+        "エストニア",
+        "タリン・リーガ・ヴィルニュス",
+        "バルト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:11.458Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_hanamizuno/バルト三国の歴史-6/独立へ-2": {
+    "page_id": "20220417_hanamizuno/バルト三国の歴史-6/独立へ-2",
+    "content_hash": "sha256:db0b2c21702e8e1120507b0a00543a7e90038c39024b1f2a4c117e262a533d77",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "リトアニア",
+        "エ・ラ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:11.534Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_hanamizuno/バルト三国の歴史-6/独立へ-3": {
+    "page_id": "20220417_hanamizuno/バルト三国の歴史-6/独立へ-3",
+    "content_hash": "sha256:89729d7aacaf34594f3ad0c00e8ed7210508a36fa1236169c27aae4f469d14df",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治",
+        "外交"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ",
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "エ・ラ・リ",
+        "ゴルバチョフ",
+        "ロシア",
+        "バルト"
+      ],
+      "tags": [
+        "独立へ 3"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:11.548Z",
+    "model": "jev-1.13.0"
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "20221126_ihara/宦官と外戚/宦官と外戚": {
+    "page_id": "20221126_ihara/宦官と外戚/宦官と外戚",
+    "content_hash": "sha256:0a9fe0a244146c393a4f7b045c00991351d2b60f8f90279686adf74c786e06b5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "宦官と外戚"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:25.964Z",
+    "model": "jev-1.13.0"
+  },
+  "20221126_ihara/このテーマを調べるキッカケ/このテーマを調べるキッカケ": {
+    "page_id": "20221126_ihara/このテーマを調べるキッカケ/このテーマを調べるキッカケ",
+    "content_hash": "sha256:5924f98d4e85817d2b03219c356747e9b4d916a434f01bc2b5951301c32628fd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "宦官",
+        "外戚"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:26.065Z",
+    "model": "jev-1.13.0"
+  },
+  "20221126_ihara/宦官/宦官": {
+    "page_id": "20221126_ihara/宦官/宦官",
+    "content_hash": "sha256:5faec209e0d2c7ad26b1c17cc6e509070fde4d792d6917d0fce27f25566ae6cf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "宦官"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:26.102Z",
+    "model": "jev-1.13.0"
+  },
+  "20221126_ihara/宦官になる経緯/宦官になる経緯": {
+    "page_id": "20221126_ihara/宦官になる経緯/宦官になる経緯",
+    "content_hash": "sha256:aa22c21421c009c483c21ee63bc1e717fb78b6ee12d0fcea879f083af1f15f34",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "宦官になる経緯"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:26.140Z",
+    "model": "jev-1.13.0"
+  },
+  "20221126_ihara/日本の宦官/日本の宦官": {
+    "page_id": "20221126_ihara/日本の宦官/日本の宦官",
+    "content_hash": "sha256:b03c841fb3b59149bc0a0d6b3bd131581cdb68602da1c69a08831e926041731a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [],
+      "entities": [
+        "日本の宦官"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:26.188Z",
+    "model": "jev-1.13.0"
+  },
+  "20221126_ihara/外戚/外戚": {
+    "page_id": "20221126_ihara/外戚/外戚",
+    "content_hash": "sha256:e310f375e54a2a77c63bff4fb2171ce3fd09af09d7673ddb782590245e414dad",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "1世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "外戚"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:26.262Z",
+    "model": "jev-1.13.0"
+  },
+  "20221126_ihara/宦官と外戚の対立/宦官と外戚の対立": {
+    "page_id": "20221126_ihara/宦官と外戚の対立/宦官と外戚の対立",
+    "content_hash": "sha256:b3458bf9ec68f13f553254210511cd39816289bdd290b265b303a65b8985229a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "宦官と外戚の対立"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:26.299Z",
+    "model": "jev-1.13.0"
+  },
+  "20221126_ihara/科挙/科挙": {
+    "page_id": "20221126_ihara/科挙/科挙",
+    "content_hash": "sha256:f2dba81b8e8fda0696eb943806ad7bc196eb697b1d6bc4390879745e3b83c906",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "6世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "科挙"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:26.377Z",
+    "model": "jev-1.13.0"
+  },
+  "20221126_ihara/著名な宦官/著名な宦官": {
+    "page_id": "20221126_ihara/著名な宦官/著名な宦官",
+    "content_hash": "sha256:5a74513eec393860b11f7c6e2ef461bfb71370865aeb9018f8d70d9b7467e8c7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀",
+        "4世紀",
+        "5世紀",
+        "6世紀",
+        "7世紀",
+        "8世紀",
+        "9世紀",
+        "10世紀",
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀",
+        "15世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "著名な宦官"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:26.397Z",
+    "model": "jev-1.13.0"
+  },
+  "20221126_ihara/世界の宦官/世界の宦官": {
+    "page_id": "20221126_ihara/世界の宦官/世界の宦官",
+    "content_hash": "sha256:287b577e91b7628e71c47ace1656193bc64a9e4fda9123e5b33bcc7d7e40b0a9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "世界全体"
+      ],
+      "period": [],
+      "entities": [
+        "エジプト",
+        "メソポタミア",
+        "ペルシア",
+        "ビザンツ",
+        "ムガル",
+        "オスマン",
+        "ギリシア",
+        "ローマ"
+      ],
+      "tags": [
+        "世界の宦官"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:26.467Z",
+    "model": "jev-1.13.0"
+  },
+  "20221126_ihara/宦官の役割/宦官の役割": {
+    "page_id": "20221126_ihara/宦官の役割/宦官の役割",
+    "content_hash": "sha256:81f50c0161e97007ae7e8d385ab4a5000a35c1f65081d49fd3e8141c1c9db902",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "宦官の役割"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:26.508Z",
+    "model": "jev-1.13.0"
+  }
+}

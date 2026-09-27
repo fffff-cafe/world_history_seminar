@@ -1,0 +1,986 @@
+{
+  "20250622_kixixixixi/イランの歴史/イランの歴史": {
+    "page_id": "20250622_kixixixixi/イランの歴史/イランの歴史",
+    "content_hash": "sha256:e7c59e3372264d77612e99a6872ecd2df2b21703c4fefceae73dacdd491a9bee",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "イランの歴史",
+        "イラン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:18.780Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/なぜイランとイスラエルは対立するのか": {
+    "page_id": "20250622_kixixixixi/イランの歴史/なぜイランとイスラエルは対立するのか",
+    "content_hash": "sha256:d684f3bf632d682d79c60c29955353bd74900d9671f230be2d2c75eb58b9f59c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "なぜイランとイスラエルは対立するのか",
+        "イラン",
+        "イスラエル"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:18.946Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/なぜイランとアメリカは対立するのか": {
+    "page_id": "20250622_kixixixixi/イランの歴史/なぜイランとアメリカは対立するのか",
+    "content_hash": "sha256:76f10e9220975c98c606ff13276683ee6d0f1b0f11c3636eda500aeb3d076dcc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "なぜイランとアメリカは対立するのか",
+        "イラン",
+        "アメリカ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:19.008Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/参考": {
+    "page_id": "20250622_kixixixixi/イランの歴史/参考",
+    "content_hash": "sha256:95f5fa2a1cfebb3a7f7f80fe529ec3caf6484bc6fa37b776f7cee5839bf3a976",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:19.000Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/イラン概要": {
+    "page_id": "20250622_kixixixixi/イランの歴史/イラン概要",
+    "content_hash": "sha256:771edfe4a066c02f49eba9c607700b12ff9faf62a6c2da962013c2d117cf35c4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "イラン",
+        "イラン・イスラム",
+        "テヘラン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:19.032Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/概略": {
+    "page_id": "20250622_kixixixixi/イランの歴史/概略",
+    "content_hash": "sha256:87a1df4bf99502f6ccc39fc9912605372735dd46d85bdb899d0920db337b3cce",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "モンゴル",
+        "イラン"
+      ],
+      "tags": [
+        "ゾロアスター",
+        "イスラム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:19.160Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/歴史記録に登場した最初のイラン王朝": {
+    "page_id": "20250622_kixixixixi/イランの歴史/歴史記録に登場した最初のイラン王朝",
+    "content_hash": "sha256:e0afd48d6d21e538845884a492921b236e4a47002856f088aaab37d94c3bfd10",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "歴史記録に登場した最初のイラン王朝",
+        "イラン",
+        "メディア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:19.208Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/古代ペルシア帝国時代": {
+    "page_id": "20250622_kixixixixi/イランの歴史/古代ペルシア帝国時代",
+    "content_hash": "sha256:1bffc352fc9e5256474070b189c5d4cc2c5f26ee09901b7b73c1cad48e67cac3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀",
+        "4世紀",
+        "5世紀",
+        "6世紀",
+        "7世紀"
+      ],
+      "entities": [
+        "古代ペルシア帝国時代",
+        "ペルシア"
+      ],
+      "tags": [
+        "ゾロアスター"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:19.204Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/アケメネス朝": {
+    "page_id": "20250622_kixixixixi/イランの歴史/アケメネス朝",
+    "content_hash": "sha256:e2d5ad026ee65ab430d81de9d34c580ac3987f8e830821cdd5f428eaf5c44604",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀",
+        "4世紀",
+        "5世紀",
+        "6世紀"
+      ],
+      "entities": [
+        "アケメネス朝",
+        "アケメネス",
+        "キュロス",
+        "ダレイオス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:19.255Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/ヘレニズム時代": {
+    "page_id": "20250622_kixixixixi/イランの歴史/ヘレニズム時代",
+    "content_hash": "sha256:2e05867a16bcc5e9937220b9976a98fb99c8cd56217af3b1a6cffa7af46a7ba6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ヘレニズム時代",
+        "ヘレニズム",
+        "マケドニア",
+        "ディアドコイ",
+        "セレウコス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:19.374Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/アルサケス朝": {
+    "page_id": "20250622_kixixixixi/イランの歴史/アルサケス朝",
+    "content_hash": "sha256:a13b6aa658f8d8cf80c85d1880b2f911b157df372e59b696dc502ad97de711f1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀"
+      ],
+      "entities": [
+        "アルサケス朝",
+        "アルサケス",
+        "パルティア",
+        "イラン"
+      ],
+      "tags": [
+        "パルティアンショット"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:19.431Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/ササン朝": {
+    "page_id": "20250622_kixixixixi/イランの歴史/ササン朝",
+    "content_hash": "sha256:cc358ba833bdf9a8eec7da832654553901cc924c48b058265c0118a52f361d2c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "3世紀",
+        "4世紀",
+        "5世紀",
+        "6世紀",
+        "7世紀"
+      ],
+      "entities": [
+        "ササン朝",
+        "ササン",
+        "アルダシール",
+        "イラン"
+      ],
+      "tags": [
+        "ゾロアスター"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:19.407Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/イスラム化時代": {
+    "page_id": "20250622_kixixixixi/イランの歴史/イスラム化時代",
+    "content_hash": "sha256:fe5f30167da292df808652a6e89dba3ff7578a10d53f6fe89e6c63282f40d43c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "7世紀",
+        "8世紀",
+        "9世紀",
+        "10世紀",
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀",
+        "15世紀",
+        "16世紀"
+      ],
+      "entities": [
+        "イスラム化時代"
+      ],
+      "tags": [
+        "イスラム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:19.463Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/正統カリフ": {
+    "page_id": "20250622_kixixixixi/イランの歴史/正統カリフ",
+    "content_hash": "sha256:ed21f69e2e9a19955112d1a46b0c46c04244760b2ba43e9e42c97199547d2ae5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "7世紀"
+      ],
+      "entities": [
+        "正統カリフ",
+        "ササン",
+        "ヤズダギルド",
+        "イラン"
+      ],
+      "tags": [
+        "正しく導かれた代理人たち",
+        "カリフ",
+        "イスラム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:19.592Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/ウマイヤ朝": {
+    "page_id": "20250622_kixixixixi/イランの歴史/ウマイヤ朝",
+    "content_hash": "sha256:051d621d311a78fa39352195581058fcf746d7d8493ac4a48d6958cb78191cc0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "7世紀",
+        "8世紀"
+      ],
+      "entities": [
+        "ウマイヤ朝",
+        "ウマイヤ",
+        "ムアーウィヤ",
+        "アラブ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:19.650Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/アッバース朝": {
+    "page_id": "20250622_kixixixixi/イランの歴史/アッバース朝",
+    "content_hash": "sha256:43d79f37c03463ba7dcd7a09dc95869e63f336f35d00e368c414dfec23af0bed",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "8世紀",
+        "9世紀",
+        "10世紀",
+        "11世紀",
+        "12世紀",
+        "13世紀"
+      ],
+      "entities": [
+        "アッバース朝",
+        "アッバース"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:19.667Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/アッバース朝~2": {
+    "page_id": "20250622_kixixixixi/イランの歴史/アッバース朝~2",
+    "content_hash": "sha256:c82cc3e0313588ec4615eba748a8164c0482d45b62d1922f075ceba67d701b97",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "8世紀",
+        "9世紀",
+        "10世紀"
+      ],
+      "entities": [
+        "アッバース朝",
+        "アッバース",
+        "イスラム",
+        "バグダード"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:19.665Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/地方王朝": {
+    "page_id": "20250622_kixixixixi/イランの歴史/地方王朝",
+    "content_hash": "sha256:05cdaa324f900cb8d2436d97c3a1ab327483d59929f563352511d8b487728b33",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "9世紀",
+        "10世紀"
+      ],
+      "entities": [
+        "イラン",
+        "タヒール",
+        "ホラーサーン",
+        "サッファール",
+        "サーマーン",
+        "ブワイフ",
+        "イラン・イラク",
+        "ファーティマ"
+      ],
+      "tags": [
+        "地方王朝"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:19.810Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/モンゴル支配時代": {
+    "page_id": "20250622_kixixixixi/イランの歴史/モンゴル支配時代",
+    "content_hash": "sha256:029a3de3b1fad52bf6ed7076f6a86d8ec2031ece2b051f940e59cb5143d205c0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "13世紀",
+        "14世紀",
+        "15世紀"
+      ],
+      "entities": [
+        "モンゴル支配時代",
+        "モンゴル",
+        "チンギス・ハン",
+        "フレグ",
+        "イルハン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:19.885Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/ティムール王朝": {
+    "page_id": "20250622_kixixixixi/イランの歴史/ティムール王朝",
+    "content_hash": "sha256:68fd8abfc5c54f7f448b473455fe1155f4e1093872edb771616351248138fe5e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "14世紀",
+        "15世紀",
+        "16世紀"
+      ],
+      "entities": [
+        "ティムール王朝",
+        "ティムール",
+        "チャガタイ・ハン",
+        "サマルカンド",
+        "イラン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:19.948Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/サファヴィー朝": {
+    "page_id": "20250622_kixixixixi/イランの歴史/サファヴィー朝",
+    "content_hash": "sha256:e8e083dfe926f321b3e04282022c0a2bbf7a7a4e29c9704a1c9103675ce7f36f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀",
+        "17世紀",
+        "18世紀"
+      ],
+      "entities": [
+        "サファヴィー朝",
+        "サファヴィー",
+        "イスマーイール",
+        "イスファハーン",
+        "アッバース"
+      ],
+      "tags": [
+        "シーア"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:19.913Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/「イスファハーンは世界の半分」": {
+    "page_id": "20250622_kixixixixi/イランの歴史/「イスファハーンは世界の半分」",
+    "content_hash": "sha256:a746b0d51b26627c4b4bbb559abd0bf387ebb7d13d9fd375fa6f41ec905655b9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "「イスファハーンは世界の半分」",
+        "イスファハーンは世界の半分",
+        "イスファハーン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:20.004Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/アフシャール朝": {
+    "page_id": "20250622_kixixixixi/イランの歴史/アフシャール朝",
+    "content_hash": "sha256:fa0d714e14fedd041126e6b1fe1c865dd4362c4af245d3bce7e2e684c926f9d6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "アフシャール朝",
+        "アフシャール",
+        "ナーディル・ハーン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:20.102Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/ザンド朝": {
+    "page_id": "20250622_kixixixixi/イランの歴史/ザンド朝",
+    "content_hash": "sha256:bfc4c0495b8443a0e6756bfd6ed789ca9dce623ac3503bb124b2d971676bff9c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "ザンド朝",
+        "ザンド",
+        "シーラーズ",
+        "イラン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:20.121Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/カージャール朝": {
+    "page_id": "20250622_kixixixixi/イランの歴史/カージャール朝",
+    "content_hash": "sha256:50938622119f36426b525aae1c42cf21c232162c7aaf483b01463a8107443aef",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀",
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "カージャール朝",
+        "カージャール",
+        "アーガー・モハンマド",
+        "イラン",
+        "バーブ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:20.175Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/パフラヴィー朝": {
+    "page_id": "20250622_kixixixixi/イランの歴史/パフラヴィー朝",
+    "content_hash": "sha256:506a303136d6c765de3da48fd05eeaf22a1b1b01789a5adac4cdfff60312f4a5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "パフラヴィー朝",
+        "パフラヴィー"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:20.206Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/レザー・シャー時代": {
+    "page_id": "20250622_kixixixixi/イランの歴史/レザー・シャー時代",
+    "content_hash": "sha256:7779c515c89d5b17e1d337ee616a101a6ab8a0fdbd228282dca3a383389cef01",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "レザー・シャー時代",
+        "イラン",
+        "レザー・シャー",
+        "レザー・ハーン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:20.317Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/レザー・シャー時代~2": {
+    "page_id": "20250622_kixixixixi/イランの歴史/レザー・シャー時代~2",
+    "content_hash": "sha256:145fc5750ad5fdffab66878a8247cba0000b3ff24fc4027e1559593ec563721a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "レザー・シャー時代",
+        "レザー・シャー",
+        "イギリス・ソ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:20.321Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/モハンマド・レザー・シャー時代": {
+    "page_id": "20250622_kixixixixi/イランの歴史/モハンマド・レザー・シャー時代",
+    "content_hash": "sha256:50fbf5d80262d6e05aaaed0893b4b6c68b10410d6046a46ff45869d9c1e67508",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "モハンマド・レザー・シャー時代",
+        "モハンマド・レザー・シャー",
+        "モサテグ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:20.399Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/モハンマド・レザー・シャー時代~2": {
+    "page_id": "20250622_kixixixixi/イランの歴史/モハンマド・レザー・シャー時代~2",
+    "content_hash": "sha256:c4a3d0e855fac8c83ef294d7847ca9258320ff980d0cfca1a9ef7da08eec2987",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "モハンマド・レザー・シャー時代",
+        "モハンマド・レザー・シャー"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:20.481Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/イラン革命とイスラム共和国": {
+    "page_id": "20250622_kixixixixi/イランの歴史/イラン革命とイスラム共和国",
+    "content_hash": "sha256:be9867cbb67045e64c8aac5eafe077d2e339d1c942e9245d5f66a22125d7c150",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [
+        "イラン革命とイスラム共和国",
+        "イラン",
+        "イスラム",
+        "ホメイニ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:20.532Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/イラン革命": {
+    "page_id": "20250622_kixixixixi/イランの歴史/イラン革命",
+    "content_hash": "sha256:b68c3a08a798f65a7b752ac346c788b052ab880bb06ff95a7a65ffc06bc61a14",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "イラン革命",
+        "イラン",
+        "ホメイニ",
+        "パフラヴィー",
+        "イスラーム",
+        "イスラム"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:20.520Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/アメリカ大使館人質事件": {
+    "page_id": "20250622_kixixixixi/イランの歴史/アメリカ大使館人質事件",
+    "content_hash": "sha256:5e17822bc100dbbe58c4ae7f637c08a6e75776ba2f59b7d09c68a2a4723b586d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "アメリカ大使館人質事件",
+        "アメリカ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:20.598Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/イラン・イラク戦争": {
+    "page_id": "20250622_kixixixixi/イランの歴史/イラン・イラク戦争",
+    "content_hash": "sha256:4b8fad3f0e846726e7a0836998798478edda30cabfa7efdced7cc1d929702733",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "イラン・イラク戦争",
+        "イラン・イラク",
+        "イラク",
+        "イラン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:20.688Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/ハーメネイ": {
+    "page_id": "20250622_kixixixixi/イランの歴史/ハーメネイ",
+    "content_hash": "sha256:ba894e09c9572b6c66c53d732cec472d0cbc7d25a8b297387cd6c32805ff0b94",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ハーメネイ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:20.764Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/イラン核開発": {
+    "page_id": "20250622_kixixixixi/イランの歴史/イラン核開発",
+    "content_hash": "sha256:37898718944158a5b567310cb1325a74787c62d7c2ccfdd5f511063efe009fa0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "外交"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "イラン核開発",
+        "イラン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:20.744Z",
+    "model": "jev-1.13.0"
+  },
+  "20250622_kixixixixi/イランの歴史/アメリカとの関係": {
+    "page_id": "20250622_kixixixixi/イランの歴史/アメリカとの関係",
+    "content_hash": "sha256:7c09f960d2c65d22ecf599bfba8d221112361fa610560b90eff92a53cca3ecef",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治",
+        "外交"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "アメリカ",
+        "イラン"
+      ],
+      "tags": [
+        "アメリカとの関係"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:20.806Z",
+    "model": "jev-1.13.0"
+  }
+}

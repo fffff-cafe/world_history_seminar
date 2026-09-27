@@ -1,0 +1,213 @@
+{
+  "20220618_ihara/ペストの歴史/ペストの歴史": {
+    "page_id": "20220618_ihara/ペストの歴史/ペストの歴史",
+    "content_hash": "sha256:4e5ff850a0f8a510e5475762486cf4ff893580c781ff39674ba3f1b77be7937f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ペストの歴史",
+        "ペスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:17.617Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_ihara/言葉/言葉": {
+    "page_id": "20220618_ihara/言葉/言葉",
+    "content_hash": "sha256:ab6968b2e80d59978755a2452e3918f110700db91dd6876a4e8609dadcc1eea0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "言葉"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:17.657Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_ihara/ペストとは/ペストとは": {
+    "page_id": "20220618_ihara/ペストとは/ペストとは",
+    "content_hash": "sha256:d83ce911915fbdacda759948be44568deb95fee20ac238889ca2af625246ea5e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ペストとは",
+        "ペスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:17.711Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_ihara/細菌とウイルスの違い/細菌とウイルスの違い": {
+    "page_id": "20220618_ihara/細菌とウイルスの違い/細菌とウイルスの違い",
+    "content_hash": "sha256:09eeeeaed6445b2d4309b31b350a69c78cf3863555534fc5b3129fe40a9c8527",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "細菌とウイルスの違い"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:17.725Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_ihara/ペストの種類/ペストの種類": {
+    "page_id": "20220618_ihara/ペストの種類/ペストの種類",
+    "content_hash": "sha256:23f271a75c0d8ae5a6b5bb22ec1fa7af026c652c050ffae18e95642ba62cee3f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ペストの種類",
+        "ペスト",
+        "ヒトペスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:17.844Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_ihara/伝染病の広がり/伝染病の広がり": {
+    "page_id": "20220618_ihara/伝染病の広がり/伝染病の広がり",
+    "content_hash": "sha256:f15a6703cc0744e807a091a4a77079d4278148abf96829820cc2111c7ef0307c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "伝染病の広がり"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:17.871Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_ihara/古代のペスト/古代のペスト": {
+    "page_id": "20220618_ihara/古代のペスト/古代のペスト",
+    "content_hash": "sha256:ddac71db5d949ee13d744414cb6eabcfa5a4d51e0ee06b303672b83ad09de26c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "古代のペスト",
+        "ペスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:17.903Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_ihara/アテナイのペスト/アテナイのペスト": {
+    "page_id": "20220618_ihara/アテナイのペスト/アテナイのペスト",
+    "content_hash": "sha256:7f10f78e573920e44fae164a978daa54c943e9251f5431fff23b0550ec3dfed6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "5世紀"
+      ],
+      "entities": [
+        "アテナイのペスト",
+        "アテナイ",
+        "ペスト",
+        "アテネ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:17.953Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_ihara/アントニヌスのペスト/アントニヌスのペスト": {
+    "page_id": "20220618_ihara/アントニヌスのペスト/アントニヌスのペスト",
+    "content_hash": "sha256:f837fa5c88b53b3d5ba9db6a89de18cf11f42de655985247a06d84ee96186036",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "2世紀"
+      ],
+      "entities": [
+        "アントニヌスのペスト",
+        "アントニヌス",
+        "ペスト",
+        "ローマ",
+        "マルクス・アウレリウス・アントニヌス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:18.058Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_ihara/ユスティアヌスのペスト/ユスティアヌスのペスト": {
+    "page_id": "20220618_ihara/ユスティアヌスのペスト/ユスティアヌスのペスト",
+    "content_hash": "sha256:acfd354d38689ac96a2af8dbe9ed637108f2194fc81c0a5c0130ea7cefe842c0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "6世紀"
+      ],
+      "entities": [
+        "ユスティアヌスのペスト",
+        "ユスティアヌス",
+        "ペスト",
+        "ユスティニアヌス",
+        "コンスタンティノープル",
+        "コンスタンティノポリス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:18.076Z",
+    "model": "jev-1.13.0"
+  }
+}

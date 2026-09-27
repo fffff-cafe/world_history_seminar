@@ -1,0 +1,340 @@
+{
+  "20240922_nishihara/ガラスの歴史/ガラスの歴史": {
+    "page_id": "20240922_nishihara/ガラスの歴史/ガラスの歴史",
+    "content_hash": "sha256:0c6e0e1f73079a50f4fc174c0b450ab69c8f1d82c201c278648e641ce7fe9f6f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ガラスの歴史",
+        "ガラス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:06.159Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_nishihara/参考/参考": {
+    "page_id": "20240922_nishihara/参考/参考",
+    "content_hash": "sha256:70cd5d96c5b900820322335734e0b8de27a1ea799274545dd97c693aaee2f6d3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:06.205Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_nishihara/ガラス製造のはじまり/ガラス製造のはじまり": {
+    "page_id": "20240922_nishihara/ガラス製造のはじまり/ガラス製造のはじまり",
+    "content_hash": "sha256:7d42115d01a65341585af0de659b4bb5b91792b9af22f9547ba16bee36429c91",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前",
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀",
+        "4世紀",
+        "5世紀",
+        "6世紀",
+        "7世紀",
+        "8世紀",
+        "9世紀",
+        "10世紀",
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀",
+        "15世紀"
+      ],
+      "entities": [
+        "メソポタミア",
+        "チグリス",
+        "ユーフラテス",
+        "エジプト"
+      ],
+      "tags": [
+        "ガラス製造のはじまり",
+        "ガラス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:06.344Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_nishihara/ガラス製造の進化/ガラス製造の進化": {
+    "page_id": "20240922_nishihara/ガラス製造の進化/ガラス製造の進化",
+    "content_hash": "sha256:0e0652aad1b112513e67b8b72fb1c19699923d603281a178af7bff40ec95f5b7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "シリア"
+      ],
+      "tags": [
+        "ガラス製造の進化",
+        "ガラス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:06.287Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_nishihara/ガラスの原料/ガラスの原料": {
+    "page_id": "20240922_nishihara/ガラスの原料/ガラスの原料",
+    "content_hash": "sha256:936cdc0ad179afe8d2259daf1f14e5e313c432b7986d40c6abc57c46353fd1d3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ガラスの原料",
+        "ガラス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:06.392Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_nishihara/ガラスの種類/ガラスの種類": {
+    "page_id": "20240922_nishihara/ガラスの種類/ガラスの種類",
+    "content_hash": "sha256:b837a6e56965cef27f436f36bdc73dbb4b58123d4d228f6066de473d3b6ac32a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ガラスの種類",
+        "ガラス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:06.427Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_nishihara/防弾ガラス/防弾ガラス": {
+    "page_id": "20240922_nishihara/防弾ガラス/防弾ガラス",
+    "content_hash": "sha256:4f00676d9a468cdf0a576836a0004010f2d14f5fd07c1be29d64d2a6655fcaf8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "防弾ガラス",
+        "ガラス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:06.510Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_nishihara/(脱線しますが)ポリカーボネートとアクリルの違い/(脱線しますが)ポリカーボネートとアクリルの違い": {
+    "page_id": "20240922_nishihara/(脱線しますが)ポリカーボネートとアクリルの違い/(脱線しますが)ポリカーボネートとアクリルの違い",
+    "content_hash": "sha256:90a8618f549bbce4d486478d985b3bead66b2c6171eb08f488e457c54e953eb2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:06.577Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_nishihara/(もうちょい脱線しますが)プラスチックの歴史/(もうちょい脱線しますが)プラスチックの歴史": {
+    "page_id": "20240922_nishihara/(もうちょい脱線しますが)プラスチックの歴史/(もうちょい脱線しますが)プラスチックの歴史",
+    "content_hash": "sha256:b75cd8b8a9992e3b37a6cd5fe04ca674c4ce2b0fb49c55fa1b8a1adc050a20b3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "ルニョー",
+        "ベルギー",
+        "ベークランド",
+        "オットー・レーム"
+      ],
+      "tags": [
+        "プラスチックの歴史",
+        "プラスチック"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:06.691Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_nishihara/主なガラス製法/主なガラス製法": {
+    "page_id": "20240922_nishihara/主なガラス製法/主なガラス製法",
+    "content_hash": "sha256:78b71006f0aca583dc64a6cb689a19c35d35c01a0b7a71ca912863f61701bf7b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "主なガラス製法",
+        "ガラス",
+        "ゾル・ゲル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:06.632Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_nishihara/日本のガラス/日本のガラス": {
+    "page_id": "20240922_nishihara/日本のガラス/日本のガラス",
+    "content_hash": "sha256:297a22aa02d041a64a167de0fe80fc57f85b22c7a48ef30d12969bd10fc3c6a6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本",
+        "東アジア"
+      ],
+      "period": [
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀",
+        "4世紀",
+        "5世紀",
+        "6世紀",
+        "7世紀",
+        "8世紀"
+      ],
+      "entities": [
+        "日本のガラス"
+      ],
+      "tags": [
+        "ガラス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:06.721Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_nishihara/日本のガラス2/日本のガラス2": {
+    "page_id": "20240922_nishihara/日本のガラス2/日本のガラス2",
+    "content_hash": "sha256:7084870f84efe617639f44e8b40115cca3fff0102dcd76d72c547abd4da5e0f3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本",
+        "東アジア"
+      ],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ガラス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:06.789Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_nishihara/ガラス鏡/ガラス鏡": {
+    "page_id": "20240922_nishihara/ガラス鏡/ガラス鏡",
+    "content_hash": "sha256:68873d56e7e9dde9a145a71eee350fa398a8ffe7c3a7096344e3c8250ff150a7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀",
+        "4世紀",
+        "5世紀",
+        "6世紀",
+        "7世紀",
+        "8世紀",
+        "9世紀",
+        "10世紀",
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀",
+        "15世紀",
+        "16世紀",
+        "17世紀"
+      ],
+      "entities": [
+        "ドイツ",
+        "ヴェネツィア",
+        "ドイツ・ヴェネツィア"
+      ],
+      "tags": [
+        "ガラス鏡",
+        "ガラス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:06.855Z",
+    "model": "jev-1.13.0"
+  }
+}

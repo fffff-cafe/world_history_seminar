@@ -1,0 +1,149 @@
+{
+  "20220724_hanamizuno/ニューヨークの歴史-3/ニューヨークの歴史-3": {
+    "page_id": "20220724_hanamizuno/ニューヨークの歴史-3/ニューヨークの歴史-3",
+    "content_hash": "sha256:60b53b976981447c52b2662b092bee66e4cb2b28480f561b510a9de5050e1d19",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ニューヨークの歴史 3",
+        "ニューヨーク"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:18.993Z",
+    "model": "jev-1.13.0"
+  },
+  "20220724_hanamizuno/ニューヨークの歴史-3/ニューヨークの治水": {
+    "page_id": "20220724_hanamizuno/ニューヨークの歴史-3/ニューヨークの治水",
+    "content_hash": "sha256:452eb7eacc0b275aa3b64b413e9bf4ba054b51543c048ed2b72c00fe43f02705",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ニューヨーク"
+      ],
+      "tags": [
+        "ニューヨークの治水"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:19.118Z",
+    "model": "jev-1.13.0"
+  },
+  "20220724_hanamizuno/ニューヨークの歴史-3/ニューヨークの水害": {
+    "page_id": "20220724_hanamizuno/ニューヨークの歴史-3/ニューヨークの水害",
+    "content_hash": "sha256:65006871c16d9d991a4bce72472707367c14a4341599a32a7bec312d7eefbc9a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [
+        "Sandy",
+        "ニューヨーク"
+      ],
+      "tags": [
+        "ニューヨークの水害",
+        "ハリケーン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:19.161Z",
+    "model": "jev-1.13.0"
+  },
+  "20220724_hanamizuno/ニューヨークの歴史-3/水害対策": {
+    "page_id": "20220724_hanamizuno/ニューヨークの歴史-3/水害対策",
+    "content_hash": "sha256:f838e6c4f622868fe83636ae62a0cc7904fe812047d5b6a69cbb0e855ea9cb86",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "水害対策"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:19.175Z",
+    "model": "jev-1.13.0"
+  },
+  "20220724_hanamizuno/ニューヨークの歴史-3/Big-U": {
+    "page_id": "20220724_hanamizuno/ニューヨークの歴史-3/Big-U",
+    "content_hash": "sha256:02c19aae721b3181aa04043d68a00c1b7c89c892379db4894f9d6874d7de2d94",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [],
+      "entities": [
+        "Big U",
+        "マンハッタン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:19.212Z",
+    "model": "jev-1.13.0"
+  },
+  "20220724_hanamizuno/ニューヨークの歴史-3/次回": {
+    "page_id": "20220724_hanamizuno/ニューヨークの歴史-3/次回",
+    "content_hash": "sha256:a847e17e30cbf4b826f92dbace296e87859a9604fd4c2a834e6408c8ad5e8689",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:19.358Z",
+    "model": "jev-1.13.0"
+  },
+  "20220724_hanamizuno/ニューヨークの歴史-3/参考資料": {
+    "page_id": "20220724_hanamizuno/ニューヨークの歴史-3/参考資料",
+    "content_hash": "sha256:39e9755b1005366ef0004cda347e5f3f1834fba437dfd208bb0ee1e952edc6cf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:19.477Z",
+    "model": "jev-1.13.0"
+  }
+}

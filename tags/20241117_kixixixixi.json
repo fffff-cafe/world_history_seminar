@@ -1,0 +1,501 @@
+{
+  "20241117_kixixixixi/繊維(布)の歴史/繊維(布)の歴史": {
+    "page_id": "20241117_kixixixixi/繊維(布)の歴史/繊維(布)の歴史",
+    "content_hash": "sha256:fd271a51607eb3edcc77e3e86a30f45897a9f3805982903481ab5ca39173a57f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "繊維の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:07.745Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_kixixixixi/繊維との関わり/繊維との関わり": {
+    "page_id": "20241117_kixixixixi/繊維との関わり/繊維との関わり",
+    "content_hash": "sha256:1c1c92428bf7b0a0bc145688aed0dc16eed9dace8b2b5fdc68a3a0afb973ff5e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [],
+      "tags": [
+        "繊維との関わり"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:07.772Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_kixixixixi/天然繊維/天然繊維": {
+    "page_id": "20241117_kixixixixi/天然繊維/天然繊維",
+    "content_hash": "sha256:421cb78598542012c9d8b1f881d62e65c00faf112e3955b441390755374c5fbd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "エジプト",
+        "インド",
+        "ペルシア"
+      ],
+      "tags": [
+        "天然繊維",
+        "コットン",
+        "シルク",
+        "ウール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:07.786Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_kixixixixi/はじまり/はじまり": {
+    "page_id": "20241117_kixixixixi/はじまり/はじまり",
+    "content_hash": "sha256:d531add27f5ced4216675b0cc955c07d6612ac0834bf52c35761c2da8a8de7cd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [
+        "コーカサス"
+      ],
+      "tags": [
+        "はじまり"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:07.865Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_kixixixixi/リネン/リネン": {
+    "page_id": "20241117_kixixixixi/リネン/リネン",
+    "content_hash": "sha256:a6dc098e2e11866a08c903d631a5c334b1fa22abd3084510dee11dca5bc53a8c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前",
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀",
+        "4世紀",
+        "5世紀",
+        "6世紀",
+        "7世紀",
+        "8世紀",
+        "9世紀",
+        "10世紀",
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀"
+      ],
+      "entities": [
+        "オランダ・ベルギー"
+      ],
+      "tags": [
+        "リネン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:07.964Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_kixixixixi/コットン/コットン": {
+    "page_id": "20241117_kixixixixi/コットン/コットン",
+    "content_hash": "sha256:516c645f8168bdeb6fe4ca8537129693176d42459b2e2dcf1a4f464649ff4ef5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前",
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀",
+        "4世紀",
+        "5世紀",
+        "6世紀",
+        "7世紀",
+        "8世紀",
+        "9世紀",
+        "10世紀",
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀",
+        "15世紀",
+        "16世紀",
+        "17世紀",
+        "18世紀",
+        "19世紀"
+      ],
+      "entities": [
+        "インダス"
+      ],
+      "tags": [
+        "コットン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:07.993Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_kixixixixi/シルク/シルク": {
+    "page_id": "20241117_kixixixixi/シルク/シルク",
+    "content_hash": "sha256:e7f9f049e30e9cb660218ecd6a93d9198c7922b55d2c4c4b1e875088a95526ad",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前",
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀",
+        "4世紀",
+        "5世紀"
+      ],
+      "entities": [
+        "チベット・ウイグル・インド",
+        "チベット"
+      ],
+      "tags": [
+        "シルク"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:08.020Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_kixixixixi/ウール/ウール": {
+    "page_id": "20241117_kixixixixi/ウール/ウール",
+    "content_hash": "sha256:dd98b2ec0e95726e91f6401b3c9cb41314c2ff9c9d14ec3393b7d775c683391c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [
+        "シュメール"
+      ],
+      "tags": [
+        "ウール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:08.083Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_kixixixixi/紡績/紡績": {
+    "page_id": "20241117_kixixixixi/紡績/紡績",
+    "content_hash": "sha256:4d892347fceff65fb6bf4ca4528792a687cbc4a4f2456c1748262ff0e0fca869",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "紡績"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:08.204Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_kixixixixi/紡績機/紡績機": {
+    "page_id": "20241117_kixixixixi/紡績機/紡績機",
+    "content_hash": "sha256:4c6d22f1cfdf7b161260ebdd55d1a17c8a0636568ac0bdc4afae1ed7799dc2b9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "ジェームズ・ハーグリーブス"
+      ],
+      "tags": [
+        "紡績機"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:08.208Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_kixixixixi/産業革命/産業革命": {
+    "page_id": "20241117_kixixixixi/産業革命/産業革命",
+    "content_hash": "sha256:5fc56842647defbfe2f923a8c1388396b772128aa03479d28d71d9f424aee478",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "経済",
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "産業革命"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:08.253Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_kixixixixi/日本の生糸/日本の生糸": {
+    "page_id": "20241117_kixixixixi/日本の生糸/日本の生糸",
+    "content_hash": "sha256:7764b796cd1a5a45e97e1fc9507a97ab5e50a91ae65b81e127d4992434365237",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "日本",
+        "東アジア"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "日本の生糸"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:08.271Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_kixixixixi/化学繊維/化学繊維": {
+    "page_id": "20241117_kixixixixi/化学繊維/化学繊維",
+    "content_hash": "sha256:935ccba546950903beb0d09e0f62fce83199fdda1175dd1abfeb87706ccf70d6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "化学繊維",
+        "アセテート"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:08.436Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_kixixixixi/ニトロセルロース/ニトロセルロース": {
+    "page_id": "20241117_kixixixixi/ニトロセルロース/ニトロセルロース",
+    "content_hash": "sha256:0220f6b4115010294b9ca4541c1e0032e4038b695f797001b5a85c73bace33c6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "シェーバイン"
+      ],
+      "tags": [
+        "ニトロセルロース"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:08.419Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_kixixixixi/レーヨン/レーヨン": {
+    "page_id": "20241117_kixixixixi/レーヨン/レーヨン",
+    "content_hash": "sha256:fc8d8a535924bfabb224e6e3df1ab9c79775e7c3abed44a040e29e232dc2d0e5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "イレール・ド・シャルドネ"
+      ],
+      "tags": [
+        "レーヨン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:08.504Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_kixixixixi/アセテート/アセテート": {
+    "page_id": "20241117_kixixixixi/アセテート/アセテート",
+    "content_hash": "sha256:1eb7f6b3584c919125f42af25a08bed86e08866e8dcda239de5490662367f8f7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "アセテート"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:08.490Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_kixixixixi/ナイロン/ナイロン": {
+    "page_id": "20241117_kixixixixi/ナイロン/ナイロン",
+    "content_hash": "sha256:0730dfdd344274f0587e7fa7deb64df7df7e57682431b034cb7d3ee82df0b6ba",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ナイロン",
+        "ウォーレス・カロザース"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:08.642Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_kixixixixi/ビニロン/ビニロン": {
+    "page_id": "20241117_kixixixixi/ビニロン/ビニロン",
+    "content_hash": "sha256:da33116d5c5c326a9deed59ffd8c81de7405f78a0100a8eaf84aa85d91b62b35",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ビニロン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:08.746Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_kixixixixi/アクリル/アクリル": {
+    "page_id": "20241117_kixixixixi/アクリル/アクリル",
+    "content_hash": "sha256:72158a9c8715248181625f22989618f8751dfeb5436c905512fe18c0c67121ac",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "アクリル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:08.718Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_kixixixixi/ポリエステル/ポリエステル": {
+    "page_id": "20241117_kixixixixi/ポリエステル/ポリエステル",
+    "content_hash": "sha256:b0d63a9951b383c448dd2fb51108488ff1d221d40385de7a53af2e8509eec3ca",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ポリエステル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:08.707Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_kixixixixi/テキスタイル/テキスタイル": {
+    "page_id": "20241117_kixixixixi/テキスタイル/テキスタイル",
+    "content_hash": "sha256:5e53ab032af646b690ef2264162fa9ad53ebf112d8fef3656be7f2839af0a98e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "テキスタイル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:08.844Z",
+    "model": "jev-1.13.0"
+  }
+}

@@ -1,0 +1,512 @@
+{
+  "20220515_kixixixixi/インドネシアの歴史-3/インドネシアの歴史-3": {
+    "page_id": "20220515_kixixixixi/インドネシアの歴史-3/インドネシアの歴史-3",
+    "content_hash": "sha256:d0b59ca6a155ef6dff79cd7261688071ce58fb227bfa485facc3d492fcd7171b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "インドネシアの歴史 3",
+        "インドネシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:15.654Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_kixixixixi/目次/目次": {
+    "page_id": "20220515_kixixixixi/目次/目次",
+    "content_hash": "sha256:7bf5ddc1ac3d45c93d8b04eef373fec758902925e964b1cc6a96fc12380375ca",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "インドネシア",
+        "オランダ",
+        "スカルノ",
+        "スハルト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:15.722Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_kixixixixi/おさらい/おさらい": {
+    "page_id": "20220515_kixixixixi/おさらい/おさらい",
+    "content_hash": "sha256:961bdaeb9a870a10b059857ff2fd71c4615a56bea96a0d9d21046bb229dcdfb9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "17世紀",
+        "18世紀",
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "インドネシア共和国独立宣言",
+        "オランダ",
+        "インド",
+        "インドネシア",
+        "スカルノ",
+        "ハッタ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:15.764Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_kixixixixi/7.-日本の占領、独立-6/7.-日本の占領、独立-6": {
+    "page_id": "20220515_kixixixixi/7.-日本の占領、独立-6/7.-日本の占領、独立-6",
+    "content_hash": "sha256:b02a0181a61c30affcfdc919953a78e7520bafcccd48b5a40322ed31182c9c70",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "インドネシア",
+        "イギリス",
+        "オランダ",
+        "インド",
+        "フベルトゥス・ファン・モーク"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:15.867Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_kixixixixi/7.-日本の占領、独立-7/7.-日本の占領、独立-7": {
+    "page_id": "20220515_kixixixixi/7.-日本の占領、独立-7/7.-日本の占領、独立-7",
+    "content_hash": "sha256:1ac516380726dcc0d40604f14a0315f6c3c3ff5737c4f6f166fc2542563e6ba4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "インドネシア",
+        "オランダ",
+        "ジャワ",
+        "リンガルジャティ",
+        "クリアン",
+        "シドアルジョ",
+        "スラバヤ",
+        "ジョグジャカルタ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:15.871Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_kixixixixi/7.-日本の占領、独立-8/7.-日本の占領、独立-8": {
+    "page_id": "20220515_kixixixixi/7.-日本の占領、独立-8/7.-日本の占領、独立-8",
+    "content_hash": "sha256:2fd0160fcfee1f698499c8cd1c61cc8d50a2ee4f000be520c6555db9a4113130",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "インドネシア",
+        "オランダ",
+        "ジャワ",
+        "レンヴィル"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:15.924Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_kixixixixi/7.-日本の占領、独立-9/7.-日本の占領、独立-9": {
+    "page_id": "20220515_kixixixixi/7.-日本の占領、独立-9/7.-日本の占領、独立-9",
+    "content_hash": "sha256:1e7614d38b5e7eb63eb1fc1df2f3f6e822f2c03badea77cc0029bd18e5c6a0b5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "インドネシア",
+        "マディウン",
+        "オランダ",
+        "ジョグジャカルタ",
+        "スカルノ",
+        "ハッタ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:15.958Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_kixixixixi/7.-日本の占領、独立-10/7.-日本の占領、独立-10": {
+    "page_id": "20220515_kixixixixi/7.-日本の占領、独立-10/7.-日本の占領、独立-10",
+    "content_hash": "sha256:fa8c6307ef670f216160fd1955f75aa0d5439fd019e2c5ccb866a48b0b5e6c3f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "インドネシア",
+        "オランダ",
+        "スカルノ",
+        "ジョグジャカルタ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:16.104Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_kixixixixi/7.-日本の占領、独立-11/7.-日本の占領、独立-11": {
+    "page_id": "20220515_kixixixixi/7.-日本の占領、独立-11/7.-日本の占領、独立-11",
+    "content_hash": "sha256:8449cf3db616b1aebe5da811408398d162e48ab61e2bf1f2b44d75d68b18f642",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治",
+        "外交"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ハーグ",
+        "オランダ",
+        "インド",
+        "インドネシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:16.079Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_kixixixixi/7.-日本の占領、独立-12/7.-日本の占領、独立-12": {
+    "page_id": "20220515_kixixixixi/7.-日本の占領、独立-12/7.-日本の占領、独立-12",
+    "content_hash": "sha256:f97fcd812abcbaaf71df3eef64dbf6bec379fbafc621fc5f0e2f6dc51314ae1c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治",
+        "外交"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "7. 日本の占領、独立 12",
+        "ハーグ",
+        "インドネシア",
+        "オランダ",
+        "インド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:16.148Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_kixixixixi/8.-スカルノ-1/8.-スカルノ-1": {
+    "page_id": "20220515_kixixixixi/8.-スカルノ-1/8.-スカルノ-1",
+    "content_hash": "sha256:a8075ce20aecdcf0078f97cc341e3c0bad8de4ffc775df40105d72ffee8ef9cf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "8. スカルノ 1",
+        "スカルノ",
+        "インドネシア",
+        "オランダ・インドネシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:16.187Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_kixixixixi/8.-スカルノ-2/8.-スカルノ-2": {
+    "page_id": "20220515_kixixixixi/8.-スカルノ-2/8.-スカルノ-2",
+    "content_hash": "sha256:c48f24fa64361155a2c5aa3023418e796b65a896a1d9cff4718c04855a4832c8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "8. スカルノ 2",
+        "スカルノ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:16.309Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_kixixixixi/8.-スカルノ-3/8.-スカルノ-3": {
+    "page_id": "20220515_kixixixixi/8.-スカルノ-3/8.-スカルノ-3",
+    "content_hash": "sha256:09c1b12b6d57a37ce43aa1767fef868d51ed0a8ed8aa1739d7e49e65c0e09101",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "8. スカルノ 3",
+        "スカルノ"
+      ],
+      "tags": [
+        "指導される民主主義",
+        "ナサコム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:16.304Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_kixixixixi/8.-スカルノ-4/8.-スカルノ-4": {
+    "page_id": "20220515_kixixixixi/8.-スカルノ-4/8.-スカルノ-4",
+    "content_hash": "sha256:c93b35b50b99434f7d66139fa8f6d9c9bb586d04ddb8ceaab46b54d4d1d584ee",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "8. スカルノ 4",
+        "スカルノ",
+        "イリアン",
+        "インドネシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:16.356Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_kixixixixi/9.-スハルト-1/9.-スハルト-1": {
+    "page_id": "20220515_kixixixixi/9.-スハルト-1/9.-スハルト-1",
+    "content_hash": "sha256:414bb4524292d7bb218618046a99faa65eb99543c1bd6e05699b78e9d4d60a78",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "9. スハルト 1",
+        "スハルト",
+        "スカルノ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:16.421Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_kixixixixi/9.-スハルト-2/9.-スハルト-2": {
+    "page_id": "20220515_kixixixixi/9.-スハルト-2/9.-スハルト-2",
+    "content_hash": "sha256:ee4fb9479f40a1551a5ef283c24ec614c68bf50af2da201a8c254fa17fe23783",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "スハルト",
+        "インドネシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:16.530Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_kixixixixi/9.-スハルト-3/9.-スハルト-3": {
+    "page_id": "20220515_kixixixixi/9.-スハルト-3/9.-スハルト-3",
+    "content_hash": "sha256:32cc2f19af3bc79e99ccffc4d9f3c730115b03ea6aeeda9661d27a79ecce3ea7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "9. スハルト 3",
+        "スハルト"
+      ],
+      "tags": [
+        "新秩序",
+        "開発"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:16.518Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_kixixixixi/10.-現在/10.-現在": {
+    "page_id": "20220515_kixixixixi/10.-現在/10.-現在",
+    "content_hash": "sha256:106b6354203aba4fb50005f0343df33f3309759da53a93db396fad81d6c9a27a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:16.572Z",
+    "model": "jev-1.13.0"
+  }
+}

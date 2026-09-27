@@ -1,0 +1,591 @@
+{
+  "20241117_nishihara/国連の歴史/国連の歴史": {
+    "page_id": "20241117_nishihara/国連の歴史/国連の歴史",
+    "content_hash": "sha256:f0840ec1b98fb5de72e301c3f948b45dc3486df7874a09c296df1e76860b0c09",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "国連の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:08.933Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/参考/参考": {
+    "page_id": "20241117_nishihara/参考/参考",
+    "content_hash": "sha256:66ca176e5ae8ef682adc6736b1764b731d154ed763acd1017c42b452984ed719",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:08.909Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/国連とは/国連とは": {
+    "page_id": "20241117_nishihara/国連とは/国連とは",
+    "content_hash": "sha256:5e78b8e5e89e42e3056d7b098c3445e18ac6db6c3c21d7f2913b11a14f82e496",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "国連とは"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:09.021Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/世界政府-/世界政府-": {
+    "page_id": "20241117_nishihara/世界政府-/世界政府-",
+    "content_hash": "sha256:9cf3c5e1826a3482fd37cefe4b09e60d2e28b7af2ce30ca8d7d2021c88905d00",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "世界政府?"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:09.054Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/国際連盟/国際連盟": {
+    "page_id": "20241117_nishihara/国際連盟/国際連盟",
+    "content_hash": "sha256:13b781ce87e3c504da4806305c07ceb70ea43afbfafa4af4d60441e3daf8015e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "国際連盟",
+        "イギリス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:09.141Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/国連の概要/国連の概要": {
+    "page_id": "20241117_nishihara/国連の概要/国連の概要",
+    "content_hash": "sha256:582e290026294d8a9d0a3f35e5c8218fb149362c768c1d03da2f0bb65144d385",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [
+        "ニューヨーク"
+      ],
+      "tags": [
+        "国連の概要"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:09.145Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/国連の成り立ち/国連の成り立ち": {
+    "page_id": "20241117_nishihara/国連の成り立ち/国連の成り立ち",
+    "content_hash": "sha256:8a5b2addf226351b0c531da80c2d0e3e42eed2a17b2ea827ec60f63c697f6e61",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "国連の成り立ち",
+        "連合国",
+        "the United Nations"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:09.299Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/国連の主要機関/国連の主要機関": {
+    "page_id": "20241117_nishihara/国連の主要機関/国連の主要機関",
+    "content_hash": "sha256:2443720184c08a7be48868a8be775a67b6aa1b840eb9190605ca088f971a4b52",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "国連の主要機関"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:09.303Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/国連安全保障理事会/国連安全保障理事会": {
+    "page_id": "20241117_nishihara/国連安全保障理事会/国連安全保障理事会",
+    "content_hash": "sha256:e189f00a294bbe91564dc46a0bca11a6013a468b3113b89a2a77ac9cd56e77c0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "国連安全保障理事会"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:09.366Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/国際連合安全保障理事会常任理事国/国際連合安全保障理事会常任理事国": {
+    "page_id": "20241117_nishihara/国際連合安全保障理事会常任理事国/国際連合安全保障理事会常任理事国",
+    "content_hash": "sha256:21827878836d22ec2da9086da7123970a8b06f93fe41a4bf84b0d5b461d59da3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "国際連合安全保障理事会常任理事国"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:09.362Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/常任理事国/常任理事国": {
+    "page_id": "20241117_nishihara/常任理事国/常任理事国",
+    "content_hash": "sha256:a629eda1292738bbee054e9f7ab30c448f3b8cb42871d49ece8dafe845c20ec2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "フランス",
+        "ロシア",
+        "アメリカ",
+        "イギリス"
+      ],
+      "tags": [
+        "常任理事国"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:09.495Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/非常任理事国/非常任理事国": {
+    "page_id": "20241117_nishihara/非常任理事国/非常任理事国",
+    "content_hash": "sha256:431ca76efd9824400cc2f63ec542a453213e9152e6fbef454a4ab88a43d9dfd1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "非常任理事国"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:09.534Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/非常任理事国/非常任理事国~2": {
+    "page_id": "20241117_nishihara/非常任理事国/非常任理事国~2",
+    "content_hash": "sha256:25df427d29dcd64383c9f690ca14b8b325c5a6161693c98e8efd3d45b325e3db",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "アルジェリア",
+        "エクアドル",
+        "ガイアナ",
+        "マルタ",
+        "モザンビーク",
+        "シエラレオネ",
+        "スロベニア",
+        "スイス",
+        "デンマーク",
+        "ギリシャ",
+        "パナマ",
+        "パキスタン",
+        "ソマリア"
+      ],
+      "tags": [
+        "非常任理事国"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:09.596Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/拒否権/拒否権": {
+    "page_id": "20241117_nishihara/拒否権/拒否権",
+    "content_hash": "sha256:0964a20c5d541adee10fb7195a2762bebcd8dff39aa269ff0b8792ca6707a253",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "拒否権"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:09.559Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/拒否権の行使回数/拒否権の行使回数": {
+    "page_id": "20241117_nishihara/拒否権の行使回数/拒否権の行使回数",
+    "content_hash": "sha256:20419c9eb5b6a112bf34ef205ca8ed8a68ff323398a3d98afbf4215fd2437bd3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ロシア",
+        "ソビエト",
+        "アメリカ",
+        "イギリス",
+        "フランス"
+      ],
+      "tags": [
+        "拒否権の行使回数"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:09.702Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/国連の専門機関(AIいわく)/国連の専門機関(AIいわく)": {
+    "page_id": "20241117_nishihara/国連の専門機関(AIいわく)/国連の専門機関(AIいわく)",
+    "content_hash": "sha256:a7711f18d6eb26252c6e78237625c3590a933985c0801d005fc777ab1b3e56cd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "WHO",
+        "UNESCO",
+        "UNICEF",
+        "WFP"
+      ],
+      "tags": [
+        "国連の専門機関"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:09.755Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/重要な基金・計画(AIいわく)/重要な基金・計画(AIいわく)": {
+    "page_id": "20241117_nishihara/重要な基金・計画(AIいわく)/重要な基金・計画(AIいわく)",
+    "content_hash": "sha256:6d568b1bcff4a5ef209b38dfa8bb2a1179fa8639095e6d3a17786c3cdfb4cbf3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "UNHCR",
+        "UNDP",
+        "UNEP"
+      ],
+      "tags": [
+        "重要な基金・計画"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:09.779Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/経済関連機関(AIいわく)/経済関連機関(AIいわく)": {
+    "page_id": "20241117_nishihara/経済関連機関(AIいわく)/経済関連機関(AIいわく)",
+    "content_hash": "sha256:9ff16297123e61ffb8ba9e2ff95da5f82da5397114c32d7791e92c4727180f80",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "IMF",
+        "World Bank"
+      ],
+      "tags": [
+        "経済関連機関"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:09.810Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/常任理事国を増やす/常任理事国を増やす": {
+    "page_id": "20241117_nishihara/常任理事国を増やす/常任理事国を増やす",
+    "content_hash": "sha256:3f1085f990eec74fa0d2089074351ab90bf5bc369e5f6397838d29d65bbe2e22",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治",
+        "外交"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "アフリカ",
+        "ドイツ",
+        "インド",
+        "ブラジル"
+      ],
+      "tags": [
+        "常任理事国を増やす"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:09.918Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/国連オブザーバー/国連オブザーバー": {
+    "page_id": "20241117_nishihara/国連オブザーバー/国連オブザーバー",
+    "content_hash": "sha256:63a34f5cacaada6ebf73f0b71d503c14c0a4ce595df30e85fc5be50e11a4f1ab",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "バチカン市国",
+        "パレスチナ",
+        "バチカン",
+        "マルタ"
+      ],
+      "tags": [
+        "国連オブザーバー",
+        "オブザーバー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:09.972Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/かつてのオブザーバー/かつてのオブザーバー": {
+    "page_id": "20241117_nishihara/かつてのオブザーバー/かつてのオブザーバー",
+    "content_hash": "sha256:4c04d4f5efa3e1065b378d74da91a83fb9ffaab2b4a908ae59eedd6d16ed75b6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [
+        "イタリア",
+        "オーストリア",
+        "ベトナム",
+        "クウェート",
+        "スイス",
+        "スペイン",
+        "ドイツ",
+        "バングラデシュ",
+        "フィンランド",
+        "モナコ"
+      ],
+      "tags": [
+        "かつてのオブザーバー",
+        "オブザーバー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:10.055Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/日本が国家認定している国で国連非加盟国は-/日本が国家認定している国で国連非加盟国は-": {
+    "page_id": "20241117_nishihara/日本が国家認定している国で国連非加盟国は-/日本が国家認定している国で国連非加盟国は-",
+    "content_hash": "sha256:334748ea241c655259cf261d5fc514c659dca56090bf8dd43872e9013b1b236c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:10.001Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/日本が国家認定している国で国連非加盟国は-/日本が国家認定している国で国連非加盟国は-~2": {
+    "page_id": "20241117_nishihara/日本が国家認定している国で国連非加盟国は-/日本が国家認定している国で国連非加盟国は-~2",
+    "content_hash": "sha256:a7d916e3ff4271ceeb7c38c3c5d5250ea0214d5a38ea9827f26632261bcc5da1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "バチカン",
+        "クック",
+        "ニウエ",
+        "コソボ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:10.136Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/国家承認が限定的な国/国家承認が限定的な国": {
+    "page_id": "20241117_nishihara/国家承認が限定的な国/国家承認が限定的な国",
+    "content_hash": "sha256:0030aaf0788c0ec3049570dedc1b326092876db392bece16f12729f50cf282f4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "国家承認が限定的な国"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:10.171Z",
+    "model": "jev-1.13.0"
+  },
+  "20241117_nishihara/国家承認が限定的な国/国家承認が限定的な国~2": {
+    "page_id": "20241117_nishihara/国家承認が限定的な国/国家承認が限定的な国~2",
+    "content_hash": "sha256:4f8ced6ab16161762cf5d2cb792ee7cfb28ff6b5396b35d6be9bc16d4eeb6511",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "台湾",
+        "コソボ",
+        "パレスチナ"
+      ],
+      "tags": [
+        "国家承認が限定的な国"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:10.201Z",
+    "model": "jev-1.13.0"
+  }
+}

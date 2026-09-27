@@ -1,0 +1,286 @@
+{
+  "20210822_kixixixixi/台湾の歴史/台湾の歴史": {
+    "page_id": "20210822_kixixixixi/台湾の歴史/台湾の歴史",
+    "content_hash": "sha256:082626040afe488b8666a96072517909936af3fad398bdb7b59bbc557a0ca9d0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "台湾の歴史"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:53.697Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_kixixixixi/台湾の歴史/台湾とは": {
+    "page_id": "20210822_kixixixixi/台湾の歴史/台湾とは",
+    "content_hash": "sha256:b459342634ec65bdb0909b69099b1235ea3e8d7eb4c8c1041464e82817ed3b4c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "台湾とは"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:53.708Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_kixixixixi/台湾の歴史/先史時代": {
+    "page_id": "20210822_kixixixixi/台湾の歴史/先史時代",
+    "content_hash": "sha256:ce82b4895687f03b9abc3e9a244e6ff68b27d1cfca676d69e28ac31f96cd8aed",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "先史時代"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:53.800Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_kixixixixi/台湾の歴史/オランダ統治時代": {
+    "page_id": "20210822_kixixixixi/台湾の歴史/オランダ統治時代",
+    "content_hash": "sha256:da12784d38616c5661bf370e733ddf80747686c741be5a412aca1bfa4d8890cc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "オランダ統治時代",
+        "オランダ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:53.804Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_kixixixixi/台湾の歴史/鄭成功": {
+    "page_id": "20210822_kixixixixi/台湾の歴史/鄭成功",
+    "content_hash": "sha256:0902bda1ab1642f2cf6b8b1919a367e0e01df12192937daa490b3a2e56fa77a7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "鄭成功"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:53.913Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_kixixixixi/台湾の歴史/清時代": {
+    "page_id": "20210822_kixixixixi/台湾の歴史/清時代",
+    "content_hash": "sha256:26b54da281772f9f400c26450ff831a710b089eafef56d18e542a374026f5047",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "清時代"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:53.940Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_kixixixixi/台湾の歴史/大日本帝国統治": {
+    "page_id": "20210822_kixixixixi/台湾の歴史/大日本帝国統治",
+    "content_hash": "sha256:24ab10a72810780c7c1e23369c16e8e55b2a07ffdde0751cebedb7f9ce563eac",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "大日本帝国統治"
+      ],
+      "tags": [
+        "農業は台湾、工業は日本"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:54.022Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_kixixixixi/台湾の歴史/中華民国": {
+    "page_id": "20210822_kixixixixi/台湾の歴史/中華民国",
+    "content_hash": "sha256:efb4a6b1af64ec7895c29e8fbefd623fba48872ebc52a458207132fea8f4e8e2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "中華民国"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:54.035Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_kixixixixi/台湾の歴史/米中和解": {
+    "page_id": "20210822_kixixixixi/台湾の歴史/米中和解",
+    "content_hash": "sha256:4cb0235d8762a8c71a12016ab17518617532ad640805277c4d95dbc2b789ff97",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治",
+        "外交"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "米中和解",
+        "アメリカ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:54.110Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_kixixixixi/台湾の歴史/民主化": {
+    "page_id": "20210822_kixixixixi/台湾の歴史/民主化",
+    "content_hash": "sha256:007dfa0131dab95bf4880a8857513482ed84a36c5c4a0e21336e1f8ff78083f8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "民主化",
+        "両岸はそれぞれ別の国"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:54.130Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_kixixixixi/台湾の歴史/馬英九政権": {
+    "page_id": "20210822_kixixixixi/台湾の歴史/馬英九政権",
+    "content_hash": "sha256:847efa06254167182a3a3b5af423ca2426818c32f3d3e00862e707402d592919",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "馬英九政権"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:54.291Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_kixixixixi/台湾の歴史/蔡英文": {
+    "page_id": "20210822_kixixixixi/台湾の歴史/蔡英文",
+    "content_hash": "sha256:fac8805caaed75d6e3a0ac93f0d79aee51aeac0b1ac1628dd71d904f1da70575",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "蔡英文"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:54.235Z",
+    "model": "jev-1.13.0"
+  }
+}

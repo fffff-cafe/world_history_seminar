@@ -1,0 +1,445 @@
+{
+  "20250202_nishihara/グリーンランドの歴史/グリーンランドの歴史": {
+    "page_id": "20250202_nishihara/グリーンランドの歴史/グリーンランドの歴史",
+    "content_hash": "sha256:3521dae0f43294ae1d99d1f513933c401b0c0ce8436019e3f2eb04744628e7f3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "グリーンランドの歴史",
+        "グリーンランド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:12.287Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_nishihara/概要/概要": {
+    "page_id": "20250202_nishihara/概要/概要",
+    "content_hash": "sha256:d191e1893d41ac5a12fb36aefacaf2f485bd4c6c35acde704dc132fe934e99f9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "グリーンランド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:12.322Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_nishihara/参考/参考": {
+    "page_id": "20250202_nishihara/参考/参考",
+    "content_hash": "sha256:5e36534a331025abb064f11df18f2e2c3ca729f94d3926df2e749a7017c3d03d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:12.402Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_nishihara/グリーンランドざっくり/グリーンランドざっくり": {
+    "page_id": "20250202_nishihara/グリーンランドざっくり/グリーンランドざっくり",
+    "content_hash": "sha256:5a1938c6167ea57255d1974afd6ea12b82ebeeee03fef6e25c3f13b2154d31b4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "グリーンランドざっくり",
+        "グリーンランド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:12.482Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_nishihara/地図/地図": {
+    "page_id": "20250202_nishihara/地図/地図",
+    "content_hash": "sha256:d30733388bafb05c9702912a139c70a50ecf2f02981e05076bec89ff01e6565e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:12.515Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_nishihara/よくある島のサイズの錯覚(メルカトル図法)/よくある島のサイズの錯覚(メルカトル図法)": {
+    "page_id": "20250202_nishihara/よくある島のサイズの錯覚(メルカトル図法)/よくある島のサイズの錯覚(メルカトル図法)",
+    "content_hash": "sha256:5e681abdae7c342b4d11f8fc15e6e465f243398bdd7367621981213ed8da6bb6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "よくある島のサイズの錯覚",
+        "メルカトル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:12.608Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_nishihara/グリーンランドの歴史/グリーンランドの歴史~2": {
+    "page_id": "20250202_nishihara/グリーンランドの歴史/グリーンランドの歴史~2",
+    "content_hash": "sha256:c25674e44c754cb7047ce3e91c3bdd05c1cca0d0d2fd6fc56aaa10884f9613a5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "グリーンランドの歴史",
+        "グリーンランド",
+        "チューレ",
+        "カーナーク",
+        "ヴァイキング",
+        "デンマーク"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:12.613Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_nishihara/10世紀以前(Wikiコピペまま)/10世紀以前(Wikiコピペまま)": {
+    "page_id": "20250202_nishihara/10世紀以前(Wikiコピペまま)/10世紀以前(Wikiコピペまま)",
+    "content_hash": "sha256:36a8ff7b5a80885e65fe33a72dab8a059379af9a173977b9310db246c05ca82d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "先史"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前",
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀"
+      ],
+      "entities": [
+        "サカク文化",
+        "インディペンデンスI文化",
+        "インディペンデンスII文化",
+        "前期ドーセット または ドーセット I 文化",
+        "サカク",
+        "グリーンランド",
+        "インディペンデンス",
+        "ドーセット"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:12.683Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_nishihara/ヴァイキングによるグリーンランドの発見/ヴァイキングによるグリーンランドの発見": {
+    "page_id": "20250202_nishihara/ヴァイキングによるグリーンランドの発見/ヴァイキングによるグリーンランドの発見",
+    "content_hash": "sha256:fab6782fa00ee0cdd2e71c8166d75243f39a77c35df4e2e486a412eff55f1baa",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "10世紀"
+      ],
+      "entities": [
+        "ヴァイキングによるグリーンランドの発見",
+        "ヴァイキング",
+        "グリーンランド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:12.734Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_nishihara/ヴァイキングの定住/ヴァイキングの定住": {
+    "page_id": "20250202_nishihara/ヴァイキングの定住/ヴァイキングの定住",
+    "content_hash": "sha256:1fff18a91928db5c8e788351b772ccfa1a2cb2831ab03d54438cf9c3bd1c318f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "10世紀"
+      ],
+      "entities": [
+        "ヴァイキングの定住",
+        "ヴァイキング",
+        "グリーンランド",
+        "アイリーク"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:12.835Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_nishihara/ヴァイキングの定住~消滅/ヴァイキングの定住~消滅": {
+    "page_id": "20250202_nishihara/ヴァイキングの定住~消滅/ヴァイキングの定住~消滅",
+    "content_hash": "sha256:dca8d57e9167a05e3e65f8990e656a9928364e1508084b51b688046ee4422d22",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [
+        "ヴァイキングの定住~消滅",
+        "ヴァイキング",
+        "グリーンランド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:12.821Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_nishihara/地理的な話/地理的な話": {
+    "page_id": "20250202_nishihara/地理的な話/地理的な話",
+    "content_hash": "sha256:45043cb7a47a3f2e739e2a6a738102d1441876e1de4a3aa5c18438269f728542",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:12.914Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_nishihara/地理/地理": {
+    "page_id": "20250202_nishihara/地理/地理",
+    "content_hash": "sha256:5b2125cb49cd43bff7898c5f27a02072888edd894e75c80b5565f0bfa34ccb34",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ヌーク"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:12.944Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_nishihara/地下資源/地下資源": {
+    "page_id": "20250202_nishihara/地下資源/地下資源",
+    "content_hash": "sha256:7de8e20db1f4ae53353b531dd9e79f7a3c6e6f338a54a59f6d063ff041d2e9a7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "グリーンランド"
+      ],
+      "tags": [
+        "地下資源"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:13.046Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_nishihara/文化、人口など/文化、人口など": {
+    "page_id": "20250202_nishihara/文化、人口など/文化、人口など",
+    "content_hash": "sha256:62f563928d3af7d0ae7b3ac0ac10be3e0ea9879a5592322d6888f6ed8875e6d7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "文化、人口など"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:13.042Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_nishihara/主な都市/主な都市": {
+    "page_id": "20250202_nishihara/主な都市/主な都市",
+    "content_hash": "sha256:e0123cd297be94bf52065ff699d6af777969962ffc81eb162734136cd264ee7d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "主な都市",
+        "ヌーク",
+        "シシミウト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:13.174Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_nishihara/人種/人種": {
+    "page_id": "20250202_nishihara/人種/人種",
+    "content_hash": "sha256:39a6a77bc58ec20dd48404a7eb2de8fd82621c37fd813438b83e35bffcb87dcf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "カラーリット",
+        "イヌイット"
+      ],
+      "tags": [
+        "人種"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:13.187Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_nishihara/自殺率/自殺率": {
+    "page_id": "20250202_nishihara/自殺率/自殺率",
+    "content_hash": "sha256:8575de7f6e22f679801e5976ad39ff9a74d2a970fdbeebe6b35ac5f81a0dfbee",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "自殺率"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:13.263Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_nishihara/トランプ大統領がグリーンランドを欲しがる理由/トランプ大統領がグリーンランドを欲しがる理由": {
+    "page_id": "20250202_nishihara/トランプ大統領がグリーンランドを欲しがる理由/トランプ大統領がグリーンランドを欲しがる理由",
+    "content_hash": "sha256:505883660a84a4a96da59529e59749e8ffbb38b34d35385359d7542e74a2e1d4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "トランプ大統領がグリーンランドを欲しがる理由",
+        "トランプ",
+        "グリーンランド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:13.269Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_nishihara/グリーンランドの買収/グリーンランドの買収": {
+    "page_id": "20250202_nishihara/グリーンランドの買収/グリーンランドの買収",
+    "content_hash": "sha256:8be613da622bc12a5058051467a6815f287b58a6dc504b94c0ca780d69e378b0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [
+        "グリーンランドの買収",
+        "グリーンランド",
+        "アンドリュー・ジョンソン",
+        "トランプ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:13.380Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_nishihara/グリーンランドの買収/--地球温暖化によって溶ける氷": {
+    "page_id": "20250202_nishihara/グリーンランドの買収/--地球温暖化によって溶ける氷",
+    "content_hash": "sha256:452e91e100f4f13ce854cd514ec8f1d689ae5e2136cc9462829f3e0801ae36a9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "グリーンランド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:13.400Z",
+    "model": "jev-1.13.0"
+  }
+}

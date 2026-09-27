@@ -1,10 +1,13 @@
 import fs from "fs"
 import { glob } from "glob"
+import { loadStore, splitDocument } from "./tagging/tag"
+import { CULTURES, ERAS, PERIODS, REGIONS, TOPICS } from "./tagging/schema"
 
 interface Section {
   page: number
   heading: string
   text: string
+  tags: string[]
 }
 
 interface SlideInfo {
@@ -23,7 +26,19 @@ const stripFrontmatter = (content: string): string => {
   return content.slice(4 + closeMatch.index + closeMatch[0].length)
 }
 
-const extractSections = (body: string): Section[] => {
+// tagging/tag.ts の結果 (手動修正を優先) をスライド番号ごとにまとめる
+const extractPageTags = (filename: string, content: string): Map<number, string[]> => {
+  if (filename.includes("/")) return new Map()
+  const store = loadStore(filename)
+  const entries = splitDocument(filename, content).pages.flatMap(p => {
+    const rec = store[p.id]
+    const tags = rec?.manual ?? rec?.tags
+    return tags ? [[p.page, [...new Set(Object.values(tags).flat())]] as [number, string[]]] : []
+  })
+  return new Map(entries)
+}
+
+const extractSections = (body: string, pageTags: Map<number, string[]>): Section[] => {
   const pages = body.split(/\r?\n---\r?\n/)
 
   return pages
@@ -50,7 +65,7 @@ const extractSections = (body: string): Section[] => {
         .replace(/\s+/g, " ")
         .trim()
 
-      return { page: index + 1, heading, text }
+      return { page: index + 1, heading, text, tags: pageTags.get(index + 1) ?? [] }
     })
     .filter(section => section.heading || section.text)
 }
@@ -94,7 +109,7 @@ const extractSlideInfo = (filePath: string): SlideInfo => {
     date: dateStr,
     path: filename,
     filename,
-    sections: extractSections(body)
+    sections: extractSections(body, extractPageTags(filename, content))
   }
 }
 
@@ -118,10 +133,35 @@ const generateHTML = (slides: SlideInfo[]): string => {
       path: slide.path,
       page: section.page,
       heading: section.heading,
-      text: section.text
+      text: section.text,
+      tags: section.tags
     }))
   )
   const sectionIndexJson = JSON.stringify(sectionIndex).replace(/</g, "\\u003c")
+
+  const esc = (s: string) => s.replace(/[&<>"']/g, c => `&#${c.charCodeAt(0)};`)
+  const tagCounts = new Map<string, number>()
+  for (const s of sectionIndex) for (const t of s.tags) tagCounts.set(t, (tagCounts.get(t) ?? 0) + 1)
+  const fixedTags = new Set<string>([...ERAS, ...PERIODS, ...REGIONS, ...TOPICS, ...CULTURES])
+  const otherTags = [...tagCounts].filter(([t]) => !fixedTags.has(t)).sort((a, b) => b[1] - a[1]).map(([t]) => t)
+  const tagGroup = (label: string, tags: readonly string[]) => {
+    const items = tags.filter(t => tagCounts.has(t))
+    if (!items.length) return ""
+    return `<div class="tag-group"><span class="tag-group-label">${label}</span>${items
+      .map(t => `<button class="tag-filter" data-tag="${esc(t)}">${esc(t)} (${tagCounts.get(t)})</button>`)
+      .join("")}</div>`
+  }
+  const tagPanel = tagCounts.size ? `<details class="tag-panel">
+        <summary>タグから選ぶ</summary>
+        ${tagGroup("時代", ERAS)}
+        ${tagGroup("年代", PERIODS)}
+        ${tagGroup("地域", REGIONS)}
+        ${tagGroup("分野", TOPICS)}
+        ${tagGroup("文化", CULTURES.filter(c => !(TOPICS as readonly string[]).includes(c)))}
+        ${tagGroup("よく使われるタグ", otherTags.slice(0, 60))}
+      </details>` : ""
+  // ponytail: 全タグは datalist の補完で選ぶ。一覧が長すぎて困ったら検索付きの一覧に
+  const tagDatalist = `<datalist id="tag-list">${[...tagCounts.keys()].sort().map(t => `<option value="#${esc(t)}">`).join("")}</datalist>`
 
   const slideCards = sortedSlides.map(slide => `
     <div class="slide-card" data-author="${slide.author}" data-year="${slide.date.split(/[-\/]/)[0]}" data-path="${slide.path}">
@@ -357,6 +397,67 @@ const generateHTML = (slides: SlideInfo[]): string => {
       margin-top: 0.15rem;
     }
 
+    .section-result-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.25rem;
+      margin-top: 0.3rem;
+    }
+
+    .tag-panel {
+      margin-bottom: 1rem;
+    }
+
+    .tag-panel summary {
+      cursor: pointer;
+      color: #667eea;
+      font-size: 0.9rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .tag-group {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.35rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .tag-group-label {
+      font-size: 0.8rem;
+      color: #888;
+      min-width: 4em;
+    }
+
+    .tag-filter {
+      padding: 0.2rem 0.7rem;
+      border: 1px solid #e1e5e9;
+      background: white;
+      border-radius: 999px;
+      cursor: pointer;
+      font-size: 0.8rem;
+    }
+
+    .tag-filter:hover, .tag-filter.active {
+      background: #667eea;
+      color: white;
+      border-color: #667eea;
+    }
+
+    .graph-link {
+      color: #667eea;
+      text-decoration: none;
+    }
+
+    .section-tag {
+      cursor: pointer;
+      font-size: 0.7rem;
+      padding: 0.05rem 0.4rem;
+      border-radius: 999px;
+      background: #eef2ff;
+      color: #4c51bf;
+    }
+
     @media (max-width: 768px) {
       .container {
         padding: 1rem;
@@ -385,7 +486,7 @@ const generateHTML = (slides: SlideInfo[]): string => {
     </div>
     
     <div class="controls">
-      <input type="text" class="search-box" placeholder="スライド・各資料のセクションを検索...">
+      <input type="text" class="search-box" list="tag-list" placeholder="スライド・セクション・タグを検索（#近代 でタグ完全一致）...">
 
       <div class="year-tabs">
         <button class="year-tab active" data-year="all">すべて (${slides.length})</button>
@@ -396,9 +497,13 @@ const generateHTML = (slides: SlideInfo[]): string => {
         ${authorFilters}
       </div>
 
+      ${tagPanel}
+      ${tagDatalist}
+
       <div class="stats">
         <span class="visible-count">表示中: ${slides.length}件</span>
         <span class="total-authors">発表者: ${authors.length}名</span>
+        ${tagCounts.size ? `<a class="graph-link" href="graph.html">タグネットワーク →</a>` : ""}
       </div>
 
       <div class="section-results"></div>
@@ -422,6 +527,7 @@ const generateHTML = (slides: SlideInfo[]): string => {
     const visibleCount = document.querySelector('.visible-count');
     const noResults = document.querySelector('.no-results');
     const sectionResults = document.querySelector('.section-results');
+    const tagFilters = document.querySelectorAll('.tag-filter');
 
     let currentYear = 'all';
     let currentAuthors = new Set();
@@ -446,6 +552,7 @@ const generateHTML = (slides: SlideInfo[]): string => {
           <a class="section-result" href="\${escapeHtml(s.path)}#\${s.page}">
             <span class="section-result-heading">\${escapeHtml(s.heading || s.title)}</span>
             <span class="section-result-meta">\${escapeHtml(s.title)} ・ @\${escapeHtml(s.author)} ・ \${escapeHtml(s.date)}</span>
+            \${s.tags.length ? \`<span class="section-result-tags">\${s.tags.map(t => \`<span class="section-tag" data-tag="\${escapeHtml(t)}">\${escapeHtml(t)}</span>\`).join('')}</span>\` : ''}
           </a>
         \`).join('');
     }
@@ -454,8 +561,14 @@ const generateHTML = (slides: SlideInfo[]): string => {
       let visibleSlides = 0;
       const term = searchTerm.toLowerCase();
 
-      const matchedSections = term
-        ? sectionIndex.filter(s => s.heading.toLowerCase().includes(term) || s.text.toLowerCase().includes(term))
+      const tagTerm = term.startsWith('#') ? term.slice(1).trim() : '';
+      const matchedSections = tagTerm
+        ? sectionIndex.filter(s => s.tags.some(t => t.toLowerCase() === tagTerm))
+        : term
+        ? sectionIndex.filter(s =>
+            s.heading.toLowerCase().includes(term) ||
+            s.text.toLowerCase().includes(term) ||
+            s.tags.some(t => t.toLowerCase().includes(term)))
         : [];
       const matchedPaths = new Set(matchedSections.map(s => s.path));
 
@@ -480,7 +593,27 @@ const generateHTML = (slides: SlideInfo[]): string => {
       visibleCount.textContent = \`表示中: \${visibleSlides}件\`;
       noResults.style.display = visibleSlides === 0 ? 'block' : 'none';
       renderSectionResults(matchedSections);
+      tagFilters.forEach(b => b.classList.toggle('active', tagTerm === b.dataset.tag.toLowerCase()));
     }
+
+    function selectTag(tag) {
+      const value = '#' + tag;
+      searchBox.value = searchBox.value === value ? '' : value;
+      searchTerm = searchBox.value;
+      filterSlides();
+    }
+
+    tagFilters.forEach(button => {
+      button.addEventListener('click', () => selectTag(button.dataset.tag));
+    });
+
+    // 検索結果のタグチップはリンク遷移せずにそのタグで絞り込む
+    sectionResults.addEventListener('click', (e) => {
+      const chip = e.target.closest('.section-tag');
+      if (!chip) return;
+      e.preventDefault();
+      selectTag(chip.dataset.tag);
+    });
 
     searchBox.addEventListener('input', (e) => {
       searchTerm = e.target.value;
@@ -509,6 +642,10 @@ const generateHTML = (slides: SlideInfo[]): string => {
         filterSlides();
       });
     });
+
+    // graph.html などから ?tag=タグ で開かれたら、そのタグで絞り込む
+    const initialTag = new URLSearchParams(location.search).get('tag');
+    if (initialTag) selectTag(initialTag);
   </script>
 </body>
 </html>`

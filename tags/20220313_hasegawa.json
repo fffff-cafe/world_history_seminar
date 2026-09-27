@@ -1,0 +1,183 @@
+{
+  "20220313_hasegawa/第一次世界大戦(1914-1918)-2/第一次世界大戦(1914-1918)-2": {
+    "page_id": "20220313_hasegawa/第一次世界大戦(1914-1918)-2/第一次世界大戦(1914-1918)-2",
+    "content_hash": "sha256:5d24d783eca310271a7313d47c48d38d76dd381546b0e612b29a849fc9b61684",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "第一次世界大戦 2"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:09.384Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_hasegawa/第一次世界大戦(1914-1918)-2/前回のあらすじ": {
+    "page_id": "20220313_hasegawa/第一次世界大戦(1914-1918)-2/前回のあらすじ",
+    "content_hash": "sha256:20e909c22f46a33dd1323ab38cd5488cc2bbe539d14e4eebecb67aadc3f05539",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:09.346Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_hasegawa/第一次世界大戦(1914-1918)-2/1916年": {
+    "page_id": "20220313_hasegawa/第一次世界大戦(1914-1918)-2/1916年",
+    "content_hash": "sha256:c22101cab2cd4fb337a4b38860e0252a7485efcda049002406716553943228f9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "1916年",
+        "ヴェルダン",
+        "ソンム"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:09.419Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_hasegawa/第一次世界大戦(1914-1918)-2/空の戦い": {
+    "page_id": "20220313_hasegawa/第一次世界大戦(1914-1918)-2/空の戦い",
+    "content_hash": "sha256:af2faab8a468648e16d5b06d823b0764defd03ee62abfa4818b4976afdc4e3e7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ジャン・ナヴァル",
+        "インメルマン",
+        "ベルケ",
+        "リヒトホーフェン",
+        "レッドバロン",
+        "ロンドン"
+      ],
+      "tags": [
+        "空の戦い",
+        "エースパイロット"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:09.457Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_hasegawa/第一次世界大戦(1914-1918)-2/1916年の東部戦線": {
+    "page_id": "20220313_hasegawa/第一次世界大戦(1914-1918)-2/1916年の東部戦線",
+    "content_hash": "sha256:acdbb02cc26b96c578a0970fd8c4dc199eeedf0a838b3496d6bd90a806234b0b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ",
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "1916年の東部戦線",
+        "ブルシーロフ",
+        "ロシア",
+        "ルーマニア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:09.556Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_hasegawa/第一次世界大戦(1914-1918)-2/その他1916年の出来事": {
+    "page_id": "20220313_hasegawa/第一次世界大戦(1914-1918)-2/その他1916年の出来事",
+    "content_hash": "sha256:a7eeb9552b1292a64a59af111fb2ba1cf117a15665e0356db676ca823d95ee9d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ユトランド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:09.614Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_hasegawa/第一次世界大戦(1914-1918)-2/このころの戦艦": {
+    "page_id": "20220313_hasegawa/第一次世界大戦(1914-1918)-2/このころの戦艦",
+    "content_hash": "sha256:6d046adea9b55856e01edc2771b8a04aa966a11ed4fe084771ebed7f0ab85e4e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "このころの戦艦",
+        "戦艦"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:09.657Z",
+    "model": "jev-1.13.0"
+  }
+}

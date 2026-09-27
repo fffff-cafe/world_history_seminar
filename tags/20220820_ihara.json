@@ -1,0 +1,454 @@
+{
+  "20220820_ihara/ペストの歴史-(2)/ペストの歴史-(2)": {
+    "page_id": "20220820_ihara/ペストの歴史-(2)/ペストの歴史-(2)",
+    "content_hash": "sha256:f9d0d9c2fbfc08eb1a31831048ed60b2ad9c797a097d9c908c9d3f88d28e8506",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ペストの歴史",
+        "ペスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:20.314Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_ihara/ペストとは/ペストとは": {
+    "page_id": "20220820_ihara/ペストとは/ペストとは",
+    "content_hash": "sha256:d83ce911915fbdacda759948be44568deb95fee20ac238889ca2af625246ea5e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ペストとは",
+        "ペスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:20.358Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_ihara/中世のペスト/中世のペスト": {
+    "page_id": "20220820_ihara/中世のペスト/中世のペスト",
+    "content_hash": "sha256:9c06f3d2e52418110d5553d491ddd2a65d4cafa72fe6e055e1320e14ccdf5159",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "中世のペスト",
+        "ペスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:20.489Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_ihara/ペストの流行/ペストの流行": {
+    "page_id": "20220820_ihara/ペストの流行/ペストの流行",
+    "content_hash": "sha256:2e2bac850b92acf9d5c882a34b053d0aaef4a372f545512b69d32dfe9295a945",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "11世紀"
+      ],
+      "entities": [
+        "ユーラシア"
+      ],
+      "tags": [
+        "ペストの流行",
+        "ペスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:20.549Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_ihara/ペストの起源/ペストの起源": {
+    "page_id": "20220820_ihara/ペストの起源/ペストの起源",
+    "content_hash": "sha256:9dfc7d7aa214181eab86f013e35c71a34f90722e64e49b61ce5f71b5308f607a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ビルマ"
+      ],
+      "tags": [
+        "ペストの起源",
+        "ペスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:20.575Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_ihara/中国での流行/中国での流行": {
+    "page_id": "20220820_ihara/中国での流行/中国での流行",
+    "content_hash": "sha256:19dbdc3074ef84ff250690b0efe1d7d8844d356b8496105bc57584ce20c6c1d0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "14世紀"
+      ],
+      "entities": [
+        "中国での流行"
+      ],
+      "tags": [
+        "ペスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:20.562Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_ihara/イスラム世界での流行-(1)/イスラム世界での流行-(1)": {
+    "page_id": "20220820_ihara/イスラム世界での流行-(1)/イスラム世界での流行-(1)",
+    "content_hash": "sha256:1bb8ba2182864c91f9924699f53cc2d1d354dc584881855b034dc81e8d602492",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "14世紀"
+      ],
+      "entities": [
+        "イスラム"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:20.698Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_ihara/イスラム世界での流行-(2)/イスラム世界での流行-(2)": {
+    "page_id": "20220820_ihara/イスラム世界での流行-(2)/イスラム世界での流行-(2)",
+    "content_hash": "sha256:1c5a8a31bde97a9f0cbe1a073776f1391f32c70b834e9de35e548a72cddd746c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "イスラム",
+        "イスラーム",
+        "エジプト",
+        "アレクサンドリア",
+        "マムルーク"
+      ],
+      "tags": [
+        "イスラム世界での流行"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:20.780Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_ihara/ヨーロッパでの流行-(1)/ヨーロッパでの流行-(1)": {
+    "page_id": "20220820_ihara/ヨーロッパでの流行-(1)/ヨーロッパでの流行-(1)",
+    "content_hash": "sha256:3bf361dd69b07242d06b0f2543e3fa5d01b8d6044d74da087b3c13f8aebd051b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "14世紀"
+      ],
+      "entities": [
+        "ヨーロッパ",
+        "クリミア",
+        "シチリア",
+        "メッシーナ"
+      ],
+      "tags": [
+        "ヨーロッパでの流行",
+        "ペスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:20.786Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_ihara/ヨーロッパでの流行-(2)/ヨーロッパでの流行-(2)": {
+    "page_id": "20220820_ihara/ヨーロッパでの流行-(2)/ヨーロッパでの流行-(2)",
+    "content_hash": "sha256:851e34839e69405a3c0a64412cc170912632ac8d93b4d4fc118e8b772cadab93",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "14世紀"
+      ],
+      "entities": [
+        "ヨーロッパ"
+      ],
+      "tags": [
+        "ヨーロッパでの流行"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:20.868Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_ihara/中世農業革命との関わり/中世農業革命との関わり": {
+    "page_id": "20220820_ihara/中世農業革命との関わり/中世農業革命との関わり",
+    "content_hash": "sha256:12cc5af9f78841c07bdc2df06bd2e54e2441b96390261334b3acdfed0518b7e1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "中世農業革命との関わり"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:20.912Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_ihara/ユダヤ教の迫害/ユダヤ教の迫害": {
+    "page_id": "20220820_ihara/ユダヤ教の迫害/ユダヤ教の迫害",
+    "content_hash": "sha256:f74c8604cb8d21e8d23ce2b193a76ec31d7799785ff527aaf10f833c0e16770f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ユダヤ"
+      ],
+      "tags": [
+        "ユダヤ教の迫害"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:20.988Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_ihara/農奴制の影響/農奴制の影響": {
+    "page_id": "20220820_ihara/農奴制の影響/農奴制の影響",
+    "content_hash": "sha256:53d810f2f713f3425b23fe1fb0d1c262b8e0995271eb7c9cfe681163c4b57efd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "社会"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "14世紀"
+      ],
+      "entities": [
+        "イギリス"
+      ],
+      "tags": [
+        "農奴制の影響"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:21.020Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_ihara/17世紀-~-19世紀前半-(1)/17世紀-~-19世紀前半-(1)": {
+    "page_id": "20220820_ihara/17世紀-~-19世紀前半-(1)/17世紀-~-19世紀前半-(1)",
+    "content_hash": "sha256:3690fbcb62235b85ed583abfb9fde118f82c76781f822a9c6b2e3057a0e0f437",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "17世紀",
+        "18世紀",
+        "19世紀"
+      ],
+      "entities": [
+        "ヨーロッパ"
+      ],
+      "tags": [
+        "価格革命",
+        "システム",
+        "インフレーション"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:21.076Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_ihara/17世紀-~-19世紀前半-(2)/17世紀-~-19世紀前半-(2)": {
+    "page_id": "20220820_ihara/17世紀-~-19世紀前半-(2)/17世紀-~-19世紀前半-(2)",
+    "content_hash": "sha256:96d616dd3f20655703845c959517b17847a547f9685acbf84585c2ef5813cd6f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀",
+        "18世紀",
+        "19世紀"
+      ],
+      "entities": [
+        "ロンドン"
+      ],
+      "tags": [
+        "スラム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:21.143Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_ihara/17世紀-~-19世紀前半-(3)/17世紀-~-19世紀前半-(3)": {
+    "page_id": "20220820_ihara/17世紀-~-19世紀前半-(3)/17世紀-~-19世紀前半-(3)",
+    "content_hash": "sha256:85fdbc97cc8461730a9f46d42e975ce0d26e665693ea667dd9b4e4050c52c1da",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "17世紀",
+        "18世紀",
+        "19世紀"
+      ],
+      "entities": [
+        "マルセイユ",
+        "ペスト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:21.185Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_ihara/19世紀後半以降/19世紀後半以降": {
+    "page_id": "20220820_ihara/19世紀後半以降/19世紀後半以降",
+    "content_hash": "sha256:2fcdb903293efbef5b1c5adce5318dc2f9a77c70cf86b1fad3e2a7c5a6dbefd3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "ペスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:21.220Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_ihara/病原菌の研究/病原菌の研究": {
+    "page_id": "20220820_ihara/病原菌の研究/病原菌の研究",
+    "content_hash": "sha256:e931b3a68481f01e5b4adca2a8e3d55fc7b2c4f38ef4e9c1a58c3c6d14fee957",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "ロベルト・コッホ",
+        "パスツール",
+        "アレクサンダー・イェルサン"
+      ],
+      "tags": [
+        "病原菌の研究",
+        "悪い水",
+        "悪い空気 = 瘴気",
+        "ペスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:21.291Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_ihara/現代のペスト/現代のペスト": {
+    "page_id": "20220820_ihara/現代のペスト/現代のペスト",
+    "content_hash": "sha256:85179a2cec23ae049ef2c56eaa5e29628aae3a045aef5140f504dc1a04d2bcfc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "現代のペスト",
+        "ペスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:21.370Z",
+    "model": "jev-1.13.0"
+  }
+}

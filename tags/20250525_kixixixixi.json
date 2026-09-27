@@ -1,0 +1,298 @@
+{
+  "20250525_kixixixixi/選挙の歴史/選挙の歴史": {
+    "page_id": "20250525_kixixixixi/選挙の歴史/選挙の歴史",
+    "content_hash": "sha256:d4abfbdcf28fc7cef4db609337278ccceebfb8623101024c6ec94f7eca2b8ecc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "選挙の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:18.158Z",
+    "model": "jev-1.13.0"
+  },
+  "20250525_kixixixixi/普通選挙法公布-100-年/普通選挙法公布-100-年": {
+    "page_id": "20250525_kixixixixi/普通選挙法公布-100-年/普通選挙法公布-100-年",
+    "content_hash": "sha256:46c8744ec7f75f09091f33255031e25f2d087f018e4a176ccae30281cd79ba43",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "普通選挙法公布 100 年"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:18.329Z",
+    "model": "jev-1.13.0"
+  },
+  "20250525_kixixixixi/参考/参考": {
+    "page_id": "20250525_kixixixixi/参考/参考",
+    "content_hash": "sha256:396246d55411ef44f2ff28cb84ea512c88d379f060e713e1a8efc5c2302944fb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:18.336Z",
+    "model": "jev-1.13.0"
+  },
+  "20250525_kixixixixi/選挙の始まり/選挙の始まり": {
+    "page_id": "20250525_kixixixixi/選挙の始まり/選挙の始まり",
+    "content_hash": "sha256:453d80b04a2b3da748893212573da64288713f7ef5a5393a74019613872175c5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "5世紀"
+      ],
+      "entities": [
+        "ギリシャ",
+        "アテネ"
+      ],
+      "tags": [
+        "選挙の始まり"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:18.351Z",
+    "model": "jev-1.13.0"
+  },
+  "20250525_kixixixixi/近代的選挙/近代的選挙": {
+    "page_id": "20250525_kixixixixi/近代的選挙/近代的選挙",
+    "content_hash": "sha256:b3adf4556912723b71c73facf179e89b43980402b580ff69c9d0910f9114183e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "13世紀",
+        "14世紀",
+        "15世紀"
+      ],
+      "entities": [
+        "イギリス"
+      ],
+      "tags": [
+        "近代的選挙"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:18.377Z",
+    "model": "jev-1.13.0"
+  },
+  "20250525_kixixixixi/初の普通選挙/初の普通選挙": {
+    "page_id": "20250525_kixixixixi/初の普通選挙/初の普通選挙",
+    "content_hash": "sha256:f097de69aa0bc4cf8189c84a235bad463ed27707665a460e4fa2ed0b6c9817da",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "フランス"
+      ],
+      "tags": [
+        "初の普通選挙"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:18.542Z",
+    "model": "jev-1.13.0"
+  },
+  "20250525_kixixixixi/フランス革命後/フランス革命後": {
+    "page_id": "20250525_kixixixixi/フランス革命後/フランス革命後",
+    "content_hash": "sha256:6c415f2ea92b34d3c8329b650dd79de24373f2f835179882456599915661d249",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "フランス",
+        "ジャコバン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:18.533Z",
+    "model": "jev-1.13.0"
+  },
+  "20250525_kixixixixi/第一回衆院議員選挙/第一回衆院議員選挙": {
+    "page_id": "20250525_kixixixixi/第一回衆院議員選挙/第一回衆院議員選挙",
+    "content_hash": "sha256:791f0c5ab5d2a79f7259d1a3e52f5c1c5ae9549699f417869930aae680fd119a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "第一回衆院議員選挙"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:18.562Z",
+    "model": "jev-1.13.0"
+  },
+  "20250525_kixixixixi/普通選挙/普通選挙": {
+    "page_id": "20250525_kixixixixi/普通選挙/普通選挙",
+    "content_hash": "sha256:c0cf33c4d14d41c9a2f519f464ec66b62ca65ffd51df26abf7795b1e01d25fba",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "普通選挙"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:18.579Z",
+    "model": "jev-1.13.0"
+  },
+  "20250525_kixixixixi/治安維持法/治安維持法": {
+    "page_id": "20250525_kixixixixi/治安維持法/治安維持法",
+    "content_hash": "sha256:21741a8b45b879ac4ad650e0ce5f4bae5120052ebe77e23d5db23a88d3488cd7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "治安維持法"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:18.734Z",
+    "model": "jev-1.13.0"
+  },
+  "20250525_kixixixixi/女性選挙権/女性選挙権": {
+    "page_id": "20250525_kixixixixi/女性選挙権/女性選挙権",
+    "content_hash": "sha256:e8f5b6e56fc6518352129ccb986864a52a404aa1835b6801f18ccdbb67d2733b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "ニュージーランド",
+        "フィンランド"
+      ],
+      "tags": [
+        "女性選挙権"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:18.762Z",
+    "model": "jev-1.13.0"
+  },
+  "20250525_kixixixixi/戦後選挙/戦後選挙": {
+    "page_id": "20250525_kixixixixi/戦後選挙/戦後選挙",
+    "content_hash": "sha256:3656edb2f8142130e1b3c7374c557a312baee7250d31f8f860eebcaedc017660",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "戦後選挙"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:18.792Z",
+    "model": "jev-1.13.0"
+  }
+}

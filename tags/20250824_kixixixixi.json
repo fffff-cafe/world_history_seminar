@@ -1,0 +1,397 @@
+{
+  "20250824_kixixixixi/橋の歴史/橋の歴史": {
+    "page_id": "20250824_kixixixixi/橋の歴史/橋の歴史",
+    "content_hash": "sha256:24c1505f49939318b17bf9901ded9679cc703e3f7ce95b01fb5d1bfdacebdadc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "橋の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:23.596Z",
+    "model": "jev-1.13.0"
+  },
+  "20250824_kixixixixi/橋の歴史/橋の最新建設計画-!-": {
+    "page_id": "20250824_kixixixixi/橋の歴史/橋の最新建設計画-!-",
+    "content_hash": "sha256:7393219859c60002457500ba0b7ab90c19ea6d2119215707ca6858d81a45e7e1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "メッシーナ",
+        "イタリア",
+        "シチリア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:23.768Z",
+    "model": "jev-1.13.0"
+  },
+  "20250824_kixixixixi/橋の歴史/橋とは": {
+    "page_id": "20250824_kixixixixi/橋の歴史/橋とは",
+    "content_hash": "sha256:ea445d4cc7217ceca4a7fc194053f803544dcec252fe47a01e616cbec8cbf346",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "橋とは"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:23.848Z",
+    "model": "jev-1.13.0"
+  },
+  "20250824_kixixixixi/橋の歴史/参考": {
+    "page_id": "20250824_kixixixixi/橋の歴史/参考",
+    "content_hash": "sha256:426c18385182996a700aba590a5785b227dbf955c6572bcd7b366cf45c75381e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:23.846Z",
+    "model": "jev-1.13.0"
+  },
+  "20250824_kixixixixi/橋の歴史/河にひとがあつまる": {
+    "page_id": "20250824_kixixixixi/橋の歴史/河にひとがあつまる",
+    "content_hash": "sha256:ee9ee1c25d0f344705054a1adc44422074f894ce30cd1c7c13b4831023f711ae",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "河にひとがあつまる"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:23.950Z",
+    "model": "jev-1.13.0"
+  },
+  "20250824_kixixixixi/橋の歴史/橋の価値": {
+    "page_id": "20250824_kixixixixi/橋の歴史/橋の価値",
+    "content_hash": "sha256:26055afcd980e19b3ccb5f34ba81aaaea6bf6eeb919344150686773f3f27963b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ローマ",
+        "ヨーロッパ"
+      ],
+      "tags": [
+        "橋の価値",
+        "渡し舟を凌駕する恒常的インフラ",
+        "渡し舟",
+        "インフラ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:23.969Z",
+    "model": "jev-1.13.0"
+  },
+  "20250824_kixixixixi/橋の歴史/人類が最初につくった橋": {
+    "page_id": "20250824_kixixixixi/橋の歴史/人類が最初につくった橋",
+    "content_hash": "sha256:dec7fd9f0ce27b9626ad37dea52e8abda519cd6db6cdfa11c9e6193ee97703a3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "メソポタミア"
+      ],
+      "tags": [
+        "人類が最初につくった橋",
+        "丸木橋"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:24.039Z",
+    "model": "jev-1.13.0"
+  },
+  "20250824_kixixixixi/橋の歴史/軍事利用と為政者の管理": {
+    "page_id": "20250824_kixixixixi/橋の歴史/軍事利用と為政者の管理",
+    "content_hash": "sha256:31769b5363bacf0a4e55777a8528223c4ef1f48d17514cbb29b92816c59d963c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "軍事利用と為政者の管理",
+        "交通と権力の象徴"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:24.091Z",
+    "model": "jev-1.13.0"
+  },
+  "20250824_kixixixixi/橋の歴史/ローマの橋と水道橋": {
+    "page_id": "20250824_kixixixixi/橋の歴史/ローマの橋と水道橋",
+    "content_hash": "sha256:db098981d6610276fb4bfc902cb8b4d1da14a357a4a65c8354143467857477e0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ローマの橋と水道橋",
+        "ローマ",
+        "ミルウィウス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:24.182Z",
+    "model": "jev-1.13.0"
+  },
+  "20250824_kixixixixi/橋の歴史/中世の橋と宗教": {
+    "page_id": "20250824_kixixixixi/橋の歴史/中世の橋と宗教",
+    "content_hash": "sha256:4b80359334d18d8ab937044c3d414f0cd41148152c25a701ded33336817f67e3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "中世の橋と宗教",
+        "善行"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:24.187Z",
+    "model": "jev-1.13.0"
+  },
+  "20250824_kixixixixi/橋の歴史/産業革命以降": {
+    "page_id": "20250824_kixixixixi/橋の歴史/産業革命以降",
+    "content_hash": "sha256:79d0cf69acaca6dc96563b8d90dcfbf1a09447ae64f1a70114eb9d290cbaeb1d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "アイアンブリッジ"
+      ],
+      "tags": [
+        "産業革命以降"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:24.238Z",
+    "model": "jev-1.13.0"
+  },
+  "20250824_kixixixixi/橋の歴史/いろいろな構造の橋": {
+    "page_id": "20250824_kixixixixi/橋の歴史/いろいろな構造の橋",
+    "content_hash": "sha256:6aff19b89dadb58c2e0c99edb3f113f5c6ef1eeec4e060ab143ecc9a20c62e24",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "いろいろな構造の橋"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:24.284Z",
+    "model": "jev-1.13.0"
+  },
+  "20250824_kixixixixi/橋の歴史/桁橋(Beam-Bridge)": {
+    "page_id": "20250824_kixixixixi/橋の歴史/桁橋(Beam-Bridge)",
+    "content_hash": "sha256:f4325241257fb773732bfd86f5156f2768628c76e2a4b9626e449e5fb3fda3b2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "桁橋",
+        "最も基本的な形式"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:24.378Z",
+    "model": "jev-1.13.0"
+  },
+  "20250824_kixixixixi/橋の歴史/吊橋(Suspension-Bridge)": {
+    "page_id": "20250824_kixixixixi/橋の歴史/吊橋(Suspension-Bridge)",
+    "content_hash": "sha256:5db54c16f35c09f3274464b9017bd2448e7d639eb383478c6d4572534a06ac6e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "インカ帝国やチベット",
+        "インカ",
+        "チベット",
+        "ゴールデンゲート"
+      ],
+      "tags": [
+        "吊橋",
+        "ワイヤーロープ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:24.397Z",
+    "model": "jev-1.13.0"
+  },
+  "20250824_kixixixixi/橋の歴史/トラス橋(Truss-Bridge)": {
+    "page_id": "20250824_kixixixixi/橋の歴史/トラス橋(Truss-Bridge)",
+    "content_hash": "sha256:d615f9b790b333f046a48817725321fdd0946b03a638b6867fe7cad7fc8edfec",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "トラス橋",
+        "トラス構造",
+        "トラス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:24.493Z",
+    "model": "jev-1.13.0"
+  },
+  "20250824_kixixixixi/橋の歴史/アーチ橋(Arch-Bridge)": {
+    "page_id": "20250824_kixixixixi/橋の歴史/アーチ橋(Arch-Bridge)",
+    "content_hash": "sha256:1f8dcb33985dbdfe7f760e6c710a379ce6d281ded3d489d822b23dd8a4b7faed",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ローマ",
+        "ポン・デュ・ガール",
+        "ヴェッキオ"
+      ],
+      "tags": [
+        "アーチ橋",
+        "中世",
+        "近代以降",
+        "アーチ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:24.515Z",
+    "model": "jev-1.13.0"
+  },
+  "20250824_kixixixixi/橋の歴史/ラーメン橋(Rigid-Frame-Bridge)": {
+    "page_id": "20250824_kixixixixi/橋の歴史/ラーメン橋(Rigid-Frame-Bridge)",
+    "content_hash": "sha256:33ad5824b5effc0262ee67336f2a562811b2d0747cc8a586a3df9a271a4074c1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "ラーメン橋",
+        "ラーメン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:24.578Z",
+    "model": "jev-1.13.0"
+  },
+  "20250824_kixixixixi/橋の歴史/斜張橋(Cable-stayed-Bridge)": {
+    "page_id": "20250824_kixixixixi/橋の歴史/斜張橋(Cable-stayed-Bridge)",
+    "content_hash": "sha256:70a23b89c1d199c2d973c99ea5c1fff750af0022bde0f7356bbb6d8564d9a039",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "斜張橋"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:24.588Z",
+    "model": "jev-1.13.0"
+  }
+}

@@ -1,0 +1,476 @@
+{
+  "20230820_kixixixixi/神の歴史/神の歴史": {
+    "page_id": "20230820_kixixixixi/神の歴史/神の歴史",
+    "content_hash": "sha256:bc12c3be1b89a07a5d957cfa5fa1efcdeaf20ea1821685b96adbf4f2241e1a8b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "神の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:35.945Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_kixixixixi/神の歴史-/神の歴史-": {
+    "page_id": "20230820_kixixixixi/神の歴史-/神の歴史-",
+    "content_hash": "sha256:3571d2a41fb615af1c7c36df1c62e119b33cc0ad255d95f8ddb0940858738f99",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "神の歴史?"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:35.929Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_kixixixixi/神話とは-宗教とは-哲学とは-科学とは-/神話とは-宗教とは-哲学とは-科学とは-": {
+    "page_id": "20230820_kixixixixi/神話とは-宗教とは-哲学とは-科学とは-/神話とは-宗教とは-哲学とは-科学とは-",
+    "content_hash": "sha256:4743bd76b489dcdd44821596693acbd1a816e7ed4d113f8b1832dfbb6e07b7e4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "神話とは?宗教とは?哲学とは?科学とは?"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:36.008Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_kixixixixi/信仰のはじまり/信仰のはじまり": {
+    "page_id": "20230820_kixixixixi/信仰のはじまり/信仰のはじまり",
+    "content_hash": "sha256:f309d4c7ddeaac10a0a15044dd2c9ee6388ebf96293711c689b6e1bfe64b18be",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "先史"
+      ],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [],
+      "tags": [
+        "信仰のはじまり",
+        "あの世",
+        "彼岸"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:35.993Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_kixixixixi/言葉としての宗教/言葉としての宗教": {
+    "page_id": "20230820_kixixixixi/言葉としての宗教/言葉としての宗教",
+    "content_hash": "sha256:24dff351d05b7934233881494049eb20815bfec465914ad8525de8f838c4f697",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "言葉としての宗教"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:36.144Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_kixixixixi/宗教の系統/宗教の系統": {
+    "page_id": "20230820_kixixixixi/宗教の系統/宗教の系統",
+    "content_hash": "sha256:a511fa85bf125a1b75f02d7d3082809b4ce5751e20f9de39319ecd5b31ade91f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "カトリック",
+        "プロテスタント"
+      ],
+      "tags": [
+        "宗教の系統",
+        "アブラハム",
+        "ユダヤ",
+        "イスラム",
+        "シーア",
+        "スンニ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:36.176Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_kixixixixi/宗教の系統/--ヴェーダの宗教": {
+    "page_id": "20230820_kixixixixi/宗教の系統/--ヴェーダの宗教",
+    "content_hash": "sha256:7ee80850114cb142b4404fdb2c095e4d60c69a5942679502d9228749f19ba8d7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ビンドゥー",
+        "シャクティ",
+        "ジャイナ"
+      ],
+      "tags": [
+        "- ヴェーダの宗教",
+        "ヴェーダ",
+        "バラモン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:36.205Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_kixixixixi/宗教の系統/--シンクレティズム": {
+    "page_id": "20230820_kixixixixi/宗教の系統/--シンクレティズム",
+    "content_hash": "sha256:aa31cef40dd94386878ee47ea435cfb9f6178fff51dd30d824dfceb08d4e4c60",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "- シンクレティズム",
+        "シンクレティズム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:36.201Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_kixixixixi/世界のはじまり/世界のはじまり": {
+    "page_id": "20230820_kixixixixi/世界のはじまり/世界のはじまり",
+    "content_hash": "sha256:a9efeef184361b77f5d10e617497c7db4723302726cab76d8c1720e6f3fca31d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ヒンドゥー",
+        "ヴィシュヌ",
+        "ブラフマー"
+      ],
+      "tags": [
+        "世界のはじまり",
+        "状態"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:36.361Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_kixixixixi/世界のはじまり/世界のはじまり~2": {
+    "page_id": "20230820_kixixixixi/世界のはじまり/世界のはじまり~2",
+    "content_hash": "sha256:7659a3b5b85d535652d75207745f24ee9f915ef217f6d780c1cfcc83b34eefb7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "イスラム",
+        "アッラー"
+      ],
+      "tags": [
+        "世界のはじまり"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:36.410Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_kixixixixi/善と悪/善と悪": {
+    "page_id": "20230820_kixixixixi/善と悪/善と悪",
+    "content_hash": "sha256:4782428e90b5ee753aa7f14af3cdde12ca5aacc711c5c7e166fab42c729478d5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "善と悪"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:36.406Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_kixixixixi/善と悪/善と悪~2": {
+    "page_id": "20230820_kixixixixi/善と悪/善と悪~2",
+    "content_hash": "sha256:93c4c5616f62c98d002843fc0a3f282d2ac85c69aab7ecc49a5a3b95f1f64ae8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教",
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "善と悪",
+        "カルマ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:36.412Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_kixixixixi/善と悪/善と悪~3": {
+    "page_id": "20230820_kixixixixi/善と悪/善と悪~3",
+    "content_hash": "sha256:a13d0e2727019cd3603cd6f481ab4fc73124c242e3863a911b5b9e7f5e0a7772",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教",
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "アッラー"
+      ],
+      "tags": [
+        "善と悪",
+        "邪悪と信心に就いてそれに示唆した御方"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:36.566Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_kixixixixi/善と悪/善と悪~4": {
+    "page_id": "20230820_kixixixixi/善と悪/善と悪~4",
+    "content_hash": "sha256:8791639e24ad8f3da4d2812a4b7589531e746cddd1f022a8d1b1239497c7ecb7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教",
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "善と悪",
+        "空欄"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:36.644Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_kixixixixi/善と悪/善と悪~5": {
+    "page_id": "20230820_kixixixixi/善と悪/善と悪~5",
+    "content_hash": "sha256:caeb758b147c650250aaaa5e9e362337db8c1cd362753eed9a590a62526baef3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "サタン",
+        "ルシファー"
+      ],
+      "tags": [
+        "善と悪",
+        "空欄",
+        "ある一面では悪の存在が必要となるであろうな秩序と配置"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:36.642Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_kixixixixi/信仰とは/信仰とは": {
+    "page_id": "20230820_kixixixixi/信仰とは/信仰とは",
+    "content_hash": "sha256:32852007010baf234234771ff33c522ac7f20def05c4c21e97ea33cfa596cfc2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "信仰とは",
+        "神を知らない",
+        "神を知る",
+        "神を主人公とする物語",
+        "人間の堕落と贖罪の物語",
+        "神の計画の壮大な物語"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:36.638Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_kixixixixi/パスカルの賭け/パスカルの賭け": {
+    "page_id": "20230820_kixixixixi/パスカルの賭け/パスカルの賭け",
+    "content_hash": "sha256:704eae30b7c4202e1b9184bc7d4befcc820e98ecd4789cfc6a885d8366cb1b88",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教",
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "パスカルの賭け",
+        "パスカル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:36.789Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_kixixixixi/パスカルの賭け/--「神は存在する」に賭ける": {
+    "page_id": "20230820_kixixixixi/パスカルの賭け/--「神は存在する」に賭ける",
+    "content_hash": "sha256:825ec5c38b420e64ed510eda51b69e8e68545f1462f59e28a8e3041190ce3c05",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教",
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "- 「神は存在する」に賭ける",
+        "神は存在する",
+        "神は存在しない"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:36.884Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_kixixixixi/道徳とは/道徳とは": {
+    "page_id": "20230820_kixixixixi/道徳とは/道徳とは",
+    "content_hash": "sha256:52a29b417f010ee68420b27657463c8f6308bd221112c30553377daf01c50e74",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "道徳とは",
+        "正しい行為をなすために、守り従わねばならない規範の総体"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:36.867Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_kixixixixi/道徳とは/>-自ら神々を造り、その神々をおそれ、我が物にしようとするいっぽうで、神々に自分": {
+    "page_id": "20230820_kixixixixi/道徳とは/>-自ら神々を造り、その神々をおそれ、我が物にしようとするいっぽうで、神々に自分",
+    "content_hash": "sha256:52ae5b95ecfea87952da86db29bb9dc2eecf0460f4ada9f4270e7fee290ae210",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教",
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "人間が神々を造った。自らの幸福のために。"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:36.854Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_kixixixixi/ToDo/ToDo": {
+    "page_id": "20230820_kixixixixi/ToDo/ToDo",
+    "content_hash": "sha256:ca63f73c12d22bec07b642fcb634103d0d362a83d92463094fedc747b0d18408",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:36.990Z",
+    "model": "jev-1.13.0"
+  }
+}

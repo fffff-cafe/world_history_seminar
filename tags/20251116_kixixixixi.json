@@ -1,0 +1,380 @@
+{
+  "20251116_kixixixixi/数学の歴史-1/数学の歴史-1": {
+    "page_id": "20251116_kixixixixi/数学の歴史-1/数学の歴史-1",
+    "content_hash": "sha256:c8ca6fa55c2c73314e2b820fdcbde2272911f89753818ca02221c3ba362ac3ff",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "数学の歴史 1"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:29.624Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_kixixixixi/数学の歴史-1/数学とは": {
+    "page_id": "20251116_kixixixixi/数学の歴史-1/数学とは",
+    "content_hash": "sha256:59f30598c7af4b47a8e207e743233c2039a4fd50ba5f767763838ecd08bd5dc8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "数学とは"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:30.029Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_kixixixixi/数学の歴史-1/参考": {
+    "page_id": "20251116_kixixixixi/数学の歴史-1/参考",
+    "content_hash": "sha256:754857da38cd5b0a6f1bcb0d66545b801636cde3024f7867f56b170a81f16490",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:29.743Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_kixixixixi/数学のはじまりとは-/数学のはじまりとは-": {
+    "page_id": "20251116_kixixixixi/数学のはじまりとは-/数学のはじまりとは-",
+    "content_hash": "sha256:906b72555f368269003f6608222023cf3fce26f412ca8c28b4a7ccd83724ff2f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "数学のはじまりとは?"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:29.869Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_kixixixixi/数学のはじまりとは-/数学のはじまりとは-~2": {
+    "page_id": "20251116_kixixixixi/数学のはじまりとは-/数学のはじまりとは-~2",
+    "content_hash": "sha256:1ecf091aa59f2dbcbafd96db2147bfed24efac0c1b740e7b6865ae57f1bfe873",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "数学のはじまりとは?"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:29.952Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_kixixixixi/数学のはじまりとは-/数学の歴史とは": {
+    "page_id": "20251116_kixixixixi/数学のはじまりとは-/数学の歴史とは",
+    "content_hash": "sha256:4cdc5436620ee0981d6b00b09c0d02009c5cd4820c14ecd44280d603dbb30f77",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "数学の歴史とは"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:29.943Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_kixixixixi/数学のはじまりとは-/プリンプトン-322": {
+    "page_id": "20251116_kixixixixi/数学のはじまりとは-/プリンプトン-322",
+    "content_hash": "sha256:fef429a8590f001dec5f7005372b12adea4c68a92d1d0bbf18dbe2dcf21937a7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "西アジア"
+      ],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [
+        "プリンプトン 322",
+        "プリンプトン",
+        "バビロニア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:30.071Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_kixixixixi/数学のはじまりとは-/ギリシャ数学": {
+    "page_id": "20251116_kixixixixi/数学のはじまりとは-/ギリシャ数学",
+    "content_hash": "sha256:ca7219b737aebaed6d95d1bca5319218f1b1d1affdeddda629863e20dc6af4e9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ギリシャ数学",
+        "ギリシャ",
+        "タレス",
+        "ピタゴラス"
+      ],
+      "tags": [
+        "万物は数である"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:30.157Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_kixixixixi/数学のはじまりとは-/古典ギリシャ": {
+    "page_id": "20251116_kixixixixi/数学のはじまりとは-/古典ギリシャ",
+    "content_hash": "sha256:d71bf35f6a35386239a27a92573a84928ac4d929e6c75cedaca81d15eec0ab86",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "5世紀"
+      ],
+      "entities": [
+        "古典ギリシャ",
+        "ギリシャ",
+        "エレア",
+        "ゼノン",
+        "サボー"
+      ],
+      "tags": [
+        "直感的な議論では不十分で論証が必要",
+        "数ではなく図形で議論すべき",
+        "公理・公準",
+        "ロゴス",
+        "ヒュポテシス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:30.195Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_kixixixixi/数学のはじまりとは-/ユークリッド『原論』": {
+    "page_id": "20251116_kixixixixi/数学のはじまりとは-/ユークリッド『原論』",
+    "content_hash": "sha256:f49aa35fa9c073ec5f8932dcccacc257a3f0db5b9e68b0da217311c64a047fd7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "ユークリッド『原論』",
+        "ユークリッド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:30.273Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_kixixixixi/数学のはじまりとは-/ユークリッド『原論』~2": {
+    "page_id": "20251116_kixixixixi/数学のはじまりとは-/ユークリッド『原論』~2",
+    "content_hash": "sha256:47dea1cb8e1ecb5b7557cf6e4f968ddf3695974bcb4f05927fbfca056d4d66f4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ユークリッド『原論』",
+        "ユークリッド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:30.281Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_kixixixixi/数学のはじまりとは-/ユークリッド『原論』~3": {
+    "page_id": "20251116_kixixixixi/数学のはじまりとは-/ユークリッド『原論』~3",
+    "content_hash": "sha256:9d9056d0c1b817dc3bc445e84b6d905e00f6cd530db6b2517f0720f04a383e9a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ユークリッド『原論』",
+        "ユークリッド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:30.366Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_kixixixixi/数学のはじまりとは-/アルキメデス": {
+    "page_id": "20251116_kixixixixi/数学のはじまりとは-/アルキメデス",
+    "content_hash": "sha256:a3e6846a41cefffbeac86caf72b0d0eb6278b2cacaaa8ba624ca772999937c06",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "アルキメデス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:30.476Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_kixixixixi/数学のはじまりとは-/ギリシャ・ヘレニズムの終焉": {
+    "page_id": "20251116_kixixixixi/数学のはじまりとは-/ギリシャ・ヘレニズムの終焉",
+    "content_hash": "sha256:c61ab726b6cbc70db9baf029612e2746c3b783b4371fb2fe5e6100d9aa9e1db9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ギリシャ・ヘレニズムの終焉",
+        "ギリシャ・ヘレニズム",
+        "ギリシャ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:30.502Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_kixixixixi/数学のはじまりとは-/インド数学": {
+    "page_id": "20251116_kixixixixi/数学のはじまりとは-/インド数学",
+    "content_hash": "sha256:1db993c4314dabfbacb6c83fe10ac57796e611ae3b383c0a38a170b4645d2bdc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [
+        "南アジア"
+      ],
+      "period": [
+        "7世紀",
+        "8世紀",
+        "9世紀",
+        "10世紀",
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀"
+      ],
+      "entities": [
+        "インド数学",
+        "インド",
+        "アールヤバタ",
+        "アールヤバティーヤ",
+        "ブラフマスプタシッダーンタ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:30.495Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_kixixixixi/数学のはじまりとは-/中国数学": {
+    "page_id": "20251116_kixixixixi/数学のはじまりとは-/中国数学",
+    "content_hash": "sha256:636c42944072e4db0e6a5f92be3f19aaccbb8633eea7513036788950a4d8ace1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "13世紀"
+      ],
+      "entities": [
+        "中国数学"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:30.619Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_kixixixixi/数学のはじまりとは-/アラビア数学(イスラム数学)": {
+    "page_id": "20251116_kixixixixi/数学のはじまりとは-/アラビア数学(イスラム数学)",
+    "content_hash": "sha256:f59a4932c43436881cb2eab9454024065f771e2ee736b79a909cf10e754f0bd4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "アラビア数学",
+        "アラビア",
+        "イスラム",
+        "フワリズミー"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:30.722Z",
+    "model": "jev-1.13.0"
+  }
+}

@@ -1,0 +1,594 @@
+{
+  "20211219_hanamizuno/バルト三国の歴史-5/バルト三国の歴史-5": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/バルト三国の歴史-5",
+    "content_hash": "sha256:954ee91a3582d60a335f5866b1c19628fb4dbb143309e6dabbe1d3aed56b52cb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "バルト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:00.805Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_hanamizuno/バルト三国の歴史-5/前回のあらすじ": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/前回のあらすじ",
+    "content_hash": "sha256:04e17622625a7dd9080aca000653c1fae171a7b95bc659ee1e30a77bc6cef408",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:00.888Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_hanamizuno/バルト三国の歴史-5/今回の内容": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/今回の内容",
+    "content_hash": "sha256:376af34f8a616654fddb3ac12c02b9740fe3034fd04811aba7f0e45c27840612",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ソヴィエト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:00.916Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_hanamizuno/バルト三国の歴史-5/独立戦争": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/独立戦争",
+    "content_hash": "sha256:7ab0bbbf71fecb90fbd84984cb197f618169f9ed8324f8d7e6f0c1467f59e97e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "独立戦争",
+        "エ・ラ・リ",
+        "ソヴィエト",
+        "バルト",
+        "ボリシェヴィキ",
+        "エストニア",
+        "リトアニア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:01.057Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_hanamizuno/バルト三国の歴史-5/民主主義体制": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/民主主義体制",
+    "content_hash": "sha256:a545a2ee824f8fd0c9f5dc97ff37f95933faf31eb88d6a45e555c07a755b34b9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "バルト",
+        "エ・ラ",
+        "ラトヴィア",
+        "リトアニア"
+      ],
+      "tags": [
+        "民主主義体制"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:01.028Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_hanamizuno/バルト三国の歴史-5/権威主義体制へ": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/権威主義体制へ",
+    "content_hash": "sha256:4d42b276ec3b6d61629810966fc5fe69c0331f866917d59db25c833a6e14f930",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "スメトナ",
+        "エ・ラ",
+        "ヴァップス",
+        "パッツ",
+        "ウルニマス",
+        "スメトナ・パッツ・ウルニマス",
+        "リトアニア"
+      ],
+      "tags": [
+        "権威主義体制へ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:01.107Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_hanamizuno/バルト三国の歴史-5/経済・社会的発展": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/経済・社会的発展",
+    "content_hash": "sha256:32f71cfcca0935f6adeccddc33bd1ed87a224ffd68d0fb8d40ade4923bab0a40",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "経済・社会的発展"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:01.139Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_hanamizuno/バルト三国の歴史-5/文化的発展": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/文化的発展",
+    "content_hash": "sha256:a6fe9ba1e546b38c1b940bacf790b7a8d0a7674d5afa154cf6c3dccaa16c517f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ラトヴィア",
+        "エストニア",
+        "エ・ラ",
+        "バルト・ドイツ"
+      ],
+      "tags": [
+        "文化的発展"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:01.250Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_hanamizuno/バルト三国の歴史-5/安全保障-1": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/安全保障-1",
+    "content_hash": "sha256:2d63eb917ab09ec327d95bc2adcc691e9076840a2a3b486cbf512dff4614e3bb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "外交"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ヘルシンキ",
+        "ワルシャワ",
+        "リトアニア",
+        "ポーランド",
+        "ヴィルニュス",
+        "フィンランド",
+        "エ・ラ",
+        "エ・ラ・リ",
+        "ドイツ",
+        "バルト",
+        "イギリス"
+      ],
+      "tags": [
+        "安全保障 1"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:01.304Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_hanamizuno/バルト三国の歴史-5/安全保障-2": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/安全保障-2",
+    "content_hash": "sha256:cf0d17b61b434e28cd9cd77640aed6612a3a6afee38db152467f18f520436da5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "外交"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "リトアニア",
+        "カウナス",
+        "ドイツ",
+        "クライペダ"
+      ],
+      "tags": [
+        "安全保障 2"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:01.362Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_hanamizuno/バルト三国の歴史-5/第6章-前門の虎、後門の狼": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/第6章-前門の虎、後門の狼",
+    "content_hash": "sha256:9dd2a820ccc05eb4f7a413f2fe629430ed7fdb23752fee5318719698a7820c69",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ナチス・ドイツ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:01.332Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_hanamizuno/バルト三国の歴史-5/ソ連による併合-1": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/ソ連による併合-1",
+    "content_hash": "sha256:6c646429e822660bf17f805df52c47a1cf0c0bf02c6c6a78b410ec0d46c3fc58",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治",
+        "外交"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ",
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ドイツ",
+        "フィンランド・エ・ラ",
+        "ポーランド・ルーマニア",
+        "ベッサラビア",
+        "ポーランド",
+        "リトアニア"
+      ],
+      "tags": [
+        "ソ連による併合 1"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:01.486Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_hanamizuno/バルト三国の歴史-5/ソ連による併合-2": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/ソ連による併合-2",
+    "content_hash": "sha256:c5cdd7a709b77a79d835f0fea53534ae51defea5a28ed31990ddfe8a1cf7734f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ",
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "エ・ラ・リ",
+        "ドイツ",
+        "エ・ラ",
+        "パッツ",
+        "ウルニマス",
+        "スメトナ"
+      ],
+      "tags": [
+        "ソヴィエト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:01.524Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_hanamizuno/バルト三国の歴史-5/ソ連による併合-3": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/ソ連による併合-3",
+    "content_hash": "sha256:04028237516f0011370dd7506d03af1cda419c7a73b4541d8a5e6d4122f1ea23",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ソ連による併合 3",
+        "リトアニア・ラトヴィア・エストニア",
+        "バルト"
+      ],
+      "tags": [
+        "人民の敵",
+        "テロル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:01.531Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_hanamizuno/バルト三国の歴史-5/ナチス帝国管区「オストラント」-1": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/ナチス帝国管区「オストラント」-1",
+    "content_hash": "sha256:c3712f31fb1ad6d87579b8b4a25049b14c299739f8e5e90164055ada031da627",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ナチス帝国管区「オストラント」 1",
+        "オストラント",
+        "ナチス",
+        "ドイツ",
+        "リトアニア",
+        "ラトヴィア",
+        "エストニア",
+        "バルト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:01.589Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_hanamizuno/バルト三国の歴史-5/ナチス帝国管区「オストラント」-2": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/ナチス帝国管区「オストラント」-2",
+    "content_hash": "sha256:1db038e71547462ddd0b734129474133b7673faaf7b7e4e85246e69b11ee456b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ナチス帝国管区「オストラント」 2",
+        "オストラント",
+        "ナチス",
+        "ドイツ",
+        "ユダヤ",
+        "エストニア",
+        "ラトヴィア",
+        "リトアニア・ユダヤ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:01.731Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_hanamizuno/バルト三国の歴史-5/ソ連による再占領": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/ソ連による再占領",
+    "content_hash": "sha256:afffefc456b0102dcfb3352110add4d5723a2b74f5421930d0de65c4b9788b78",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ",
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ソ連による再占領",
+        "ドイツ",
+        "エストニア",
+        "リーガ",
+        "バルト",
+        "ラトヴィア",
+        "ヴィルニュス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:01.741Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_hanamizuno/バルト三国の歴史-5/プリボイ(波)作戦": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/プリボイ(波)作戦",
+    "content_hash": "sha256:4b38d19bcd81359cc5d35028d50a272765e432a8547858749d71cc8447d05c2a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ",
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "プリボイ作戦",
+        "プリボイ",
+        "バルト",
+        "エストニア",
+        "ラトヴィア",
+        "リトアニア"
+      ],
+      "tags": [
+        "クラーク"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:01.822Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_hanamizuno/バルト三国の歴史-5/第7章-ソヴィエト体制の下で": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/第7章-ソヴィエト体制の下で",
+    "content_hash": "sha256:897323b67c459f513fa79724e8f0df98321ff1cdfbfbc7473ffce900209901c3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ゴルバチョフ"
+      ],
+      "tags": [
+        "第7章 ソヴィエト体制の下で",
+        "ソヴィエト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:01.827Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_hanamizuno/バルト三国の歴史-5/第8章-西への回帰": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/第8章-西への回帰",
+    "content_hash": "sha256:cd89247d86f7118bc4a74df7f46369f9b6357f93e7a92fd5f69cb6339209bcfd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:01.931Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_hanamizuno/バルト三国の歴史-5/おしまい": {
+    "page_id": "20211219_hanamizuno/バルト三国の歴史-5/おしまい",
+    "content_hash": "sha256:a68199a9cf172e68f119e5a7160acb78b4b40153968cb59b4d66d11616a08116",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:02.004Z",
+    "model": "jev-1.13.0"
+  }
+}

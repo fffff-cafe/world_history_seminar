@@ -1,0 +1,604 @@
+{
+  "20220417_kixixixixi/インドネシアの歴史-2/インドネシアの歴史-2": {
+    "page_id": "20220417_kixixixixi/インドネシアの歴史-2/インドネシアの歴史-2",
+    "content_hash": "sha256:5b21003cfe1de420911dee4c64c375bc42bbad051b71db085c65fb362ff5c599",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "インドネシアの歴史 2",
+        "インドネシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:12.515Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/目次/目次": {
+    "page_id": "20220417_kixixixixi/目次/目次",
+    "content_hash": "sha256:79ae34c800ca19ef34e0b8d706ed911d80a8983c4ef94dabbc77dfba94301ecd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "インドネシア",
+        "オランダ",
+        "スカルノ",
+        "スハルト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:12.637Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/おさらい/おさらい": {
+    "page_id": "20220417_kixixixixi/おさらい/おさらい",
+    "content_hash": "sha256:7fdbca5611a04954426c58ee54008acb27feccc8e14457d4931cd7ff4a223efd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "13世紀",
+        "14世紀",
+        "15世紀",
+        "16世紀"
+      ],
+      "entities": [
+        "マレー",
+        "スマトラ",
+        "ジャワ"
+      ],
+      "tags": [
+        "ムスリム",
+        "イスラーム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:12.680Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/6.-オランダ領東インド/6.-オランダ領東インド": {
+    "page_id": "20220417_kixixixixi/6.-オランダ領東インド/6.-オランダ領東インド",
+    "content_hash": "sha256:3b5558ad593430f25d68b6e483ba566b09081b84cb34423dc569596afe923670",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [
+        "6. オランダ領東インド",
+        "オランダ",
+        "インド",
+        "ポルトガル",
+        "マラッカ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:12.703Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/6.-オランダ領東インド-2/6.-オランダ領東インド-2": {
+    "page_id": "20220417_kixixixixi/6.-オランダ領東インド-2/6.-オランダ領東インド-2",
+    "content_hash": "sha256:db6fe6fc38896763703edff69bce09a8b12058c2ce7338517620c62fa7914dd0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "16世紀",
+        "17世紀"
+      ],
+      "entities": [
+        "6. オランダ領東インド 2",
+        "オランダ東インド会社",
+        "オランダ",
+        "インド",
+        "コルネリス・デ・ハウトマン",
+        "バンテン",
+        "ジャカルタ",
+        "バンダ",
+        "アンボイナ",
+        "モルッカ",
+        "マラッカ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:12.727Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/6.-オランダ領東インド-3/6.-オランダ領東インド-3": {
+    "page_id": "20220417_kixixixixi/6.-オランダ領東インド-3/6.-オランダ領東インド-3",
+    "content_hash": "sha256:418bb3dc61595e7277f15755ec765c9f84769aeba999ed3e05e49c4fa08f09ef",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "オランダ",
+        "インド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:12.839Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/6.-オランダ領東インド-4/6.-オランダ領東インド-4": {
+    "page_id": "20220417_kixixixixi/6.-オランダ領東インド-4/6.-オランダ領東インド-4",
+    "content_hash": "sha256:665b7f6df9cf9b5173022362840c1f3bbdc33f646475fabc0c197dc48f5379d6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [
+        "6. オランダ領東インド 4",
+        "オランダ",
+        "インド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:12.898Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/6.-オランダ領東インド-5/6.-オランダ領東インド-5": {
+    "page_id": "20220417_kixixixixi/6.-オランダ領東インド-5/6.-オランダ領東インド-5",
+    "content_hash": "sha256:9330123cac47c5a51c68067aedcac24b9413afb835ba946c0bac2a42775a57c7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "オランダ",
+        "インド",
+        "アンボイナ",
+        "イギリス",
+        "モルッカ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:12.905Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/6.-オランダ領東インド-6/6.-オランダ領東インド-6": {
+    "page_id": "20220417_kixixixixi/6.-オランダ領東インド-6/6.-オランダ領東インド-6",
+    "content_hash": "sha256:36373d7aed22fb6777a337bdfc14f1fee62389e488f6e536cbe95328f3f01c4a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "17世紀",
+        "18世紀",
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "6. オランダ領東インド 6",
+        "オランダ",
+        "インド",
+        "ボンガヤ",
+        "ジャワ",
+        "マタラム",
+        "バンテン",
+        "アチェ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:12.982Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/6.-オランダ領東インド-7/6.-オランダ領東インド-7": {
+    "page_id": "20220417_kixixixixi/6.-オランダ領東インド-7/6.-オランダ領東インド-7",
+    "content_hash": "sha256:07ec783c3a42e017e8c6b1c0cec10a71b0650ebf9660f74b76cc5636a8b7755f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "オランダ",
+        "インド",
+        "イギリス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:13.071Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/6.-オランダ領東インド-8/6.-オランダ領東インド-8": {
+    "page_id": "20220417_kixixixixi/6.-オランダ領東インド-8/6.-オランダ領東インド-8",
+    "content_hash": "sha256:e460ddd7f8dce26dd694f97a8c5051b62551e5d282f29b9e84ca748c8bc9436c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "外交",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "オランダ",
+        "インド",
+        "イギリス",
+        "ノースフォアランド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:13.121Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/6.-オランダ領東インド-9/6.-オランダ領東インド-9": {
+    "page_id": "20220417_kixixixixi/6.-オランダ領東インド-9/6.-オランダ領東インド-9",
+    "content_hash": "sha256:6d3328415daa2c3e8400635b428342010db1cf2b1e43cbf6eee8b4cdbec6de4f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "外交",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "オランダ",
+        "インド",
+        "イギリス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:13.137Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/6.-オランダ領東インド-10/6.-オランダ領東インド-10": {
+    "page_id": "20220417_kixixixixi/6.-オランダ領東インド-10/6.-オランダ領東インド-10",
+    "content_hash": "sha256:77df938b12c7a5a115a485a256ecbb4232c69b277ecbbcb072010fe1fc5ff517",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治",
+        "外交"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [],
+      "entities": [
+        "オランダ",
+        "インド",
+        "イギリス",
+        "マラッカ",
+        "マレー"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:13.210Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/6.-オランダ領東インド-11/6.-オランダ領東インド-11": {
+    "page_id": "20220417_kixixixixi/6.-オランダ領東インド-11/6.-オランダ領東インド-11",
+    "content_hash": "sha256:3537addc6b6dc1518a07a4dae6d82d0263d8fde8ab44e2c8f5d16f8fa46b5d30",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "オランダ",
+        "インド",
+        "インドネシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:13.271Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/6.-オランダ領東インド-12/6.-オランダ領東インド-12": {
+    "page_id": "20220417_kixixixixi/6.-オランダ領東インド-12/6.-オランダ領東インド-12",
+    "content_hash": "sha256:0aefdbdc0f59d077b14ff2151a298dfab335f66b49b8ba963f39ca41fe39e2b6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "オランダ",
+        "インド",
+        "インドネシア",
+        "サレカット・イスラーム",
+        "スカルノ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:13.365Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/6.-オランダ領東インド-13/6.-オランダ領東インド-13": {
+    "page_id": "20220417_kixixixixi/6.-オランダ領東インド-13/6.-オランダ領東インド-13",
+    "content_hash": "sha256:9adc2a7cc5f85114b57dd4c1334616e544b46a075d0a94d352add1c57a974764",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "オランダ",
+        "インド",
+        "インドネシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:13.370Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/7.-日本の占領、独立-1/7.-日本の占領、独立-1": {
+    "page_id": "20220417_kixixixixi/7.-日本の占領、独立-1/7.-日本の占領、独立-1",
+    "content_hash": "sha256:05dea4c3b1937f49c2b81de3e013c4b2601f5591a69e24ec4773f7e6e56c9dfa",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "7. 日本の占領、独立 1",
+        "インド",
+        "ジャワ",
+        "スマトラ",
+        "マレー・スマトラ",
+        "スラウェシ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:13.418Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/7.-日本の占領、独立-2/7.-日本の占領、独立-2": {
+    "page_id": "20220417_kixixixixi/7.-日本の占領、独立-2/7.-日本の占領、独立-2",
+    "content_hash": "sha256:7fbcc7fffbccdd71cde9f06de9e906be2ee445f4d9a8c67a457a7bf742b8d6bc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ジャワ奉公会",
+        "インドネシア",
+        "オランダ",
+        "スカルノ",
+        "ハッタ"
+      ],
+      "tags": [
+        "大東亜共栄圏",
+        "ロームシャ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:13.485Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/7.-日本の占領、独立-3/7.-日本の占領、独立-3": {
+    "page_id": "20220417_kixixixixi/7.-日本の占領、独立-3/7.-日本の占領、独立-3",
+    "content_hash": "sha256:88d523bcc1c7149acf2e9fc257db6b23f797b828c9ecba5cc8269faed08c0358",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "東インド",
+        "インドネシア"
+      ],
+      "tags": [
+        "将来その独立を認めんとする"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:13.565Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/7.-日本の占領、独立-4/7.-日本の占領、独立-4": {
+    "page_id": "20220417_kixixixixi/7.-日本の占領、独立-4/7.-日本の占領、独立-4",
+    "content_hash": "sha256:df520cf3db9be40aa08356758a7a0d743cf2c407bc8f84dd22a23e45fa070b54",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "インドネシア共和国独立宣言",
+        "スカルノ",
+        "ハッタ",
+        "インドネシア"
+      ],
+      "tags": [
+        "多様性の中の統一"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:13.605Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/7.-日本の占領、独立-5/7.-日本の占領、独立-5": {
+    "page_id": "20220417_kixixixixi/7.-日本の占領、独立-5/7.-日本の占領、独立-5",
+    "content_hash": "sha256:78d0e0e9a29c7a8c048d787ab76a08855450b6271b7e2f969450dcbc17c98382",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "オランダ",
+        "ジャカルタ",
+        "インドネシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:13.643Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_kixixixixi/7.-日本の占領、独立-5/続く": {
+    "page_id": "20220417_kixixixixi/7.-日本の占領、独立-5/続く",
+    "content_hash": "sha256:2c763d541c0b2cccf5b8d2a3f1c57c87f703e5aad0f0185794aeb7375407f02f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:13.696Z",
+    "model": "jev-1.13.0"
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "20250928_kixixixixi/珈琲の歴史/珈琲の歴史": {
+    "page_id": "20250928_kixixixixi/珈琲の歴史/珈琲の歴史",
+    "content_hash": "sha256:6b6afe141fa0c6247fd2a07590b00788aa9dff9f76e277f2717c2c1d70318b3f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "珈琲の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:25.651Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_kixixixixi/珈琲の歴史/起源": {
+    "page_id": "20250928_kixixixixi/珈琲の歴史/起源",
+    "content_hash": "sha256:98067d6529206e7c4eae17d1670b215dc841bce73b4fa48ca486f3881c677b84",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "11世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "起源",
+        "コーヒー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:25.665Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_kixixixixi/珈琲の歴史/誕生神話": {
+    "page_id": "20250928_kixixixixi/珈琲の歴史/誕生神話",
+    "content_hash": "sha256:7ba9558f6e9662ff57a1873ad5547461c97c3a312a811c8125dea9a4c71d73f9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "カルディ"
+      ],
+      "tags": [
+        "誕生神話",
+        "コーヒー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:25.834Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_kixixixixi/珈琲の歴史/コーヒーノキ": {
+    "page_id": "20250928_kixixixixi/珈琲の歴史/コーヒーノキ",
+    "content_hash": "sha256:bef65d9728eef32baacb0389801c0ea35938b10325b11ad0846cd7c5a17a86bb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "エチオピア",
+        "ケニア",
+        "タンザニア",
+        "マダガスカル"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:25.796Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_kixixixixi/珈琲の歴史/コーヒーノキの食用": {
+    "page_id": "20250928_kixixixixi/珈琲の歴史/コーヒーノキの食用",
+    "content_hash": "sha256:ad1143ac53bdce946207c8f91e4309e58d6ecd20959bf6ace9befb3449809859",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "オロモ"
+      ],
+      "tags": [
+        "コーヒーノキの食用"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:25.850Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_kixixixixi/珈琲の歴史/イスラームのワイン": {
+    "page_id": "20250928_kixixixixi/珈琲の歴史/イスラームのワイン",
+    "content_hash": "sha256:71ac9b06cae05621159bc57e2c982a6262bd78515a9c79363e9575ee3d2634e8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "西アジア"
+      ],
+      "period": [
+        "15世紀",
+        "16世紀"
+      ],
+      "entities": [
+        "アラビア",
+        "メッカ"
+      ],
+      "tags": [
+        "イスラームのワイン",
+        "ズィクル",
+        "カフワ",
+        "バンカム",
+        "スーフィー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:25.891Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_kixixixixi/珈琲の歴史/トルココーヒー": {
+    "page_id": "20250928_kixixixixi/珈琲の歴史/トルココーヒー",
+    "content_hash": "sha256:e6c10f27d28a0bb503afc12368ebd396f44dba51bcee21cf38472b7fbdf0b647",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [
+        "オスマン",
+        "イスタンブール"
+      ],
+      "tags": [
+        "トルココーヒー",
+        "コーヒー",
+        "コーヒーハウス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:26.011Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_kixixixixi/珈琲の歴史/コーヒー農園のはじまり": {
+    "page_id": "20250928_kixixixixi/珈琲の歴史/コーヒー農園のはじまり",
+    "content_hash": "sha256:1dde22c1820ff36a6f54e08ea22654766f41d02596034f164a9ba5f028328b5f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [
+        "モカ",
+        "エチオピア",
+        "イエメン"
+      ],
+      "tags": [
+        "コーヒー農園のはじまり",
+        "コーヒー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:26.040Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_kixixixixi/珈琲の歴史/コーヒー一杯の大学": {
+    "page_id": "20250928_kixixixixi/珈琲の歴史/コーヒー一杯の大学",
+    "content_hash": "sha256:bc182bc387cdb190e9566040b2facbbabcf20843fa3229d08c022c808e1c3239",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [
+        "社会"
+      ],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "ロンドン・ウィーン・パリ"
+      ],
+      "tags": [
+        "コーヒー一杯の大学",
+        "ペニー・ユニバーシティ",
+        "コーヒー",
+        "コーヒーハウス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:26.054Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_kixixixixi/珈琲の歴史/プランテーション": {
+    "page_id": "20250928_kixixixixi/珈琲の歴史/プランテーション",
+    "content_hash": "sha256:2d28225b7070f395dd1b90e93a80a1fe6fc114675626be63212904478b173032",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀",
+        "18世紀"
+      ],
+      "entities": [
+        "オスマン",
+        "オランダ・フランス・イギリス",
+        "オランダ",
+        "インドネシア",
+        "ジャワ",
+        "フランス",
+        "カリブ",
+        "ハイチ",
+        "マルティニーク",
+        "ポルトガル",
+        "ブラジル"
+      ],
+      "tags": [
+        "プランテーション",
+        "コーヒー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:26.143Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_kixixixixi/珈琲の歴史/アメリカのコーヒー": {
+    "page_id": "20250928_kixixixixi/珈琲の歴史/アメリカのコーヒー",
+    "content_hash": "sha256:a77a48d8fda867e276c2d767e09095258035b76f5e53bce3d930283a72f3c8ff",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世",
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "アメリカのコーヒー",
+        "アメリカ"
+      ],
+      "tags": [
+        "愛国的な飲み物",
+        "コーヒー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:26.237Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_kixixixixi/珈琲の歴史/ブラジルのコーヒー": {
+    "page_id": "20250928_kixixixixi/珈琲の歴史/ブラジルのコーヒー",
+    "content_hash": "sha256:1ec8b70259cce6f63549b1287c9d7c3659fd54c38f34c62a4b6e4509ebc435dd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [
+        "18世紀",
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "ブラジルのコーヒー",
+        "ブラジル"
+      ],
+      "tags": [
+        "コーヒー大国",
+        "コーヒー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:26.312Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_kixixixixi/珈琲の歴史/ロブスタ種": {
+    "page_id": "20250928_kixixixixi/珈琲の歴史/ロブスタ種",
+    "content_hash": "sha256:28d274ec7d3667a3c8c5e80e5668b053a8990c64d51106eac584860eb8a60c59",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ロブスタ種",
+        "ロブスタ"
+      ],
+      "tags": [
+        "コーヒー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:26.319Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_kixixixixi/珈琲の歴史/近代の発展": {
+    "page_id": "20250928_kixixixixi/珈琲の歴史/近代の発展",
+    "content_hash": "sha256:1354d76f09f7d95f98123da4e3dd84b72cee6eca3350fe2a8d8ddfbedf5399db",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "近代の発展",
+        "インスタントコーヒー",
+        "スペシャルティコーヒー",
+        "コーヒー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:26.361Z",
+    "model": "jev-1.13.0"
+  }
+}

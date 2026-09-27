@@ -1,0 +1,611 @@
+{
+  "20260530_kixixixixi/樹脂の歴史/樹脂の歴史": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/樹脂の歴史",
+    "content_hash": "sha256:34f20a8e2e5d3da8b72a529a7e57909239d89b1e6943e02e35933efc068b721a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "樹脂の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:35.998Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/樹脂とは": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/樹脂とは",
+    "content_hash": "sha256:6b84377217ae4778daf30350889039eb413bfc270467ccc7b0589c9ae0d9771b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "樹脂とは"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:36.021Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/樹脂とプラスチック": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/樹脂とプラスチック",
+    "content_hash": "sha256:dd4dd257789e3bec9d8ef9bb926ab54ee1637de20cf8e977149ef03b19e59d46",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "樹脂とプラスチック",
+        "プラスチック"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:36.083Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/樹脂は最古の化学材料": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/樹脂は最古の化学材料",
+    "content_hash": "sha256:f1631e52a7c780e165677028556f0715b575b383268b3ee904fceb7ba0aa4917",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "先史"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [],
+      "tags": [
+        "樹脂は最古の化学材料"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:36.066Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/天然樹脂と合成樹脂": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/天然樹脂と合成樹脂",
+    "content_hash": "sha256:b1f426968add7d67c68045950856d2ba3a5bd8658e703a87bd68767e0ca56749",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "天然樹脂と合成樹脂"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:36.250Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/天然樹脂": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/天然樹脂",
+    "content_hash": "sha256:8b974b8123cc4df394ee4c2fc608c6d6e00569a7178ff8a36236b181e03d5aab",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "天然樹脂"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:36.244Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/漆": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/漆",
+    "content_hash": "sha256:d39d424bea3ed757e35b569114338e15010635597fa5371ec53b678c45d98b70",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:36.278Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/<img-src=\"-images-kixixixixi-20260530-1.": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/<img-src=\"-images-kixixixixi-20260530-1.",
+    "content_hash": "sha256:f14f3fb12193bdd8b970a558b02412124a2e48ca4284040ab033b0a20b5b0f7b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:36.292Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/乳香": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/乳香",
+    "content_hash": "sha256:e7777f92cd86a557b5212bede8cfa176073f3fd1bd3a63bda5fec73b25de1455",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:36.489Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/<img-src=\"-images-kixixixixi-20260530-2.": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/<img-src=\"-images-kixixixixi-20260530-2.",
+    "content_hash": "sha256:467f9feb686ab293ea95f932336db1658fab1442aa36a4c5507a2898ddecfee1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:36.451Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/ミルラ": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/ミルラ",
+    "content_hash": "sha256:ed95867c5fe97d99377e471712b2b691a42572d0bff6c674c566853fb501d4f8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ミルラ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:36.494Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/<img-src=\"-images-kixixixixi-20260530-3.": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/<img-src=\"-images-kixixixixi-20260530-3.",
+    "content_hash": "sha256:773df08f2616dcbc44f50a8dd6be46869857ed7d09803af82c585a2910b0c9bc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:36.532Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/松脂": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/松脂",
+    "content_hash": "sha256:c84ce3568222cc769506d9a2693a592838f95a2a94932a3d8939ff5334c10eb7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "松脂"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:36.667Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/<img-src=\"-images-kixixixixi-20260530-4.": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/<img-src=\"-images-kixixixixi-20260530-4.",
+    "content_hash": "sha256:743f6477ab36b9f658753482112e38db1adac82a6673cb986862fd3ebe409a5c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:36.725Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/琥珀": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/琥珀",
+    "content_hash": "sha256:d5124f626a91dee59b933c2e1796eafa94cab5525dc5b4d87a87bfadb22a1484",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "琥珀"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:36.683Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/<img-src=\"-images-kixixixixi-20260530-5.": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/<img-src=\"-images-kixixixixi-20260530-5.",
+    "content_hash": "sha256:e854bd55de1e138593fbcc0ef6556ceba8f7660caa670eccdf42b56277b7ca95",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:36.763Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/シェラック": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/シェラック",
+    "content_hash": "sha256:5d3394d60e5e441c0531cfe21c2589b70bf09c5e9d69e30338c77ec4b04e2166",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "シェラック"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:36.879Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/<img-src=\"-images-kixixixixi-20260530-6.": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/<img-src=\"-images-kixixixixi-20260530-6.",
+    "content_hash": "sha256:aac57102daf843876084831287d718bb32553f37142212da3e1e85ebb40ab561",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:36.884Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/ゴム": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/ゴム",
+    "content_hash": "sha256:19b7ea271799697ad4d2c499b9ed73d157a5f13e195f510ef11095028ce3c84d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "ゴム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:36.982Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/加硫の発見": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/加硫の発見",
+    "content_hash": "sha256:dad84ca6ded032d3487d6c675ed403227cee8bf8a00eedc7b2d2a81b6593f895",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "加硫の発見"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:36.975Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/<img-src=\"-images-kixixixixi-20260530-7.": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/<img-src=\"-images-kixixixixi-20260530-7.",
+    "content_hash": "sha256:5c6ec057f8b00930f3b7fc051ee6f18e0584e130198f0ba5d35a75fe8a871c77",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:37.082Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/半合成樹脂の発見": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/半合成樹脂の発見",
+    "content_hash": "sha256:0a934cae370e47eb99266a7c7348be40aba020227142821d4684ca1ed5a9b8f9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "セルロイド"
+      ],
+      "tags": [
+        "半合成樹脂の発見"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:37.120Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/<img-src=\"-images-kixixixixi-20260530-8.": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/<img-src=\"-images-kixixixixi-20260530-8.",
+    "content_hash": "sha256:7a9a9fb43b76af09f7e0fcec2cedf4d72d03ea4598de0850f51d7f1acfb72a54",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:37.168Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/合成樹脂": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/合成樹脂",
+    "content_hash": "sha256:3fcc198826fdd97e6e2441f8c4bd17592054a7a488387057dc4ca3437f085d9e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ベークライト"
+      ],
+      "tags": [
+        "合成樹脂"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:37.191Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/プラスチック": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/プラスチック",
+    "content_hash": "sha256:507f94c010f8850c5c29ae7a2d3ed98742d19cb79ef8430e20f60f0df8efc2be",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "プラスチック"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:37.282Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/ポリエチレン(PE)": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/ポリエチレン(PE)",
+    "content_hash": "sha256:6142ecc9e27c209b0d7a15174f87fb9e47fedb3938c92204b8e56caf17a10627",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:37.313Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/ポリプロピレン(PP)": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/ポリプロピレン(PP)",
+    "content_hash": "sha256:e3c31fd430c13d3fd74164be0072ac264c2475ce9433b088facf0bc438cf5365",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ナッタ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:37.386Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/ポリ塩化ビニル(PVC)": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/ポリ塩化ビニル(PVC)",
+    "content_hash": "sha256:eeba6f6e1ad26483d88df718cdde342a2a758466dfe67064b2da82d596cc72c4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:37.409Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/ポリスチレン(PS)": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/ポリスチレン(PS)",
+    "content_hash": "sha256:137c77f47413c8ba7bb1e2a72bc685c8003933ec31fc43823d29754c058d01e9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:37.501Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/ポリエチレンテレフタレート(PET)": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/ポリエチレンテレフタレート(PET)",
+    "content_hash": "sha256:11deeba1576bbafc4d0870027c627566cacdd36bb714788a192a4465093b5d06",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:37.515Z",
+    "model": "jev-1.13.0"
+  },
+  "20260530_kixixixixi/樹脂の歴史/ナイロン": {
+    "page_id": "20260530_kixixixixi/樹脂の歴史/ナイロン",
+    "content_hash": "sha256:09d3307179997e69f56ba6e51da8429a1e493d46649b9f543c68aa23fc944857",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ナイロン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:37.609Z",
+    "model": "jev-1.13.0"
+  }
+}

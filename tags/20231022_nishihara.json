@@ -1,0 +1,721 @@
+{
+  "20231022_nishihara/ゆるキャラの歴史/ゆるキャラの歴史": {
+    "page_id": "20231022_nishihara/ゆるキャラの歴史/ゆるキャラの歴史",
+    "content_hash": "sha256:b4400c3482ddd82097ac128b544eee7f067947a3a8fbd31e946f0012f67b62b7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ゆるキャラの歴史",
+        "キャラ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:42.362Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/ゆるキャラ/ゆるキャラ": {
+    "page_id": "20231022_nishihara/ゆるキャラ/ゆるキャラ",
+    "content_hash": "sha256:e75020f0c844f1a2af8a863d33f79b698df6a23acb66dae2fbd77c6068fe33e3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "キャラグランプリ"
+      ],
+      "tags": [
+        "ゆるキャラ",
+        "キャラ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:42.375Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/ゆるキャラ3か条/ゆるキャラ3か条": {
+    "page_id": "20231022_nishihara/ゆるキャラ3か条/ゆるキャラ3か条",
+    "content_hash": "sha256:2e0d470b060b082d0440b348ab17586d5828f6b484d75a657a82082fe721838c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ゆるキャラ3か条",
+        "原則として着ぐるみ化されていること",
+        "キャラ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:42.471Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/歴代覇者(2010年)携帯投票/歴代覇者(2010年)携帯投票": {
+    "page_id": "20231022_nishihara/歴代覇者(2010年)携帯投票/歴代覇者(2010年)携帯投票",
+    "content_hash": "sha256:4f098031223deea406d894afef89f1cc6aef751ea91ace86854af33424f18f0a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "歴代覇者携帯投票"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:42.511Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/歴代覇者(2010年)記名投票/歴代覇者(2010年)記名投票": {
+    "page_id": "20231022_nishihara/歴代覇者(2010年)記名投票/歴代覇者(2010年)記名投票",
+    "content_hash": "sha256:5f033c7980efecc62bd219901e022fb1a0f45204ad1422bc78323bc68b31244f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:42.573Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/歴代覇者(2011年)/歴代覇者(2011年)": {
+    "page_id": "20231022_nishihara/歴代覇者(2011年)/歴代覇者(2011年)",
+    "content_hash": "sha256:e42a9b64c83eeadb90d9537f4ff23beca21be84396e249532639db2f19d0557c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:42.571Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/歴代覇者(2012年)/歴代覇者(2012年)": {
+    "page_id": "20231022_nishihara/歴代覇者(2012年)/歴代覇者(2012年)",
+    "content_hash": "sha256:039d3694d96caf5ec216692faff821f8ccac749466ce1f852f61567c19509b55",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "バリィ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:42.668Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/歴代覇者(2013年ご当地)/歴代覇者(2013年ご当地)": {
+    "page_id": "20231022_nishihara/歴代覇者(2013年ご当地)/歴代覇者(2013年ご当地)",
+    "content_hash": "sha256:cca0aa2b6bc556cfbcb4dba571b602ba0729bf7f4aeacae437bd7874eefc3e12",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:42.723Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/歴代覇者(2013年企業その他)/歴代覇者(2013年企業その他)": {
+    "page_id": "20231022_nishihara/歴代覇者(2013年企業その他)/歴代覇者(2013年企業その他)",
+    "content_hash": "sha256:e7100ba567e7732b026558749253e91c4e2e2c87a13cdaa88eefad6cfbc46043",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:42.782Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/歴代覇者(2014年ご当地)/歴代覇者(2014年ご当地)": {
+    "page_id": "20231022_nishihara/歴代覇者(2014年ご当地)/歴代覇者(2014年ご当地)",
+    "content_hash": "sha256:ba076515913562e0ca011cb20d159a14378615c2375aa9b65fe364da6831e2f7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:42.786Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/歴代覇者(2014年企業その他)/歴代覇者(2014年企業その他)": {
+    "page_id": "20231022_nishihara/歴代覇者(2014年企業その他)/歴代覇者(2014年企業その他)",
+    "content_hash": "sha256:bf0b39071cd6145c0436fa907fcab15422a56aa864ae99097bdc646780d2d354",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "バーバー"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:42.885Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/歴代覇者(2015年ご当地)/歴代覇者(2015年ご当地)": {
+    "page_id": "20231022_nishihara/歴代覇者(2015年ご当地)/歴代覇者(2015年ご当地)",
+    "content_hash": "sha256:673c46c00af6c3f456ffd3e25525764dcc5ec149430501a55ab1bb882b7925a2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:42.930Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/歴代覇者(2015年企業その他)/歴代覇者(2015年企業その他)": {
+    "page_id": "20231022_nishihara/歴代覇者(2015年企業その他)/歴代覇者(2015年企業その他)",
+    "content_hash": "sha256:4ace5f7cbd0e5ec7ca448469637dae7c24c2c2de75ee19a29d3ac51d02e67c2e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:43.154Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/歴代覇者(2016年ご当地)/歴代覇者(2016年ご当地)": {
+    "page_id": "20231022_nishihara/歴代覇者(2016年ご当地)/歴代覇者(2016年ご当地)",
+    "content_hash": "sha256:68b5f53301cf68f48ee9b1e80c01c822527c35e008af87b777ed487ae04af681",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:42.993Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/歴代覇者(2016年企業その他)/歴代覇者(2016年企業その他)": {
+    "page_id": "20231022_nishihara/歴代覇者(2016年企業その他)/歴代覇者(2016年企業その他)",
+    "content_hash": "sha256:298665ad868d9882bd63bf4344674c6964f980fba89834e2b42da4933bea9fef",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:43.080Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/歴代覇者(2017年ご当地)/歴代覇者(2017年ご当地)": {
+    "page_id": "20231022_nishihara/歴代覇者(2017年ご当地)/歴代覇者(2017年ご当地)",
+    "content_hash": "sha256:7664dc6c483c57d682de483d0a526d4fbcde8c9a263579bb18823952fa474c92",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:43.158Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/歴代覇者(2017年企業その他)/歴代覇者(2017年企業その他)": {
+    "page_id": "20231022_nishihara/歴代覇者(2017年企業その他)/歴代覇者(2017年企業その他)",
+    "content_hash": "sha256:60ede7380221a5f7f5732fc9b6194dfcccad16d05ba29d30c5188731390d248e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:43.187Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/歴代覇者(2018年ご当地)/歴代覇者(2018年ご当地)": {
+    "page_id": "20231022_nishihara/歴代覇者(2018年ご当地)/歴代覇者(2018年ご当地)",
+    "content_hash": "sha256:beb7aa67bb4c8cd4e03bbc4959998da2f9f7586f0bf6ff2c73af2b3a6a424939",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "カパル"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:43.306Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/歴代覇者(2018年企業その他)/歴代覇者(2018年企業その他)": {
+    "page_id": "20231022_nishihara/歴代覇者(2018年企業その他)/歴代覇者(2018年企業その他)",
+    "content_hash": "sha256:d63a20864f392d0303b7b31ac8d4013863a2e9fc8947621b31cf346091060ee8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "ファミリー"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:43.359Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/歴代覇者(2019年ご当地)/歴代覇者(2019年ご当地)": {
+    "page_id": "20231022_nishihara/歴代覇者(2019年ご当地)/歴代覇者(2019年ご当地)",
+    "content_hash": "sha256:596ff8b5833d5b39c08c4705acdd3df346206d21dcb1fe7311135749bbbe4eb6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "アルクマ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:43.367Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/歴代覇者(2019年企業その他)/歴代覇者(2019年企業その他)": {
+    "page_id": "20231022_nishihara/歴代覇者(2019年企業その他)/歴代覇者(2019年企業その他)",
+    "content_hash": "sha256:ca673ece09606eff7254b43c4a34f21e2bff26ce9fafffd0c61d6b90ee91a412",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "ピーナッツ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:43.404Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/歴代覇者(2020年ご当地)/歴代覇者(2020年ご当地)": {
+    "page_id": "20231022_nishihara/歴代覇者(2020年ご当地)/歴代覇者(2020年ご当地)",
+    "content_hash": "sha256:24d2c1ff28ed69afe92c4c4719e92c8781aa295efbe5caa87e0979a1ce44eb65",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:43.541Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/歴代覇者(2020年企業その他)/歴代覇者(2020年企業その他)": {
+    "page_id": "20231022_nishihara/歴代覇者(2020年企業その他)/歴代覇者(2020年企業その他)",
+    "content_hash": "sha256:8cd50181f7398f70afe431ce476fa686e1d8d795c2d96095d46d449d9b41e4ad",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:43.572Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/ゆるきゃらブームの混乱/ゆるきゃらブームの混乱": {
+    "page_id": "20231022_nishihara/ゆるきゃらブームの混乱/ゆるきゃらブームの混乱",
+    "content_hash": "sha256:77e7b793dec9120e532f3020432b3e15bd7739de54372ab41a40da9d3f65c6db",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "ゆるきゃらブームの混乱",
+        "ブーム",
+        "キャラ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:43.578Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/組織票問題/組織票問題": {
+    "page_id": "20231022_nishihara/組織票問題/組織票問題",
+    "content_hash": "sha256:ffa94d394a55d4a837e25de760f88c4ea818fe28edc822e1d2c501cc5db34150",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "組織票問題"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:43.599Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/終了/終了": {
+    "page_id": "20231022_nishihara/終了/終了",
+    "content_hash": "sha256:9417d149b83232759d275cb14501ba1adb5cb553e86927a9d263fa1ab11a4c6a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:43.797Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/その他有名人(ふなっしー)/その他有名人(ふなっしー)": {
+    "page_id": "20231022_nishihara/その他有名人(ふなっしー)/その他有名人(ふなっしー)",
+    "content_hash": "sha256:c6a47b5626d8e949fb21065a0debc00598873c2aafe7ebe294f82413425373d4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:43.821Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/その他有名人(ドアラ)/その他有名人(ドアラ)": {
+    "page_id": "20231022_nishihara/その他有名人(ドアラ)/その他有名人(ドアラ)",
+    "content_hash": "sha256:44392fc3a0248be4e274829adb2bc600ca73a4ff0bdc18a446cff39b0b8c1f59",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ドアラ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:43.775Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/その他有名人(ソラカラちゃん)/その他有名人(ソラカラちゃん)": {
+    "page_id": "20231022_nishihara/その他有名人(ソラカラちゃん)/その他有名人(ソラカラちゃん)",
+    "content_hash": "sha256:a63bfb5c2423c51d8952c74f71f2e2ab9c7c2f2bc9d5d5209ba5f2fb0ca5a930",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [],
+      "entities": [
+        "ソラカラ",
+        "スカイツリー"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:43.801Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/くまモンの成功の例/くまモンの成功の例": {
+    "page_id": "20231022_nishihara/くまモンの成功の例/くまモンの成功の例",
+    "content_hash": "sha256:4e59db5ebefb7b37302c70a78465359d871c90c5d3237472c602929e6a9fed44",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "くまモン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:43.987Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/経済効果/経済効果": {
+    "page_id": "20231022_nishihara/経済効果/経済効果",
+    "content_hash": "sha256:20cf3ec5b90de44f949234aa94302b5c7d09560afd6b4c38bcdaebcc220e12b8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "経済効果"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:44.014Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/維持費/維持費": {
+    "page_id": "20231022_nishihara/維持費/維持費",
+    "content_hash": "sha256:f33928b770c6f7c87bd9fd1ccd7f76b401e8c161ebe6fd937ac41996539045f1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "維持費"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:44.002Z",
+    "model": "jev-1.13.0"
+  },
+  "20231022_nishihara/経済効果ランキング/経済効果ランキング": {
+    "page_id": "20231022_nishihara/経済効果ランキング/経済効果ランキング",
+    "content_hash": "sha256:cfbf20c6effa05fb71e4f5ad28d77af0b3f6eedceb1d86d20a651d4521d47d0c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "ランキング"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:44.027Z",
+    "model": "jev-1.13.0"
+  }
+}

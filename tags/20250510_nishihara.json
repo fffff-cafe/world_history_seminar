@@ -1,0 +1,284 @@
+{
+  "20250510_nishihara/中国の発展と、近年の不動産市場/中国の発展と、近年の不動産市場": {
+    "page_id": "20250510_nishihara/中国の発展と、近年の不動産市場/中国の発展と、近年の不動産市場",
+    "content_hash": "sha256:5d9bdfe244f22a25e55edbb670c2de5b9c0effbb7969ba9ea64c16db55e86c0a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:17.509Z",
+    "model": "jev-1.13.0"
+  },
+  "20250510_nishihara/参考/参考": {
+    "page_id": "20250510_nishihara/参考/参考",
+    "content_hash": "sha256:5e70b703b2949e505b6f976fc8284b962187f9a2e172a403febcc53f6f3b90b7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:17.654Z",
+    "model": "jev-1.13.0"
+  },
+  "20250510_nishihara/中国の不動産状況/中国の不動産状況": {
+    "page_id": "20250510_nishihara/中国の不動産状況/中国の不動産状況",
+    "content_hash": "sha256:01fd90ca03f0d0dad655e6a7101aa846e1f7aa7602ed8668a13ae4e415886bbd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "中国の不動産状況",
+        "バブル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:17.666Z",
+    "model": "jev-1.13.0"
+  },
+  "20250510_nishihara/中国の近代史/中国の近代史": {
+    "page_id": "20250510_nishihara/中国の近代史/中国の近代史",
+    "content_hash": "sha256:cab02ea47583a2610f052797b225b6b538468ae079e5deeac06fb2cd7e6e5045",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "イギリス",
+        "アメリカ",
+        "フランス"
+      ],
+      "tags": [
+        "中国の近代史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:17.678Z",
+    "model": "jev-1.13.0"
+  },
+  "20250510_nishihara/外灘/外灘": {
+    "page_id": "20250510_nishihara/外灘/外灘",
+    "content_hash": "sha256:46e6ff3bad6d9392455bd537ec51254c046597020bfc81130840516f8e14e710",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "外灘"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:17.721Z",
+    "model": "jev-1.13.0"
+  },
+  "20250510_nishihara/中国の発展/中国の発展": {
+    "page_id": "20250510_nishihara/中国の発展/中国の発展",
+    "content_hash": "sha256:67debe6b6e26880836d849de16a7fa2cd82fb440ece925559ff691ff6bdd3c97",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "中国の発展"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:17.889Z",
+    "model": "jev-1.13.0"
+  },
+  "20250510_nishihara/不動産バブル崩壊/不動産バブル崩壊": {
+    "page_id": "20250510_nishihara/不動産バブル崩壊/不動産バブル崩壊",
+    "content_hash": "sha256:f484b255d668b4231df3d3a4b9da98807717c9172d2fa063632431296e6d0120",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "不動産バブル崩壊",
+        "バブル",
+        "デフォルト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:17.883Z",
+    "model": "jev-1.13.0"
+  },
+  "20250510_nishihara/不動産バブル崩壊の理由/不動産バブル崩壊の理由": {
+    "page_id": "20250510_nishihara/不動産バブル崩壊の理由/不動産バブル崩壊の理由",
+    "content_hash": "sha256:b0054166c81233a3dcefca2be611772c9b20312870aabfdab1b414c940fc249a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "不動産バブル崩壊の理由",
+        "バブル",
+        "スリーレッドライン",
+        "ルール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:17.935Z",
+    "model": "jev-1.13.0"
+  },
+  "20250510_nishihara/不動産市況/不動産市況": {
+    "page_id": "20250510_nishihara/不動産市況/不動産市況",
+    "content_hash": "sha256:ded759a08203759bd40e377d7473d7ca0bac5870fc845183e1d3b75e3bdcc892",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "オルドス"
+      ],
+      "tags": [
+        "不動産市況"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:17.931Z",
+    "model": "jev-1.13.0"
+  },
+  "20250510_nishihara/地方政府が抱える負債/地方政府が抱える負債": {
+    "page_id": "20250510_nishihara/地方政府が抱える負債/地方政府が抱える負債",
+    "content_hash": "sha256:11aff80384bd50b6918342e0391cdf9d9ea60ada03fff54db184000f002e61d0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "地方政府が抱える負債"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:18.099Z",
+    "model": "jev-1.13.0"
+  },
+  "20250510_nishihara/不動産投資/不動産投資": {
+    "page_id": "20250510_nishihara/不動産投資/不動産投資",
+    "content_hash": "sha256:261c3443442fdaf1044bf55d50d17e012d8d0b80b91412a7b3b975f0331b631a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "不動産投資"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:18.091Z",
+    "model": "jev-1.13.0"
+  },
+  "20250510_nishihara/一帯一路/一帯一路": {
+    "page_id": "20250510_nishihara/一帯一路/一帯一路",
+    "content_hash": "sha256:b282321bda35dda71066fa827c98527112b89f97d1a1c28f146fc856cf6daf77",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "一帯一路"
+      ],
+      "tags": [
+        "インフラ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:18.157Z",
+    "model": "jev-1.13.0"
+  }
+}

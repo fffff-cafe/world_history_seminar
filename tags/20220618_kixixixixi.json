@@ -1,0 +1,389 @@
+{
+  "20220618_kixixixixi/ビールの歴史/ビールの歴史": {
+    "page_id": "20220618_kixixixixi/ビールの歴史/ビールの歴史",
+    "content_hash": "sha256:29326d0c198c0897c6a927fcd29362bd567a4c57b3bf412cae700479cd969c43",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ビールの歴史",
+        "ビール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:18.126Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_kixixixixi/とりあえず、みんな大好きビール!飲みましょう/とりあえず、みんな大好きビール!飲みましょう": {
+    "page_id": "20220618_kixixixixi/とりあえず、みんな大好きビール!飲みましょう/とりあえず、みんな大好きビール!飲みましょう",
+    "content_hash": "sha256:953f119ae33bda3d89897e2601d75ba3adbfc32fe323245d62b2b02ced07534c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ビール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:18.160Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_kixixixixi/目次/目次": {
+    "page_id": "20220618_kixixixixi/目次/目次",
+    "content_hash": "sha256:04f21b00443724dac9cf2d0bb5dd87cd9fcfb30bcdc80d6ca194af247136cbdf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ビール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:18.261Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_kixixixixi/目次/1.-ビールとは": {
+    "page_id": "20220618_kixixixixi/目次/1.-ビールとは",
+    "content_hash": "sha256:6fd12b71a636703045f0c7ae1caa756ad050b73c1606243c518b2e2a9451d60c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "1. ビールとは",
+        "ビール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:18.291Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_kixixixixi/目次/定義-1": {
+    "page_id": "20220618_kixixixixi/目次/定義-1",
+    "content_hash": "sha256:4739b54ae9430872e0ad1404439e3b8ffb5447e1a3bea3e76d91190b995993f6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "定義 1"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:18.342Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_kixixixixi/目次/定義-2": {
+    "page_id": "20220618_kixixixixi/目次/定義-2",
+    "content_hash": "sha256:7aae7f29475683ecb9bdb6ce1cb73a6333994dd98c723e3218489349ce798f47",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ビール",
+        "発泡酒",
+        "その他醸造酒"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:18.361Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_kixixixixi/目次/原料について": {
+    "page_id": "20220618_kixixixixi/目次/原料について",
+    "content_hash": "sha256:84ba30a11a606f398f8abbf45e1ca3a15bb8a9002b7e1b4e16a9f6bc146cc766",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "原料について"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:18.456Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_kixixixixi/目次/2.-名称・種類": {
+    "page_id": "20220618_kixixixixi/目次/2.-名称・種類",
+    "content_hash": "sha256:55851f1000227bb8d03f6f895a6280949307fe22ef6b279383d61f7340cbaca2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "2. 名称・種類",
+        "ビール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:18.531Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_kixixixixi/目次/種類-1": {
+    "page_id": "20220618_kixixixixi/目次/種類-1",
+    "content_hash": "sha256:1ebd9a507cfa8a9f8ccabecb435c88a16b1da3f48821aa175cbaa91959c49081",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ビール",
+        "エール",
+        "ラガー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:18.557Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_kixixixixi/目次/種類-2": {
+    "page_id": "20220618_kixixixixi/目次/種類-2",
+    "content_hash": "sha256:759ac9d3d50a1c9661d30c602bfa363b55508962b5ca94c215cb06b796e1bc54",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ラガー",
+        "ピルスナー",
+        "シュバルツ",
+        "ボック",
+        "エール",
+        "ペールエール",
+        "スタウト",
+        "ヴァイツェン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:18.561Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_kixixixixi/目次/3.-起源": {
+    "page_id": "20220618_kixixixixi/目次/3.-起源",
+    "content_hash": "sha256:6dc4f77fb01ebd0034a8d6ca067652b9d3a196acfcfe5f99d91d08e344963206",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [
+        "シュメール"
+      ],
+      "tags": [
+        "3. 起源",
+        "ビール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:18.669Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_kixixixixi/目次/古代の製法": {
+    "page_id": "20220618_kixixixixi/目次/古代の製法",
+    "content_hash": "sha256:7d74203fa401406908af02cde6cf6f8e6c9831b7a788848985609650b7529f0d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "古代の製法"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:18.742Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_kixixixixi/目次/逸話": {
+    "page_id": "20220618_kixixixixi/目次/逸話",
+    "content_hash": "sha256:c6ce27b2f97e9ffe1072a9d2c0c99e611c6c9665cfeb032216b2ddf72e1fd1a1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [
+        "シュメール",
+        "ニンカシ",
+        "エジプト",
+        "ハンムラビ"
+      ],
+      "tags": [
+        "ビールを水で薄めて販売した者は、水の中に投げ込まれる",
+        "ビール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:18.752Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_kixixixixi/目次/ヨーロッパへの伝播": {
+    "page_id": "20220618_kixixixixi/目次/ヨーロッパへの伝播",
+    "content_hash": "sha256:1ba145883014bf7277055853a308eeb6c88c1cf18071e6049ffb06e625af4401",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [],
+      "entities": [
+        "ヨーロッパ",
+        "ケルト",
+        "ゲルマン",
+        "ローマ"
+      ],
+      "tags": [
+        "ヨーロッパへの伝播",
+        "ビール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:18.797Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_kixixixixi/目次/4.-中世": {
+    "page_id": "20220618_kixixixixi/目次/4.-中世",
+    "content_hash": "sha256:853aa4b295f460f3e565495b2aa6e155ed5eff74a1d35f8ffdac890f1b27564f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [],
+      "entities": [
+        "ゲルマン",
+        "フランク"
+      ],
+      "tags": [
+        "4. 中世",
+        "ビール",
+        "グルート"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:18.873Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_kixixixixi/目次/ホップの利用": {
+    "page_id": "20220618_kixixixixi/目次/ホップの利用",
+    "content_hash": "sha256:b2b7c4fae70a2c9ba2b1fc5cd59f49f2107b1cfb79e9c16552d7f7d14049fb79",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀",
+        "15世紀"
+      ],
+      "entities": [
+        "ルプレヒトベルク"
+      ],
+      "tags": [
+        "ホップの利用",
+        "ホップ",
+        "ビール",
+        "ホップビール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:18.964Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_kixixixixi/目次/ビール純粋令": {
+    "page_id": "20220618_kixixixixi/目次/ビール純粋令",
+    "content_hash": "sha256:7af62b4c36c30a71b723023b24a00fd392ef19a6030619141b7b7d28792f9147",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "16世紀",
+        "17世紀",
+        "18世紀",
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "ビール純粋令",
+        "バイエルン",
+        "ヴィルヘルム"
+      ],
+      "tags": [
+        "ビール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:18.959Z",
+    "model": "jev-1.13.0"
+  }
+}

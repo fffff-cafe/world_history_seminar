@@ -1,0 +1,283 @@
+{
+  "20210822_hasegawa/イギリスの歴史概略/イギリスの歴史概略": {
+    "page_id": "20210822_hasegawa/イギリスの歴史概略/イギリスの歴史概略",
+    "content_hash": "sha256:ed6c288ebe3b5913d8e6bd185060ab35bb0ccd42881084651da5950df59dd8b8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "イギリスの歴史概略",
+        "イギリス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:52.001Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_hasegawa/動機/動機": {
+    "page_id": "20210822_hasegawa/動機/動機",
+    "content_hash": "sha256:c1a9ea0f220b81f7ddbea558b99d060896eacc126819b217418fdc55ab1345b0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "イギリス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:52.070Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_hasegawa/古代/古代": {
+    "page_id": "20210822_hasegawa/古代/古代",
+    "content_hash": "sha256:fa2c56b439fd5b37946d2184c15acd4d0cb2a409af725a94a8cad5f964e46a32",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀",
+        "4世紀",
+        "5世紀",
+        "6世紀"
+      ],
+      "entities": [
+        "ケルト",
+        "ローマ",
+        "カエサル",
+        "ブリテン",
+        "ゲルマン",
+        "アングロサクソン",
+        "アングロ",
+        "サクソン",
+        "アルフレッド"
+      ],
+      "tags": [
+        "古代"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:52.173Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_hasegawa/中世/中世": {
+    "page_id": "20210822_hasegawa/中世/中世",
+    "content_hash": "sha256:229d9d2aefe1e8e057e7c8ef896fc784f0292bbc8ddfb2ff8654442082030b86",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀"
+      ],
+      "entities": [
+        "デーン",
+        "ノルマンコンクエスト",
+        "ウィリアム",
+        "アングロサクソン",
+        "プランタジネット"
+      ],
+      "tags": [
+        "中世"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:52.177Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_hasegawa/イギリス絶対王政/イギリス絶対王政": {
+    "page_id": "20210822_hasegawa/イギリス絶対王政/イギリス絶対王政",
+    "content_hash": "sha256:53ead045224afef9402c98578ee84deb1c1211f32b707197f9cffbe57e9f6c13",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀",
+        "16世紀"
+      ],
+      "entities": [
+        "イギリス",
+        "チューダー",
+        "エリザベス"
+      ],
+      "tags": [
+        "イギリス絶対王政"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:52.391Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_hasegawa/市民革命/市民革命": {
+    "page_id": "20210822_hasegawa/市民革命/市民革命",
+    "content_hash": "sha256:c8f8b6dd0d10518d7a8d9f732b493e13043c528c7da0ad8d178fd4e1504b8641",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "市民革命",
+        "ピューリタン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:52.280Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_hasegawa/名誉革命/名誉革命": {
+    "page_id": "20210822_hasegawa/名誉革命/名誉革命",
+    "content_hash": "sha256:4e3e14a5f3caa27b0bca42e040c7785d4960e4207c4d099bbf04310cd60c7285",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "名誉革命",
+        "ジェームズ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:52.444Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_hasegawa/産業革命(1760-)/産業革命(1760-)": {
+    "page_id": "20210822_hasegawa/産業革命(1760-)/産業革命(1760-)",
+    "content_hash": "sha256:9776ee41873445e280e1528ee1a565077c221167a0e410f93387e54d5d860ad3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "産業革命"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:52.395Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_hasegawa/動力革命/動力革命": {
+    "page_id": "20210822_hasegawa/動力革命/動力革命",
+    "content_hash": "sha256:474a68e84fe6cce912542f0a45fb67fd0484faec6436b5cd4a06862856748323",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀",
+        "19世紀"
+      ],
+      "entities": [
+        "ジェームズ・ワット",
+        "リチャード・トレシヴィック",
+        "ロバート・フルトン",
+        "ジョージ・スティーヴンソン"
+      ],
+      "tags": [
+        "動力革命"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:52.484Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_hasegawa/近代/近代": {
+    "page_id": "20210822_hasegawa/近代/近代",
+    "content_hash": "sha256:77693223e5c6ad8847bfa64a9b5d62d23fa4c30db6ce9c4e68fd1715db79e812",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ユトランド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:52.583Z",
+    "model": "jev-1.13.0"
+  },
+  "20210822_hasegawa/第二次世界大戦/第二次世界大戦": {
+    "page_id": "20210822_hasegawa/第二次世界大戦/第二次世界大戦",
+    "content_hash": "sha256:e628a2127acbd33978b7f9de11349d78229227a6186021407e976f3e2cfb0da3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "第二次世界大戦"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:52.599Z",
+    "model": "jev-1.13.0"
+  }
+}

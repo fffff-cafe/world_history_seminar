@@ -1,0 +1,484 @@
+{
+  "20250202_hanamizuno/魔女の歴史/魔女の歴史": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/魔女の歴史",
+    "content_hash": "sha256:126b6dba47b36585b1e6cca5f46ff8011e32978f5b45b727246913fd2138ecdf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "魔女の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:10.252Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_hanamizuno/魔女の歴史/はじめに": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/はじめに",
+    "content_hash": "sha256:572bdcbe88b177f98512d9a21706b75565288ee936a61cf4c478c66ce66886f3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:10.340Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_hanamizuno/魔女の歴史/--『アガサ・オール・アロング』Jac-Schaeffer-(2024)": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/--『アガサ・オール・アロング』Jac-Schaeffer-(2024)",
+    "content_hash": "sha256:b0341b8493ac3561f3023e36921cc5d72821ceece3b0f34d1f1d1367aa57223a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "アガサ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:10.408Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_hanamizuno/魔女の歴史/--魔女って何": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/--魔女って何",
+    "content_hash": "sha256:944ff4235fa27330abcb93799c51fc9dde67036822c3a0680bfbbfddb7d3ba9f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "- 魔女って何"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:10.419Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_hanamizuno/魔女の歴史/--『The-Cosmic-Wheel-Sisterhood』における魔女は多種": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/--『The-Cosmic-Wheel-Sisterhood』における魔女は多種",
+    "content_hash": "sha256:dea3dbeef8a02572f2642540f996b2c2e1ff45e37219fab92d666aca703a2721",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "魔女",
+        "昇醒"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:10.452Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_hanamizuno/魔女の歴史/--『アガサ・オール・アロング』は相方役の少年以外は基本的に魔女しか出てこない": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/--『アガサ・オール・アロング』は相方役の少年以外は基本的に魔女しか出てこない",
+    "content_hash": "sha256:8786750f2997682e639c7547573f5cda84d62b5521e33f58913a6d252d51c38a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "アガサ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:10.562Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_hanamizuno/魔女の歴史/--魔女というアイコンが1960年あたりからフェミニズムと結びついていた(と言わ": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/--魔女というアイコンが1960年あたりからフェミニズムと結びついていた(と言わ",
+    "content_hash": "sha256:8c0806fd54c232d9fecccd55e2b633a4162c04c6ee88bc33529855b55274dbcb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "アイコン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:10.639Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_hanamizuno/魔女の歴史/元々持ってた「魔女」の知識、イメージ": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/元々持ってた「魔女」の知識、イメージ",
+    "content_hash": "sha256:b2f5ea773572aef20d7f80829bbac3a1545e58b7b3f4bdf24618924325d6322d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ヨーロッパ"
+      ],
+      "tags": [
+        "元々持ってた「魔女」の知識、イメージ",
+        "魔女",
+        "イメージ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:10.621Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_hanamizuno/魔女の歴史/参考文献": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/参考文献",
+    "content_hash": "sha256:224eb37b36405cd2fecf7dd71fd488746cb71104add7943daf264c28606d9360",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:10.698Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_hanamizuno/魔女の歴史/ざっくり魔女の歴史": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/ざっくり魔女の歴史",
+    "content_hash": "sha256:5075121360e2072bf5bcd9d5fa89e299ec99da3e0d65fa4d83f208ac2fe33256",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀",
+        "16世紀",
+        "17世紀",
+        "18世紀",
+        "19世紀",
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [
+        "イギリス",
+        "アンチ・ウィッチクラフト"
+      ],
+      "tags": [
+        "ざっくり魔女の歴史",
+        "ニューエイジ",
+        "フェミニズム",
+        "ネオペイガニズム",
+        "サブカルチャー",
+        "カウンターカルチャー",
+        "ゴスロリ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:10.796Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_hanamizuno/魔女の歴史/魔女とは": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/魔女とは",
+    "content_hash": "sha256:2e909c190264221e6234c940d36ba52ded1f43f02a925b43d829e7f77c598e47",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "魔女とは",
+        "説2"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:10.828Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_hanamizuno/魔女の歴史/19世紀末-魔女が見えるようになる": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/19世紀末-魔女が見えるようになる",
+    "content_hash": "sha256:c6c443ecd993b1b2660190c62de2c613b30aadc4f6f4bad47ec4acd7e6100b30",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "19世紀末 魔女が見えるようになる",
+        "見える",
+        "視覚化",
+        "イメージ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:10.870Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_hanamizuno/魔女の歴史/魔女像の4象限": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/魔女像の4象限",
+    "content_hash": "sha256:caf7e4ec24bd4706250b32d57850c700c184083df3f7c3eddfc196bc87d7b952",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "魔女像の4象限",
+        "ピュア",
+        "エロス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:10.900Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_hanamizuno/魔女の歴史/ゴシック": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/ゴシック",
+    "content_hash": "sha256:bdf3ed7c4db9f92615eefa3d7a7989a65516b07d705cd1b5c05b47681455e5c6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "芸術"
+      ],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "12世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "ゴシック",
+        "ゴシック・リバイバル",
+        "ゴシック・ロマンス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:11.032Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_hanamizuno/魔女の歴史/有名な魔女": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/有名な魔女",
+    "content_hash": "sha256:2e36970530b5d28d73664d69e30c76374e5a4cc94b0c5417636471769d0e402d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "サロメ",
+        "リリス",
+        "メディア",
+        "ユーディット",
+        "スフィンクス",
+        "メデューサ",
+        "キルケ",
+        "パンドラ",
+        "セイレーン",
+        "イシス",
+        "メルジーネ",
+        "オフィーリア",
+        "ベアトリーチェ",
+        "ロイ・フラー",
+        "サラ・ベルナール"
+      ],
+      "tags": [
+        "有名な魔女",
+        "ファム・ファタル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:11.036Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_hanamizuno/魔女の歴史/20世紀の魔女": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/20世紀の魔女",
+    "content_hash": "sha256:40223c60450a66fd03b26ce00d258f4e9aced95415260f3e3c6139d312bbb9fc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "イギリス"
+      ],
+      "tags": [
+        "20世紀の魔女",
+        "カムアウト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:11.086Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_hanamizuno/魔女の歴史/フェミニズム": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/フェミニズム",
+    "content_hash": "sha256:0017d1a8693ec1c5e6d3c2a828b8f093ba235f0c7ca84d4053a4de51f9707881",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "ロシア・アヴァンギャルド"
+      ],
+      "tags": [
+        "フェミニズム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:11.120Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_hanamizuno/魔女の歴史/--1920年代-モダン・ガールが流行": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/--1920年代-モダン・ガールが流行",
+    "content_hash": "sha256:8a942bde0b35f8d2a42da767ed714340cc1492957736a3d289476d5afb50b4c9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "- 1920年代 モダン・ガールが流行",
+        "モダン・ガール",
+        "フェミニスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:11.269Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_hanamizuno/魔女の歴史/--1950年代-第二次大戦が終わってハッピーハウス・ワイフの時代へ": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/--1950年代-第二次大戦が終わってハッピーハウス・ワイフの時代へ",
+    "content_hash": "sha256:4d5aa237b97da8a29e45d7efa413a1a4cb067e6cca39a13e5989cd9cbe99ebdc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "ハッピーハウス・ワイフ",
+        "フェミニズム",
+        "ウーマン・リブ",
+        "フリーラブ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:11.256Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_hanamizuno/魔女の歴史/フェミニズムと新魔女運動": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/フェミニズムと新魔女運動",
+    "content_hash": "sha256:a65c31cb1f2a5bdca01e89eaeecc95c7e0dd28e9193c960a90ba055d05622542",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "スターホーク"
+      ],
+      "tags": [
+        "フェミニズムと新魔女運動",
+        "フェミニズム",
+        "リクライミング",
+        "フェミニスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:11.282Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_hanamizuno/魔女の歴史/--1970--ニューエイジの時代": {
+    "page_id": "20250202_hanamizuno/魔女の歴史/--1970--ニューエイジの時代",
+    "content_hash": "sha256:ce9e87cc86e5354d13c21509bb6daa362f0e04ecad353af242cb3d5fb819afb4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "- 1970- ニューエイジの時代",
+        "ニューエイジ",
+        "ミー・ディケイド",
+        "サイケデリック・アート"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:11.347Z",
+    "model": "jev-1.13.0"
+  }
+}

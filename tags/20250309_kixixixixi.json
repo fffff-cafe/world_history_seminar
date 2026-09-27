@@ -1,0 +1,365 @@
+{
+  "20250309_kixixixixi/画像の歴史-2/画像の歴史-2": {
+    "page_id": "20250309_kixixixixi/画像の歴史-2/画像の歴史-2",
+    "content_hash": "sha256:5d4ca9df9e9a3dfebe3157cf098cddaed975eb67e9400516906b1d1721d88b2f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:13.468Z",
+    "model": "jev-1.13.0"
+  },
+  "20250309_kixixixixi/目次/目次": {
+    "page_id": "20250309_kixixixixi/目次/目次",
+    "content_hash": "sha256:0ba8c4c138cb2f8940cee6d2f4300a7419a2a7effe49662d7ed40f91c2fe25c8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:13.477Z",
+    "model": "jev-1.13.0"
+  },
+  "20250309_kixixixixi/レンズの歴史/レンズの歴史": {
+    "page_id": "20250309_kixixixixi/レンズの歴史/レンズの歴史",
+    "content_hash": "sha256:b062dcf3d355c96083b7b9a854711fa337e989aa3ded691fa489b7479fc0f397",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "アッシリア",
+        "イブン・ハイサム"
+      ],
+      "tags": [
+        "レンズの歴史",
+        "レンズ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:13.581Z",
+    "model": "jev-1.13.0"
+  },
+  "20250309_kixixixixi/レンズとは/レンズとは": {
+    "page_id": "20250309_kixixixixi/レンズとは/レンズとは",
+    "content_hash": "sha256:58df5556bacf523e6017c1c4c4171a315b28b172d507015984def3604476a100",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "レンズとは",
+        "レンズ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:13.610Z",
+    "model": "jev-1.13.0"
+  },
+  "20250309_kixixixixi/アッシリアの水晶レンズ/アッシリアの水晶レンズ": {
+    "page_id": "20250309_kixixixixi/アッシリアの水晶レンズ/アッシリアの水晶レンズ",
+    "content_hash": "sha256:73f3ba4787c5c8bdc4579d749447efaf5add0fd604458f68d36614e3778bcb90",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "7世紀"
+      ],
+      "entities": [
+        "アッシリアの水晶レンズ",
+        "アッシリア"
+      ],
+      "tags": [
+        "レンズ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:13.701Z",
+    "model": "jev-1.13.0"
+  },
+  "20250309_kixixixixi/イブン・ハイサム/イブン・ハイサム": {
+    "page_id": "20250309_kixixixixi/イブン・ハイサム/イブン・ハイサム",
+    "content_hash": "sha256:b2970f143c17b2028bc0c8d25b59f60e74d68a9df4b47c22dae48f3cf0fb161e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "10世紀",
+        "11世紀"
+      ],
+      "entities": [
+        "イブン・ハイサム"
+      ],
+      "tags": [
+        "視線"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:13.677Z",
+    "model": "jev-1.13.0"
+  },
+  "20250309_kixixixixi/中世のレンズ/中世のレンズ": {
+    "page_id": "20250309_kixixixixi/中世のレンズ/中世のレンズ",
+    "content_hash": "sha256:744f9f0034aef034348aa0e7d35ade3af91d1c2a4688f4d6c7ecb71f81f6af5d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "13世紀",
+        "14世紀",
+        "15世紀",
+        "16世紀",
+        "17世紀"
+      ],
+      "entities": [
+        "ベネチア"
+      ],
+      "tags": [
+        "中世のレンズ",
+        "レンズ",
+        "メガネ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:13.784Z",
+    "model": "jev-1.13.0"
+  },
+  "20250309_kixixixixi/顕微鏡/顕微鏡": {
+    "page_id": "20250309_kixixixixi/顕微鏡/顕微鏡",
+    "content_hash": "sha256:e4ec9a2b1257f9fc1f84786a86584e377b5880d1864e806aaa40f3ccfa488787",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "顕微鏡"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:13.836Z",
+    "model": "jev-1.13.0"
+  },
+  "20250309_kixixixixi/顕微鏡/顕微鏡~2": {
+    "page_id": "20250309_kixixixixi/顕微鏡/顕微鏡~2",
+    "content_hash": "sha256:2fe22e4ddbb8d42f200d7f55984ed0f8441516a1b384ee772d26227f2f1f75de",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀",
+        "17世紀"
+      ],
+      "entities": [
+        "ヤンセン",
+        "ロバート・フック",
+        "レーウェンフック"
+      ],
+      "tags": [
+        "顕微鏡"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:13.926Z",
+    "model": "jev-1.13.0"
+  },
+  "20250309_kixixixixi/顕微鏡/顕微鏡~3": {
+    "page_id": "20250309_kixixixixi/顕微鏡/顕微鏡~3",
+    "content_hash": "sha256:5d8b41cbadf0b93da7b61c1507f0a7ca925cde31c5dfc52f3c40724cdf4f21bc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "アッベ"
+      ],
+      "tags": [
+        "顕微鏡"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:13.907Z",
+    "model": "jev-1.13.0"
+  },
+  "20250309_kixixixixi/顕微鏡/顕微鏡~4": {
+    "page_id": "20250309_kixixixixi/顕微鏡/顕微鏡~4",
+    "content_hash": "sha256:838052ac7535af373d6182c5e6ef52def81b9a6ee4e622f89edbbc5ff8367395",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "顕微鏡"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:13.994Z",
+    "model": "jev-1.13.0"
+  },
+  "20250309_kixixixixi/望遠鏡/望遠鏡": {
+    "page_id": "20250309_kixixixixi/望遠鏡/望遠鏡",
+    "content_hash": "sha256:3e90b5a07ddd994fbdc75420c3e5c792178140f2b9668481173dfc188279f2c2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "ハンス・リッペルスハイ",
+        "リッペルスハイ"
+      ],
+      "tags": [
+        "望遠鏡"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:14.043Z",
+    "model": "jev-1.13.0"
+  },
+  "20250309_kixixixixi/望遠鏡/望遠鏡~2": {
+    "page_id": "20250309_kixixixixi/望遠鏡/望遠鏡~2",
+    "content_hash": "sha256:2e1188fb32ce96ebb6076c50e869b3804bc5998827bc113509d40cdfbeab7094",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "ガリレオ・ガリレイ",
+        "ガリレオ",
+        "ケプラー"
+      ],
+      "tags": [
+        "望遠鏡",
+        "レンズ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:14.132Z",
+    "model": "jev-1.13.0"
+  },
+  "20250309_kixixixixi/望遠鏡/望遠鏡~3": {
+    "page_id": "20250309_kixixixixi/望遠鏡/望遠鏡~3",
+    "content_hash": "sha256:3919fa245bad9b4a33cc35c664559d3a3f06851548e878a1a628f83723aa75a2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀",
+        "18世紀",
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "ニュートン",
+        "ハッブル"
+      ],
+      "tags": [
+        "望遠鏡"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:14.137Z",
+    "model": "jev-1.13.0"
+  },
+  "20250309_kixixixixi/レンズの未来/レンズの未来": {
+    "page_id": "20250309_kixixixixi/レンズの未来/レンズの未来",
+    "content_hash": "sha256:2967d2a995ed7fcefe4939147f3b6da424d6d473aae1c7ffdfae403ba2dcda12",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "レンズの未来",
+        "レンズ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:14.223Z",
+    "model": "jev-1.13.0"
+  }
+}

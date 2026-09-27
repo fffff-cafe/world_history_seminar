@@ -1,0 +1,211 @@
+{
+  "20220618_hanamizuno/ニューヨークの歴史-2/ニューヨークの歴史-2": {
+    "page_id": "20220618_hanamizuno/ニューヨークの歴史-2/ニューヨークの歴史-2",
+    "content_hash": "sha256:31bd0229288aed1c009c7ebe5b23f1b27d516b0bd872400d607f09f06eb48872",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ニューヨークの歴史 2",
+        "ニューヨーク"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:16.635Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_hanamizuno/ニューヨークの歴史-2/やりたかったこと": {
+    "page_id": "20220618_hanamizuno/ニューヨークの歴史-2/やりたかったこと",
+    "content_hash": "sha256:03c567c87b51108a3c51bb11edbd45207061285e76f45c3373ab01f805b8500b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [],
+      "entities": [
+        "ニューヨーク",
+        "ヘルズキッチン",
+        "ハーレム"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:16.727Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_hanamizuno/ニューヨークの歴史-2/ハーレム": {
+    "page_id": "20220618_hanamizuno/ニューヨークの歴史-2/ハーレム",
+    "content_hash": "sha256:8d117f6ffc90c3e74b26f2bc8fcae7efdedbd47c5b691bdef1e808327388a3e1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "社会"
+      ],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "ハーレム",
+        "ニュー・ハーレム",
+        "ウェスト・ハーレム",
+        "イースト・ハーレム",
+        "セントラル・ハーレム"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:16.784Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_hanamizuno/ニューヨークの歴史-2/住宅地になり黒人の都市へ": {
+    "page_id": "20220618_hanamizuno/ニューヨークの歴史-2/住宅地になり黒人の都市へ",
+    "content_hash": "sha256:8814acd7e44a6c7c1cbb0b8ccee7f94fc4f4af19d05a33b729ceca1fa4462e4c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "社会"
+      ],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "住宅地になり黒人の都市へ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:16.802Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_hanamizuno/ニューヨークの歴史-2/ハーレム・ルネッサンス": {
+    "page_id": "20220618_hanamizuno/ニューヨークの歴史-2/ハーレム・ルネッサンス",
+    "content_hash": "sha256:4f3d8f2496aa7750730233a48bc9c9fd90f7fb395e2e510c3a714c71bd29ad31",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "芸術"
+      ],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ハーレム・ルネッサンス",
+        "コットン・クラブ",
+        "ハーレム"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:16.873Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_hanamizuno/ニューヨークの歴史-2/第二次大戦後": {
+    "page_id": "20220618_hanamizuno/ニューヨークの歴史-2/第二次大戦後",
+    "content_hash": "sha256:11f371314484f9ea5a0e2688ebfa6586fadcd0be0cb14b4b4710bc7f1559e53f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:16.956Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_hanamizuno/ニューヨークの歴史-2/ヘルズキッチン": {
+    "page_id": "20220618_hanamizuno/ニューヨークの歴史-2/ヘルズキッチン",
+    "content_hash": "sha256:8f907c4bd46ef000a05cbf14a36c9b7eaada877f5ee9968684810a14df001e3f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [],
+      "entities": [
+        "ヘルズキッチン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:17.008Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_hanamizuno/ニューヨークの歴史-2/ヘルズキッチンの歴史": {
+    "page_id": "20220618_hanamizuno/ニューヨークの歴史-2/ヘルズキッチンの歴史",
+    "content_hash": "sha256:ecb876440486642cf7ab180d76183b1d06d95f21d7dc14b3542dae33b89cd197",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "ヘルズキッチンの歴史",
+        "ヘルズキッチン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:17.038Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_hanamizuno/ニューヨークの歴史-2/参考文献": {
+    "page_id": "20220618_hanamizuno/ニューヨークの歴史-2/参考文献",
+    "content_hash": "sha256:8d2ac2b50bdf1212318e98160c729ed7a2418112674cbd7829689590dcdb4acc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:17.093Z",
+    "model": "jev-1.13.0"
+  }
+}

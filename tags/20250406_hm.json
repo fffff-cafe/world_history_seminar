@@ -1,0 +1,381 @@
+{
+  "20250406_hm/がんの歴史/がんの歴史": {
+    "page_id": "20250406_hm/がんの歴史/がんの歴史",
+    "content_hash": "sha256:1ec2845cfba7473ca5d787552e002f3265249aa58b9a62d39e020263799c7b0f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "がんの歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:14.861Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hm/がんの歴史/調べた理由": {
+    "page_id": "20250406_hm/がんの歴史/調べた理由",
+    "content_hash": "sha256:8c706fb70c5f6e9179b8c6a8def4446dcb3632c1605f56e7362a7569616977d7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:14.977Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hm/がんの歴史/最古の文献": {
+    "page_id": "20250406_hm/がんの歴史/最古の文献",
+    "content_hash": "sha256:22eaecaf3b072722c19290549f8130051cb0016bc4533925588a2f54283c8254",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [
+        "エジプト",
+        "イムホテプ"
+      ],
+      "tags": [
+        "最古の文献"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:15.058Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hm/がんの歴史/“がん”の由来": {
+    "page_id": "20250406_hm/がんの歴史/“がん”の由来",
+    "content_hash": "sha256:75295b7165aafaf68da7ffe43ceecf8851069e65d25fc86b16f8c6db5f9fdb6d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "ヒポクラテス"
+      ],
+      "tags": [
+        "“がん”の由来"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:15.077Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hm/がんの歴史/色々な考え方が生まれ始める": {
+    "page_id": "20250406_hm/がんの歴史/色々な考え方が生まれ始める",
+    "content_hash": "sha256:daf80f416aedfc3dde58893084bf1a38099e7d616f3d0cb025ca523b31375fcd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "ヒポクラテス",
+        "スタール",
+        "ホフマン"
+      ],
+      "tags": [
+        "色々な考え方が生まれ始める",
+        "バランス",
+        "リンパ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:15.088Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hm/がんの歴史/一方そのころ医学分野自体は...": {
+    "page_id": "20250406_hm/がんの歴史/一方そのころ医学分野自体は...",
+    "content_hash": "sha256:c5d81d20698de5d8e4628f7af1f5574e18b3a33f3c04b4593b2da2c65c0fab5f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀",
+        "18世紀"
+      ],
+      "entities": [
+        "ハーヴェイ",
+        "ジョヴァンニ",
+        "ルガーニ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:15.192Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hm/がんの歴史/19世紀:がん分野に動きが出始める": {
+    "page_id": "20250406_hm/がんの歴史/19世紀:がん分野に動きが出始める",
+    "content_hash": "sha256:2e1ebb7d2ded78401d251841b4d15540d51d907601deeec7929630fe195cb4dd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "ヨハネス・ペーター・ミュラー",
+        "ドイツ"
+      ],
+      "tags": [
+        "19世紀:がん分野に動きが出始める"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:15.292Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hm/がんの歴史/・慢性刺激説": {
+    "page_id": "20250406_hm/がんの歴史/・慢性刺激説",
+    "content_hash": "sha256:dad40112a8e7b1ef7a2a130ae00e9acec6e5d83d00d56eba2697e3673584d89c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "ルドルフ・ルートヴィヒ・カール・フィルヒョウ",
+        "カール・ティエルシュ"
+      ],
+      "tags": [
+        "慢性刺激説"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:15.334Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hm/がんの歴史/・がんの手術": {
+    "page_id": "20250406_hm/がんの歴史/・がんの手術",
+    "content_hash": "sha256:c279ca6eeb1e6b56f83e233351bacb30894f279cb6e8e7eeb20afcfc62bcdde5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "ウィリアム・ハルステッド"
+      ],
+      "tags": [
+        "がんの手術"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:15.280Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hm/がんの歴史/・種と土壌仮説": {
+    "page_id": "20250406_hm/がんの歴史/・種と土壌仮説",
+    "content_hash": "sha256:5078ce2e9cda37f99a8d415a9a5ca0ab2513b167601ea8bd10a3d49681553d08",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "スティーブン・パジェット"
+      ],
+      "tags": [
+        "種と土壌仮説"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:15.408Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hm/がんの歴史/日本でのがん治療": {
+    "page_id": "20250406_hm/がんの歴史/日本でのがん治療",
+    "content_hash": "sha256:a064c38433950209f25c055ed9fdddd405f3a0128fafc1ded578722d0cd9e87c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [
+        "日本",
+        "東アジア"
+      ],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "日本でのがん治療"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:15.496Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hm/がんの歴史/(WW1-1914-1918年)": {
+    "page_id": "20250406_hm/がんの歴史/(WW1-1914-1918年)",
+    "content_hash": "sha256:0ade9fac39a8e45b4b746dea37531bb7398c7703190819a550fac7094f85193e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:15.489Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hm/がんの歴史/薬物治療が始まる": {
+    "page_id": "20250406_hm/がんの歴史/薬物治療が始まる",
+    "content_hash": "sha256:22366dbc40e470f20a108af820ae02a5946913221e31ccfd2b5bb9de9787c441",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ナイトロミン",
+        "リツキシマブ"
+      ],
+      "tags": [
+        "薬物治療が始まる"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:15.539Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hm/がんの歴史/・国内初の免疫チェックポイント阻害薬": {
+    "page_id": "20250406_hm/がんの歴史/・国内初の免疫チェックポイント阻害薬",
+    "content_hash": "sha256:b67b83ee914459f1f39d5c5792c3faf4fcf43d8f8ed9512c15e3d3bbd6b84088",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "オプジーボ"
+      ],
+      "tags": [
+        "国内初の免疫チェックポイント阻害薬",
+        "チェックポイント"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:15.610Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hm/がんの歴史/現在": {
+    "page_id": "20250406_hm/がんの歴史/現在",
+    "content_hash": "sha256:0efb82e998946d761cf6c42c4549957e17f960bf03b6b7b8be8d2b76c44ca76d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:15.721Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hm/がんの歴史/ヒトのがんの最古の痕跡-170万年前の化石で発見-日経新聞": {
+    "page_id": "20250406_hm/がんの歴史/ヒトのがんの最古の痕跡-170万年前の化石で発見-日経新聞",
+    "content_hash": "sha256:bf8d77537b0f38309c1f1732123006f60c606171d0d15409b6291b1ee275fc27",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:15.704Z",
+    "model": "jev-1.13.0"
+  }
+}

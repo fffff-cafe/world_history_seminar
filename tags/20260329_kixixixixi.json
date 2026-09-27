@@ -1,0 +1,525 @@
+{
+  "20260329_kixixixixi/石油の歴史/石油の歴史": {
+    "page_id": "20260329_kixixixixi/石油の歴史/石油の歴史",
+    "content_hash": "sha256:4c597ea4f9ce6be737ec19b3d09cb13095a2db35271a8600856775d57e881455",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "石油の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:34.122Z",
+    "model": "jev-1.13.0"
+  },
+  "20260329_kixixixixi/石油の歴史/海峡封鎖": {
+    "page_id": "20260329_kixixixixi/石油の歴史/海峡封鎖",
+    "content_hash": "sha256:5c4006c029b1d9d694f2cce46864629997faad72e89d657ee88962bcbea654aa",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "海峡封鎖"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:34.210Z",
+    "model": "jev-1.13.0"
+  },
+  "20260329_kixixixixi/石油の歴史/石油とはなにか": {
+    "page_id": "20260329_kixixixixi/石油の歴史/石油とはなにか",
+    "content_hash": "sha256:3c2b0083268ddcc4f99515634188d531728e7bfcfeeeaf0b65a95a384a3e4bf3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "石油とはなにか"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:34.218Z",
+    "model": "jev-1.13.0"
+  },
+  "20260329_kixixixixi/石油の歴史/石油の起源": {
+    "page_id": "20260329_kixixixixi/石油の歴史/石油の起源",
+    "content_hash": "sha256:dd88d6390ff68092b52ede45f62cc9c4a8fe3919c1551262387302af319d7fe8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "石油の起源"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:34.342Z",
+    "model": "jev-1.13.0"
+  },
+  "20260329_kixixixixi/石油の歴史/古代の石油": {
+    "page_id": "20260329_kixixixixi/石油の歴史/古代の石油",
+    "content_hash": "sha256:b13600372b16fcda4e529cef6af18cb4dbe3c0bf334f9ddb5ea6c595e3214466",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "西アジア"
+      ],
+      "period": [],
+      "entities": [
+        "メソポタミア"
+      ],
+      "tags": [
+        "古代の石油",
+        "アスファルト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:34.364Z",
+    "model": "jev-1.13.0"
+  },
+  "20260329_kixixixixi/石油の歴史/近代石油産業の始まり": {
+    "page_id": "20260329_kixixixixi/石油の歴史/近代石油産業の始まり",
+    "content_hash": "sha256:0aa4db9790c1f8804e026b0482287b9fcfcee66b727c132923e3e1089930764c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "アメリカ",
+        "ドレーク",
+        "ペンシルベニア"
+      ],
+      "tags": [
+        "近代石油産業の始まり"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:34.408Z",
+    "model": "jev-1.13.0"
+  },
+  "20260329_kixixixixi/石油の歴史/ロックフェラー": {
+    "page_id": "20260329_kixixixixi/石油の歴史/ロックフェラー",
+    "content_hash": "sha256:2b7bbebcc98f5b097cf96a37fa13f7de840c9c9edf302149ffdfcf6091f92425",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "ロックフェラー",
+        "スタンダードオイル"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:34.411Z",
+    "model": "jev-1.13.0"
+  },
+  "20260329_kixixixixi/石油の歴史/内燃機関(エンジン)の発明": {
+    "page_id": "20260329_kixixixixi/石油の歴史/内燃機関(エンジン)の発明",
+    "content_hash": "sha256:338f70526fbfed18898752a14aafa3f2f1cd9407d0df5842a9dcc17fb3b88638",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "内燃機関の発明",
+        "エンジン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:34.554Z",
+    "model": "jev-1.13.0"
+  },
+  "20260329_kixixixixi/石油の歴史/内燃機関(エンジン)の発明~2": {
+    "page_id": "20260329_kixixixixi/石油の歴史/内燃機関(エンジン)の発明~2",
+    "content_hash": "sha256:77934ac9d43d089d017840fa82a94b7e1b970b131ae1de562ec9fdc62efe1631",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "ニコラウス・オットー",
+        "フォード"
+      ],
+      "tags": [
+        "内燃機関の発明",
+        "エンジン",
+        "ガソリンエンジン",
+        "ディーゼルエンジン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:34.593Z",
+    "model": "jev-1.13.0"
+  },
+  "20260329_kixixixixi/石油の歴史/ロシア・イギリスでの開発": {
+    "page_id": "20260329_kixixixixi/石油の歴史/ロシア・イギリスでの開発",
+    "content_hash": "sha256:8314177a61bf7206d424f5514fa89559a6aad7a2fca5344fcbd159cf4ac31c85",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "ロシア・イギリスでの開発",
+        "ロシア・イギリス",
+        "ロシア",
+        "バクー",
+        "チャーチル",
+        "イギリス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:34.602Z",
+    "model": "jev-1.13.0"
+  },
+  "20260329_kixixixixi/石油の歴史/中東で油田を発見": {
+    "page_id": "20260329_kixixixixi/石油の歴史/中東で油田を発見",
+    "content_hash": "sha256:3dbe04d1fe9db8b6e453652365758595c6528f2790e715c05150f1c87145b530",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "西アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "イラン",
+        "アングロ・ペルシアン",
+        "サウジアラビア",
+        "イラク",
+        "クウェート"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:34.651Z",
+    "model": "jev-1.13.0"
+  },
+  "20260329_kixixixixi/石油の歴史/大戦": {
+    "page_id": "20260329_kixixixixi/石油の歴史/大戦",
+    "content_hash": "sha256:419b695a4d098671c3a2228816dbe1793f9aafdbbf008e41637ac40c94cbe613",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "大戦",
+        "インドシナ",
+        "ドイツ",
+        "コーカサス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:34.744Z",
+    "model": "jev-1.13.0"
+  },
+  "20260329_kixixixixi/石油の歴史/石油メジャー": {
+    "page_id": "20260329_kixixixixi/石油の歴史/石油メジャー",
+    "content_hash": "sha256:4281ecff905dff09219ebf3a7386bd1b8028d1f4edef8981e814b87d3d252049",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "セブンシスターズ",
+        "エクソン",
+        "モービル",
+        "シェブロン",
+        "ガルフ",
+        "テキサコ",
+        "シェル"
+      ],
+      "tags": [
+        "石油メジャー",
+        "メジャー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:34.792Z",
+    "model": "jev-1.13.0"
+  },
+  "20260329_kixixixixi/石油の歴史/イランの石油国有化": {
+    "page_id": "20260329_kixixixixi/石油の歴史/イランの石油国有化",
+    "content_hash": "sha256:7634df41e7e16f3c470a98e44921695392788a079566fc1ad3d43b44d7973db2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治",
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "西アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "イランの石油国有化",
+        "イラン",
+        "イギリス",
+        "モサデグ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:34.815Z",
+    "model": "jev-1.13.0"
+  },
+  "20260329_kixixixixi/石油の歴史/Operation-Ajax": {
+    "page_id": "20260329_kixixixixi/石油の歴史/Operation-Ajax",
+    "content_hash": "sha256:14ba0c6f267a7e0c11b28085fe664eee23049c0330eb6b26c01851588dce5473",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "Operation Ajax"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:34.859Z",
+    "model": "jev-1.13.0"
+  },
+  "20260329_kixixixixi/石油の歴史/Operation-Ajax~2": {
+    "page_id": "20260329_kixixixixi/石油の歴史/Operation-Ajax~2",
+    "content_hash": "sha256:7d6ec0f84b327c6b514f96ecf164b34a05fbfe606fa0f9092f050ee847d4d250",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "Operation Ajax",
+        "アメリカ",
+        "モサデグ",
+        "パフラヴィー"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:34.967Z",
+    "model": "jev-1.13.0"
+  },
+  "20260329_kixixixixi/石油の歴史/OPEC": {
+    "page_id": "20260329_kixixixixi/石油の歴史/OPEC",
+    "content_hash": "sha256:aff897f0f232691ab56775714eecc4cd0657f1bd76114d9eee7fa2c655afdb63",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "OPEC",
+        "イラン",
+        "イラク",
+        "クウェート",
+        "サウジアラビア",
+        "ベネズエラ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:35.010Z",
+    "model": "jev-1.13.0"
+  },
+  "20260329_kixixixixi/石油の歴史/オイルショック": {
+    "page_id": "20260329_kixixixixi/石油の歴史/オイルショック",
+    "content_hash": "sha256:a8bf3a819534da8bf76e23e8091e7a6a69aa9a67f29cb6b1a6a77df20a939541",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "オイルショック"
+      ],
+      "tags": [
+        "イスラエルを支援する国には石油を売らない"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:35.021Z",
+    "model": "jev-1.13.0"
+  },
+  "20260329_kixixixixi/石油の歴史/2次オイルショック": {
+    "page_id": "20260329_kixixixixi/石油の歴史/2次オイルショック",
+    "content_hash": "sha256:ea12335cbf0a63fc342dcd5ddbf3af3c14292270ea53ef00d78bf9d369669ed5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "西アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "2次オイルショック",
+        "イラン",
+        "ホメイニ",
+        "イランイラク",
+        "フセイン",
+        "イラク"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:35.184Z",
+    "model": "jev-1.13.0"
+  },
+  "20260329_kixixixixi/石油の歴史/シェールオイル": {
+    "page_id": "20260329_kixixixixi/石油の歴史/シェールオイル",
+    "content_hash": "sha256:ef2b1d05dbad85730c5ef770af3abcee07dfb0e833e3a04b46ed37c53fbf5f04",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "アメリカ"
+      ],
+      "tags": [
+        "シェールオイル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:35.165Z",
+    "model": "jev-1.13.0"
+  },
+  "20260329_kixixixixi/石油の歴史/石油危機-": {
+    "page_id": "20260329_kixixixixi/石油の歴史/石油危機-",
+    "content_hash": "sha256:41bf3821d1c87f0df751f640f18fb0f2154658dcb2c716251cce4742cd6d8378",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:35.205Z",
+    "model": "jev-1.13.0"
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "20240218_nishihara/カジノの歴史/カジノの歴史": {
+    "page_id": "20240218_nishihara/カジノの歴史/カジノの歴史",
+    "content_hash": "sha256:76587980de34c1fd734290b79e657b5250b8529e78c0410cdb9b52fad252dfb8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "カジノの歴史",
+        "カジノ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:51.879Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_nishihara/参考/参考": {
+    "page_id": "20240218_nishihara/参考/参考",
+    "content_hash": "sha256:8ce5b892d9f374dd024bfe2b05808f1ad76374bd229da036d1bf9e3a49539553",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:51.994Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_nishihara/カジノの語源/カジノの語源": {
+    "page_id": "20240218_nishihara/カジノの語源/カジノの語源",
+    "content_hash": "sha256:e3e739bbd503c4e90b4cfc358a408544f178f883b8c50cf9d011bd88d7cc3723",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "カジノの語源",
+        "カジノ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:52.063Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_nishihara/カジノの歴史/カジノの歴史~2": {
+    "page_id": "20240218_nishihara/カジノの歴史/カジノの歴史~2",
+    "content_hash": "sha256:dfa28f9faa02d1cc324a30ed270aff9cef202de3b4ffd3ea47a2ac9a9ba2e03b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "18世紀",
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "ヨーロッパ",
+        "フランス",
+        "ナポレオン"
+      ],
+      "tags": [
+        "カジノの歴史",
+        "カジノ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:52.058Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_nishihara/最古のカジノ/最古のカジノ": {
+    "page_id": "20240218_nishihara/最古のカジノ/最古のカジノ",
+    "content_hash": "sha256:60efc498b13eda8aa4154cb9dd56310df8123d17402497533846c1533dc71a1a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "イタリア",
+        "カジノ・ディ・ヴェネツィア"
+      ],
+      "tags": [
+        "最古のカジノ",
+        "カジノ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:52.098Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_nishihara/その他欧米のカジノ/その他欧米のカジノ": {
+    "page_id": "20240218_nishihara/その他欧米のカジノ/その他欧米のカジノ",
+    "content_hash": "sha256:2c91c3e288941b97108bf454aa8812fe3470e5e54edc77a03c0e19c3486d733f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ドイツ",
+        "バーデン",
+        "イギリス",
+        "クロックフォード",
+        "モナコ",
+        "アメリカ",
+        "ネバダ",
+        "スペイン",
+        "オランダ",
+        "オーストラリア",
+        "ケニア",
+        "セネガル",
+        "ニュージャージー"
+      ],
+      "tags": [
+        "その他欧米のカジノ",
+        "カジノ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:52.223Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_nishihara/ドイツ・バーデン=バーデンカジノ/ドイツ・バーデン=バーデンカジノ": {
+    "page_id": "20240218_nishihara/ドイツ・バーデン=バーデンカジノ/ドイツ・バーデン=バーデンカジノ",
+    "content_hash": "sha256:3c250249b77435d78b406eb04a292aef8da5e0165ee103a9b5980258ff230776",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ドイツ・バーデン=バーデンカジノ",
+        "ドイツ・バーデン",
+        "バーデンカジノ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:52.288Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_nishihara/ドイツ・バーデン=バーデンカジノ2/ドイツ・バーデン=バーデンカジノ2": {
+    "page_id": "20240218_nishihara/ドイツ・バーデン=バーデンカジノ2/ドイツ・バーデン=バーデンカジノ2",
+    "content_hash": "sha256:0c9ec4b173c30803219da4e95956a69ecf6216cdbe35640404091ad1cf44713e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ドイツ・バーデン=バーデンカジノ2",
+        "ドイツ・バーデン",
+        "バーデンカジノ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:52.299Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_nishihara/ドイツ・バーデン=バーデンカジノ2/世界のカジノ": {
+    "page_id": "20240218_nishihara/ドイツ・バーデン=バーデンカジノ2/世界のカジノ",
+    "content_hash": "sha256:bee397089ccc2c444c95cd269096aa5a489354787f98772d596c3d23b3326f22",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "世界全体"
+      ],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "世界のカジノ",
+        "カジノ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:52.296Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_nishihara/ドイツ・バーデン=バーデンカジノ2/アメリカ(ラスベガス)": {
+    "page_id": "20240218_nishihara/ドイツ・バーデン=バーデンカジノ2/アメリカ(ラスベガス)",
+    "content_hash": "sha256:5ca8daed8061fa7fb6db919e581a3d082ed02057b490e8252e33aa9d431018be",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "アメリカ",
+        "ラスベガス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:52.459Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_nishihara/ドイツ・バーデン=バーデンカジノ2/マカオ": {
+    "page_id": "20240218_nishihara/ドイツ・バーデン=バーデンカジノ2/マカオ",
+    "content_hash": "sha256:13fb8c6313133bdbcd3ebd2f461688dd5601bdf0be3ca52b8e24a3b63aada5ae",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "マカオ"
+      ],
+      "tags": [
+        "カジノ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:52.505Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_nishihara/ドイツ・バーデン=バーデンカジノ2/日本のカジノ": {
+    "page_id": "20240218_nishihara/ドイツ・バーデン=バーデンカジノ2/日本のカジノ",
+    "content_hash": "sha256:09a19c54d91622e4a42eea1c494ee8f0890bbe4642393cc0efe1b43bafd6a3b8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本",
+        "東アジア"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "カジノ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:52.617Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_nishihara/ドイツ・バーデン=バーデンカジノ2/カジノの代表的なゲーム": {
+    "page_id": "20240218_nishihara/ドイツ・バーデン=バーデンカジノ2/カジノの代表的なゲーム",
+    "content_hash": "sha256:fe6fddf00444c60c53d68e2d60ac4eba045489c0bcb2f6897aa0f2235d281d60",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "カジノの代表的なゲーム",
+        "カジノ",
+        "ゲーム",
+        "ブラックジャック"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:52.528Z",
+    "model": "jev-1.13.0"
+  }
+}

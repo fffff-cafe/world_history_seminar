@@ -1,0 +1,538 @@
+{
+  "20221022_kixixixixi/英語の歴史/英語の歴史": {
+    "page_id": "20221022_kixixixixi/英語の歴史/英語の歴史",
+    "content_hash": "sha256:054cabbf1e8fa24b8cb9b0d71da1b0005ab0c061b26f6a6cb09c9120489a7130",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "英語の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:24.757Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/はじめに": {
+    "page_id": "20221022_kixixixixi/英語の歴史/はじめに",
+    "content_hash": "sha256:32f3cd8b6efae7c47003086cf3bd7410e85d3b05cff637aa233552fc83240604",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:24.782Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/英語とは": {
+    "page_id": "20221022_kixixixixi/英語の歴史/英語とは",
+    "content_hash": "sha256:e526131a586b5826700cf8a206021cc60348f3ecc3ce866c28bd8cbe988406f7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "イギリス",
+        "アイランド",
+        "アメリカ",
+        "カナダ",
+        "オーストラリア",
+        "ガーナ"
+      ],
+      "tags": [
+        "英語とは"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:24.843Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/方言と変種": {
+    "page_id": "20221022_kixixixixi/英語の歴史/方言と変種",
+    "content_hash": "sha256:d6144af9558e17188fd767df34eae2ed4307a636c74600609a12b286c9df0e67",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀",
+        "18世紀"
+      ],
+      "entities": [
+        "イギリス",
+        "アメリカ"
+      ],
+      "tags": [
+        "方言と変種"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:24.855Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/方言": {
+    "page_id": "20221022_kixixixixi/英語の歴史/方言",
+    "content_hash": "sha256:48849d22d2bbe19509df508328c6ca40d36f55998a148b303895978e03aa1474",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "イギリス"
+      ],
+      "tags": [
+        "方言"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:24.951Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/--イギリス英語": {
+    "page_id": "20221022_kixixixixi/英語の歴史/--イギリス英語",
+    "content_hash": "sha256:78024e6cf8caf577af60d0fcd366e4cb7f7ea7b7837860f8ccccfac82a1b453a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "イギリス",
+        "アイルランド",
+        "ウェールズ",
+        "オーストラリア",
+        "ニュージーランド",
+        "インド",
+        "アメリカ",
+        "カナダ",
+        "フィリピン"
+      ],
+      "tags": [
+        "- イギリス英語"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:25.042Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/クレオール言語": {
+    "page_id": "20221022_kixixixixi/英語の歴史/クレオール言語",
+    "content_hash": "sha256:cf77d20995431009235419c9dd25789258f4f1f8367e15b545d52d197d8cfadc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "クリオ",
+        "ノーフォーク",
+        "ビスラマ",
+        "ピトケアン"
+      ],
+      "tags": [
+        "クレオール言語",
+        "クレオール",
+        "ピジン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:25.056Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/系統": {
+    "page_id": "20221022_kixixixixi/英語の歴史/系統",
+    "content_hash": "sha256:1f3acd283abd70e53e53e659f9c163cabc092ddc4d6f352859f1aeaab2846d46",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "系統",
+        "ゲルマン",
+        "アングロ・フリジア"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:25.072Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/古英語": {
+    "page_id": "20221022_kixixixixi/英語の歴史/古英語",
+    "content_hash": "sha256:81232ff6450942a5bb5efea807f6503ac97453241ddf93343b76040d86a7ac32",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "5世紀",
+        "6世紀",
+        "7世紀",
+        "8世紀",
+        "9世紀",
+        "10世紀",
+        "11世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "古英語"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:25.174Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/ゲルマン人の流入": {
+    "page_id": "20221022_kixixixixi/英語の歴史/ゲルマン人の流入",
+    "content_hash": "sha256:03148c916780be75a10e183244e888af3fbd3d3475e837ab559d7a19eb928e55",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "5世紀"
+      ],
+      "entities": [
+        "ゲルマン",
+        "ローマ",
+        "アングル",
+        "サクソン",
+        "ジュート",
+        "ブリテン"
+      ],
+      "tags": [
+        "ゲルマン人の流入"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:25.259Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/アルフレッド大王の学芸保護政策": {
+    "page_id": "20221022_kixixixixi/英語の歴史/アルフレッド大王の学芸保護政策",
+    "content_hash": "sha256:8134ced625d42fa6fc03db74cbd2f6c198c72b493150c44423120a58b3095dfe",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "9世紀"
+      ],
+      "entities": [
+        "アルフレッド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:25.255Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/古ノルド語の流入": {
+    "page_id": "20221022_kixixixixi/英語の歴史/古ノルド語の流入",
+    "content_hash": "sha256:e250afb8cfda93fe61f6823764ad1ff9f638411e8a422defe1fa1ed9c998c66a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "8世紀",
+        "9世紀",
+        "10世紀",
+        "11世紀"
+      ],
+      "entities": [
+        "ノルド",
+        "デーン",
+        "デンマーク"
+      ],
+      "tags": [
+        "古ノルド語の流入"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:25.281Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/古英語の特徴": {
+    "page_id": "20221022_kixixixixi/英語の歴史/古英語の特徴",
+    "content_hash": "sha256:18b0ee9271dda217ed4b2528865997bd9b79fd35572ae4c24d757e95995f9a64",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "古英語の特徴",
+        "ケニング"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:25.386Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/中英語": {
+    "page_id": "20221022_kixixixixi/英語の歴史/中英語",
+    "content_hash": "sha256:09d60a5d0fa3b66ea3bec3d992610e010085de1d0616ff27a09692b911ab6a6c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀",
+        "15世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "中英語"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:25.481Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/フランス語の流入": {
+    "page_id": "20221022_kixixixixi/英語の歴史/フランス語の流入",
+    "content_hash": "sha256:693a2c4454ba4de8d3ed2f62f01fbf5fed2b87910f0d707287345e302e093e36",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "11世紀"
+      ],
+      "entities": [
+        "フランス",
+        "ノルマン・コンクエスト",
+        "ノルマン"
+      ],
+      "tags": [
+        "フランス語の流入",
+        "ゲルマン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:25.517Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/フランス語の流入-2": {
+    "page_id": "20221022_kixixixixi/英語の歴史/フランス語の流入-2",
+    "content_hash": "sha256:0c4fffebab6c5c4f6eaba6e4d13db9e072290c0ab330285a874fd5be26fd8239",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "13世紀",
+        "14世紀"
+      ],
+      "entities": [
+        "フランス",
+        "ノルマン",
+        "イギリス"
+      ],
+      "tags": [
+        "フランス語の流入 2",
+        "ルネサンス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:25.498Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/近代英語": {
+    "page_id": "20221022_kixixixixi/英語の歴史/近代英語",
+    "content_hash": "sha256:55cd43971b927a61c7ec4cbfa3fdb677ed59648fd02ab58642f67624aaeda5a7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀",
+        "17世紀",
+        "18世紀",
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "近代英語"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:25.576Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/発音の変化": {
+    "page_id": "20221022_kixixixixi/英語の歴史/発音の変化",
+    "content_hash": "sha256:2916e04bc8f4b7be38882d532564988546c92b89089cf89675e3d395c98ec8a9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀",
+        "16世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "発音の変化",
+        "発音の変化にあわせて改定する"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:25.680Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/ラテン語・ギリシャ語の流入": {
+    "page_id": "20221022_kixixixixi/英語の歴史/ラテン語・ギリシャ語の流入",
+    "content_hash": "sha256:c9511b5c43b2e64ca1da651d2a994a981f8e5adcf267fa5f9c9ab370a84f6c05",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀",
+        "17世紀"
+      ],
+      "entities": [
+        "ラテン",
+        "ギリシャ"
+      ],
+      "tags": [
+        "ラテン語・ギリシャ語の流入"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:25.707Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/フランス語の流入~2": {
+    "page_id": "20221022_kixixixixi/英語の歴史/フランス語の流入~2",
+    "content_hash": "sha256:a795996f1e28677df2f315436136ba646d645115d278fff4cf21c9cfef0eaa4a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "14世紀",
+        "15世紀",
+        "16世紀"
+      ],
+      "entities": [
+        "フランス"
+      ],
+      "tags": [
+        "フランス語の流入"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:25.754Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/大航海時代の影響": {
+    "page_id": "20221022_kixixixixi/英語の歴史/大航海時代の影響",
+    "content_hash": "sha256:c229bffba5f5c9a192df9efc6d384e2942420570aa473298c22449d6abe7adc2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "大航海時代の影響"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:25.842Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/現代英語": {
+    "page_id": "20221022_kixixixixi/英語の歴史/現代英語",
+    "content_hash": "sha256:0481154731ec0ad8ac1579a787cdaf708fa3c4b122c22a65bf664c1e743c1081",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "現代英語"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:25.889Z",
+    "model": "jev-1.13.0"
+  },
+  "20221022_kixixixixi/英語の歴史/英語はどこから来たのか": {
+    "page_id": "20221022_kixixixixi/英語の歴史/英語はどこから来たのか",
+    "content_hash": "sha256:1fee84ba11d73191b6dd3b13067498f179d30f6f45c2d91e43e070457d4e71a5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "コーカサス"
+      ],
+      "tags": [
+        "英語はどこから来たのか",
+        "インド・ヨーロッパ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:25.931Z",
+    "model": "jev-1.13.0"
+  }
+}

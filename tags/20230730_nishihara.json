@@ -1,0 +1,437 @@
+{
+  "20230730_nishihara/ツールドフランスハイライト/ツールドフランスハイライト": {
+    "page_id": "20230730_nishihara/ツールドフランスハイライト/ツールドフランスハイライト",
+    "content_hash": "sha256:74e382bf54a40a89f2c7402cc24f7b36ab64e37ee1e3ec5a352df69d63fafa49",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ツールドフランスハイライト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:34.711Z",
+    "model": "jev-1.13.0"
+  },
+  "20230730_nishihara/あらすじ/あらすじ": {
+    "page_id": "20230730_nishihara/あらすじ/あらすじ",
+    "content_hash": "sha256:a3b0ff60fd8602ccaf62082a37fd79ccf376c5e2d6e92da2d650faa62696db2c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:34.902Z",
+    "model": "jev-1.13.0"
+  },
+  "20230730_nishihara/今回のツールドフランス/今回のツールドフランス": {
+    "page_id": "20230730_nishihara/今回のツールドフランス/今回のツールドフランス",
+    "content_hash": "sha256:b709c883b1f2bbe6a99a2756023ae703d747a35d4c07104de5aec1959b6d079d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "今回のツールドフランス",
+        "ツールドフランス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:34.853Z",
+    "model": "jev-1.13.0"
+  },
+  "20230730_nishihara/コース/コース": {
+    "page_id": "20230730_nishihara/コース/コース",
+    "content_hash": "sha256:b71f9148a698b9b0506d87b7a4535385660ec9b0fada23bc3b6bbdc1c70f0e34",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:34.857Z",
+    "model": "jev-1.13.0"
+  },
+  "20230730_nishihara/今回の主役/今回の主役": {
+    "page_id": "20230730_nishihara/今回の主役/今回の主役",
+    "content_hash": "sha256:f07904d906642df7790854a133fe0e8256d931a2dcbfcd64cbc1b6fa364e2c9f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ヨナス・ヴィンゲゴー",
+        "タデイ・ポガチャル",
+        "ヤスペル・フィリプセン",
+        "ティボー・ピノ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:34.912Z",
+    "model": "jev-1.13.0"
+  },
+  "20230730_nishihara/ヨナス・ヴィンゲゴー(ユンボ)/ヨナス・ヴィンゲゴー(ユンボ)": {
+    "page_id": "20230730_nishihara/ヨナス・ヴィンゲゴー(ユンボ)/ヨナス・ヴィンゲゴー(ユンボ)",
+    "content_hash": "sha256:9c64058f79a307a27a546f79ab9dd2e9b5aebdeb8c348f612943d5075fc306c8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ヨナス・ヴィンゲゴー"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:35.091Z",
+    "model": "jev-1.13.0"
+  },
+  "20230730_nishihara/タデイ・ポガチャル(UAE)/タデイ・ポガチャル(UAE)": {
+    "page_id": "20230730_nishihara/タデイ・ポガチャル(UAE)/タデイ・ポガチャル(UAE)",
+    "content_hash": "sha256:fa65bbade71cd2f9e47f8715ba19a37429bf9033b83b2e23a658e1379ca47189",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "タデイ・ポガチャル"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:35.064Z",
+    "model": "jev-1.13.0"
+  },
+  "20230730_nishihara/ヤスペル・フィリプセン(アルペシン)/ヤスペル・フィリプセン(アルペシン)": {
+    "page_id": "20230730_nishihara/ヤスペル・フィリプセン(アルペシン)/ヤスペル・フィリプセン(アルペシン)",
+    "content_hash": "sha256:5eef1d27533ce40a3e52c30e11d8e70da4bc2657057cc29f9ac6f48ee41afda2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ヤスペル・フィリプセン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:35.129Z",
+    "model": "jev-1.13.0"
+  },
+  "20230730_nishihara/ティボー・ピノ(グルパマ)/ティボー・ピノ(グルパマ)": {
+    "page_id": "20230730_nishihara/ティボー・ピノ(グルパマ)/ティボー・ピノ(グルパマ)",
+    "content_hash": "sha256:bb2d9ea417b2a62ba57bfaaec4026f990c0880c46d9b280cdcb196cf4fa03b40",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ティボー・ピノ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:35.110Z",
+    "model": "jev-1.13.0"
+  },
+  "20230730_nishihara/レースをざっくりと1/レースをざっくりと1": {
+    "page_id": "20230730_nishihara/レースをざっくりと1/レースをざっくりと1",
+    "content_hash": "sha256:298e0245dbcf325dde288a6b152528448a66bec94daa33d2fac7e2367589921f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ジャイ・ヒンドレー",
+        "オーストラリア",
+        "ボーラ・ハンスグローエ",
+        "ヨナス・ヴィンゲゴー",
+        "デンマーク",
+        "ジュリオ・チッコーネ",
+        "イタリア",
+        "エマヌエル・ブッフマン",
+        "ドイツ",
+        "アダム・イェーツ",
+        "イギリス",
+        "タデイ・ポガチャル",
+        "スロベニア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:35.302Z",
+    "model": "jev-1.13.0"
+  },
+  "20230730_nishihara/レースをざっくりと2/レースをざっくりと2": {
+    "page_id": "20230730_nishihara/レースをざっくりと2/レースをざっくりと2",
+    "content_hash": "sha256:4feb63723d54785ddcbfb995a40a9ecd97ea9e5ad2bcb08c208b7365317be7d0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ヨナス・ヴィンゲゴー",
+        "デンマーク",
+        "タデイ・ポガチャル",
+        "スロベニア",
+        "カルロス・ロドリゲス",
+        "スペイン",
+        "アダム・イェーツ",
+        "イギリス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:35.297Z",
+    "model": "jev-1.13.0"
+  },
+  "20230730_nishihara/レースをざっくりと3/レースをざっくりと3": {
+    "page_id": "20230730_nishihara/レースをざっくりと3/レースをざっくりと3",
+    "content_hash": "sha256:9fa76a4c645324ab3463f8dcc62fec602455dc29ed0e9aff81d19921b2da0fe7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ヨナス・ヴィンゲゴー",
+        "デンマーク",
+        "タデイ・ポガチャル",
+        "スロベニア",
+        "アダム・イェーツ",
+        "イギリス",
+        "カルロス・ロドリゲス",
+        "スペイン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:35.314Z",
+    "model": "jev-1.13.0"
+  },
+  "20230730_nishihara/レースをざっくりと4/レースをざっくりと4": {
+    "page_id": "20230730_nishihara/レースをざっくりと4/レースをざっくりと4",
+    "content_hash": "sha256:8c963651ee9e59d57e9bd3894d4f2f1a1b0e7dd44af67919b5193013b2f886fe",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ヨナス・ヴィンゲゴー",
+        "デンマーク",
+        "タデイ・ポガチャル",
+        "スロベニア",
+        "アダム・イェーツ",
+        "イギリス",
+        "カルロス・ロドリゲス",
+        "スペイン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:35.342Z",
+    "model": "jev-1.13.0"
+  },
+  "20230730_nishihara/レースをざっくりと5/レースをざっくりと5": {
+    "page_id": "20230730_nishihara/レースをざっくりと5/レースをざっくりと5",
+    "content_hash": "sha256:de0c6ef9bfd204e5be958b99fff96bad7d20261e9de271b27b298eb5a63f72f8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ヨナス・ヴィンゲゴー",
+        "デンマーク",
+        "タデイ・ポガチャル",
+        "スロベニア",
+        "アダム・イェーツ",
+        "イギリス",
+        "サイモン・イェーツ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:35.545Z",
+    "model": "jev-1.13.0"
+  },
+  "20230730_nishihara/ハイライト/ハイライト": {
+    "page_id": "20230730_nishihara/ハイライト/ハイライト",
+    "content_hash": "sha256:b413dfa14561a12a513f4e8670771d795929c1688abf102a7fe65973d03343f0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "ヴィンゲゴー"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:35.501Z",
+    "model": "jev-1.13.0"
+  },
+  "20230730_nishihara/ハイライト/--ポガチャルの失速(17ステージ)": {
+    "page_id": "20230730_nishihara/ハイライト/--ポガチャルの失速(17ステージ)",
+    "content_hash": "sha256:4d23eda47da0509a8570f57e71d36a458bbdfd7546ac6aefc884dff585539c52",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:35.514Z",
+    "model": "jev-1.13.0"
+  },
+  "20230730_nishihara/ハイライト/![img](https:-pbs.twimg.com-media-F1aI5": {
+    "page_id": "20230730_nishihara/ハイライト/![img](https:-pbs.twimg.com-media-F1aI5",
+    "content_hash": "sha256:2a50b5c55fce66879dbd286c732e6adccedb262bcfab65a774afd464d93c434d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:35.567Z",
+    "model": "jev-1.13.0"
+  },
+  "20230730_nishihara/ハイライト/--ポガチャルの復活(20ステージ)": {
+    "page_id": "20230730_nishihara/ハイライト/--ポガチャルの復活(20ステージ)",
+    "content_hash": "sha256:40fbae24cbc89c89645853cfb4f40aa6c44b3842a738939149657e0e1460b784",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "- ポガチャルの復活",
+        "ポガチャル"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:35.715Z",
+    "model": "jev-1.13.0"
+  },
+  "20230730_nishihara/ハイライト/--最終ステージ(21ステージ)": {
+    "page_id": "20230730_nishihara/ハイライト/--最終ステージ(21ステージ)",
+    "content_hash": "sha256:470d5197b62c04ed634c68d868398d98bb06fbdb6d8fbad29a0b55cfdb67f96b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:35.722Z",
+    "model": "jev-1.13.0"
+  },
+  "20230730_nishihara/総評/総評": {
+    "page_id": "20230730_nishihara/総評/総評",
+    "content_hash": "sha256:ba49963dcbbdeadb8cf619fe011f313343589051d3ccae551651be2b773c5b55",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ヴィンゲゴー",
+        "ユンボ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:35.775Z",
+    "model": "jev-1.13.0"
+  },
+  "20230730_nishihara/ブエルタ/ブエルタ": {
+    "page_id": "20230730_nishihara/ブエルタ/ブエルタ",
+    "content_hash": "sha256:70e74288a32266c49c8482d325493627e87a17ffebf2af8deb13847ccd0a456c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ブエルタ",
+        "ログリッチ",
+        "レムコ・エヴェネプール"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:35.790Z",
+    "model": "jev-1.13.0"
+  }
+}

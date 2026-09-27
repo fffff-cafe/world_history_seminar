@@ -1,0 +1,455 @@
+{
+  "20240922_kixixixixi/ウイスキーの歴史/ウイスキーの歴史": {
+    "page_id": "20240922_kixixixixi/ウイスキーの歴史/ウイスキーの歴史",
+    "content_hash": "sha256:5002d9595c218a2a9363ec9325d9fb6fd6a1e00c9edf159286f5d4d7b60e7fff",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ウイスキーの歴史",
+        "ウイスキー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:05.106Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_kixixixixi/ウイスキーの定義/ウイスキーの定義": {
+    "page_id": "20240922_kixixixixi/ウイスキーの定義/ウイスキーの定義",
+    "content_hash": "sha256:651f859819ec8b441d671a55f76d0d5b30a6044233a30b94c59d5c03fc38427c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ウイスキーの定義",
+        "ウイスキー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:05.093Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_kixixixixi/生産地によるウイスキーの種類/生産地によるウイスキーの種類": {
+    "page_id": "20240922_kixixixixi/生産地によるウイスキーの種類/生産地によるウイスキーの種類",
+    "content_hash": "sha256:b1cc3dd3d92e69c038faa2e5be736e765ed560e90516104abc8c36452b0b181c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "スコッチ",
+        "アイリッシュ",
+        "アメリカン",
+        "カナディアン",
+        "ジャパニーズ",
+        "インディアン"
+      ],
+      "tags": [
+        "生産地によるウイスキーの種類",
+        "ウイスキー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:05.184Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_kixixixixi/生産量の多いウイスキーは-/生産量の多いウイスキーは-": {
+    "page_id": "20240922_kixixixixi/生産量の多いウイスキーは-/生産量の多いウイスキーは-",
+    "content_hash": "sha256:a7219e532e2272e3e185c9fcc603c6805568e81ed9f92b7e3ce573c0b01e469a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ウイスキー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:05.280Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_kixixixixi/生産量ランキング/生産量ランキング": {
+    "page_id": "20240922_kixixixixi/生産量ランキング/生産量ランキング",
+    "content_hash": "sha256:eb93be3f4a39fe41a485aad6f2299118786f3a24e40ab9a44a9bd8ec63491180",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "インド",
+        "スコットランド",
+        "アメリカ",
+        "カナダ",
+        "アイルランド"
+      ],
+      "tags": [
+        "生産量ランキング",
+        "ランキング"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:05.307Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_kixixixixi/原料によるウイスキーの種類/原料によるウイスキーの種類": {
+    "page_id": "20240922_kixixixixi/原料によるウイスキーの種類/原料によるウイスキーの種類",
+    "content_hash": "sha256:1e7248b1af3804635de5dc5bfec106b1ddf40eac5a3b740f5a936ea4acaf85f0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "原料によるウイスキーの種類",
+        "ウイスキー",
+        "モルト",
+        "グレーン",
+        "ブレンデッド"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:05.311Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_kixixixixi/モルトウイスキー/モルトウイスキー": {
+    "page_id": "20240922_kixixixixi/モルトウイスキー/モルトウイスキー",
+    "content_hash": "sha256:9afaa190445b241167c16cd7ef14796b64186f6476fbc9edb490e47d5b8cbd74",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "モルトウイスキー",
+        "ウイスキー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:05.429Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_kixixixixi/グレーンウイスキー/グレーンウイスキー": {
+    "page_id": "20240922_kixixixixi/グレーンウイスキー/グレーンウイスキー",
+    "content_hash": "sha256:8d4ae05a4a0ffec6f7a7eb056816479676b75c38eaa64c47d0fb93b8ef185d43",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "グレーンウイスキー",
+        "ウイスキー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:05.488Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_kixixixixi/ブレンデッドウイスキー/ブレンデッドウイスキー": {
+    "page_id": "20240922_kixixixixi/ブレンデッドウイスキー/ブレンデッドウイスキー",
+    "content_hash": "sha256:584bb9383bcde4a88239b5f382f69fde8834335dd6d178dd442091178304dee5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ブレンデッドウイスキー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:05.517Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_kixixixixi/蒸留の起源/蒸留の起源": {
+    "page_id": "20240922_kixixixixi/蒸留の起源/蒸留の起源",
+    "content_hash": "sha256:bb7fa3b81d1f3737e128d40466d6e6dce41967edd6b63f4383ffef75c6ac2550",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "4世紀"
+      ],
+      "entities": [
+        "メソポタミア",
+        "ローマ",
+        "アレクサンドリア"
+      ],
+      "tags": [
+        "蒸留の起源",
+        "アクアヴィテ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:05.541Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_kixixixixi/whiskey-と-wshisky/whiskey-と-wshisky": {
+    "page_id": "20240922_kixixixixi/whiskey-と-wshisky/whiskey-と-wshisky",
+    "content_hash": "sha256:273e58d7bad00089ad3bb32e87bf12e5ab699fad94b9f3a35ba5d55a20034132",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:05.634Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_kixixixixi/ウイスキーの起源/ウイスキーの起源": {
+    "page_id": "20240922_kixixixixi/ウイスキーの起源/ウイスキーの起源",
+    "content_hash": "sha256:1661d05ba971f9f624f18f2d5972faa8be84bf9bea8ddcc19e3e107c0ea35377",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "15世紀",
+        "16世紀",
+        "17世紀"
+      ],
+      "entities": [
+        "アイルランド",
+        "スコットランド",
+        "ジョン・コー"
+      ],
+      "tags": [
+        "ウイスキーの起源",
+        "ウイスキー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:05.702Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_kixixixixi/初期のウイスキー/初期のウイスキー": {
+    "page_id": "20240922_kixixixixi/初期のウイスキー/初期のウイスキー",
+    "content_hash": "sha256:9ad69d56372dc040067c97108548c3d4a13006c1c59cf9141005055893e74786",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "初期のウイスキー",
+        "ウイスキー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:05.706Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_kixixixixi/密造時代/密造時代": {
+    "page_id": "20240922_kixixixixi/密造時代/密造時代",
+    "content_hash": "sha256:d4a585eb947862b6ebc87074a6579e5b71c573c63838e10e0ba5650ceea50fa3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "18世紀",
+        "19世紀"
+      ],
+      "entities": [
+        "マッカラン"
+      ],
+      "tags": [
+        "密造時代",
+        "ウイスキー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:05.771Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_kixixixixi/ブレンデッドウイスキーのはじまり/ブレンデッドウイスキーのはじまり": {
+    "page_id": "20240922_kixixixixi/ブレンデッドウイスキーのはじまり/ブレンデッドウイスキーのはじまり",
+    "content_hash": "sha256:e4015125c4bc787562325ca8b666613e9146ada4480ab3959723d6e869175ad0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "アンドリューアッシャー"
+      ],
+      "tags": [
+        "ブレンデッドウイスキーのはじまり",
+        "ブレンデッドウイスキー",
+        "グレーンウイスキー",
+        "ブレンド",
+        "ブレンデッド"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:05.888Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_kixixixixi/普及/普及": {
+    "page_id": "20240922_kixixixixi/普及/普及",
+    "content_hash": "sha256:bdcc0afbdf1428a869a70e0862f3d3fc24104de973e8ceedc5b76c1b03bfa9a0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "普及",
+        "ウイスキー",
+        "ブーム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:05.904Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_kixixixixi/スコッチウイスキー/スコッチウイスキー": {
+    "page_id": "20240922_kixixixixi/スコッチウイスキー/スコッチウイスキー",
+    "content_hash": "sha256:6124d356be3996e3829ba7c052e1a1aa368e53d45c8ce263d0418859594083dd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "スコッチウイスキー",
+        "ローランド",
+        "ハイランド",
+        "スペイサイド",
+        "アイラ",
+        "アイランズ",
+        "キャンベルタウン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:05.949Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_kixixixixi/アイリッシュウイスキー/アイリッシュウイスキー": {
+    "page_id": "20240922_kixixixixi/アイリッシュウイスキー/アイリッシュウイスキー",
+    "content_hash": "sha256:5268c8313900621d091dfb1d9b95aebdf18db06547fc27e51cdd5729d9c4f174",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [
+        "アイリッシュウイスキー",
+        "アイルランド",
+        "パワーズ",
+        "コーク"
+      ],
+      "tags": [
+        "ポットスチルウイスキー",
+        "クラフトブーム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:05.969Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_kixixixixi/アメリカンウイスキー/アメリカンウイスキー": {
+    "page_id": "20240922_kixixixixi/アメリカンウイスキー/アメリカンウイスキー",
+    "content_hash": "sha256:6b98b7d21235e01cb57fd6c963930fa211395f9c2b8115d10f37e8d30039054f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "アメリカンウイスキー",
+        "ウィスキー",
+        "ウイスキー",
+        "ケンタッキー",
+        "テネシー",
+        "バーボン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:06.095Z",
+    "model": "jev-1.13.0"
+  },
+  "20240922_kixixixixi/カナディアンウイスキー/カナディアンウイスキー": {
+    "page_id": "20240922_kixixixixi/カナディアンウイスキー/カナディアンウイスキー",
+    "content_hash": "sha256:fa8e8df9c7b2e80914c2acef2930717768feb192540896eb0313a24f18ec19d5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "カナディアンウイスキー",
+        "ウィスキー",
+        "カナダ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:06.100Z",
+    "model": "jev-1.13.0"
+  }
+}

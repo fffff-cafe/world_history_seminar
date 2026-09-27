@@ -1,0 +1,644 @@
+{
+  "20260927_kixixixixi/電気の歴史/電気の歴史": {
+    "page_id": "20260927_kixixixixi/電気の歴史/電気の歴史",
+    "content_hash": "sha256:deee30d83c0f6c0f03e7bcb2ae419b0f4617d7129fe9abcdd93a54d8b659825a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "電気の歴史"
+      ]
+    },
+    "processed_at": "2026-09-27T07:45:20.343Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/電気とは-": {
+    "page_id": "20260927_kixixixixi/電気の歴史/電気とは-",
+    "content_hash": "sha256:138582b24fc4265a8943d3e5a3de97ac6333d0e541c56a9e677e9def99026236",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "電気とは?"
+      ]
+    },
+    "processed_at": "2026-09-27T07:45:20.383Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/電子・電流・電圧・電荷・電場・電力の違い": {
+    "page_id": "20260927_kixixixixi/電気の歴史/電子・電流・電圧・電荷・電場・電力の違い",
+    "content_hash": "sha256:28da47985734fa5b790f41070709801265edb7281f0fe11bd6985130b566927d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "電流",
+        "電力"
+      ]
+    },
+    "processed_at": "2026-09-27T07:45:20.389Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/電気の発見": {
+    "page_id": "20260927_kixixixixi/電気の歴史/電気の発見",
+    "content_hash": "sha256:37334ce315a9a0794ac503cd11ffebb594e857f4607910003d69d9a37dafd9ec",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "ギリシャ",
+        "タレス"
+      ],
+      "tags": [
+        "電気の発見"
+      ]
+    },
+    "processed_at": "2026-09-27T07:45:20.395Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/電気という言葉": {
+    "page_id": "20260927_kixixixixi/電気の歴史/電気という言葉",
+    "content_hash": "sha256:403a328970952872dc58e74900460ffc2ec16e05057609c45e0b63a1275f271c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "ウィリアム・ギルバート"
+      ],
+      "tags": [
+        "電気という言葉"
+      ]
+    },
+    "processed_at": "2026-09-27T07:45:20.579Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/静電気から電気へ": {
+    "page_id": "20260927_kixixixixi/電気の歴史/静電気から電気へ",
+    "content_hash": "sha256:46ff46aacbdaa03e791b80743715fb0b00bff6d865f7ddb17420df6d47899db5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "ベンジャミン・フランクリン"
+      ],
+      "tags": [
+        "静電気から電気へ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:39.111Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/電荷を測る": {
+    "page_id": "20260927_kixixixixi/電気の歴史/電荷を測る",
+    "content_hash": "sha256:442bd8e491850245ae807213d1046a0f04d795a4d98389a67c99d3e7eb02c73a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "クーロン"
+      ],
+      "tags": [
+        "電荷を測る"
+      ]
+    },
+    "processed_at": "2026-09-27T07:45:20.573Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/電池の発明": {
+    "page_id": "20260927_kixixixixi/電気の歴史/電池の発明",
+    "content_hash": "sha256:1176b38c8caedc8e07f45cd14218f870868bc1f16b84d075e7dab81b3f02c14f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀",
+        "19世紀"
+      ],
+      "entities": [
+        "ガルバーニ",
+        "ボルタ"
+      ],
+      "tags": [
+        "電池の発明",
+        "動物電気"
+      ]
+    },
+    "processed_at": "2026-09-27T07:45:20.576Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/電気と磁気": {
+    "page_id": "20260927_kixixixixi/電気の歴史/電気と磁気",
+    "content_hash": "sha256:c4d0204e2e4355ceffa1f903c8b7ba372f4e987d0d88edf2f5f38e63f7bc7f2f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "エルステッド",
+        "アンペール"
+      ],
+      "tags": [
+        "電気と磁気"
+      ]
+    },
+    "processed_at": "2026-09-27T07:45:20.582Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/電気を回路として理解する": {
+    "page_id": "20260927_kixixixixi/電気の歴史/電気を回路として理解する",
+    "content_hash": "sha256:0ea964829a2fba6ca01a3bcbe58d448055ef48d86dbb249d5390753c947d3c5b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "電気を回路として理解する",
+        "オーム"
+      ]
+    },
+    "processed_at": "2026-09-27T07:45:20.748Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/電磁誘導と発電": {
+    "page_id": "20260927_kixixixixi/電気の歴史/電磁誘導と発電",
+    "content_hash": "sha256:1fb04f6798562021a8ecb9174fa2daf9b6f188a1bca8e65404cde5287893b534",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "ファラデー"
+      ],
+      "tags": [
+        "電磁誘導と発電"
+      ]
+    },
+    "processed_at": "2026-09-27T07:45:20.745Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/電気エネルギー": {
+    "page_id": "20260927_kixixixixi/電気の歴史/電気エネルギー",
+    "content_hash": "sha256:085cf48bbc21816ab377e94b5ddc4a3c71ccd8dbe9f4ad02fc47ca023078b892",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "電気エネルギー",
+        "エネルギー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:39.342Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/電磁気学の完成": {
+    "page_id": "20260927_kixixixixi/電気の歴史/電磁気学の完成",
+    "content_hash": "sha256:a5d214ee861c68c4edf88157ba2ae9e5f346c06a4cd797c3018e73489f3dca0e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "マクスウェル"
+      ],
+      "tags": [
+        "電磁気学の完成",
+        "電磁気学"
+      ]
+    },
+    "processed_at": "2026-09-27T07:45:20.769Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/電気の実用化": {
+    "page_id": "20260927_kixixixixi/電気の歴史/電気の実用化",
+    "content_hash": "sha256:873a2573fe91d03674e26960dcd1438c745ac563a83c5ddf2c59a03e429c22e0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "グラム",
+        "エジソン"
+      ],
+      "tags": [
+        "電気の実用化",
+        "インフラ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:39.579Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/電磁波と無線通信": {
+    "page_id": "20260927_kixixixixi/電気の歴史/電磁波と無線通信",
+    "content_hash": "sha256:9c0c96c6b018575022ff7a7e2888007a74c52fa1fc4a06b512844126582ef5af",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "ヘルツ",
+        "マルコーニ"
+      ],
+      "tags": [
+        "電磁波と無線通信"
+      ]
+    },
+    "processed_at": "2026-09-27T07:45:20.759Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/電子の発見": {
+    "page_id": "20260927_kixixixixi/電気の歴史/電子の発見",
+    "content_hash": "sha256:85edaf18764af1b80016fcacff90bc705d528e78e0cb1babd7bf560402fc9d0a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "トムソン"
+      ],
+      "tags": [
+        "電子の発見",
+        "電子",
+        "電気"
+      ]
+    },
+    "processed_at": "2026-09-27T07:45:20.929Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/真空管": {
+    "page_id": "20260927_kixixixixi/電気の歴史/真空管",
+    "content_hash": "sha256:1745555e7e39fbc8a66b297528786994e6f158827891d65b1bdf466c1f37a75d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "真空管",
+        "電子の流れを制御する"
+      ]
+    },
+    "processed_at": "2026-09-27T07:45:20.967Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/半導体": {
+    "page_id": "20260927_kixixixixi/電気の歴史/半導体",
+    "content_hash": "sha256:30edab45df74d092540a621f391ac2b8b93d38b50a837b748d6100c3e8978abd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "半導体"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:39.781Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/トランジスタ": {
+    "page_id": "20260927_kixixixixi/電気の歴史/トランジスタ",
+    "content_hash": "sha256:d609fbf37ba56bf20e07385ff725e91eda26f6cef938654aed1287a216a0f729",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ジョン・バーディーン",
+        "ウォルター・ブラッテン",
+        "ウィリアム・ショックレー"
+      ],
+      "tags": [
+        "トランジスタ"
+      ]
+    },
+    "processed_at": "2026-09-27T07:45:20.970Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/シリコンと半導体産業": {
+    "page_id": "20260927_kixixixixi/電気の歴史/シリコンと半導体産業",
+    "content_hash": "sha256:057b120875248ce3ce4a75ee0eb5f51a5940dce1baec54298d39bff17b0cd3fb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "シリコンと半導体産業",
+        "シリコン",
+        "シリコン・トランジスタ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:39.798Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/集積回路(IC)": {
+    "page_id": "20260927_kixixixixi/電気の歴史/集積回路(IC)",
+    "content_hash": "sha256:5e53798c8f1c0b6c917b02212864dfe85e46beac2a94e162657aac70ef9f5f92",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ジャック・キルビー",
+        "ロバート・ノイス"
+      ],
+      "tags": [
+        "集積回路"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:39.855Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/MOSFET": {
+    "page_id": "20260927_kixixixixi/電気の歴史/MOSFET",
+    "content_hash": "sha256:9d6fc4bda29413722c81c6e8827515956d0f63906e90aed2ac98dc9ded4360e4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "モハメド・アタラ",
+        "ダウォン・カーン"
+      ],
+      "tags": [
+        "MOSFET"
+      ]
+    },
+    "processed_at": "2026-09-27T07:45:20.944Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/デジタル回路": {
+    "page_id": "20260927_kixixixixi/電気の歴史/デジタル回路",
+    "content_hash": "sha256:7022acf87df21d6de153fc95113bbd751abe6d1c5c1c47611f9ef25dfcc9b3ad",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "デジタル回路",
+        "デジタル",
+        "ゲート"
+      ]
+    },
+    "processed_at": "2026-09-27T07:45:21.134Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/マイクロプロセッサ": {
+    "page_id": "20260927_kixixixixi/電気の歴史/マイクロプロセッサ",
+    "content_hash": "sha256:89af6b75fe487b1eeec0224282cb09b32d238f6e94371d8b0cb225aa36020495",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "マイクロプロセッサ"
+      ]
+    },
+    "processed_at": "2026-09-27T07:45:21.136Z",
+    "model": "jev-1.13.0"
+  },
+  "20260927_kixixixixi/電気の歴史/現代までの進歩": {
+    "page_id": "20260927_kixixixixi/電気の歴史/現代までの進歩",
+    "content_hash": "sha256:6557bbb415c3304bed1807cadeb159d0e44d44772276414294a78a87239269b5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [
+        "1971年 Intel 4004",
+        "ゴードン・ムーア",
+        "ムーア"
+      ],
+      "tags": [
+        "現代までの進歩",
+        "集積回路のトランジスタ数は一定期間ごとに倍増する",
+        "トランジスタ",
+        "パソコン",
+        "インターネット"
+      ]
+    },
+    "processed_at": "2026-09-27T07:45:21.175Z",
+    "model": "jev-1.13.0"
+  }
+}

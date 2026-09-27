@@ -1,0 +1,612 @@
+{
+  "20240721_kixixixixi/為替の歴史/為替の歴史": {
+    "page_id": "20240721_kixixixixi/為替の歴史/為替の歴史",
+    "content_hash": "sha256:8f25c09121d9113b6111c972c9a8640bda68b7470e29141d9444e4411facb236",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "為替の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:00.194Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/為替とは/為替とは": {
+    "page_id": "20240721_kixixixixi/為替とは/為替とは",
+    "content_hash": "sha256:a0f9d70262d96cb37c4618c1f272aae8c15e3da4ea87630cde105882e4d985ba",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "為替とは"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:00.237Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/外国為替/外国為替": {
+    "page_id": "20240721_kixixixixi/外国為替/外国為替",
+    "content_hash": "sha256:90107c6bdbcc0caf3568966c6b488eed0713373135136428df192f4ad51920d6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "外国為替",
+        "普段よく聞く為替は「外国為替」"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:00.306Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/内国為替/内国為替": {
+    "page_id": "20240721_kixixixixi/内国為替/内国為替",
+    "content_hash": "sha256:d79aa9ae21f0689ab56a67c8a635cf7a4011d6a232e4b536eaaf8ae64e0b9a2e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "内国為替",
+        "システム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:00.329Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/為替の歴史/為替の歴史~2": {
+    "page_id": "20240721_kixixixixi/為替の歴史/為替の歴史~2",
+    "content_hash": "sha256:dfaf9df201bc2c5cecfb8447fa85a4a24138993328c161f160b2e1ff4d709752",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "為替の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:00.392Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/前日譚/前日譚": {
+    "page_id": "20240721_kixixixixi/前日譚/前日譚",
+    "content_hash": "sha256:784a824b9026bc736db1de338b261d9e42f0817d95fc14c2b17c7217be529fc5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:00.467Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/金本位制/金本位制": {
+    "page_id": "20240721_kixixixixi/金本位制/金本位制",
+    "content_hash": "sha256:2a21612b2e55a60b6bee529847e7298594c10dc60026202c8293201b4a6061b4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "金本位制"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:00.508Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/第一次世界大戦/第一次世界大戦": {
+    "page_id": "20240721_kixixixixi/第一次世界大戦/第一次世界大戦",
+    "content_hash": "sha256:5471c2008edd85f5a6123c41ae48a8c76e9f70f07b6ab0b480515cd23ff8cb16",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "第一次世界大戦"
+      ],
+      "tags": [
+        "レート"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:00.529Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/第一次世界大戦後/第一次世界大戦後": {
+    "page_id": "20240721_kixixixixi/第一次世界大戦後/第一次世界大戦後",
+    "content_hash": "sha256:bf65e3f8fb4a7caa77f771c4c7c3022c580026f769617327318a44fac95404b1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "第一次世界大戦後",
+        "アメリカ",
+        "イギリス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:00.608Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/世界恐慌/世界恐慌": {
+    "page_id": "20240721_kixixixixi/世界恐慌/世界恐慌",
+    "content_hash": "sha256:558337ae7edd08ecfbe2268a13bbb363a21c46b126865702d2bbcce342cdf1a6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "世界恐慌"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:00.679Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/ブロック経済/ブロック経済": {
+    "page_id": "20240721_kixixixixi/ブロック経済/ブロック経済",
+    "content_hash": "sha256:489250a0130f028af49a8e830811d7d2a529be8ce0a6b5a0d7a4dabf7d8d25fb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "イギリス",
+        "フランブロック"
+      ],
+      "tags": [
+        "ブロック経済",
+        "ブロック"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:00.747Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/通貨安(切り下げ)競争/通貨安(切り下げ)競争": {
+    "page_id": "20240721_kixixixixi/通貨安(切り下げ)競争/通貨安(切り下げ)競争",
+    "content_hash": "sha256:9eb4789fcc1acc2de038ed0897c391998e2ff2866727f33d3e7ba5fc94554668",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "通貨安競争"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:00.722Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/ブレトンウッズ体制/ブレトンウッズ体制": {
+    "page_id": "20240721_kixixixixi/ブレトンウッズ体制/ブレトンウッズ体制",
+    "content_hash": "sha256:1a86c872eec00d801231eccad4a28e0ca6889cc773f9605764aa6cb83d2fa2e2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "アメリカ"
+      ],
+      "tags": [
+        "ブレトンウッズ体制",
+        "ブレトンウッズ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:00.857Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/ニクソンショック/ニクソンショック": {
+    "page_id": "20240721_kixixixixi/ニクソンショック/ニクソンショック",
+    "content_hash": "sha256:5e11ca2189a10d885cdf7d217ec9d839a89ae8e734062f39aaca39e57522329b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ニクソンショック"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:00.882Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/スミソニアン体制/スミソニアン体制": {
+    "page_id": "20240721_kixixixixi/スミソニアン体制/スミソニアン体制",
+    "content_hash": "sha256:f865b55d3d45d1f87a48e5a532fedda0ebba4c942a925e67b25012f53392cbe5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "スミソニアン体制",
+        "スミソニアン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:00.939Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/変動為替相場制/変動為替相場制": {
+    "page_id": "20240721_kixixixixi/変動為替相場制/変動為替相場制",
+    "content_hash": "sha256:3c90eaa5e0683ad4e91e31f28f1529a215f0662b64cd841de549411ed8eb9cb8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "カーター",
+        "レーガン"
+      ],
+      "tags": [
+        "変動為替相場制"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:00.982Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/プラザ合意/プラザ合意": {
+    "page_id": "20240721_kixixixixi/プラザ合意/プラザ合意",
+    "content_hash": "sha256:9fdd7167d444412d0a231c46716357169441c7dc60f72b480012110bbc465cec",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "プラザ合意",
+        "プラザ",
+        "アメリカ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:01.072Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/ルーブル合意/ルーブル合意": {
+    "page_id": "20240721_kixixixixi/ルーブル合意/ルーブル合意",
+    "content_hash": "sha256:2df2e76a7c3356f82a7295fab79798bab233b3828899d0ec10dd2db2b3153727",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "外交",
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ルーブル合意",
+        "ルーブル"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:01.150Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/クリスマス合意/クリスマス合意": {
+    "page_id": "20240721_kixixixixi/クリスマス合意/クリスマス合意",
+    "content_hash": "sha256:064b9f9bc540e6e43588c630a85e5ad294ca49ab736dbe75c4a61ecbc46760af",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "クリスマス合意",
+        "クリスマス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:01.146Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/クリスマス合意/<img-src=\"https:-www.smd-am.co.jp-libra": {
+    "page_id": "20240721_kixixixixi/クリスマス合意/<img-src=\"https:-www.smd-am.co.jp-libra",
+    "content_hash": "sha256:195185d053146d4c93fc4cd1e249f24618cadc7fcdd5f2e6b24d55b930a1c1e3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:01.214Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/アジア通貨危機/アジア通貨危機": {
+    "page_id": "20240721_kixixixixi/アジア通貨危機/アジア通貨危機",
+    "content_hash": "sha256:46b86bb2a02a1268d13f0a6c83ad38ffcd9e56836bcf3c3f5e57bfcdfc6c450c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "アジア通貨危機",
+        "アジア",
+        "マレーシア",
+        "インドネシア"
+      ],
+      "tags": [
+        "ドルペッグ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:01.292Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/ロシア危機/ロシア危機": {
+    "page_id": "20240721_kixixixixi/ロシア危機/ロシア危機",
+    "content_hash": "sha256:fe8699bba9bea0430f63924e453fb448598a1dc9bb236b0f2340cd6adacd009a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ロシア危機",
+        "ロシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:01.351Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/ユーロ-ギリシャ危機-ユーロ危機/ユーロ-ギリシャ危機-ユーロ危機": {
+    "page_id": "20240721_kixixixixi/ユーロ-ギリシャ危機-ユーロ危機/ユーロ-ギリシャ危機-ユーロ危機",
+    "content_hash": "sha256:e7e5034dfd92712bf3ff193c891a19abb3a5d264d9f3dac84ab53e7a239c3f1f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ユーロ / ギリシャ危機 / ユーロ危機",
+        "ユーロ",
+        "ギリシャ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:01.352Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/リーマンショック/リーマンショック": {
+    "page_id": "20240721_kixixixixi/リーマンショック/リーマンショック",
+    "content_hash": "sha256:6e06cb0fd65b67e3bdac6dd318562ed2a2d57043006ac85fec456edf8608f42b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "リーマンショック"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:01.453Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/アベノミクス/アベノミクス": {
+    "page_id": "20240721_kixixixixi/アベノミクス/アベノミクス",
+    "content_hash": "sha256:907c53f0300a7c0bb52d5bf17169b48c948e554b6fed644827f0d559203e606c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "アベノミクス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:01.483Z",
+    "model": "jev-1.13.0"
+  },
+  "20240721_kixixixixi/現在のドル高/現在のドル高": {
+    "page_id": "20240721_kixixixixi/現在のドル高/現在のドル高",
+    "content_hash": "sha256:4ce11f139dd00f7440acddf8a2deb3dd0937ef87f08d837832a4e73ff5912b92",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "現在のドル高"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:01.547Z",
+    "model": "jev-1.13.0"
+  }
+}

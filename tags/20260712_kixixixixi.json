@@ -1,0 +1,218 @@
+{
+  "20260712_kixixixixi/ラテン語の歴史/ラテン語の歴史": {
+    "page_id": "20260712_kixixixixi/ラテン語の歴史/ラテン語の歴史",
+    "content_hash": "sha256:e30500a48cd589f0096723e642bbeece04711aff4f9a9b61e668ac42c7fece96",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ラテン語の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:38.377Z",
+    "model": "jev-1.13.0"
+  },
+  "20260712_kixixixixi/ラテン語の歴史/ラテンとは-": {
+    "page_id": "20260712_kixixixixi/ラテン語の歴史/ラテンとは-",
+    "content_hash": "sha256:6077d9cc0d295beb5864e361c5d3537bb38eb0245632e5509aab4bd8eb0bdbb1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ラテンとは?",
+        "ラテン",
+        "ラティウム",
+        "ローマ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:38.450Z",
+    "model": "jev-1.13.0"
+  },
+  "20260712_kixixixixi/ラテン語の歴史/ラテン語の特徴": {
+    "page_id": "20260712_kixixixixi/ラテン語の歴史/ラテン語の特徴",
+    "content_hash": "sha256:7bc29c32458c77ba46a341fbe29c424c50cf6c1d6189d604891844a335f003d4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ラテン語の特徴",
+        "イタリック"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:38.487Z",
+    "model": "jev-1.13.0"
+  },
+  "20260712_kixixixixi/ラテン語の歴史/ラテン語の広まり": {
+    "page_id": "20260712_kixixixixi/ラテン語の歴史/ラテン語の広まり",
+    "content_hash": "sha256:34c13e146914df9741800c47fd490d961ec990f34aee587d9cb03010736dd5fe",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "ラテン",
+        "カロリング",
+        "ローマ"
+      ],
+      "tags": [
+        "ラテン語の広まり",
+        "カロリング・ルネサンス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:38.529Z",
+    "model": "jev-1.13.0"
+  },
+  "20260712_kixixixixi/ラテン語の歴史/キリスト教とラテン語": {
+    "page_id": "20260712_kixixixixi/ラテン語の歴史/キリスト教とラテン語",
+    "content_hash": "sha256:3a5af514f7e8daf861fc89fae22ea4ac4d1e45d72ce6b233eb425d02b707671b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "4世紀"
+      ],
+      "entities": [
+        "ウルガタ"
+      ],
+      "tags": [
+        "キリスト教とラテン語",
+        "キリスト",
+        "ラテン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:38.586Z",
+    "model": "jev-1.13.0"
+  },
+  "20260712_kixixixixi/ラテン語の歴史/ラテン語からラテン系言語へ": {
+    "page_id": "20260712_kixixixixi/ラテン語の歴史/ラテン語からラテン系言語へ",
+    "content_hash": "sha256:055b0f6e813e4363714487bab3c519cfa19dd13055dce3848ab1a7df53791f79",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "5世紀",
+        "6世紀",
+        "7世紀",
+        "8世紀",
+        "9世紀",
+        "10世紀",
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀",
+        "15世紀",
+        "16世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "ラテン語からラテン系言語へ",
+        "ラテン",
+        "ロマンス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:38.648Z",
+    "model": "jev-1.13.0"
+  },
+  "20260712_kixixixixi/ラテン語の歴史/ラテン語とギリシャ語": {
+    "page_id": "20260712_kixixixixi/ラテン語の歴史/ラテン語とギリシャ語",
+    "content_hash": "sha256:ccb8039efc9e3e989217ec4c53577b3268a91e2c67017a89ec023b8c9fd66775",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ラテン語とギリシャ語",
+        "ラテン",
+        "ギリシャ"
+      ],
+      "tags": [
+        "バイリンガル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:38.709Z",
+    "model": "jev-1.13.0"
+  },
+  "20260712_kixixixixi/ラテン語の歴史/ラテン語とゲルマン語": {
+    "page_id": "20260712_kixixixixi/ラテン語の歴史/ラテン語とゲルマン語",
+    "content_hash": "sha256:eac0d0ea6e6927c9cd865e9afeffa9b4d58a74631bd2beb4f5ec5ea4249e10ae",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [],
+      "entities": [
+        "ゲルマン",
+        "ローマ",
+        "フランク"
+      ],
+      "tags": [
+        "ラテン語とゲルマン語",
+        "ラテン語からゲルマン語へ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:38.734Z",
+    "model": "jev-1.13.0"
+  },
+  "20260712_kixixixixi/ラテン語の歴史/今も残るラテン語": {
+    "page_id": "20260712_kixixixixi/ラテン語の歴史/今も残るラテン語",
+    "content_hash": "sha256:8648614583e2711a895a2cbb803e84a3a4c570ee6a1c21ed273dba9df2a860d5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "バチカン"
+      ],
+      "tags": [
+        "今も残るラテン語",
+        "ラテン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:38.813Z",
+    "model": "jev-1.13.0"
+  }
+}

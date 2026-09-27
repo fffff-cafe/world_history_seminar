@@ -1,0 +1,176 @@
+{
+  "20211219_kixixixixi/メキシコの歴史-2/メキシコの歴史-2": {
+    "page_id": "20211219_kixixixixi/メキシコの歴史-2/メキシコの歴史-2",
+    "content_hash": "sha256:08e0edc6af8630639f7084202c81904aa906e7dfde73fdd9eaa099ba3087c601",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "メキシコの歴史 2",
+        "メキシコ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:02.051Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_kixixixixi/目次/目次": {
+    "page_id": "20211219_kixixixixi/目次/目次",
+    "content_hash": "sha256:479b3e4c3634e2383793a27a17dbeec903f9e2b59f3657317cd1bb294a4f5b6e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "メキシコ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:02.055Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_kixixixixi/スペイン入植/スペイン入植": {
+    "page_id": "20211219_kixixixixi/スペイン入植/スペイン入植",
+    "content_hash": "sha256:2d0bbd8d1bae0d4292ef27f623f0850a4a6d6aca06348716c1ec6a19425443b6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [
+        "スペイン",
+        "エルナン・コルテス",
+        "ユカタン",
+        "コルテス",
+        "サン・フアン・デ・ウルア",
+        "アステカ",
+        "ベラクルス"
+      ],
+      "tags": [
+        "スペイン入植"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:02.161Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_kixixixixi/スペイン入植/アステカと敵対していたトラスカラ王国と戦闘になり、勝利すると和睦を結びトラスカラ": {
+    "page_id": "20211219_kixixixixi/スペイン入植/アステカと敵対していたトラスカラ王国と戦闘になり、勝利すると和睦を結びトラスカラ",
+    "content_hash": "sha256:a7d7a2d4ecc706d4953f518e12b8b78d239c5c729c4ea1f219548c73309821ac",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "政治",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [
+        "アステカ",
+        "トラスカラ",
+        "テノチティトラン",
+        "モクテスマ",
+        "コルテス",
+        "スペイン",
+        "メシカ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:02.230Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_kixixixixi/スペイン入植/1520-年、メシカ人による大規模な反乱が起こる。仲裁しようとしたモクテスマ-2": {
+    "page_id": "20211219_kixixixixi/スペイン入植/1520-年、メシカ人による大規模な反乱が起こる。仲裁しようとしたモクテスマ-2",
+    "content_hash": "sha256:2559fbec49c048e8ccceaf84cff8f6f68f8b87c90e3bf2b0eda63089ddda2aab",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [
+        "メシカ",
+        "モクテスマ",
+        "コルテス",
+        "テノチティトラン",
+        "クィトラワク",
+        "アステカ",
+        "クアウテモク"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:02.248Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_kixixixixi/スペイン入植/![height:600](https:-d2l930y2yx77uc.clo": {
+    "page_id": "20211219_kixixixixi/スペイン入植/![height:600](https:-d2l930y2yx77uc.clo",
+    "content_hash": "sha256:e1d2946dc01f934a802bf0ab268694b07d9ccda6d435aceb71666fbd3a9ecd08",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:02.268Z",
+    "model": "jev-1.13.0"
+  },
+  "20211219_kixixixixi/スペイン入植/なぜアステカは滅亡したのか": {
+    "page_id": "20211219_kixixixixi/スペイン入植/なぜアステカは滅亡したのか",
+    "content_hash": "sha256:1c99b54c08c29d3286f1396be6c3539e388e55c253ba270fc1591daa21304b75",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [
+        "なぜアステカは滅亡したのか",
+        "アステカ",
+        "スペイン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:02.373Z",
+    "model": "jev-1.13.0"
+  }
+}

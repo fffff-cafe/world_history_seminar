@@ -1,0 +1,390 @@
+{
+  "20230624_kixixixixi/ウズベキスタンの歴史/ウズベキスタンの歴史": {
+    "page_id": "20230624_kixixixixi/ウズベキスタンの歴史/ウズベキスタンの歴史",
+    "content_hash": "sha256:f4697515ef920bd9f0e1afb00e3f45a87e6091ee9ab4254f802de24ac24500ce",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ウズベキスタンの歴史",
+        "ウズベキスタン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:33.148Z",
+    "model": "jev-1.13.0"
+  },
+  "20230624_kixixixixi/ウズベキスタンの歴史/青の都「サマルカンド」": {
+    "page_id": "20230624_kixixixixi/ウズベキスタンの歴史/青の都「サマルカンド」",
+    "content_hash": "sha256:3b100a72e35c4c81b47151f3a1a8ad75b8cd85bc6ab1c0dec79d616fcd2657b7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "青の都「サマルカンド」",
+        "サマルカンド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:33.240Z",
+    "model": "jev-1.13.0"
+  },
+  "20230624_kixixixixi/ウズベキスタンの歴史/はじめに": {
+    "page_id": "20230624_kixixixixi/ウズベキスタンの歴史/はじめに",
+    "content_hash": "sha256:2e74a1f8f7db74472b182f30beb0412b8b5e40c67aeb51ef07385e61603818b9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ウズベキスタン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:33.376Z",
+    "model": "jev-1.13.0"
+  },
+  "20230624_kixixixixi/ウズベキスタンの歴史/ウズベキスタンに旅行したくなるわけ": {
+    "page_id": "20230624_kixixixixi/ウズベキスタンの歴史/ウズベキスタンに旅行したくなるわけ",
+    "content_hash": "sha256:be6ad6c3929aeae8f1d286cf14b7832c1d8b1e7ca10058165ede439b61f3b447",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ウズベキスタン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:33.341Z",
+    "model": "jev-1.13.0"
+  },
+  "20230624_kixixixixi/ウズベキスタンの歴史/ウズベキスタンの国土": {
+    "page_id": "20230624_kixixixixi/ウズベキスタンの歴史/ウズベキスタンの国土",
+    "content_hash": "sha256:45d5101cd58c3ddc64e937b699d04161fa99336080cdcb949c3a2534ae245d22",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ウズベキスタンの国土",
+        "ウズベキスタン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:33.792Z",
+    "model": "jev-1.13.0"
+  },
+  "20230624_kixixixixi/ウズベキスタンの歴史/1-分でわかるウズベキスタンの歴史": {
+    "page_id": "20230624_kixixixixi/ウズベキスタンの歴史/1-分でわかるウズベキスタンの歴史",
+    "content_hash": "sha256:ee55fc608d4025789fcf52a20755dddb0170997ce22efad1dc2f7ab1c106c016",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ウズベキスタン",
+        "アレクサンドロス",
+        "モンゴル",
+        "ティムール",
+        "ロシア"
+      ],
+      "tags": [
+        "イスラーム",
+        "テュルク"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:33.465Z",
+    "model": "jev-1.13.0"
+  },
+  "20230624_kixixixixi/ウズベキスタンの歴史/古代": {
+    "page_id": "20230624_kixixixixi/ウズベキスタンの歴史/古代",
+    "content_hash": "sha256:5ee65c598bcf2e2e947a8ef9db16c8ffb231e2eef0c549f63fc988b67f57bba7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀",
+        "4世紀"
+      ],
+      "entities": [
+        "ソグド",
+        "ソグディアナ",
+        "ペルシャ",
+        "バクトリア",
+        "ウズベキスタン",
+        "アケメネス",
+        "サマルカンド",
+        "ブハラ"
+      ],
+      "tags": [
+        "古代",
+        "ゾロアスター"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:33.545Z",
+    "model": "jev-1.13.0"
+  },
+  "20230624_kixixixixi/ウズベキスタンの歴史/アレクサンドロス大王の征服": {
+    "page_id": "20230624_kixixixixi/ウズベキスタンの歴史/アレクサンドロス大王の征服",
+    "content_hash": "sha256:0f57e8cf28aea795a5349331c29d0854e569eb4880e32dc23a09f6163d06e9c8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "4世紀"
+      ],
+      "entities": [
+        "アレクサンドロス大王の征服",
+        "アレクサンドロス",
+        "マケドニア",
+        "ウズベキスタン",
+        "セレウコス",
+        "グレコ・バクトリア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:33.603Z",
+    "model": "jev-1.13.0"
+  },
+  "20230624_kixixixixi/ウズベキスタンの歴史/イラン系王朝の支配": {
+    "page_id": "20230624_kixixixixi/ウズベキスタンの歴史/イラン系王朝の支配",
+    "content_hash": "sha256:56ffced9e698a126cc1f1f37713a18afea7ea68602ce82a84ed68a41bcd8127c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀"
+      ],
+      "entities": [
+        "イラン",
+        "クシャーナ",
+        "ブハラ",
+        "サーサーン",
+        "ペルシャ"
+      ],
+      "tags": [
+        "イラン系王朝の支配"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:33.664Z",
+    "model": "jev-1.13.0"
+  },
+  "20230624_kixixixixi/ウズベキスタンの歴史/イスラーム化": {
+    "page_id": "20230624_kixixixixi/ウズベキスタンの歴史/イスラーム化",
+    "content_hash": "sha256:5e0b19aaf6f5e634b2aed8e682707e71ef667a9ac99c7e6a333d445e64b2ebec",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "8世紀",
+        "9世紀"
+      ],
+      "entities": [
+        "ウズベキスタン",
+        "ウマイヤ",
+        "アッバース",
+        "サマルカンド",
+        "カラハン"
+      ],
+      "tags": [
+        "イスラーム化",
+        "イスラーム",
+        "イスラム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:33.774Z",
+    "model": "jev-1.13.0"
+  },
+  "20230624_kixixixixi/ウズベキスタンの歴史/テュルク化": {
+    "page_id": "20230624_kixixixixi/ウズベキスタンの歴史/テュルク化",
+    "content_hash": "sha256:fc6d9996dc11f57b842919e784ab77b42114b9666d56692e6036c5151602dded",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ウイグル"
+      ],
+      "tags": [
+        "テュルク化",
+        "テュルク"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:33.889Z",
+    "model": "jev-1.13.0"
+  },
+  "20230624_kixixixixi/ウズベキスタンの歴史/モンゴル帝国による征服": {
+    "page_id": "20230624_kixixixixi/ウズベキスタンの歴史/モンゴル帝国による征服",
+    "content_hash": "sha256:727ea62976822571e2cba28efc46ccde6b2c3a78b51e821367d3f86e5d9db58e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "13世紀"
+      ],
+      "entities": [
+        "モンゴル帝国による征服",
+        "モンゴル",
+        "チンギス・ハーン",
+        "ウズベキスタン",
+        "チャガタイ",
+        "チャガタイ・ハン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:33.885Z",
+    "model": "jev-1.13.0"
+  },
+  "20230624_kixixixixi/ウズベキスタンの歴史/ティムール朝": {
+    "page_id": "20230624_kixixixixi/ウズベキスタンの歴史/ティムール朝",
+    "content_hash": "sha256:acecac021922a6f836db0e5661e6d59134524b9ab03200d049b5e29de64a3808",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "中央アジア"
+      ],
+      "period": [],
+      "entities": [
+        "ティムール朝",
+        "ティムール",
+        "サマルカンド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:33.985Z",
+    "model": "jev-1.13.0"
+  },
+  "20230624_kixixixixi/ウズベキスタンの歴史/ロシアによる支配": {
+    "page_id": "20230624_kixixixixi/ウズベキスタンの歴史/ロシアによる支配",
+    "content_hash": "sha256:ad3793c3c3e26406149e0aaec733cf2e05cb81375950f1f26a235ba13545a599",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "ロシア",
+        "トルキスタン",
+        "ウズベキスタン",
+        "ウズベク・ソビエト"
+      ],
+      "tags": [
+        "ロシアによる支配"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:34.026Z",
+    "model": "jev-1.13.0"
+  },
+  "20230624_kixixixixi/ウズベキスタンの歴史/独立": {
+    "page_id": "20230624_kixixixixi/ウズベキスタンの歴史/独立",
+    "content_hash": "sha256:f48cbe54afc4425d3c2009a9ec0df0891d1fc12efd3a51825137fc395210697b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [
+        "ソビエト",
+        "ウズベキスタン",
+        "イスラム・カリモフ",
+        "カリモフ",
+        "シャフカト・ミルジヨエフ"
+      ],
+      "tags": [
+        "独立"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:34.113Z",
+    "model": "jev-1.13.0"
+  }
+}

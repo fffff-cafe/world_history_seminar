@@ -1,0 +1,628 @@
+{
+  "20220213_kixixixixi/メキシコの歴史-4/メキシコの歴史-4": {
+    "page_id": "20220213_kixixixixi/メキシコの歴史-4/メキシコの歴史-4",
+    "content_hash": "sha256:701d7084ff5190a5ddea6124d2525c098e066b22a3e20ed796b8d7dade2d08fb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "メキシコの歴史 4",
+        "メキシコ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:07.255Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/目次/目次": {
+    "page_id": "20220213_kixixixixi/目次/目次",
+    "content_hash": "sha256:56a8be88d5d70e6a3ee1efa484e605bfb15afc74db7c3c3535b7ca45b732fbb2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "メキシコ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:07.248Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/前回まで/前回まで": {
+    "page_id": "20220213_kixixixixi/前回まで/前回まで",
+    "content_hash": "sha256:8ec4380dacf0ecbad7c0a120a3d65d7242d0edd648e2a43335cc49387fdbb06e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "スペイン",
+        "イトュルビデ",
+        "メキシコ",
+        "アグスティン",
+        "サンタ・アナ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:07.252Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/革命/革命": {
+    "page_id": "20220213_kixixixixi/革命/革命",
+    "content_hash": "sha256:ca94027ad730025845671bee77b1b7e57aff3d0ccfe80a0f9ff53b006235ada2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [],
+      "entities": [
+        "フレアス",
+        "ディアス",
+        "メキシコ"
+      ],
+      "tags": [
+        "革命",
+        "カウディーリョ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:07.267Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/革命/カウディーリョによる支配": {
+    "page_id": "20220213_kixixixixi/革命/カウディーリョによる支配",
+    "content_hash": "sha256:05bb93efcbba668011c1dcdb13c4ad0c35a915653b9bf645d3be0027679be7fa",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "スペイン",
+        "ゲレーロ",
+        "メキシコ",
+        "ブスタマンテ"
+      ],
+      "tags": [
+        "カウディーリョによる支配",
+        "カウディーリョ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:07.590Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/革命/カウディーリョによる支配-2": {
+    "page_id": "20220213_kixixixixi/革命/カウディーリョによる支配-2",
+    "content_hash": "sha256:b52296e1cce38d51648a7bbfda6c041a73741724b11e1cff8197d149ede2356b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "ブスタマンテ",
+        "サンタ・アナ",
+        "メキシコ"
+      ],
+      "tags": [
+        "カウディーリョによる支配 2",
+        "カウディーリョ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:07.572Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/革命/フレアスによる近代化": {
+    "page_id": "20220213_kixixixixi/革命/フレアスによる近代化",
+    "content_hash": "sha256:c754ffc418106a0ba5cad5a35981c491c92315d1816d77d27d7c60ff98e39278",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "フレアス",
+        "フアレス",
+        "メキシコ"
+      ],
+      "tags": [
+        "フレアスによる近代化",
+        "レフォルマ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:07.509Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/革命/フレアスによる近代化-2": {
+    "page_id": "20220213_kixixixixi/革命/フレアスによる近代化-2",
+    "content_hash": "sha256:6d1f777e3211a9c06f6c9ac6f9d418ddff6c86827a29fc37e38bec54a1e8eaa8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "フレアス",
+        "レフォルマ"
+      ],
+      "tags": [
+        "カトリック"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:07.493Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/革命/フレアスによる近代化-3": {
+    "page_id": "20220213_kixixixixi/革命/フレアスによる近代化-3",
+    "content_hash": "sha256:d4a57f7a65ff8a5d6c0091e89f73eb91c1f9b941ef1b89e4be2d6d9d14c9b73a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "フレアス",
+        "フランス",
+        "メキシコ",
+        "ナポレオン",
+        "メヒコ",
+        "マクシミリアン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:07.704Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/革命/ディアスによる独裁": {
+    "page_id": "20220213_kixixixixi/革命/ディアスによる独裁",
+    "content_hash": "sha256:9fd437fdf433aa246c3807ad721524880659700d33c1770759ddd23fcfee7940",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "ディアス",
+        "フレアス",
+        "メキシコ"
+      ],
+      "tags": [
+        "ディアスによる独裁"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:07.707Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/革命/メキシコ革命": {
+    "page_id": "20220213_kixixixixi/革命/メキシコ革命",
+    "content_hash": "sha256:13e7b7d828de354a7569b813ba7622df8cb66fa3bbfda9c657fc646c762c68ab",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "メキシコ革命",
+        "メキシコ",
+        "フランシスコ・マデーロ",
+        "ディアス",
+        "マデーロ",
+        "サパタ",
+        "ビリャ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:07.773Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/革命/メキシコ革命-2": {
+    "page_id": "20220213_kixixixixi/革命/メキシコ革命-2",
+    "content_hash": "sha256:0133486eec53b0e86298cc7000b55aee70838c667b22f79aa2205d116ef51546",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [],
+      "entities": [
+        "メキシコ革命 2",
+        "メキシコ",
+        "マデーロ",
+        "サパタ",
+        "ビリャ",
+        "カランサ",
+        "オブレゴン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:07.899Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/革命/メキシコ革命-3": {
+    "page_id": "20220213_kixixixixi/革命/メキシコ革命-3",
+    "content_hash": "sha256:8f2db131b33098049a1846cc46a4a785bf94c3d5c5af07232e139f4c7020d079",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "メキシコ革命 3",
+        "メキシコ",
+        "マデーロ",
+        "サパタ",
+        "ウェルタ",
+        "カランサ",
+        "ビリャ",
+        "オブレゴン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:07.932Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/革命/メキシコ革命-4": {
+    "page_id": "20220213_kixixixixi/革命/メキシコ革命-4",
+    "content_hash": "sha256:db67851bbc0c3af6aaaeb3f2e3baf168d6d8300102302168c68716612f3d3f14",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "メキシコ革命 4",
+        "メキシコ",
+        "カランサ",
+        "オブレゴン",
+        "サパタ",
+        "ビリャ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:07.922Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/革命/メキシコ革命-5": {
+    "page_id": "20220213_kixixixixi/革命/メキシコ革命-5",
+    "content_hash": "sha256:bb1bf16f42aeec660ebd41a0361b9e8bf2a01f6df1f2caf791034c734e3bb77e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "メキシコ革命 5",
+        "メキシコ",
+        "カランサ"
+      ],
+      "tags": [
+        "ストライキ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:07.989Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/革命/メキシコ革命-6": {
+    "page_id": "20220213_kixixixixi/革命/メキシコ革命-6",
+    "content_hash": "sha256:37fb3a2ac7c4c9a6aa3e872c595dd6e85953c8bedf87cb729d477883072462b5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "メキシコ革命 6",
+        "メキシコ",
+        "カランサ",
+        "オブレゴン",
+        "サパタ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:08.131Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/革命/メキシコ革命-7": {
+    "page_id": "20220213_kixixixixi/革命/メキシコ革命-7",
+    "content_hash": "sha256:21ce6fe03abeac4efa7805434d22c51b81dbb0d2ad60b7b739fbd2c4b5e7433b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "メキシコ革命 7",
+        "メキシコ",
+        "オブレゴン",
+        "カーリャス",
+        "カルデナス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:08.121Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/革命/--石油資源の国有化": {
+    "page_id": "20220213_kixixixixi/革命/--石油資源の国有化",
+    "content_hash": "sha256:b49244e0f804f791b6787517c9676bce04d10cd120c725f25e2426517e6f515e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "- 石油資源の国有化"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:08.135Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/革命/ここでメキシコ革命初期の目標がようやく実現した": {
+    "page_id": "20220213_kixixixixi/革命/ここでメキシコ革命初期の目標がようやく実現した",
+    "content_hash": "sha256:e9826dc080a0523b966ee82a1fd06ba3049a79caad251fe5e11530fff6bcd5c4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [],
+      "entities": [
+        "メキシコ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:08.203Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/独裁政治/独裁政治": {
+    "page_id": "20220213_kixixixixi/独裁政治/独裁政治",
+    "content_hash": "sha256:7c3938c12f9176ec6f0908c42952ea1ed721592768a5b027763b16992bc75587",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "メキシコ"
+      ],
+      "tags": [
+        "独裁政治"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:08.325Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/現代/現代": {
+    "page_id": "20220213_kixixixixi/現代/現代",
+    "content_hash": "sha256:edb893fd34da14230ec5e5df513ffd5a4afd6787b6cdc7d6f55781a1bcaf2118",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "ケサーダ",
+        "メキシコ"
+      ],
+      "tags": [
+        "現代"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:08.352Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/まとめ/まとめ": {
+    "page_id": "20220213_kixixixixi/まとめ/まとめ",
+    "content_hash": "sha256:e4a8d8c7ec516bfcaed9780f567c628976efe5100635b783e3a8129a2284971d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:08.329Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_kixixixixi/備考/備考": {
+    "page_id": "20220213_kixixixixi/備考/備考",
+    "content_hash": "sha256:bf04303d4c4a539326b42470aff74f4500c77f4feec4c2d58503420737413961",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "社会"
+      ],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [],
+      "entities": [
+        "メキシコ"
+      ],
+      "tags": [
+        "ペニンスラール",
+        "クリオーリョ",
+        "メスティーソ",
+        "インディオ",
+        "カウディーリョ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:08.422Z",
+    "model": "jev-1.13.0"
+  }
+}

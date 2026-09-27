@@ -1,0 +1,479 @@
+{
+  "20220116_hanamizuno/西洋音楽史-1/西洋音楽史-1": {
+    "page_id": "20220116_hanamizuno/西洋音楽史-1/西洋音楽史-1",
+    "content_hash": "sha256:f0343abe68abeb97a7d4afce639cf759cdcbe0476a5b26e456d8d624dbcfd480",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:02.687Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_hanamizuno/西洋音楽史-1/はじめに": {
+    "page_id": "20220116_hanamizuno/西洋音楽史-1/はじめに",
+    "content_hash": "sha256:eb70cc53e14ff822e5f0419b298a3b1f70d57cd1f4ba094015b5356c8bf9cfbe",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:02.851Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_hanamizuno/西洋音楽史-1/今回の内容": {
+    "page_id": "20220116_hanamizuno/西洋音楽史-1/今回の内容",
+    "content_hash": "sha256:f2f44d7d13358890e332be9d9bbcdf4fbf22187317ad411eda9258506e84b592",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "西洋音楽史",
+        "ルネサンス",
+        "バロック"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:02.876Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_hanamizuno/西洋音楽史-1/0.-この「西洋音楽史」で扱うもの": {
+    "page_id": "20220116_hanamizuno/西洋音楽史-1/0.-この「西洋音楽史」で扱うもの",
+    "content_hash": "sha256:f781bce8d00e00683113214f9cd4685237707ea2e0583a097d969db3e67d29c1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀",
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "西洋音楽史",
+        "古楽",
+        "クラシック",
+        "現代音楽"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:02.927Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_hanamizuno/西洋音楽史-1/芸術音楽とは": {
+    "page_id": "20220116_hanamizuno/西洋音楽史-1/芸術音楽とは",
+    "content_hash": "sha256:e0d0f09e5328df50ad2dfbe8218401f68f0dd0acb0393f61d14297ded57584d3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "カール",
+        "フランク",
+        "イタリア・フランス・ドイツ"
+      ],
+      "tags": [
+        "芸術音楽とは",
+        "芸術として意図された音楽",
+        "エリート",
+        "トライアングル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:02.918Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_hanamizuno/西洋音楽史-1/1.-中世音楽-〜14世紀": {
+    "page_id": "20220116_hanamizuno/西洋音楽史-1/1.-中世音楽-〜14世紀",
+    "content_hash": "sha256:08ddd949f39ea99b6b8b392d73650fd29eced4d79c3f6574b1b1a2add2cf180f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "14世紀"
+      ],
+      "entities": [
+        "フランク"
+      ],
+      "tags": [
+        "1. 中世音楽 〜14世紀",
+        "グレゴリオ",
+        "ネウマ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:03.083Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_hanamizuno/西洋音楽史-1/オルガヌム": {
+    "page_id": "20220116_hanamizuno/西洋音楽史-1/オルガヌム",
+    "content_hash": "sha256:6a867715914a7ee695dce17ca645feb160638f84557c6421d9e24faf4848631c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "9世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "オルガヌム",
+        "垂直",
+        "グレゴリオ聖歌に何かを加える"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:03.087Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_hanamizuno/西洋音楽史-1/ノートルダム楽派とゴシック": {
+    "page_id": "20220116_hanamizuno/西洋音楽史-1/ノートルダム楽派とゴシック",
+    "content_hash": "sha256:e5c1a6f090e0fbe81d49d9e8faf2950427bb7ab3b84625980072c8653eddf047",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "12世紀",
+        "13世紀"
+      ],
+      "entities": [
+        "ノートルダム楽派とゴシック",
+        "ノートルダム"
+      ],
+      "tags": [
+        "オルガヌム",
+        "リズム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:03.119Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_hanamizuno/西洋音楽史-1/中世の「音楽」": {
+    "page_id": "20220116_hanamizuno/西洋音楽史-1/中世の「音楽」",
+    "content_hash": "sha256:cc4e25c7f21c5890efcf22d7b108c8247d4ce229ade8a3704bf2959697cee3dc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "中世の「音楽」",
+        "音楽",
+        "世界を調律している秩序"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:03.178Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_hanamizuno/西洋音楽史-1/モテット": {
+    "page_id": "20220116_hanamizuno/西洋音楽史-1/モテット",
+    "content_hash": "sha256:12ed017393c434c7b30cb38752713cae651be243bec1a283e7d28b3c0f8d3198",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "13世紀",
+        "14世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "モテット"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:03.302Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_hanamizuno/西洋音楽史-1/2.-ルネサンス-15,-16世紀": {
+    "page_id": "20220116_hanamizuno/西洋音楽史-1/2.-ルネサンス-15,-16世紀",
+    "content_hash": "sha256:324c52c0c4e922bd9746da4191103636753845cccde97a2e6055e16140392e18",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀",
+        "16世紀"
+      ],
+      "entities": [
+        "2. ルネサンス 15, 16世紀"
+      ],
+      "tags": [
+        "高音と低音の数的比率",
+        "美しい響き",
+        "ルネサンス",
+        "ハルモニア",
+        "ハーモニー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:03.280Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_hanamizuno/西洋音楽史-1/定旋律": {
+    "page_id": "20220116_hanamizuno/西洋音楽史-1/定旋律",
+    "content_hash": "sha256:e56f0e69902651c8ca5cb07ff10615498fe86ee241cdfbb255c2103adb8f72d4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀",
+        "16世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "定旋律",
+        "オルガヌム・モテット"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:03.317Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_hanamizuno/西洋音楽史-1/作曲家の誕生": {
+    "page_id": "20220116_hanamizuno/西洋音楽史-1/作曲家の誕生",
+    "content_hash": "sha256:84bc73a81ff04ce178f21e00eb9296a37b79cf2e92228fe9c5fcbe985177026c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "作曲家の誕生",
+        "作品"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:03.384Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_hanamizuno/西洋音楽史-1/16世紀": {
+    "page_id": "20220116_hanamizuno/西洋音楽史-1/16世紀",
+    "content_hash": "sha256:24adf08f51a73aeb0360b129cf9f86d57d1a3011c525cc9f478598a2dfd86f3f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [
+        "16世紀",
+        "イタリア"
+      ],
+      "tags": [
+        "コラール",
+        "プロテスタント"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:03.490Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_hanamizuno/西洋音楽史-1/和音と不協和音の発見": {
+    "page_id": "20220116_hanamizuno/西洋音楽史-1/和音と不協和音の発見",
+    "content_hash": "sha256:c31880817b439b11133cb23a09bf4cd4c2a5c431143ade3aff65ee0926292c7b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "和音と不協和音の発見",
+        "複数の線=旋律が重なる",
+        "柱=和音が並ぶ",
+        "表現"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:03.546Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_hanamizuno/西洋音楽史-1/3.-バロック-17世紀": {
+    "page_id": "20220116_hanamizuno/西洋音楽史-1/3.-バロック-17世紀",
+    "content_hash": "sha256:5d9b6c630bcf8cb6265ad525c44f4d3fa5caa7a6faea1042c7030ac28e800036",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "ヴィヴァルディ",
+        "ヘンデル",
+        "バッハ"
+      ],
+      "tags": [
+        "3. バロック 17世紀",
+        "バロック"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:03.531Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_hanamizuno/西洋音楽史-1/絶対王政時代の音楽": {
+    "page_id": "20220116_hanamizuno/西洋音楽史-1/絶対王政時代の音楽",
+    "content_hash": "sha256:acc19618a5901a0ecc7262a43b0e4edc549d53f55e77fe9fd02bcea5ffc15ddd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "芸術"
+      ],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "絶対王政時代の音楽",
+        "バロック",
+        "オペラ",
+        "ドラマ",
+        "イディオム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:03.581Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_hanamizuno/西洋音楽史-1/通奏低音と協奏曲の時代": {
+    "page_id": "20220116_hanamizuno/西洋音楽史-1/通奏低音と協奏曲の時代",
+    "content_hash": "sha256:b2d983440f21165d60f6ada40ec21419d406b13044dd29d4e52fc7c9a3a53a78",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "通奏低音と協奏曲の時代",
+        "通奏低音",
+        "バロック"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:03.698Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_hanamizuno/西洋音楽史-1/プロテスタント・ドイツとバッハ": {
+    "page_id": "20220116_hanamizuno/西洋音楽史-1/プロテスタント・ドイツとバッハ",
+    "content_hash": "sha256:072f23064fb51312ee71d923c0475cd1f13f030d79d71f547722d72152a7ff79",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "芸術"
+      ],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [],
+      "entities": [
+        "プロテスタント・ドイツとバッハ",
+        "プロテスタント・ドイツ",
+        "バッハ",
+        "ドイツ"
+      ],
+      "tags": [
+        "プロテスタント・ドイツ・ナショナリズム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:03.805Z",
+    "model": "jev-1.13.0"
+  }
+}

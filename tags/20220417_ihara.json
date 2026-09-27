@@ -1,0 +1,345 @@
+{
+  "20220417_ihara/十字軍が起こった背景/十字軍が起こった背景": {
+    "page_id": "20220417_ihara/十字軍が起こった背景/十字軍が起こった背景",
+    "content_hash": "sha256:d9d1b0379599308461f9980833957644db4913721a234f1315e0e30dbcc79a49",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "十字軍が起こった背景"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:11.801Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_ihara/概要/概要": {
+    "page_id": "20220417_ihara/概要/概要",
+    "content_hash": "sha256:c0240d9b29002249d7d16507e2f99f13857b32c203a59e0adaa3f766d9ca7314",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "11世紀",
+        "12世紀",
+        "13世紀"
+      ],
+      "entities": [
+        "ウルバヌス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:11.884Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_ihara/近年の十字軍に関するニュース/近年の十字軍に関するニュース": {
+    "page_id": "20220417_ihara/近年の十字軍に関するニュース/近年の十字軍に関するニュース",
+    "content_hash": "sha256:510f49b964c138a98494b1de13cf6b5b5c64a5b87bf3d30d22845d3843a56183",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "ヨハネ・パウロ"
+      ],
+      "tags": [
+        "近年の十字軍に関するニュース"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:12.010Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_ihara/よくある十字軍の理解/よくある十字軍の理解": {
+    "page_id": "20220417_ihara/よくある十字軍の理解/よくある十字軍の理解",
+    "content_hash": "sha256:b1c2c3be4bddfac70ec61896de56bdfab6b6bab83273721eeed60808525781cb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "よくある十字軍の理解"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:12.001Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_ihara/十字軍の背景/十字軍の背景": {
+    "page_id": "20220417_ihara/十字軍の背景/十字軍の背景",
+    "content_hash": "sha256:34ba3a5845b2078db63aa922b038294c862676174049d1a1428986e385d91627",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "十字軍の背景"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:12.017Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_ihara/イスラム教徒とキリスト教徒/イスラム教徒とキリスト教徒": {
+    "page_id": "20220417_ihara/イスラム教徒とキリスト教徒/イスラム教徒とキリスト教徒",
+    "content_hash": "sha256:ab4dd7c2fe959cbc9b434585b360b52ff142d58b323fa44134841ff6457a6b3b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "イスラム教徒とキリスト教徒",
+        "エルサレム教会",
+        "アンティオキア教会",
+        "イスラム",
+        "アンティオキア"
+      ],
+      "tags": [
+        "啓典の民"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:12.084Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_ihara/人口増加に伴う経済的活動/人口増加に伴う経済的活動": {
+    "page_id": "20220417_ihara/人口増加に伴う経済的活動/人口増加に伴う経済的活動",
+    "content_hash": "sha256:f03112e3c50465eeae3de0ca5c216be4354fc6c3a3da272555ad790999ff3443",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "11世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "人口増加に伴う経済的活動",
+        "商業ルネサンス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:12.215Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_ihara/叙任権闘争の高まり/叙任権闘争の高まり": {
+    "page_id": "20220417_ihara/叙任権闘争の高まり/叙任権闘争の高まり",
+    "content_hash": "sha256:d234fb053603b921407753507f891f4dbb8831a1bae99b6e79cfbf0b61f79b90",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "クリュニー"
+      ],
+      "tags": [
+        "叙任権闘争の高まり",
+        "シモニア"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:12.219Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_ihara/叙任権闘争/叙任権闘争": {
+    "page_id": "20220417_ihara/叙任権闘争/叙任権闘争",
+    "content_hash": "sha256:8d34a813d8f1e876a0d18e300cc8cd1e95b51187145be3adf6cccf1baf4d3ce2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "政治",
+        "宗教"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "11世紀"
+      ],
+      "entities": [
+        "カノッサの屈辱",
+        "カノッサ",
+        "ハインリヒ",
+        "グレゴリウス"
+      ],
+      "tags": [
+        "叙任権闘争"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:12.225Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_ihara/カノッサの屈辱の後/カノッサの屈辱の後": {
+    "page_id": "20220417_ihara/カノッサの屈辱の後/カノッサの屈辱の後",
+    "content_hash": "sha256:ba2ca53881082b6521f748d1ba2bef2ffea62b06534ae20d91dfa0b6c0a8f061",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "政治",
+        "宗教"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "11世紀"
+      ],
+      "entities": [
+        "カノッサの屈辱の後",
+        "カノッサ",
+        "ハインリヒ",
+        "グレゴリウス",
+        "クレメンス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:12.292Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_ihara/拡大するイスラム勢力への対抗/拡大するイスラム勢力への対抗": {
+    "page_id": "20220417_ihara/拡大するイスラム勢力への対抗/拡大するイスラム勢力への対抗",
+    "content_hash": "sha256:2db706d913f8952c8074b3b5a437cb2794779f0d3d9303ddc4043b1f9e1832c6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ローマ",
+        "コンスタンティノープル",
+        "アンティオキア",
+        "エルサレム",
+        "アレクサンドリア",
+        "イスラム",
+        "フランク",
+        "イベリア",
+        "シチリア"
+      ],
+      "tags": [
+        "拡大するイスラム勢力への対抗"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:12.432Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_ihara/セルジューク朝トルコによる侵略/セルジューク朝トルコによる侵略": {
+    "page_id": "20220417_ihara/セルジューク朝トルコによる侵略/セルジューク朝トルコによる侵略",
+    "content_hash": "sha256:d7dacd2325f109d0048b84015a2a6e9abcb7485fec0f6a833bc290c1b3e401ed",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "11世紀"
+      ],
+      "entities": [
+        "セルジューク朝トルコによる侵略",
+        "セルジューク",
+        "トルコ",
+        "マンジケルト",
+        "ローマ",
+        "ロマノス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:12.426Z",
+    "model": "jev-1.13.0"
+  },
+  "20220417_ihara/十字軍のはじまり/十字軍のはじまり": {
+    "page_id": "20220417_ihara/十字軍のはじまり/十字軍のはじまり",
+    "content_hash": "sha256:ff59c3993b09655693b54458d3abe64e11dc7d1ee0df2e5b6965c7f20d97b657",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "11世紀"
+      ],
+      "entities": [
+        "十字軍のはじまり",
+        "クレルモン宗教会議",
+        "ウルバヌス",
+        "クレルモン"
+      ],
+      "tags": [
+        "等しく神の御加護を受ける兄弟同士で相争うときではない"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:12.481Z",
+    "model": "jev-1.13.0"
+  }
+}

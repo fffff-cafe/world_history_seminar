@@ -1,0 +1,294 @@
+{
+  "20250406_hanamizuno/魔女の歴史2/魔女の歴史2": {
+    "page_id": "20250406_hanamizuno/魔女の歴史2/魔女の歴史2",
+    "content_hash": "sha256:5ee5e2896006318c458ec645f3e45442db96728171be3d8a5a14375146f70697",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:14.260Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hanamizuno/魔女の歴史2/前回": {
+    "page_id": "20250406_hanamizuno/魔女の歴史2/前回",
+    "content_hash": "sha256:76ad72626c5a7f7797f13967ef2b1010d4a74384abb1a127cddeda1ee6e5af41",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:14.333Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hanamizuno/魔女の歴史2/ざっくり魔女の歴史": {
+    "page_id": "20250406_hanamizuno/魔女の歴史2/ざっくり魔女の歴史",
+    "content_hash": "sha256:5075121360e2072bf5bcd9d5fa89e299ec99da3e0d65fa4d83f208ac2fe33256",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀",
+        "16世紀",
+        "17世紀",
+        "18世紀",
+        "19世紀",
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "ざっくり魔女の歴史",
+        "ニューエイジ",
+        "フェミニズム",
+        "ネオペイガニズム",
+        "カウンターカルチャー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:14.376Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hanamizuno/魔女の歴史2/1960---ネオペイガニズム": {
+    "page_id": "20250406_hanamizuno/魔女の歴史2/1960---ネオペイガニズム",
+    "content_hash": "sha256:c1d03f6dd92fdf7f6805cf04765b2b13e2ce504387ea7c3fb1a7d86f0a7e6f7b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "1960 - ネオペイガニズム",
+        "ネオペイガニズム",
+        "クラフト",
+        "セルフメイド"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:14.429Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hanamizuno/魔女の歴史2/ネオペイガニズムの見取り図": {
+    "page_id": "20250406_hanamizuno/魔女の歴史2/ネオペイガニズムの見取り図",
+    "content_hash": "sha256:c221b52d1741fe845d113bc79b85c645cfae800c5480f4270fa8003dae9e2577",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ネオペイガニズムの見取り図",
+        "ネオペイガニズム",
+        "リニージ",
+        "ノン・ガードナー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:14.462Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hanamizuno/魔女の歴史2/--第六の輪-アングロ・ケルト系ではなくエジプト、ギリシャ、インド、アフリカなど": {
+    "page_id": "20250406_hanamizuno/魔女の歴史2/--第六の輪-アングロ・ケルト系ではなくエジプト、ギリシャ、インド、アフリカなど",
+    "content_hash": "sha256:22c44d1f5f2e105f58193af7225e4e80351f1547ae26a54af2ab037991ba4748",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "エジプト",
+        "ギリシャ",
+        "インド",
+        "アフリカ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:14.544Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hanamizuno/魔女の歴史2/反キリスト教の連帯": {
+    "page_id": "20250406_hanamizuno/魔女の歴史2/反キリスト教の連帯",
+    "content_hash": "sha256:d6eac620c25f520cca878b8d30b4abbeccf4dac8b1eb35a0ed6bb6e690af1d88",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "宗教",
+        "思想"
+      ],
+      "culture": [
+        "宗教"
+      ],
+      "region": [],
+      "period": [
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "反キリスト教の連帯",
+        "キリスト",
+        "ネオペイガン",
+        "シャーマニズム",
+        "エクスタシー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:14.590Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hanamizuno/魔女の歴史2/エリカ・ジョング": {
+    "page_id": "20250406_hanamizuno/魔女の歴史2/エリカ・ジョング",
+    "content_hash": "sha256:39852898214a8c005bd1298cb33e2d96366c7dad73885e2de034181aa427bced",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "エリカ・ジョング"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:14.629Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hanamizuno/魔女の歴史2/--魔女は人々が抱えるさまざまな「不思議」を説明する共通の神話": {
+    "page_id": "20250406_hanamizuno/魔女の歴史2/--魔女は人々が抱えるさまざまな「不思議」を説明する共通の神話",
+    "content_hash": "sha256:958f89e34edd0fbc97c393926c0d931622ec6b0b2605ec3b39d45fe8993df9d4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "不思議",
+        "魔女"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:14.652Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hanamizuno/魔女の歴史2/ゴス": {
+    "page_id": "20250406_hanamizuno/魔女の歴史2/ゴス",
+    "content_hash": "sha256:006c25f3d63bd2abedbf0bfb2bc85c583e931704797d33ac4251956a14d34392",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "12世紀",
+        "13世紀",
+        "14世紀",
+        "15世紀",
+        "16世紀",
+        "17世紀",
+        "18世紀",
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "ゴス",
+        "ゴシック",
+        "ゴシック・リバイバル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:14.746Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hanamizuno/魔女の歴史2/--恐ろしいもの、忌まわしいものへのゴシック的偏愛がパンク・ロッカーからあらわれ": {
+    "page_id": "20250406_hanamizuno/魔女の歴史2/--恐ろしいもの、忌まわしいものへのゴシック的偏愛がパンク・ロッカーからあらわれ",
+    "content_hash": "sha256:ec487eff8e9bd99a435d7e41be31c880ec98611f442ff8306cbe2cac5a049806",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "ゴシック",
+        "パンク・ロック",
+        "ゴシック・ロック",
+        "ロック",
+        "ムーブメント"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:14.844Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_hanamizuno/魔女の歴史2/--ゴスは1970年代の登場以降、あらゆる要素を吸収して現代まで生き続けている": {
+    "page_id": "20250406_hanamizuno/魔女の歴史2/--ゴスは1970年代の登場以降、あらゆる要素を吸収して現代まで生き続けている",
+    "content_hash": "sha256:9526980922384547759382f3ad0f7cf2fd0791633af7a009fd359ce563983162",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "サブカルチャー",
+        "コマーシャル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:14.880Z",
+    "model": "jev-1.13.0"
+  }
+}

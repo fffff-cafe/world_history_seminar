@@ -1,0 +1,412 @@
+{
+  "20220213_hasegawa/第一次世界大戦(1914-1918)/第一次世界大戦(1914-1918)": {
+    "page_id": "20220213_hasegawa/第一次世界大戦(1914-1918)/第一次世界大戦(1914-1918)",
+    "content_hash": "sha256:58c58b74693c9ab3ea960bbbdf40803391f0b3cd60e63e5ef11d4e7ba6ab23eb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "第一次世界大戦"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:06.172Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_hasegawa/第一次世界大戦(1914-1918)/テーマを調べようとしたきっかけ": {
+    "page_id": "20220213_hasegawa/第一次世界大戦(1914-1918)/テーマを調べようとしたきっかけ",
+    "content_hash": "sha256:86794cf5f726af2ec5650730077c2e28af9d5f17d1032529b347433d72128a3f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:06.194Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_hasegawa/第一次世界大戦(1914-1918)/参考文献": {
+    "page_id": "20220213_hasegawa/第一次世界大戦(1914-1918)/参考文献",
+    "content_hash": "sha256:94ea40cf5b81e2d210ae777bd30773bea340621e30f1ca82e8ddaa71c97e4834",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:06.377Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_hasegawa/第一次世界大戦(1914-1918)/ざっくりとしたWWI-まとめ": {
+    "page_id": "20220213_hasegawa/第一次世界大戦(1914-1918)/ざっくりとしたWWI-まとめ",
+    "content_hash": "sha256:18b31c1e1cb415e33d8597a72c8e762f1d1935606c96806b2d0254407376e5d4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "ムード"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:06.372Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_hasegawa/第一次世界大戦(1914-1918)/各国状況-三国協商": {
+    "page_id": "20220213_hasegawa/第一次世界大戦(1914-1918)/各国状況-三国協商",
+    "content_hash": "sha256:37ea5ad052ddaad4403628604351f4d7379ad5bf4ae97647fcd51c955be9d52c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "外交"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "イギリス",
+        "フランス",
+        "ドイツ・ロシア",
+        "ロシア・イタリア",
+        "ロシア"
+      ],
+      "tags": [
+        "各国状況 三国協商"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:06.391Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_hasegawa/第一次世界大戦(1914-1918)/各国状況-三国同盟": {
+    "page_id": "20220213_hasegawa/第一次世界大戦(1914-1918)/各国状況-三国同盟",
+    "content_hash": "sha256:e5b27d257fb51cb11dac7cec700e744b911fd266140236e0deeaad3b809cd190",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "外交"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [],
+      "entities": [
+        "ドイツ",
+        "オーストリア",
+        "ハンガリー",
+        "ハプスブルグ"
+      ],
+      "tags": [
+        "各国状況 三国同盟"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:06.406Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_hasegawa/第一次世界大戦(1914-1918)/各国状況-三国同盟-2": {
+    "page_id": "20220213_hasegawa/第一次世界大戦(1914-1918)/各国状況-三国同盟-2",
+    "content_hash": "sha256:466e9c8611c9d76469d92f2733d855ebb222a9129e7c4113daa8d9fc22117488",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "外交"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "イタリア",
+        "オスマントルコ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:06.576Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_hasegawa/第一次世界大戦(1914-1918)/開戦": {
+    "page_id": "20220213_hasegawa/第一次世界大戦(1914-1918)/開戦",
+    "content_hash": "sha256:211a7c2a40b6b5a83e46781e29e79c5578658c7efaa5db4a20a4b90b8be40d05",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "サラエボ",
+        "オーストリア",
+        "ハンガリー",
+        "ヘルツェゴビナ",
+        "セルビア",
+        "フェルディナンド",
+        "オーハン"
+      ],
+      "tags": [
+        "開戦"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:07.062Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_hasegawa/第一次世界大戦(1914-1918)/1914-年の西部戦線": {
+    "page_id": "20220213_hasegawa/第一次世界大戦(1914-1918)/1914-年の西部戦線",
+    "content_hash": "sha256:feb693c21c8c7a0fb08139fc4e30cb1d9c01ebb69a0ec37fc2fe78e8152e12e3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "1914 年の西部戦線",
+        "ドイツ",
+        "マルヌ"
+      ],
+      "tags": [
+        "シュリーフェンプラン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:06.607Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_hasegawa/第一次世界大戦(1914-1918)/塹壕": {
+    "page_id": "20220213_hasegawa/第一次世界大戦(1914-1918)/塹壕",
+    "content_hash": "sha256:16e0c45efcb9729ac61acfc1899833d32258b03abcd42fea53f8a4f3001b6ec2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "塹壕"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:06.613Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_hasegawa/第一次世界大戦(1914-1918)/1914-年の東部戦線": {
+    "page_id": "20220213_hasegawa/第一次世界大戦(1914-1918)/1914-年の東部戦線",
+    "content_hash": "sha256:51481715c5c998f30b0eddd96378a0d1769689309d743342f43c70c924e39a53",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "1914 年の東部戦線",
+        "タンネンベルク",
+        "ロシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:06.772Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_hasegawa/第一次世界大戦(1914-1918)/その他1914-年の出来事": {
+    "page_id": "20220213_hasegawa/第一次世界大戦(1914-1918)/その他1914-年の出来事",
+    "content_hash": "sha256:ffdf4e8bcfc6f19fb29c6533e021a5ba04837d8b16a028e43cdbca52fdd9c9ec",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "アフリカ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:06.799Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_hasegawa/第一次世界大戦(1914-1918)/1915-年の西部戦線": {
+    "page_id": "20220213_hasegawa/第一次世界大戦(1914-1918)/1915-年の西部戦線",
+    "content_hash": "sha256:094ea4d8a4bcdf0ffe8cfaa6ec6e3bf7593e2f494b6153c5e72706c0344f3d5e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "1915 年の西部戦線",
+        "イーペル",
+        "ドイツ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:06.811Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_hasegawa/第一次世界大戦(1914-1918)/その他1915-年の出来事": {
+    "page_id": "20220213_hasegawa/第一次世界大戦(1914-1918)/その他1915-年の出来事",
+    "content_hash": "sha256:6b86d240865d3db592f08e1ddcd211832b7106593bc4ee9affc0786b82496fdc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "その他1915 年の出来事",
+        "ガリポリ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:07.023Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_hasegawa/第一次世界大戦(1914-1918)/その他1915-年の出来事~2": {
+    "page_id": "20220213_hasegawa/第一次世界大戦(1914-1918)/その他1915-年の出来事~2",
+    "content_hash": "sha256:862f022a1d6cfa7291d47cbcce58c9b1d744ea6e7fd90d56edb531bc078910a3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "イタリア",
+        "オーハン",
+        "ブルガリア",
+        "アルメニア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:07.026Z",
+    "model": "jev-1.13.0"
+  },
+  "20220213_hasegawa/第一次世界大戦(1914-1918)/次回:1916~と戦車・航空機の活躍・ユトランド沖海戦の解説": {
+    "page_id": "20220213_hasegawa/第一次世界大戦(1914-1918)/次回:1916~と戦車・航空機の活躍・ユトランド沖海戦の解説",
+    "content_hash": "sha256:cf231ad5d84098a779440268688aa7012f3191b30c0096af5454238e158b5071",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:07.016Z",
+    "model": "jev-1.13.0"
+  }
+}

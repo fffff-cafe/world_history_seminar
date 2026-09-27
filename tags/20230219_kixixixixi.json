@@ -1,0 +1,243 @@
+{
+  "20230219_kixixixixi/ロシアの歴史-2/ロシアの歴史-2": {
+    "page_id": "20230219_kixixixixi/ロシアの歴史-2/ロシアの歴史-2",
+    "content_hash": "sha256:c91c5263a9fecf65eb8240a45bb6a718a76856d918132c48be225b5d866f54c2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [],
+      "entities": [
+        "ロシアの歴史 2",
+        "ロシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:28.184Z",
+    "model": "jev-1.13.0"
+  },
+  "20230219_kixixixixi/前回の続き/前回の続き": {
+    "page_id": "20230219_kixixixixi/前回の続き/前回の続き",
+    "content_hash": "sha256:2f76627913acd49785bfbdc3989d725601c40e755518f974bce06d721fdaba67",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "15世紀",
+        "16世紀"
+      ],
+      "entities": [
+        "イヴァン",
+        "キエフ",
+        "リューリク",
+        "モスクワ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:28.382Z",
+    "model": "jev-1.13.0"
+  },
+  "20230219_kixixixixi/拡大するロシア帝国/拡大するロシア帝国": {
+    "page_id": "20230219_kixixixixi/拡大するロシア帝国/拡大するロシア帝国",
+    "content_hash": "sha256:023aff5ace80e41ebedce9e34c02bf4c3996a8f66020c83e3fac146c3a8020c1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [],
+      "entities": [
+        "拡大するロシア帝国",
+        "ロシア",
+        "ロマノフ",
+        "ポーランド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:28.222Z",
+    "model": "jev-1.13.0"
+  },
+  "20230219_kixixixixi/ロマノフ王朝のはじまり/ロマノフ王朝のはじまり": {
+    "page_id": "20230219_kixixixixi/ロマノフ王朝のはじまり/ロマノフ王朝のはじまり",
+    "content_hash": "sha256:fcc4c11652407e709b6a2f4612ee23231b3d68f4c89dd0c229c87ebc80a8c5aa",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "ロマノフ王朝のはじまり",
+        "ロマノフ",
+        "ミハイル・ロマノフ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:28.267Z",
+    "model": "jev-1.13.0"
+  },
+  "20230219_kixixixixi/帝政ロシア/帝政ロシア": {
+    "page_id": "20230219_kixixixixi/帝政ロシア/帝政ロシア",
+    "content_hash": "sha256:4554228207cb3ad44a8b50553ae499dc8350b7c0f874223122a54f098d921c47",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "帝政ロシア",
+        "ロシア",
+        "ピョートル",
+        "ウラル"
+      ],
+      "tags": [
+        "ツァーリズム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:28.394Z",
+    "model": "jev-1.13.0"
+  },
+  "20230219_kixixixixi/ポーランド分割/ポーランド分割": {
+    "page_id": "20230219_kixixixixi/ポーランド分割/ポーランド分割",
+    "content_hash": "sha256:815f4845a102ee80db93f3e3e00de3df8d46e9b23d75da841f3133d0b7188eb3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世",
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ",
+        "ロシア・東欧"
+      ],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "ポーランド分割",
+        "ポーランド",
+        "ロシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:28.421Z",
+    "model": "jev-1.13.0"
+  },
+  "20230219_kixixixixi/祖国戦争/祖国戦争": {
+    "page_id": "20230219_kixixixixi/祖国戦争/祖国戦争",
+    "content_hash": "sha256:d427a1b516f8a89896f768121b0a83bdef97bef78695c6fedec5fb3acf58db0d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "祖国戦争",
+        "フランス",
+        "ナポレオン",
+        "ロシア",
+        "アレクサンドル"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:28.492Z",
+    "model": "jev-1.13.0"
+  },
+  "20230219_kixixixixi/日露戦争/日露戦争": {
+    "page_id": "20230219_kixixixixi/日露戦争/日露戦争",
+    "content_hash": "sha256:5c1c3e25ea6d01135900ecb9bc5a0f3e9433062c1530c14c437683c2c6f42ddf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "日露戦争",
+        "ロシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:28.606Z",
+    "model": "jev-1.13.0"
+  },
+  "20230219_kixixixixi/次回/次回": {
+    "page_id": "20230219_kixixixixi/次回/次回",
+    "content_hash": "sha256:a17fefabf7e0f8bf3a193679d7b500e6f549e833769b3707a76ad5c26273852b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [
+        "ロシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:28.634Z",
+    "model": "jev-1.13.0"
+  }
+}

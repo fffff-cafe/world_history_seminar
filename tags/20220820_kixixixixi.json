@@ -1,0 +1,383 @@
+{
+  "20220820_kixixixixi/バラモン教/バラモン教": {
+    "page_id": "20220820_kixixixixi/バラモン教/バラモン教",
+    "content_hash": "sha256:91527dda6e5b39cf8a713b800305978d2f4839dee6e5bad22eedf6fe759a18b1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "バラモン教",
+        "バラモン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:21.383Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_kixixixixi/目次/目次": {
+    "page_id": "20220820_kixixixixi/目次/目次",
+    "content_hash": "sha256:4639b7a66a0ac193f242e442694a911e5a3ac3948cee7b4ba5f7b036da65f3ae",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:21.419Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_kixixixixi/はじめに/はじめに": {
+    "page_id": "20220820_kixixixixi/はじめに/はじめに",
+    "content_hash": "sha256:006671abecd2097727150811608811e0f69e038fa63f8de6f6ef9c5e2a2053b5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:21.522Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_kixixixixi/バラモン教とは/バラモン教とは": {
+    "page_id": "20220820_kixixixixi/バラモン教とは/バラモン教とは",
+    "content_hash": "sha256:768f9d971222a0737cfdb8588d66236d7028c4a012d75502d656bf3ebf588380",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "宗教",
+        "思想"
+      ],
+      "culture": [
+        "宗教"
+      ],
+      "region": [
+        "南アジア"
+      ],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "バラモン教とは"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:21.579Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_kixixixixi/バラモン教とは/ヴァルナ": {
+    "page_id": "20220820_kixixixixi/バラモン教とは/ヴァルナ",
+    "content_hash": "sha256:494c177abecb85cb5f9ea0a3972472219d402ea6f29967e085f7c4a74dd3cd0d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "社会"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ヴァルナ",
+        "ジャーティ",
+        "カースト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:21.625Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_kixixixixi/バラモン教とは/階級(支配階級)": {
+    "page_id": "20220820_kixixixixi/バラモン教とは/階級(支配階級)",
+    "content_hash": "sha256:7b87f53920f66acf894eeff06f058bafcfc12c7798b739e5588de37d2e942736",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "社会"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "階級",
+        "ヴァルナ",
+        "クシャトリヤ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:21.639Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_kixixixixi/バラモン教とは/階級(被支配階級)": {
+    "page_id": "20220820_kixixixixi/バラモン教とは/階級(被支配階級)",
+    "content_hash": "sha256:0d8ba772f22fe982305c8139a4204b786b7f53e084955dfa911a418db3d5ad30",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "社会"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "階級",
+        "再生族",
+        "ヴァイシャ",
+        "シュードラ",
+        "エーカジャ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:21.736Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_kixixixixi/バラモン教とは/ジャーティ": {
+    "page_id": "20220820_kixixixixi/バラモン教とは/ジャーティ",
+    "content_hash": "sha256:2fe28678e07a791c66cbf073d121fbfd76d73e48207be4685635264fad78eb2d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "社会"
+      ],
+      "culture": [
+        "社会"
+      ],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ジャーティ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:21.781Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_kixixixixi/バラモン教とは/ヴェーダ": {
+    "page_id": "20220820_kixixixixi/バラモン教とは/ヴェーダ",
+    "content_hash": "sha256:d78eac43b31943ccf3039b08a240142c0cf3948a521c2eddca15263141b41840",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "ヴェーダ"
+      ],
+      "tags": [
+        "聖なる知識",
+        "サンヒター"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:21.868Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_kixixixixi/バラモン教とは/4つのサンヒター": {
+    "page_id": "20220820_kixixixixi/バラモン教とは/4つのサンヒター",
+    "content_hash": "sha256:83b10d51c37bb6371cd30a1f625a6be9d2fd057f0c4a32e84c57cac96091ec78",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "リグ・ヴェーダ",
+        "ヤジュル・ヴェーダ",
+        "アタルヴァ・ヴェーダ"
+      ],
+      "tags": [
+        "4つのサンヒター",
+        "サンヒター"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:22.655Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_kixixixixi/アーリア人の侵入・支配/アーリア人の侵入・支配": {
+    "page_id": "20220820_kixixixixi/アーリア人の侵入・支配/アーリア人の侵入・支配",
+    "content_hash": "sha256:a5edc4719768318e049b4cfb23181bd4fe35e9d33b3edbbef770e281b7084887",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "南アジア"
+      ],
+      "period": [
+        "紀元前2千年紀以前",
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "アーリア人の侵入・支配",
+        "アーリア",
+        "ガンジス",
+        "ドラヴィダ",
+        "アーリヤ"
+      ],
+      "tags": [
+        "バラモン",
+        "シュードラ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:21.966Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_kixixixixi/仏教・ジャイナ教の起こり/仏教・ジャイナ教の起こり": {
+    "page_id": "20220820_kixixixixi/仏教・ジャイナ教の起こり/仏教・ジャイナ教の起こり",
+    "content_hash": "sha256:bf5afcd94936480f705c9ab2d6e528b801ca0de24dc15db26b7de7bb3f208332",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "宗教",
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀",
+        "4世紀",
+        "5世紀",
+        "6世紀"
+      ],
+      "entities": [
+        "ジャイナ"
+      ],
+      "tags": [
+        "仏教・ジャイナ教の起こり",
+        "ウパニシャッド",
+        "ブラフマン",
+        "アートマン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:22.010Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_kixixixixi/仏教・ジャイナ教の起こり/ジャイナ教": {
+    "page_id": "20220820_kixixixixi/仏教・ジャイナ教の起こり/ジャイナ教",
+    "content_hash": "sha256:420bb8892df6fdeac5c38c99c67c73e5406573f59f1f47b4c9b7d4e232af42c1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教",
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ジャイナ教",
+        "ジャイナ",
+        "ヴァルダマーナ"
+      ],
+      "tags": [
+        "ジナの教え"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:22.085Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_kixixixixi/仏教・ジャイナ教の起こり/仏教": {
+    "page_id": "20220820_kixixixixi/仏教・ジャイナ教の起こり/仏教",
+    "content_hash": "sha256:95d19c70897f338877471cf68181f4193a54d855bcb640c7df7eec00ae3b73b9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "宗教",
+        "思想"
+      ],
+      "culture": [],
+      "region": [
+        "南アジア"
+      ],
+      "period": [
+        "3世紀",
+        "4世紀",
+        "5世紀"
+      ],
+      "entities": [
+        "ブッダ",
+        "ガウタマ",
+        "シッダールタ",
+        "ガンジス"
+      ],
+      "tags": [
+        "仏教",
+        "サンガ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:22.215Z",
+    "model": "jev-1.13.0"
+  },
+  "20220820_kixixixixi/ヒンドゥー教へ/ヒンドゥー教へ": {
+    "page_id": "20220820_kixixixixi/ヒンドゥー教へ/ヒンドゥー教へ",
+    "content_hash": "sha256:7b68272c0048748ed3bc36f56d5cb0e0444680e247c36872a1473a4d60c67d2e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [
+        "宗教"
+      ],
+      "region": [],
+      "period": [
+        "4世紀"
+      ],
+      "entities": [
+        "グプタ",
+        "シヴァ"
+      ],
+      "tags": [
+        "ヒンドゥー教へ",
+        "ヒンドゥー",
+        "バラモン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:22.222Z",
+    "model": "jev-1.13.0"
+  }
+}

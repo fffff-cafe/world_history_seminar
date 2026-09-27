@@ -1,0 +1,541 @@
+{
+  "20211114_hanamizuno/バルト三国の歴史-4/バルト三国の歴史-4": {
+    "page_id": "20211114_hanamizuno/バルト三国の歴史-4/バルト三国の歴史-4",
+    "content_hash": "sha256:4881f5fbf8e8f2b223e5343884882dda1ec4e780d0899b42d56411c0101796b9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "バルト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:58.008Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_hanamizuno/バルト三国の歴史-4/前回のあらすじ(1561~1795)": {
+    "page_id": "20211114_hanamizuno/バルト三国の歴史-4/前回のあらすじ(1561~1795)",
+    "content_hash": "sha256:addced0acb9bbf030ae2195420b135c8ac19fd1e282bcff17d79fa88880ba168",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "16世紀",
+        "17世紀",
+        "18世紀"
+      ],
+      "entities": [
+        "リヴォニア",
+        "モスクワ",
+        "スウェーデン",
+        "ポーランド・リトアニア",
+        "ポーランド",
+        "リトアニア",
+        "ロシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:58.079Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_hanamizuno/バルト三国の歴史-4/第4章-専制下での長い十九世紀": {
+    "page_id": "20211114_hanamizuno/バルト三国の歴史-4/第4章-専制下での長い十九世紀",
+    "content_hash": "sha256:afec157de9e2ee55baf974da2ed2bd892e4f9c642763e7c7d4ea2e580ebb1f85",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ",
+        "ロシア・東欧"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "ロシア",
+        "バルト・ドイツ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:58.157Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_hanamizuno/バルト三国の歴史-4/農業改革": {
+    "page_id": "20211114_hanamizuno/バルト三国の歴史-4/農業改革",
+    "content_hash": "sha256:b3ecd7768ab7babc06896085155bc45abd83a2ffaafbbc5a6eb57e7418f751e0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "農業改革"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:58.275Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_hanamizuno/バルト三国の歴史-4/ロシア帝国のリトアニア": {
+    "page_id": "20211114_hanamizuno/バルト三国の歴史-4/ロシア帝国のリトアニア",
+    "content_hash": "sha256:c17de95026a798a38449985d88ef287482e50fa3efdad84b5f1f861a5f940f4a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ",
+        "ロシア・東欧"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "ロシア帝国のリトアニア",
+        "ロシア",
+        "リトアニア",
+        "ヴィルノ",
+        "アレクサンドル"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:58.654Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_hanamizuno/バルト三国の歴史-4/民族覚醒": {
+    "page_id": "20211114_hanamizuno/バルト三国の歴史-4/民族覚醒",
+    "content_hash": "sha256:36dc8bb027af0907d43c564e14579f33dfd6e2e2d3d5f4a301254cb1042d029a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ミロスラフ・フロホ",
+        "バルト・ドイツ",
+        "エストニア",
+        "ラトヴィア",
+        "ドイツ",
+        "リトアニア"
+      ],
+      "tags": [
+        "民族覚醒"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:58.279Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_hanamizuno/バルト三国の歴史-4/エストニア・ラトヴィアの民族覚醒": {
+    "page_id": "20211114_hanamizuno/バルト三国の歴史-4/エストニア・ラトヴィアの民族覚醒",
+    "content_hash": "sha256:25d1e0a509ae6bd93dcfbe872df31a2f3b92bbfde19195537f6aa8bbeacedf42",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "新語としてラトヴィア Latvijaを提案",
+        "エストニア・ラトヴィア",
+        "ユリス・アルナーンス",
+        "ラトヴィア",
+        "ドイツ",
+        "エストニア"
+      ],
+      "tags": [
+        "エストニア・ラトヴィアの民族覚醒",
+        "ドイツ派",
+        "ロシア派"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:58.379Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_hanamizuno/バルト三国の歴史-4/リトアニアの民族覚醒": {
+    "page_id": "20211114_hanamizuno/バルト三国の歴史-4/リトアニアの民族覚醒",
+    "content_hash": "sha256:3461ef4091cabec251627c208c00df2c6bc6b220bbc6db9360bb6de0a6178886",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "リトアニア"
+      ],
+      "tags": [
+        "リトアニアの民族覚醒"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:58.482Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_hanamizuno/バルト三国の歴史-4/ロシア化と近代化": {
+    "page_id": "20211114_hanamizuno/バルト三国の歴史-4/ロシア化と近代化",
+    "content_hash": "sha256:a474913a8b6853c187297e9c4a14b3cfac533bb536fd5145c1108e6735818319",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "ロシア",
+        "ラトヴィア",
+        "リーガ",
+        "バルト"
+      ],
+      "tags": [
+        "ロシア化と近代化"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:58.513Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_hanamizuno/バルト三国の歴史-4/ロシア革命と第一次大戦-1": {
+    "page_id": "20211114_hanamizuno/バルト三国の歴史-4/ロシア革命と第一次大戦-1",
+    "content_hash": "sha256:baaee64087a49d67b6dcd7f32034caef15d0c101cd10400a26722ec1485c221f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "ロシア革命と第一次大戦 1",
+        "ロシア",
+        "ラトヴィア",
+        "リトアニア",
+        "ブンド",
+        "エストニア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:58.607Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_hanamizuno/バルト三国の歴史-4/ロシア革命と第一次大戦-2": {
+    "page_id": "20211114_hanamizuno/バルト三国の歴史-4/ロシア革命と第一次大戦-2",
+    "content_hash": "sha256:741d71d65e723944786f5e8e14f17a8c60f2f08c007012e632e511d2a5b9be19",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ロシア革命と第一次大戦 2",
+        "ロシア",
+        "ラトヴィア",
+        "リトアニア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:58.722Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_hanamizuno/バルト三国の歴史-4/ロシア革命と第一次大戦-3": {
+    "page_id": "20211114_hanamizuno/バルト三国の歴史-4/ロシア革命と第一次大戦-3",
+    "content_hash": "sha256:4fcb25c928d99f567474dc7f01cc4b2b5910753d78672915d180dacfd26d4266",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ロシア革命と第一次大戦 3",
+        "ロシア",
+        "リトアニア",
+        "ドイツ",
+        "ラトヴィア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:58.726Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_hanamizuno/バルト三国の歴史-4/第5章-短い独立": {
+    "page_id": "20211114_hanamizuno/バルト三国の歴史-4/第5章-短い独立",
+    "content_hash": "sha256:671d7d601e92a74e41598e1181dacc51e89f7ec5d373bb42411a6cbc5d6e3bd8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:58.837Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_hanamizuno/バルト三国の歴史-4/ロシア革命": {
+    "page_id": "20211114_hanamizuno/バルト三国の歴史-4/ロシア革命",
+    "content_hash": "sha256:71581438077fcb0dd9515bf806282a2318ead5c38c0a0f825195dafdbc19128b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ロシア革命",
+        "ロシア",
+        "ニコライ",
+        "エストニア",
+        "バルト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:58.891Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_hanamizuno/バルト三国の歴史-4/エストニアの独立宣言": {
+    "page_id": "20211114_hanamizuno/バルト三国の歴史-4/エストニアの独立宣言",
+    "content_hash": "sha256:2b2dc54b2f65e5daaec2adff650916dad9814b72b2a35e1b463c2a024f38e92f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ",
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "エストニアの独立宣言",
+        "エストニア",
+        "エ・ラ",
+        "ドイツ",
+        "コンスタンティン・パッツ"
+      ],
+      "tags": [
+        "民主的ロシア連邦内での自治"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:58.933Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_hanamizuno/バルト三国の歴史-4/リトアニアのドイツによる占領と独立宣言": {
+    "page_id": "20211114_hanamizuno/バルト三国の歴史-4/リトアニアのドイツによる占領と独立宣言",
+    "content_hash": "sha256:83ed0fbefff9a6a2f70da256d73d1ba78071003451a12364fcb647233c69f220",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "リトアニアのドイツによる占領と独立宣言",
+        "リトアニア",
+        "ドイツ",
+        "アンタナス・スメトナ",
+        "タリーバ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:58.928Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_hanamizuno/バルト三国の歴史-4/ロシアとドイツの休戦": {
+    "page_id": "20211114_hanamizuno/バルト三国の歴史-4/ロシアとドイツの休戦",
+    "content_hash": "sha256:f7abeec67b0699a7e23a5ed41f57695dff07941b3815b0124fb327299f78eb13",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治",
+        "外交"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ロシアとドイツの休戦",
+        "ロシア",
+        "ドイツ",
+        "ブレスト",
+        "リトフスク",
+        "ソヴィエト・ロシア",
+        "エ・ラ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:59.046Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_hanamizuno/バルト三国の歴史-4/バルト・ドイツ人支配の終焉": {
+    "page_id": "20211114_hanamizuno/バルト三国の歴史-4/バルト・ドイツ人支配の終焉",
+    "content_hash": "sha256:ae1ebe0369d9e60cd1e69808aa94ecf75e71065016e4292db8057c5b16300014",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "バルト・ドイツ",
+        "ボリシェヴィキ",
+        "ロシア",
+        "ドイツ",
+        "スメトナ",
+        "アウグスティナス・ヴォルデマラ",
+        "リトアニア",
+        "エストニア",
+        "パッツ",
+        "リーガ",
+        "アウグスト・ヴィニヒ"
+      ],
+      "tags": [
+        "バルト・ドイツ人支配の終焉"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:59.115Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_hanamizuno/バルト三国の歴史-4/次回予告": {
+    "page_id": "20211114_hanamizuno/バルト三国の歴史-4/次回予告",
+    "content_hash": "sha256:24a10238764304977a4360431dc1d2a121a66b35f4bf7a85e3ea6b5df541b8ce",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:59.137Z",
+    "model": "jev-1.13.0"
+  }
+}

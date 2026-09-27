@@ -1,0 +1,508 @@
+{
+  "20230820_nishihara/WWEの歴史/WWEの歴史": {
+    "page_id": "20230820_nishihara/WWEの歴史/WWEの歴史",
+    "content_hash": "sha256:c9d0bdafe7c2338f7580d1352ad46e3e1dd22abc5311456500197e696115a244",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "WWEの歴史"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:37.056Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/WWEの歴史/参考": {
+    "page_id": "20230820_nishihara/WWEの歴史/参考",
+    "content_hash": "sha256:79829ce413e9d19a51344aa203498c0a85e51c986526e1663e25e6e229f344fb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:37.063Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/マクマホンファミリー/マクマホンファミリー": {
+    "page_id": "20230820_nishihara/マクマホンファミリー/マクマホンファミリー",
+    "content_hash": "sha256:4594dc0561a8c32f723b2026e1e3022684df24c1a62c70baf76165acbd44f7b7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "マクマホンファミリー",
+        "ビンス・マクマホン",
+        "ロドリック・ジェス・マクホン",
+        "ビンス・マクマホン・シニア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:37.099Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/WWWF/WWWF": {
+    "page_id": "20230820_nishihara/WWWF/WWWF",
+    "content_hash": "sha256:fc4212e0cd1b60baa85d1ef396f8c2105e6ff470dab1a8234205c4bc6ab05f27",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "WWWF",
+        "ビンス・マクマホン・シニア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:37.190Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/WWFの拡大/WWFの拡大": {
+    "page_id": "20230820_nishihara/WWFの拡大/WWFの拡大",
+    "content_hash": "sha256:a9a73a9823dea75a048965e07a5da7f6bdbfcf5ba60aa9bfae17aa523c6d1595",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "WWFの拡大"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:37.287Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/ハルクホーガン/ハルクホーガン": {
+    "page_id": "20230820_nishihara/ハルクホーガン/ハルクホーガン",
+    "content_hash": "sha256:0cc8de4d87b3974106ecb3c16f74f437fee6b0967cce9ac0dd3faf04a0a1d6e7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ハルクホーガン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:37.278Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/レッスルマニア/レッスルマニア": {
+    "page_id": "20230820_nishihara/レッスルマニア/レッスルマニア",
+    "content_hash": "sha256:ab77dabe07bf9709036bb9dbff049401bea2022dec7dc452a7a3b0d9dc8e1c5d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "レッスルマニア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:37.327Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/他団体の台頭/他団体の台頭": {
+    "page_id": "20230820_nishihara/他団体の台頭/他団体の台頭",
+    "content_hash": "sha256:cde7ba6dd7c3b83136e53a3d29f7e9cd28efb1a2fbd84798a22d28d167f6960d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "他団体の台頭"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:37.408Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/nWo/nWo": {
+    "page_id": "20230820_nishihara/nWo/nWo",
+    "content_hash": "sha256:a988b863e18184602964a454a249e77189091b17c8b3b9d91246afa7289b1895",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "nWo"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:37.486Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/ムタ/ムタ": {
+    "page_id": "20230820_nishihara/ムタ/ムタ",
+    "content_hash": "sha256:d17c2b036a51971b450ea1551bf50ee5db8d4dc582e1c52c3377de379cc10474",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ムタ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:37.501Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/マクマホンがリングに/マクマホンがリングに": {
+    "page_id": "20230820_nishihara/マクマホンがリングに/マクマホンがリングに",
+    "content_hash": "sha256:ce5c875f78e32e4d926cc3706460bc178e49d29b6d7d2459f84d4a7514c9bbd7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "マクマホンがリングに",
+        "マクマホン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:37.528Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/ビンスマクマホン/ビンスマクマホン": {
+    "page_id": "20230820_nishihara/ビンスマクマホン/ビンスマクマホン",
+    "content_hash": "sha256:1a340c1a15c1eeddbba4b0a6b639f07b44a9829b37446130294e1bb1445e700c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ビンスマクマホン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:37.614Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/WWEへ改名/WWEへ改名": {
+    "page_id": "20230820_nishihara/WWEへ改名/WWEへ改名",
+    "content_hash": "sha256:cfb7982d563c1f7590a9ea0a9aa2c6ea85cdf66e7848fa69cef64771f58c30b8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "WWEへ改名"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:37.709Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/WWEの大きなイベント/WWEの大きなイベント": {
+    "page_id": "20230820_nishihara/WWEの大きなイベント/WWEの大きなイベント",
+    "content_hash": "sha256:b25d4ef51829acf6640cc3254de4bd2a1b79e21ffa06f3831900f787fc04b94d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ロイヤルランブル",
+        "レッスルマニア",
+        "サマースラム",
+        "サバイバーシリーズ"
+      ],
+      "tags": [
+        "イベント"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:37.705Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/ロイヤルランブル/ロイヤルランブル": {
+    "page_id": "20230820_nishihara/ロイヤルランブル/ロイヤルランブル",
+    "content_hash": "sha256:b4d42d2581dc13b7c8a0ede90568b1a69b3854816bfc315c2da67312364c8ffc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ロイヤルランブル"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:37.760Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/レッスルマニア/レッスルマニア~2": {
+    "page_id": "20230820_nishihara/レッスルマニア/レッスルマニア~2",
+    "content_hash": "sha256:aa286e3b4b611495071b68af1d40b7c1ed0616996c7fa68c6be0f7cb866e11d7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "レッスルマニア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:37.837Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/サマースラム/サマースラム": {
+    "page_id": "20230820_nishihara/サマースラム/サマースラム",
+    "content_hash": "sha256:f75fa7b1e39a0d58c93619287e1b2c7d95a96197ff00b51312a5f453d846c636",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "サマースラム"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:37.918Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/サバイバーシリーズ/サバイバーシリーズ": {
+    "page_id": "20230820_nishihara/サバイバーシリーズ/サバイバーシリーズ",
+    "content_hash": "sha256:3ad29f99f7325f331af2e7d3806821c47c39356e2cc4656b88b5509150b7f85c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "サバイバーシリーズ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:37.976Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/様式美/様式美": {
+    "page_id": "20230820_nishihara/様式美/様式美",
+    "content_hash": "sha256:a42353280362e3b737f62b408e4b633058d205d73f8ec9f0c80e7fa58a174a59",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "様式美",
+        "ギミック"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:37.992Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/ジョン・シナ/ジョン・シナ": {
+    "page_id": "20230820_nishihara/ジョン・シナ/ジョン・シナ",
+    "content_hash": "sha256:960fe07d1a9e48ddf9c11dff7b380c1166bf78fc825c1f62790e8d25517684b3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ジョン・シナ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:38.115Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/アンダーテイカー/アンダーテイカー": {
+    "page_id": "20230820_nishihara/アンダーテイカー/アンダーテイカー",
+    "content_hash": "sha256:3ea2f7ddb2e9244899bc1e189c95d1f68a4c61711b221258c1c4f34e66761d25",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "アンダーテイカー"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:38.128Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/ブロックレスナー/ブロックレスナー": {
+    "page_id": "20230820_nishihara/ブロックレスナー/ブロックレスナー",
+    "content_hash": "sha256:73134fd279d530c5c99d0d40c9d0e5a13f8b927dd1d6a3d0d1655b4f1a31fca5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ブロックレスナー"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:38.183Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/ブロックレスナー/F5-<https:-youtu.be-ix01deX3_5E-si=_NoO": {
+    "page_id": "20230820_nishihara/ブロックレスナー/F5-<https:-youtu.be-ix01deX3_5E-si=_NoO",
+    "content_hash": "sha256:0b816dfca918bdc33c2ac240077c3d5de616e5dee3cfed617b4c7fc908d4fadd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:38.212Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/ロック様(ドウェイン・ジョンソン)/ロック様(ドウェイン・ジョンソン)": {
+    "page_id": "20230820_nishihara/ロック様(ドウェイン・ジョンソン)/ロック様(ドウェイン・ジョンソン)",
+    "content_hash": "sha256:84b6395b89169e855ba6b6c1b75924c59818c3174c11de21cb62b6d232da646a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ロック様",
+        "ロック",
+        "ドウェイン・ジョンソン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:38.321Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/入場/入場": {
+    "page_id": "20230820_nishihara/入場/入場",
+    "content_hash": "sha256:21ea6adbb7299ed601de2396a7bbb4f1e0c42a7437952b235752217776b06bdd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "入場"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:38.378Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/ロック様/ロック様": {
+    "page_id": "20230820_nishihara/ロック様/ロック様",
+    "content_hash": "sha256:0e52de75a5389a6f22f5d2633462273e469e114f25e45d4e4c705f8eb37c27ca",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ロック様",
+        "ロック"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:38.389Z",
+    "model": "jev-1.13.0"
+  },
+  "20230820_nishihara/様式美/様式美~2": {
+    "page_id": "20230820_nishihara/様式美/様式美~2",
+    "content_hash": "sha256:04ce173baf8433578328c57ea4697d7d6c044fa9fd45c20f8106ff9ada78a910",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:38.411Z",
+    "model": "jev-1.13.0"
+  }
+}

@@ -1,0 +1,548 @@
+{
+  "20220313_kixixixixi/インドネシアの歴史-1/インドネシアの歴史-1": {
+    "page_id": "20220313_kixixixixi/インドネシアの歴史-1/インドネシアの歴史-1",
+    "content_hash": "sha256:1df4d872b066de99558d5aaf28b01f64a905a1b2cc471ed695fb2c25ff0c6558",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "インドネシアの歴史 1",
+        "インドネシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:09.684Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_kixixixixi/目次/目次": {
+    "page_id": "20220313_kixixixixi/目次/目次",
+    "content_hash": "sha256:771b4e5c3073b3b5d84225c9b69827e5ab8a5c0055f36ecbff8bfd4b3d290f24",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "インドネシア",
+        "スハルト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:09.807Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_kixixixixi/1.-はじめに/1.-はじめに": {
+    "page_id": "20220313_kixixixixi/1.-はじめに/1.-はじめに",
+    "content_hash": "sha256:031f6d63c968caa3e863004cc6f35ef8339067b37aeb7b648991546621625c7c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "インドネシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:09.814Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_kixixixixi/2.-インドネシアについて/2.-インドネシアについて": {
+    "page_id": "20220313_kixixixixi/2.-インドネシアについて/2.-インドネシアについて",
+    "content_hash": "sha256:b31ebefd78d4e32c7e2ff3e3b903e669fa6202ca83bcaf9349f1105fa8c78d15",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "2. インドネシアについて",
+        "インドネシア",
+        "ジャカルタ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:09.955Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_kixixixixi/3.-先史時代/3.-先史時代": {
+    "page_id": "20220313_kixixixixi/3.-先史時代/3.-先史時代",
+    "content_hash": "sha256:8189742d3804338337be4ae1ecdb14da71f4ff6eb4f21471223fb49a03134e36",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "先史"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [
+        "ジャワ",
+        "デュボア"
+      ],
+      "tags": [
+        "3. 先史時代"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:09.952Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_kixixixixi/3.-先史時代-2/3.-先史時代-2": {
+    "page_id": "20220313_kixixixixi/3.-先史時代-2/3.-先史時代-2",
+    "content_hash": "sha256:1662652449b1960902d2ba3114e6461c9d91cb042915b0f490ea19b222105a6e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "先史"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [
+        "スンダランド",
+        "マレー",
+        "スマトラ",
+        "ボルネオ",
+        "ジャワ"
+      ],
+      "tags": [
+        "3. 先史時代 2"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:10.037Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_kixixixixi/3.-先史時代-3/3.-先史時代-3": {
+    "page_id": "20220313_kixixixixi/3.-先史時代-3/3.-先史時代-3",
+    "content_hash": "sha256:ba32154212bc9e1132384f464d79517b419479533fce7f69f3500daba5e2f290",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "先史"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "3. 先史時代 3"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:10.008Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_kixixixixi/3.-先史時代-4/3.-先史時代-4": {
+    "page_id": "20220313_kixixixixi/3.-先史時代-4/3.-先史時代-4",
+    "content_hash": "sha256:2571d07f2ead43b9056c405b9b7ce617b5d948e6c60c1635aea1e6f95ba30aeb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "先史"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [
+        "スンダランド",
+        "インドネシア"
+      ],
+      "tags": [
+        "3. 先史時代 4"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:10.191Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_kixixixixi/4.-ヒンドゥ教と仏教/4.-ヒンドゥ教と仏教": {
+    "page_id": "20220313_kixixixixi/4.-ヒンドゥ教と仏教/4.-ヒンドゥ教と仏教",
+    "content_hash": "sha256:6ab939e369c849d4da0cdf39cab31c602fe6c6e0a1eb1379333280262b273b14",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀"
+      ],
+      "entities": [],
+      "tags": [
+        "4. ヒンドゥ教と仏教",
+        "ヒンドゥ",
+        "ネットワーク"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:10.158Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_kixixixixi/4.-ヒンドゥ教と仏教-2/4.-ヒンドゥ教と仏教-2": {
+    "page_id": "20220313_kixixixixi/4.-ヒンドゥ教と仏教-2/4.-ヒンドゥ教と仏教-2",
+    "content_hash": "sha256:23a436591e3bc6854bde232b14e35334e93a35fc4c346a9b74973200a1411697",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "3世紀",
+        "4世紀",
+        "5世紀",
+        "6世紀",
+        "7世紀",
+        "8世紀",
+        "9世紀",
+        "10世紀",
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀",
+        "15世紀",
+        "16世紀"
+      ],
+      "entities": [
+        "クタイ",
+        "カリマンタン",
+        "タルマヌガラ",
+        "ジャワ",
+        "スンダ"
+      ],
+      "tags": [
+        "4. ヒンドゥ教と仏教 2",
+        "ヒンドゥ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:10.228Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_kixixixixi/4.-ヒンドゥ教と仏教-3/4.-ヒンドゥ教と仏教-3": {
+    "page_id": "20220313_kixixixixi/4.-ヒンドゥ教と仏教-3/4.-ヒンドゥ教と仏教-3",
+    "content_hash": "sha256:9cf4c46331b6b228504b6eeca164601ce5d415e6db839654d85246f75c83c92e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "6世紀",
+        "7世紀",
+        "8世紀",
+        "9世紀",
+        "10世紀",
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀"
+      ],
+      "entities": [
+        "シュリーヴィジャヤ",
+        "スマトラ",
+        "ジャワ",
+        "マラッカ",
+        "シャイレーンドラ"
+      ],
+      "tags": [
+        "4. ヒンドゥ教と仏教 3",
+        "ヒンドゥ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:10.260Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_kixixixixi/4.-ヒンドゥ教と仏教-3/![height:400](https:-upload.wikimedia.o": {
+    "page_id": "20220313_kixixixixi/4.-ヒンドゥ教と仏教-3/![height:400](https:-upload.wikimedia.o",
+    "content_hash": "sha256:d804b8020aa55b68c29f5f04ae30d8465685d49a1bd6d99f6754b20cec6a9fdb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:10.367Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_kixixixixi/4.-ヒンドゥ教と仏教-4/4.-ヒンドゥ教と仏教-4": {
+    "page_id": "20220313_kixixixixi/4.-ヒンドゥ教と仏教-4/4.-ヒンドゥ教と仏教-4",
+    "content_hash": "sha256:7f2325de6f12315343de509ca5a8f55344f4248f33bdaa8ecbd2618dc21fe0d3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "8世紀",
+        "9世紀",
+        "10世紀",
+        "11世紀",
+        "12世紀",
+        "13世紀"
+      ],
+      "entities": [
+        "ジャワ",
+        "マタラム",
+        "クディリ",
+        "シンガサリ",
+        "マジャパヒト",
+        "スマトラ"
+      ],
+      "tags": [
+        "4. ヒンドゥ教と仏教 4",
+        "ヒンドゥ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:10.392Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_kixixixixi/4.-ヒンドゥ教と仏教-5/4.-ヒンドゥ教と仏教-5": {
+    "page_id": "20220313_kixixixixi/4.-ヒンドゥ教と仏教-5/4.-ヒンドゥ教と仏教-5",
+    "content_hash": "sha256:844d41a05a53e13eb7df28629f73c39b3b07c5f2a046fd6c871ceaa45166396b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "13世紀",
+        "14世紀",
+        "15世紀"
+      ],
+      "entities": [
+        "マジャパヒト",
+        "スマトラ",
+        "ジャワ",
+        "カリマンタン",
+        "スラウェシ",
+        "ラデン・ウィジャヤ"
+      ],
+      "tags": [
+        "4. ヒンドゥ教と仏教 5",
+        "ヒンドゥ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:10.453Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_kixixixixi/5.-イスラム教/5.-イスラム教": {
+    "page_id": "20220313_kixixixixi/5.-イスラム教/5.-イスラム教",
+    "content_hash": "sha256:38e1f00139a468ad6a9b2b3f733e518f92e884f0b4a5c7b1dbdffe062ff95fa5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "11世紀"
+      ],
+      "entities": [
+        "マジャパヒト"
+      ],
+      "tags": [
+        "5. イスラム教",
+        "イスラム",
+        "イスラーム",
+        "ムスリム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:10.473Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_kixixixixi/5.-イスラム教-2/5.-イスラム教-2": {
+    "page_id": "20220313_kixixixixi/5.-イスラム教-2/5.-イスラム教-2",
+    "content_hash": "sha256:85ec71674d78068888d8caa707c6f5bed5283490d356fa4cea12153ed5fa230e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "13世紀",
+        "14世紀",
+        "15世紀",
+        "16世紀"
+      ],
+      "entities": [
+        "パサイ",
+        "スマトラ",
+        "マラッカ"
+      ],
+      "tags": [
+        "5. イスラム教 2",
+        "イスラム",
+        "イスラーム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:10.580Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_kixixixixi/5.-イスラム教-3/5.-イスラム教-3": {
+    "page_id": "20220313_kixixixixi/5.-イスラム教-3/5.-イスラム教-3",
+    "content_hash": "sha256:ffd5b9d4961b891175d040ab9ecd3f11a5fb2af728db7931139d7a02fa52c695",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀",
+        "16世紀",
+        "17世紀",
+        "18世紀",
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "アチェ",
+        "スマトラ"
+      ],
+      "tags": [
+        "5. イスラム教 3",
+        "イスラム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:10.589Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_kixixixixi/5.-イスラム教-4/5.-イスラム教-4": {
+    "page_id": "20220313_kixixixixi/5.-イスラム教-4/5.-イスラム教-4",
+    "content_hash": "sha256:a531037ffd8de638728f8a941fc7208fc566ed9744cf142ca1ce8549c4fc18ff",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀",
+        "16世紀",
+        "17世紀",
+        "18世紀"
+      ],
+      "entities": [
+        "ドゥマク",
+        "ジャワ",
+        "バンテン"
+      ],
+      "tags": [
+        "5. イスラム教 4",
+        "イスラム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:10.664Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_kixixixixi/5.-イスラム教-5/5.-イスラム教-5": {
+    "page_id": "20220313_kixixixixi/5.-イスラム教-5/5.-イスラム教-5",
+    "content_hash": "sha256:fe4114becc558bf4a4eb7fe3245699be573f5ef1a12763ce97dc570d118e1b57",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀",
+        "17世紀",
+        "18世紀"
+      ],
+      "entities": [
+        "パジャン",
+        "ジャワ",
+        "マタラム"
+      ],
+      "tags": [
+        "5. イスラム教 5",
+        "イスラム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:10.673Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_kixixixixi/6.-オランダ領東インド/6.-オランダ領東インド": {
+    "page_id": "20220313_kixixixixi/6.-オランダ領東インド/6.-オランダ領東インド",
+    "content_hash": "sha256:86357c8b4892dbdd84243d76f85577da0854481acdc234a919132396815f0119",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "6. オランダ領東インド",
+        "オランダ",
+        "インド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:10.780Z",
+    "model": "jev-1.13.0"
+  }
+}

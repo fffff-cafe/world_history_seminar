@@ -1,0 +1,327 @@
+{
+  "20250727_nishihara/重工業の歴史/重工業の歴史": {
+    "page_id": "20250727_nishihara/重工業の歴史/重工業の歴史",
+    "content_hash": "sha256:9dfe80cdb7bd7568f75f0bb082d121f67e364834378f53c217271cb89f81fc30",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "重工業の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:22.879Z",
+    "model": "jev-1.13.0"
+  },
+  "20250727_nishihara/参考/参考": {
+    "page_id": "20250727_nishihara/参考/参考",
+    "content_hash": "sha256:de45199b3d6c4eafe5a96d974187067dccd901cade8d254d17be01a50dd70fb1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:22.916Z",
+    "model": "jev-1.13.0"
+  },
+  "20250727_nishihara/重工業とは(Wikiより)/重工業とは(Wikiより)": {
+    "page_id": "20250727_nishihara/重工業とは(Wikiより)/重工業とは(Wikiより)",
+    "content_hash": "sha256:699c22ded163444b08aefac73aef6e20a50c9fcfadaf087271c3e044be477deb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "重工業とは"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:22.910Z",
+    "model": "jev-1.13.0"
+  },
+  "20250727_nishihara/重工業の負の面/重工業の負の面": {
+    "page_id": "20250727_nishihara/重工業の負の面/重工業の負の面",
+    "content_hash": "sha256:8c038b659f4d8824482a8ee69f393fffc7146b23897f98572a93fc21127097e6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "重工業の負の面"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:23.093Z",
+    "model": "jev-1.13.0"
+  },
+  "20250727_nishihara/国内重工業メーカー/国内重工業メーカー": {
+    "page_id": "20250727_nishihara/国内重工業メーカー/国内重工業メーカー",
+    "content_hash": "sha256:5efc6880571de2ad3ace3819e91dc87d8d9f7c43195fc8dd582463b93e248279",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:23.113Z",
+    "model": "jev-1.13.0"
+  },
+  "20250727_nishihara/日本における重工業の主な歴史/日本における重工業の主な歴史": {
+    "page_id": "20250727_nishihara/日本における重工業の主な歴史/日本における重工業の主な歴史",
+    "content_hash": "sha256:f4b90acff86a57c00522d63716d0cccd6fe1ad26303433dcbc72c71e0ea76269",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "日本",
+        "東アジア"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "日本における重工業の主な歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:23.179Z",
+    "model": "jev-1.13.0"
+  },
+  "20250727_nishihara/日本における重工業の主な歴史/製鉄": {
+    "page_id": "20250727_nishihara/日本における重工業の主な歴史/製鉄",
+    "content_hash": "sha256:db8e879e53d0103908c6824dc946de8a2f7f340ab5f2495bb4b574e0c7ffbf97",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "製鉄",
+        "たたら製鉄"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:23.158Z",
+    "model": "jev-1.13.0"
+  },
+  "20250727_nishihara/日本における重工業の主な歴史/航空機": {
+    "page_id": "20250727_nishihara/日本における重工業の主な歴史/航空機",
+    "content_hash": "sha256:caab6e10eeb7ba2849306a60ef34638bb2826fd576828ef5d06980a68d1ceb19",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "航空機"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:23.322Z",
+    "model": "jev-1.13.0"
+  },
+  "20250727_nishihara/日本における重工業の主な歴史/|-企業-|-設立・航空参入-|-主な創業者・特徴-|": {
+    "page_id": "20250727_nishihara/日本における重工業の主な歴史/|-企業-|-設立・航空参入-|-主な創業者・特徴-|",
+    "content_hash": "sha256:5a3c22dcb7a6581f1cb6a0dd6429957d1b906c4b4e2ded977b17fa82b6d0613b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "日本",
+        "東アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "中島飛行機株式会社",
+        "三菱内燃機製作所",
+        "川崎造船所 航空機部門"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:23.398Z",
+    "model": "jev-1.13.0"
+  },
+  "20250727_nishihara/日本における重工業の主な歴史/その他発展したもの": {
+    "page_id": "20250727_nishihara/日本における重工業の主な歴史/その他発展したもの",
+    "content_hash": "sha256:58cdd9ec28648a10db1a8bbfa62fb8673b11b110124b369b0166ac63f4a2d3a4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:23.373Z",
+    "model": "jev-1.13.0"
+  },
+  "20250727_nishihara/重工業の推移(戦後~現代)/重工業の推移(戦後~現代)": {
+    "page_id": "20250727_nishihara/重工業の推移(戦後~現代)/重工業の推移(戦後~現代)",
+    "content_hash": "sha256:c737984d55583dea267dbbbfae8d992509b0fec0528c324f791fa1b5095012d7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "重工業の推移"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:23.377Z",
+    "model": "jev-1.13.0"
+  },
+  "20250727_nishihara/再建期-~-高度成長期(1945年〜1973年)/再建期-~-高度成長期(1945年〜1973年)": {
+    "page_id": "20250727_nishihara/再建期-~-高度成長期(1945年〜1973年)/再建期-~-高度成長期(1945年〜1973年)",
+    "content_hash": "sha256:c11f1237cc41dc7009127786078ee5915077a92cccdf52a38520714d9d03f86c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "再建期 ~ 高度成長期"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:23.541Z",
+    "model": "jev-1.13.0"
+  },
+  "20250727_nishihara/安定成長期-~-円高・バブル崩壊期(1970年代後半〜1990年代前半)/安定成長期-~-円高・バブル崩壊期(1970年代後半〜1990年代前半)": {
+    "page_id": "20250727_nishihara/安定成長期-~-円高・バブル崩壊期(1970年代後半〜1990年代前半)/安定成長期-~-円高・バブル崩壊期(1970年代後半〜1990年代前半)",
+    "content_hash": "sha256:60e8ad07f138d30332a85b463bc714cdea3774852485b413e501c08e26289394",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "1973年",
+        "オイルショック"
+      ],
+      "tags": [
+        "安定成長期 ~ 円高・バブル崩壊期"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:23.611Z",
+    "model": "jev-1.13.0"
+  },
+  "20250727_nishihara/現代(1990年代以降〜)/現代(1990年代以降〜)": {
+    "page_id": "20250727_nishihara/現代(1990年代以降〜)/現代(1990年代以降〜)",
+    "content_hash": "sha256:81ccf154508e7156b9238f55b30eb1eba05439287a7d62c20d45eaa12ca9f79d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "現代",
+        "高技術",
+        "複合的生産体制"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:23.617Z",
+    "model": "jev-1.13.0"
+  }
+}

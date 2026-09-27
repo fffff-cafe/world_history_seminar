@@ -1,0 +1,163 @@
+{
+  "20220112_hasegawa/第一次世界大戦(1914-1918)/第一次世界大戦(1914-1918)": {
+    "page_id": "20220112_hasegawa/第一次世界大戦(1914-1918)/第一次世界大戦(1914-1918)",
+    "content_hash": "sha256:58c58b74693c9ab3ea960bbbdf40803391f0b3cd60e63e5ef11d4e7ba6ab23eb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "第一次世界大戦"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:02.459Z",
+    "model": "jev-1.13.0"
+  },
+  "20220112_hasegawa/第一次世界大戦(1914-1918)/発端": {
+    "page_id": "20220112_hasegawa/第一次世界大戦(1914-1918)/発端",
+    "content_hash": "sha256:ed9c4ace43d2748e034f11a37053fc9d84df4c7d86aff48f12f0a97462ede5e0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "オスマン",
+        "トルコ",
+        "オーハン",
+        "ボスニアヘルツェゴビナ",
+        "セルビア",
+        "フェルディナンド",
+        "オーストリア"
+      ],
+      "tags": [
+        "発端"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:02.468Z",
+    "model": "jev-1.13.0"
+  },
+  "20220112_hasegawa/第一次世界大戦(1914-1918)/1914年の動き": {
+    "page_id": "20220112_hasegawa/第一次世界大戦(1914-1918)/1914年の動き",
+    "content_hash": "sha256:a5a6cde6abd73dfa7742afe0154ab0842e565ed855da59272a2aa14b089efcd3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "セルビア",
+        "オーハン",
+        "ロシア",
+        "ドイツ",
+        "フランス",
+        "オスマントルコ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:02.463Z",
+    "model": "jev-1.13.0"
+  },
+  "20220112_hasegawa/第一次世界大戦(1914-1918)/ドイツの進撃": {
+    "page_id": "20220112_hasegawa/第一次世界大戦(1914-1918)/ドイツの進撃",
+    "content_hash": "sha256:799fe0af7f218d5c92a72377a637c2685de0a714c7392f73d93f19d074efe007",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ドイツの進撃",
+        "ドイツ",
+        "フランス",
+        "マルヌ"
+      ],
+      "tags": [
+        "シュリーフェンプラン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:02.609Z",
+    "model": "jev-1.13.0"
+  },
+  "20220112_hasegawa/第一次世界大戦(1914-1918)/塹壕がなぜ強いか": {
+    "page_id": "20220112_hasegawa/第一次世界大戦(1914-1918)/塹壕がなぜ強いか",
+    "content_hash": "sha256:4496018485a3f2c678fb2effabd911f5aaa00b551e6eb936d982323658968f82",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "塹壕がなぜ強いか",
+        "火力不足"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:02.706Z",
+    "model": "jev-1.13.0"
+  },
+  "20220112_hasegawa/第一次世界大戦(1914-1918)/環境トップメタの塹壕を人類は果たして突破できるのか!-": {
+    "page_id": "20220112_hasegawa/第一次世界大戦(1914-1918)/環境トップメタの塹壕を人類は果たして突破できるのか!-",
+    "content_hash": "sha256:b9971d7779ccd2264e5bddbe61f2953df9ce0d4fe37c0bdae09a1b18f3d8954c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:02.661Z",
+    "model": "jev-1.13.0"
+  }
+}

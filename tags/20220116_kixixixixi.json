@@ -1,0 +1,287 @@
+{
+  "20220116_kixixixixi/メキシコの歴史-3/メキシコの歴史-3": {
+    "page_id": "20220116_kixixixixi/メキシコの歴史-3/メキシコの歴史-3",
+    "content_hash": "sha256:390dee6f8054bc81dc3375c1cc28feb4e5283f72dd0bd122f833caee84df7417",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "メキシコの歴史 3",
+        "メキシコ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:04.368Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_kixixixixi/目次/目次": {
+    "page_id": "20220116_kixixixixi/目次/目次",
+    "content_hash": "sha256:b6308d293ffb2845d8aa8989c5a4ff7706d31dbe725d7f570eb3b46d83a1db21",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "メキシコ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:04.434Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_kixixixixi/前回まで/前回まで": {
+    "page_id": "20220116_kixixixixi/前回まで/前回まで",
+    "content_hash": "sha256:817ea64cb770cd7554983320225273d2149603b6ceda610f59157b6348ae3e12",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [
+        "コルテス",
+        "メキシコシティ",
+        "アステカ",
+        "フランシスコ・デ・モンテーホ",
+        "ユカタン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:04.438Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_kixixixixi/前回まで/スペインによる支配": {
+    "page_id": "20220116_kixixixixi/前回まで/スペインによる支配",
+    "content_hash": "sha256:4602a35042f50991c3c8843e30431f203174cdb853bb947b7573d4d67a900e2e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [
+        "スペイン",
+        "ヌエバ・エスパーニャ",
+        "メキシコ"
+      ],
+      "tags": [
+        "スペインによる支配"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:04.440Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_kixixixixi/前回まで/スペインによる支配~2": {
+    "page_id": "20220116_kixixixixi/前回まで/スペインによる支配~2",
+    "content_hash": "sha256:c7e1f629ae6f75ba2fa961d2ec3ff8fc6e8023bbc7da1f109667ef3aff8cd3d8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [],
+      "entities": [
+        "スペイン"
+      ],
+      "tags": [
+        "スペインによる支配",
+        "エンコミエンダ",
+        "アシエンダ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:04.579Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_kixixixixi/前回まで/スペインによる支配~3": {
+    "page_id": "20220116_kixixixixi/前回まで/スペインによる支配~3",
+    "content_hash": "sha256:1fb668319afa1605315d05d5f82fdf7a82957623d7dfa31e0f66fca65405e500",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [
+        "スペインによる支配",
+        "スペイン",
+        "アカプルコ",
+        "メキシコ"
+      ],
+      "tags": [
+        "エンコミエンダ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:04.662Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_kixixixixi/独立/独立": {
+    "page_id": "20220116_kixixixixi/独立/独立",
+    "content_hash": "sha256:1419094e6803928b0660d3c5517a45f9d207cd282574b10ade663e2d7468cd84",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "ヌエバ・エスパーニャ",
+        "スペイン",
+        "メキシコ"
+      ],
+      "tags": [
+        "独立"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:04.633Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_kixixixixi/独立/イダルゴ": {
+    "page_id": "20220116_kixixixixi/独立/イダルゴ",
+    "content_hash": "sha256:ac48c9501c8b083ed8afbfacfb8f7097f50a41a86eda404a2b4373d2a01a05ad",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ラテンアメリカ"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "イダルゴ",
+        "メキシコ独立の父",
+        "メキシコ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:05.075Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_kixixixixi/独立/君主国として独立": {
+    "page_id": "20220116_kixixixixi/独立/君主国として独立",
+    "content_hash": "sha256:d736abb703f89c5d1f84876680adaea6306564eda4df1a4a3c00541e127e81cc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "イトゥルビデ",
+        "アグスティン",
+        "メキシコ"
+      ],
+      "tags": [
+        "君主国として独立"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:04.799Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_kixixixixi/独立/共和制": {
+    "page_id": "20220116_kixixixixi/独立/共和制",
+    "content_hash": "sha256:71c266ef390f5d17dda082bcec302b4e3126fd536843756f7a5751ba029c6059",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "サンタ"
+      ],
+      "tags": [
+        "共和制"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:04.940Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_kixixixixi/独立/米墨戦争": {
+    "page_id": "20220116_kixixixixi/独立/米墨戦争",
+    "content_hash": "sha256:16ab3b7112e85ae354e17a7c83c4ebc57277a7fc7bcdfca67790edaa6034ac8d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "米墨戦争",
+        "アメリカ",
+        "メキシコ",
+        "テキサス",
+        "サンタ",
+        "メキシコシティ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:04.894Z",
+    "model": "jev-1.13.0"
+  }
+}

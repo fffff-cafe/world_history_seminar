@@ -1,0 +1,124 @@
+{
+  "20221211_hanamizuno/ヴェネツィアの歴史-2/ヴェネツィアの歴史-2": {
+    "page_id": "20221211_hanamizuno/ヴェネツィアの歴史-2/ヴェネツィアの歴史-2",
+    "content_hash": "sha256:0813fbe09a234a3a53ed20f7134d413829e1e56bcd1682da438ea546a74bb6e2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ヴェネツィアの歴史 2",
+        "ヴェネツィア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:26.992Z",
+    "model": "jev-1.13.0"
+  },
+  "20221211_hanamizuno/ヴェネツィアの歴史-2/参考文献": {
+    "page_id": "20221211_hanamizuno/ヴェネツィアの歴史-2/参考文献",
+    "content_hash": "sha256:5fff6dd5d2c05d7f331d602ec5ceaab1ed9f51a5b4140258dbfd030fd5a2fb99",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:27.144Z",
+    "model": "jev-1.13.0"
+  },
+  "20221211_hanamizuno/ヴェネツィアの歴史-2/ヴェネツィア商業の始まり": {
+    "page_id": "20221211_hanamizuno/ヴェネツィアの歴史-2/ヴェネツィア商業の始まり",
+    "content_hash": "sha256:b881f1be6ca83a5af153cb5965e0b59db151eaafab537a863cd535b36def64ec",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "9世紀",
+        "10世紀",
+        "11世紀"
+      ],
+      "entities": [
+        "ヴェネツィア商業の始まり",
+        "ヴェネツィア",
+        "ビザンツ",
+        "アドリア",
+        "バルカン",
+        "ダルマツィア",
+        "イストリア"
+      ],
+      "tags": [
+        "9 世紀 河川交易から海へ進出"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:27.141Z",
+    "model": "jev-1.13.0"
+  },
+  "20221211_hanamizuno/ヴェネツィアの歴史-2/ノルマン人の侵攻": {
+    "page_id": "20221211_hanamizuno/ヴェネツィアの歴史-2/ノルマン人の侵攻",
+    "content_hash": "sha256:ef82c7682104522591dd8df857ecab2fc8bc978c60dda829c1e7f1f76425e16e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "11世紀"
+      ],
+      "entities": [
+        "ノルマン人の侵攻",
+        "ノルマン",
+        "ビザンツ",
+        "ローマ",
+        "ドゥラキオン",
+        "ヴェネツィア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:27.139Z",
+    "model": "jev-1.13.0"
+  },
+  "20221211_hanamizuno/ヴェネツィアの歴史-2/十字軍": {
+    "page_id": "20221211_hanamizuno/ヴェネツィアの歴史-2/十字軍",
+    "content_hash": "sha256:cfe4c78d36dcb9280f56812abc4246233bc15c24612624dac9c2e6fc2e8c0bc7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "11世紀"
+      ],
+      "entities": [
+        "十字軍"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:27.206Z",
+    "model": "jev-1.13.0"
+  }
+}

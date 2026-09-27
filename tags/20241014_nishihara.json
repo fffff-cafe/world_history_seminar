@@ -1,0 +1,356 @@
+{
+  "20241014_nishihara/保険の歴史/保険の歴史": {
+    "page_id": "20241014_nishihara/保険の歴史/保険の歴史",
+    "content_hash": "sha256:c261718cc0c229ac4b6562e9d1b939cc941ce5611e1bb240d4de3e5bc03a7d92",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "保険の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:06.894Z",
+    "model": "jev-1.13.0"
+  },
+  "20241014_nishihara/参考/参考": {
+    "page_id": "20241014_nishihara/参考/参考",
+    "content_hash": "sha256:973427908061c947b6173cd2a2983b6a90e73276fb67740246b06039caade6bf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:06.957Z",
+    "model": "jev-1.13.0"
+  },
+  "20241014_nishihara/保険の起源/保険の起源": {
+    "page_id": "20241014_nishihara/保険の起源/保険の起源",
+    "content_hash": "sha256:bc21855af95617089f9686d16589bf466a9893fb5cc13cbd28fc8d62a88ab5bf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前",
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "バビロン",
+        "ハンムラビ"
+      ],
+      "tags": [
+        "保険の起源",
+        "海上保険"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:06.991Z",
+    "model": "jev-1.13.0"
+  },
+  "20241014_nishihara/海上保険/海上保険": {
+    "page_id": "20241014_nishihara/海上保険/海上保険",
+    "content_hash": "sha256:a2be130dc1edef04671aecee71bd3ff4645ae3598e7c3b62b72a271aced8d3c1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "海上保険"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:07.071Z",
+    "model": "jev-1.13.0"
+  },
+  "20241014_nishihara/中世の海上保険/中世の海上保険": {
+    "page_id": "20241014_nishihara/中世の海上保険/中世の海上保険",
+    "content_hash": "sha256:f8f2dd5307828f19306d947843c12c0452d00d0c253c085731b7b956c436949a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "13世紀"
+      ],
+      "entities": [
+        "イタリア",
+        "スペイン",
+        "ポルトガル",
+        "アントワープ",
+        "ロンドン",
+        "ロンバルディア",
+        "エリザベス",
+        "イギリス"
+      ],
+      "tags": [
+        "中世の海上保険"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:07.116Z",
+    "model": "jev-1.13.0"
+  },
+  "20241014_nishihara/ロイズ/ロイズ": {
+    "page_id": "20241014_nishihara/ロイズ/ロイズ",
+    "content_hash": "sha256:3a6b185f3b52dcca1b885a9ade8cd2a70557f768d290505e36baa3eb7410dce2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "ロイズ",
+        "エドワード・ロイド"
+      ],
+      "tags": [
+        "コーヒーハウス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:07.153Z",
+    "model": "jev-1.13.0"
+  },
+  "20241014_nishihara/南海泡沫事件/南海泡沫事件": {
+    "page_id": "20241014_nishihara/南海泡沫事件/南海泡沫事件",
+    "content_hash": "sha256:ce6f7dcff3e57755e0fb16e093fdb97ec9ca395c4d2da18648f2635f9feabb66",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "南海泡沫事件"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:07.240Z",
+    "model": "jev-1.13.0"
+  },
+  "20241014_nishihara/南海泡沫事件2/南海泡沫事件2": {
+    "page_id": "20241014_nishihara/南海泡沫事件2/南海泡沫事件2",
+    "content_hash": "sha256:cb02042576067814ccf613ec867c962907e55b4ca827c1920f0f8a3de87c4f99",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "南海泡沫事件2"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:07.277Z",
+    "model": "jev-1.13.0"
+  },
+  "20241014_nishihara/保険引受業務/保険引受業務": {
+    "page_id": "20241014_nishihara/保険引受業務/保険引受業務",
+    "content_hash": "sha256:762e7939d692a95813a03b5b7b84687a7f41b75d226208977e50a60abf91ff8d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ロイズ"
+      ],
+      "tags": [
+        "保険引受業務"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:07.334Z",
+    "model": "jev-1.13.0"
+  },
+  "20241014_nishihara/保険市場としてのロイズ/保険市場としてのロイズ": {
+    "page_id": "20241014_nishihara/保険市場としてのロイズ/保険市場としてのロイズ",
+    "content_hash": "sha256:b42d27f6db86a972774ebf4ebee744b655e69ac6e07c7d532312c4d1b3f226b8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世",
+        "近代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "保険市場としてのロイズ",
+        "ロイズ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:07.369Z",
+    "model": "jev-1.13.0"
+  },
+  "20241014_nishihara/ロイズの仕組み/ロイズの仕組み": {
+    "page_id": "20241014_nishihara/ロイズの仕組み/ロイズの仕組み",
+    "content_hash": "sha256:3228fc393df3f0a05359848af27968dad3b2190138c9157ea484584b096fc097",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ロイズ"
+      ],
+      "tags": [
+        "ロイズの仕組み",
+        "アンダーライター",
+        "シンジケート"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:07.442Z",
+    "model": "jev-1.13.0"
+  },
+  "20241014_nishihara/ロイズの仕組み/<img-src=\"https:-cdn-ak.f.st-hatena.com": {
+    "page_id": "20241014_nishihara/ロイズの仕組み/<img-src=\"https:-cdn-ak.f.st-hatena.com",
+    "content_hash": "sha256:a5fd63f7c2a92fc8b6bc5326f1a31cb2566a329464e97c805611e795c17805d2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:07.508Z",
+    "model": "jev-1.13.0"
+  },
+  "20241014_nishihara/日本の保険/日本の保険": {
+    "page_id": "20241014_nishihara/日本の保険/日本の保険",
+    "content_hash": "sha256:5b571f5830eccb6127915a1ee94d7b4cbe8e04f8508b06ef452b2af6b366e84c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "日本",
+        "東アジア"
+      ],
+      "period": [
+        "16世紀",
+        "17世紀",
+        "18世紀",
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "日本の保険",
+        "海上請負"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:07.528Z",
+    "model": "jev-1.13.0"
+  },
+  "20241014_nishihara/福沢諭吉/福沢諭吉": {
+    "page_id": "20241014_nishihara/福沢諭吉/福沢諭吉",
+    "content_hash": "sha256:26a06a0258e3f11d2ac80b94cec95a3f381f5b86b5700ec7e7f2181e09e0bcb2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "福沢諭吉",
+        "東京海上保険会社"
+      ],
+      "tags": [
+        "海上請負"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:07.576Z",
+    "model": "jev-1.13.0"
+  },
+  "20241014_nishihara/保険会社の資産の運用/保険会社の資産の運用": {
+    "page_id": "20241014_nishihara/保険会社の資産の運用/保険会社の資産の運用",
+    "content_hash": "sha256:17f57ad990617db7c52211fa1e366ef0a1239b9933c480e893be0a7ffb98a550",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "保険会社の資産の運用"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:07.661Z",
+    "model": "jev-1.13.0"
+  }
+}

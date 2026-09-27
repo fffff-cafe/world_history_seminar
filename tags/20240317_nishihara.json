@@ -1,0 +1,569 @@
+{
+  "20240317_nishihara/毒と薬の歴史/毒と薬の歴史": {
+    "page_id": "20240317_nishihara/毒と薬の歴史/毒と薬の歴史",
+    "content_hash": "sha256:b3e9de9ef4a01fff1efbefae9eec9abb6c3b8791d66cf3a88e251b7e86fcac97",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "毒と薬の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:54.142Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/参考/参考": {
+    "page_id": "20240317_nishihara/参考/参考",
+    "content_hash": "sha256:26afb3b2f3eb7f62c3daa53089f0cb910d78dc65d0eb8110114fa5a7172ee8d1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:54.154Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/古代の薬(治療)/古代の薬(治療)": {
+    "page_id": "20240317_nishihara/古代の薬(治療)/古代の薬(治療)",
+    "content_hash": "sha256:9716956d4718d8122aa32e8ded49cf0a2570112f3e95bba853b3d686dbfac034",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前",
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "神農",
+        "ヒポクラテス"
+      ],
+      "tags": [
+        "古代の薬",
+        "シャーマン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:54.259Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/近代の薬/近代の薬": {
+    "page_id": "20240317_nishihara/近代の薬/近代の薬",
+    "content_hash": "sha256:5ac0449a4f9ee24c439887ac5c7316e559527598c30c6f768b0e9c076a26259e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀",
+        "18世紀",
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "ジェンナー",
+        "コッホ",
+        "サルバルサン",
+        "フレミング"
+      ],
+      "tags": [
+        "近代の薬"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:54.337Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/毒の話/毒の話": {
+    "page_id": "20240317_nishihara/毒の話/毒の話",
+    "content_hash": "sha256:8038b2ecf4c0ad26add7d607a631a48086024de6cec92ad6e9496dbd56cdb6ed",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "毒の話"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:54.408Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/暗殺の手段/暗殺の手段": {
+    "page_id": "20240317_nishihara/暗殺の手段/暗殺の手段",
+    "content_hash": "sha256:8753e911eb618cd0e3bb8d2f8ef29381d5107e1380bc8bda9f1856f49d807070",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ヨーロッパ"
+      ],
+      "tags": [
+        "暗殺の手段",
+        "お家騒動"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:54.381Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/毒の使い道/毒の使い道": {
+    "page_id": "20240317_nishihara/毒の使い道/毒の使い道",
+    "content_hash": "sha256:730bae319f7d404cbac7bb335e589d5fdfe44528f2bdf9d6105b92dee11340ae",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "毒の使い道"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:54.480Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/毒の使い道1/毒の使い道1": {
+    "page_id": "20240317_nishihara/毒の使い道1/毒の使い道1",
+    "content_hash": "sha256:6d4fc85f16e3d781fbf87e91897df7518bc0694c1748cf471f0cfb503a73a906",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "サリン",
+        "イタイイタイ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:54.545Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/毒の使い道2/毒の使い道2": {
+    "page_id": "20240317_nishihara/毒の使い道2/毒の使い道2",
+    "content_hash": "sha256:9a17011ea12cfb3204b601d65006598c0d0263a44f8a1f830368ae213fc84491",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "タリウム",
+        "ポロニウム"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:54.585Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/毒とは何か/毒とは何か": {
+    "page_id": "20240317_nishihara/毒とは何か/毒とは何か",
+    "content_hash": "sha256:b51f729c6136cdec1726eed5858daa6c7460faf9173876ad7ce6a5958ed2d025",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "毒とは何か"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:54.644Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/毒の強さの指針/毒の強さの指針": {
+    "page_id": "20240317_nishihara/毒の強さの指針/毒の強さの指針",
+    "content_hash": "sha256:912d5fc4fe4dfc955bf320b52807f4536507eb08a55b2aea53850c18c3df4662",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "毒の強さの指針"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:54.698Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/致死量ランキング/致死量ランキング": {
+    "page_id": "20240317_nishihara/致死量ランキング/致死量ランキング",
+    "content_hash": "sha256:0d0962b38c7c3449621665faaa0f56d55503c20b2cec48bf7aa4dd2865e3cc44",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "致死量ランキング"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:54.743Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/薬の有効度の指針/薬の有効度の指針": {
+    "page_id": "20240317_nishihara/薬の有効度の指針/薬の有効度の指針",
+    "content_hash": "sha256:c16fdf1cb90b1568dc49372b3a9d1a967e25ad10d03406f0d58aa0d60ea24e7d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "薬の有効度の指針"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:54.812Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/薬か毒か/薬か毒か": {
+    "page_id": "20240317_nishihara/薬か毒か/薬か毒か",
+    "content_hash": "sha256:0231ee7a5da4d254f532474905878db33babfea65a8abeae3148e8d0bbffdeb5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "サリドマイド",
+        "ドイツ",
+        "グリューネンタール"
+      ],
+      "tags": [
+        "薬か毒か"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:54.842Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/サリドマイドの原因/サリドマイドの原因": {
+    "page_id": "20240317_nishihara/サリドマイドの原因/サリドマイドの原因",
+    "content_hash": "sha256:49a6ac1868bdefbf2b80c5ce5a6b728fc0e079ad5f94d6eef084b4ba06db26c6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "サリドマイドの原因",
+        "サリドマイド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:54.902Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/サリドマイドの効用/サリドマイドの効用": {
+    "page_id": "20240317_nishihara/サリドマイドの効用/サリドマイドの効用",
+    "content_hash": "sha256:14fdfccf77a5e421bff7c71b125b78ec154912c3f3147d1cbf5673938867aeba",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "サリドマイドの効用",
+        "サリドマイド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:54.959Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/毒は薬にもなる/毒は薬にもなる": {
+    "page_id": "20240317_nishihara/毒は薬にもなる/毒は薬にもなる",
+    "content_hash": "sha256:c4a416985013e357b2dff3eabf90adab0fc20eaa4b2289342e71aaeee1320971",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "毒は薬にもなる"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:55.075Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/薬害/薬害": {
+    "page_id": "20240317_nishihara/薬害/薬害",
+    "content_hash": "sha256:a2cbd537c8e6b061dfe1ad0728039e3c49caa5384527d1cd97c81b8d1cf5a4d6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "エイズ"
+      ],
+      "tags": [
+        "薬害"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:55.059Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/不老不死の研究/不老不死の研究": {
+    "page_id": "20240317_nishihara/不老不死の研究/不老不死の研究",
+    "content_hash": "sha256:be9a8bebfdc48ce141c7f36bd92a48ea19a7f3f2cd7d2cecaeca92ebc0690d0c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "不老不死の研究"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:55.100Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/二日酔いのメカニズム/二日酔いのメカニズム": {
+    "page_id": "20240317_nishihara/二日酔いのメカニズム/二日酔いのメカニズム",
+    "content_hash": "sha256:015be1c0021973ba0d499116e5d04741be6eebd27c7bfd46c2b73322207cdd82",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "二日酔いのメカニズム",
+        "メカニズム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:55.196Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/なぜ毒物で人は死ぬか/なぜ毒物で人は死ぬか": {
+    "page_id": "20240317_nishihara/なぜ毒物で人は死ぬか/なぜ毒物で人は死ぬか",
+    "content_hash": "sha256:ce2034cc62ed1f4b8310fa9d74c0b5d893fedce68cd2c55ef155784d2b485736",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "なぜ毒物で人は死ぬか"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:55.283Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/呼吸毒/呼吸毒": {
+    "page_id": "20240317_nishihara/呼吸毒/呼吸毒",
+    "content_hash": "sha256:5a56402fd94609a081d355f34e198f68670e17026f115e483b3492bf193f9eab",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "呼吸毒"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:55.307Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/神経毒(フグ)/神経毒(フグ)": {
+    "page_id": "20240317_nishihara/神経毒(フグ)/神経毒(フグ)",
+    "content_hash": "sha256:c195b1da99d439c57894def6c1c8a48fdec563acd64407cdff1b5c21afa1865f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "神経毒"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:55.300Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/神経毒(キノコ)/神経毒(キノコ)": {
+    "page_id": "20240317_nishihara/神経毒(キノコ)/神経毒(キノコ)",
+    "content_hash": "sha256:83f69ae56aea8bbd2f774d08783bbdef7d3e7330939bd5d9cad4b015601ee1d6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "タマゴテングダケ",
+        "ドクササコ",
+        "テングダケ"
+      ],
+      "tags": [
+        "神経毒",
+        "キノコ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:55.446Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/神経毒(キノコ)2/神経毒(キノコ)2": {
+    "page_id": "20240317_nishihara/神経毒(キノコ)2/神経毒(キノコ)2",
+    "content_hash": "sha256:3739d91bffb51bdaf56017df62f9d69aed12ee91b6057a7253327e26e40fafdd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "神経毒2",
+        "キノコ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:55.514Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/神経毒(サリン)/神経毒(サリン)": {
+    "page_id": "20240317_nishihara/神経毒(サリン)/神経毒(サリン)",
+    "content_hash": "sha256:d410407db0ce3a3e01ea67ac4462ae807b0b8074052bddf80bf8b04c0800b568",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "神経毒"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:55.521Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/サリンの応急薬/サリンの応急薬": {
+    "page_id": "20240317_nishihara/サリンの応急薬/サリンの応急薬",
+    "content_hash": "sha256:56266027c9c8964bafa3da9b30ecbe4da2b686a9f02d734a6b3d4be2109b744a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "サリンの応急薬"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:55.510Z",
+    "model": "jev-1.13.0"
+  },
+  "20240317_nishihara/その他/その他": {
+    "page_id": "20240317_nishihara/その他/その他",
+    "content_hash": "sha256:09ace0b81a780011aeeed35eb22ed5882f240adb69a65fe34d1525fb5b58000b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:55.676Z",
+    "model": "jev-1.13.0"
+  }
+}

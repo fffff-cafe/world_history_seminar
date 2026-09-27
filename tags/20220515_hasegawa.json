@@ -1,0 +1,161 @@
+{
+  "20220515_hasegawa/第一次世界大戦-4/第一次世界大戦-4": {
+    "page_id": "20220515_hasegawa/第一次世界大戦-4/第一次世界大戦-4",
+    "content_hash": "sha256:f75b1430132dfa7959ab652ee01fff0b20b9b3aae192fa3f6a01816803257497",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "第一次世界大戦 4"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:14.794Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hasegawa/第一次世界大戦-4/1917年の振り返り": {
+    "page_id": "20220515_hasegawa/第一次世界大戦-4/1917年の振り返り",
+    "content_hash": "sha256:e173c9f39e53e4898bce077696f55935159acba9c3dfda1e1eae7757707246d3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ソビエト",
+        "ロシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:14.876Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hasegawa/第一次世界大戦-4/1918年の西部戦線": {
+    "page_id": "20220515_hasegawa/第一次世界大戦-4/1918年の西部戦線",
+    "content_hash": "sha256:1632c8fbdd06b781f8983ef52e907cd79206970f5571176de9cc20eca323f340",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "1918年の西部戦線",
+        "ドイツ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:14.933Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hasegawa/第一次世界大戦-4/1918年の西部戦線2": {
+    "page_id": "20220515_hasegawa/第一次世界大戦-4/1918年の西部戦線2",
+    "content_hash": "sha256:542323a175fa99c4566880b88211347c7da7b3403e3244d378c2969c99a7594b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "1918年の西部戦線2",
+        "オーストリア・オスマン",
+        "オーハン",
+        "オスマン",
+        "キール"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:14.967Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hasegawa/第一次世界大戦-4/終戦": {
+    "page_id": "20220515_hasegawa/第一次世界大戦-4/終戦",
+    "content_hash": "sha256:07c07ea77ef92989ff0fcff7a390a3773d0bf3abe97f48fa82525911e921be77",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治",
+        "外交"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ヴェルサイユ",
+        "ルール"
+      ],
+      "tags": [
+        "終戦"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:15.026Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hasegawa/第一次世界大戦-4/その後": {
+    "page_id": "20220515_hasegawa/第一次世界大戦-4/その後",
+    "content_hash": "sha256:112c05e2e90cf7c8723ad53552527612eb4309575fca0589576bf9be502166f6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ドイツ"
+      ],
+      "tags": [
+        "ヴェルサイユ",
+        "ハイパーインフレ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:15.076Z",
+    "model": "jev-1.13.0"
+  }
+}

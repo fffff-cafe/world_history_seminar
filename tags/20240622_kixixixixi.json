@@ -1,0 +1,695 @@
+{
+  "20240622_kixixixixi/運河の歴史/運河の歴史": {
+    "page_id": "20240622_kixixixixi/運河の歴史/運河の歴史",
+    "content_hash": "sha256:100889b4f292f7ad33dd00c87224776296402ca9908e46d3c5c55041d241f7f7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "運河の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:58.526Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/運河の歴史/<img-src=\"https:-sustainablejapan.jp-wp": {
+    "page_id": "20240622_kixixixixi/運河の歴史/<img-src=\"https:-sustainablejapan.jp-wp",
+    "content_hash": "sha256:2118b96d750c9f9a192af54b73c803139ff50b29b3954982bbb96bdebdcaaa33",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:58.623Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/運河/運河": {
+    "page_id": "20240622_kixixixixi/運河/運河",
+    "content_hash": "sha256:e00b1d65449b571f5ba45c6d08c3df8efbf4e69e1ace1f37793715685e9b55f7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "運河"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:58.626Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/産業遺産としての運河/産業遺産としての運河": {
+    "page_id": "20240622_kixixixixi/産業遺産としての運河/産業遺産としての運河",
+    "content_hash": "sha256:5e35e7001d202280076eac68bd5967245052b13083adabf84a73e53678caf306",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "産業遺産としての運河"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:58.603Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/そもそも船は人類最古の乗り物/そもそも船は人類最古の乗り物": {
+    "page_id": "20240622_kixixixixi/そもそも船は人類最古の乗り物/そもそも船は人類最古の乗り物",
+    "content_hash": "sha256:4759f0a95fbcc63f78abeb37f52432d41f10df252df74d67904649f2a4c9155c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "そもそも船は人類最古の乗り物"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:58.743Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/蒸気機関/蒸気機関": {
+    "page_id": "20240622_kixixixixi/蒸気機関/蒸気機関",
+    "content_hash": "sha256:2c245b4ed9c391a6a2cbdd91c557fe149822fe0bd6013abcc17433f5574a2394",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "経済",
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀",
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "蒸気機関"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:58.818Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/コンテナ/コンテナ": {
+    "page_id": "20240622_kixixixixi/コンテナ/コンテナ",
+    "content_hash": "sha256:5c211047421623399c3647d757fa98b34695232b56e749da32495edb001c8f82",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "コンテナ",
+        "パナマックス",
+        "スエズマックス",
+        "マラッカマックス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:58.930Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/内陸運河と海路運河/内陸運河と海路運河": {
+    "page_id": "20240622_kixixixixi/内陸運河と海路運河/内陸運河と海路運河",
+    "content_hash": "sha256:174de983701c1c4c6264289232b9f8c8a2254cb78e858daa9653916efce39336",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "マンチェスター",
+        "イリノイ",
+        "スエズ",
+        "パナマ",
+        "キール",
+        "ミディ"
+      ],
+      "tags": [
+        "内陸運河と海路運河"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:58.870Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/スエズ運河/スエズ運河": {
+    "page_id": "20240622_kixixixixi/スエズ運河/スエズ運河",
+    "content_hash": "sha256:35985223998db789069e7fecc1cde7e1fcef4214428777d612e52647d0e39202",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "スエズ運河",
+        "スエズ",
+        "エジプト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:59.005Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/スエズ運河の歴史/スエズ運河の歴史": {
+    "page_id": "20240622_kixixixixi/スエズ運河の歴史/スエズ運河の歴史",
+    "content_hash": "sha256:bfda5335a5ef1c0ee3da1015ef83f9b30df03dfb2536c50c15939db2cbc677d3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "北アフリカ"
+      ],
+      "period": [
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "スエズ運河の歴史",
+        "ファラオの運河",
+        "スエズ",
+        "エジプト",
+        "ダレイオス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:59.027Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/ナポレオンの調査/ナポレオンの調査": {
+    "page_id": "20240622_kixixixixi/ナポレオンの調査/ナポレオンの調査",
+    "content_hash": "sha256:6741c9959356a06f87bf1b95d9c0b74192da975d9f1cab5029cb86315082e18a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "ナポレオンの調査",
+        "ナポレオン",
+        "イギリス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:59.167Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/スエズ運河会社/スエズ運河会社": {
+    "page_id": "20240622_kixixixixi/スエズ運河会社/スエズ運河会社",
+    "content_hash": "sha256:b6c1515a7b4aca6078a4c7895e4c9e31a2686886394c021a2416870f6e071911",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "スエズ運河会社",
+        "スエズ",
+        "レセップス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:59.150Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/イギリスの介入/イギリスの介入": {
+    "page_id": "20240622_kixixixixi/イギリスの介入/イギリスの介入",
+    "content_hash": "sha256:32e25fde29f9867c3a3b4bc905c39cd7d1214b990bc5e0fa7cd5d62a9bb076b8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "イギリスの介入",
+        "イギリス",
+        "エジプト",
+        "スエズ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:59.210Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/スエズ危機/スエズ危機": {
+    "page_id": "20240622_kixixixixi/スエズ危機/スエズ危機",
+    "content_hash": "sha256:c4ae3da2f4b8504fc0dff9320a735ee6950c77b7ee2b784d8b8d4c45148be75e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "スエズ危機",
+        "スエズ",
+        "エジプト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:59.253Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/スエズ運河の収益/スエズ運河の収益": {
+    "page_id": "20240622_kixixixixi/スエズ運河の収益/スエズ運河の収益",
+    "content_hash": "sha256:120fcd02a733da10173c8c957df57f9b34b5cbd7293e66fd2b22f562ea466594",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "スエズ運河の収益",
+        "スエズ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:59.361Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/パナマ運河/パナマ運河": {
+    "page_id": "20240622_kixixixixi/パナマ運河/パナマ運河",
+    "content_hash": "sha256:e15ff254f51a1f365f5f8f1257570bd58a5d6969f3f557492809669cd7fb997a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "パナマ運河",
+        "パナマ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:59.368Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/マゼラン海峡、ドレーク海峡/マゼラン海峡、ドレーク海峡": {
+    "page_id": "20240622_kixixixixi/マゼラン海峡、ドレーク海峡/マゼラン海峡、ドレーク海峡",
+    "content_hash": "sha256:3667695ffa01812c3563f9aacc52a6a968e08b9e2ea35973b97571d9f0876b3a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "マゼラン海峡、ドレーク海峡",
+        "マゼラン",
+        "ドレーク"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:59.407Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/パナマ運河の歴史/パナマ運河の歴史": {
+    "page_id": "20240622_kixixixixi/パナマ運河の歴史/パナマ運河の歴史",
+    "content_hash": "sha256:f905e1099376166cd4a9823dd2f5d16f58f29ea83e3c5f93a726d9770a16cbc1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "パナマ運河の歴史",
+        "パナマ",
+        "レセップス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:59.474Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/アメリカによる建設/アメリカによる建設": {
+    "page_id": "20240622_kixixixixi/アメリカによる建設/アメリカによる建設",
+    "content_hash": "sha256:69cd852c97db4731d413676778e15f2d5fab8422ba124d813aa6a499237e8c08",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "アメリカによる建設",
+        "アメリカ",
+        "パナマ",
+        "ガトゥン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:59.579Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/返還/返還": {
+    "page_id": "20240622_kixixixixi/返還/返還",
+    "content_hash": "sha256:cd6b5c6bedea64a5b2f2f5c8c186f3d786d7820bd7aae92e19c69cf070ddefd9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "パナマ"
+      ],
+      "tags": [
+        "返還"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:59.583Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/パナマ運河の問題/パナマ運河の問題": {
+    "page_id": "20240622_kixixixixi/パナマ運河の問題/パナマ運河の問題",
+    "content_hash": "sha256:664b86047b8a76badfcc9c5a285fc84a1ffdd70800fa4c48552acf5b419e9c96",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "パナマ運河の問題",
+        "パナマ"
+      ],
+      "tags": [
+        "パナマックス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:59.621Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/キール運河(ノルトオストゼー運河)/キール運河(ノルトオストゼー運河)": {
+    "page_id": "20240622_kixixixixi/キール運河(ノルトオストゼー運河)/キール運河(ノルトオストゼー運河)",
+    "content_hash": "sha256:72f76f14f2b405781a97486c82b77c1ddc3e94ef8d9e8ad774cd39a785fef0c0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [],
+      "entities": [
+        "キール運河",
+        "キール",
+        "ノルトオストゼー",
+        "ドイツ・ユトランド",
+        "バルト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:59.675Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/ミディ運河/ミディ運河": {
+    "page_id": "20240622_kixixixixi/ミディ運河/ミディ運河",
+    "content_hash": "sha256:636990ca834eb32c8662922ad827762b7d197b1cee5345a55bfd9948a0d5e906",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [],
+      "entities": [
+        "ミディ運河",
+        "ミディ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:59.799Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/大運河/大運河": {
+    "page_id": "20240622_kixixixixi/大運河/大運河",
+    "content_hash": "sha256:8d83f03768927c4b7622adf4046c991265198ff9101431a3b7ddf280dadd5f69",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀",
+        "4世紀",
+        "5世紀",
+        "6世紀",
+        "7世紀"
+      ],
+      "entities": [
+        "大運河"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:59.779Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/イリノイ運河/イリノイ運河": {
+    "page_id": "20240622_kixixixixi/イリノイ運河/イリノイ運河",
+    "content_hash": "sha256:6252587ce6b63e64d3cf7753aad3067a952080b7579ce91ba2ca11493e1412d0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [],
+      "entities": [
+        "イリノイ運河",
+        "イリノイ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:59.855Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/エリー運河/エリー運河": {
+    "page_id": "20240622_kixixixixi/エリー運河/エリー運河",
+    "content_hash": "sha256:4d90441c1fb1b67987dbc672994dd60665dac1a27b1c5b373378e1d0e463efae",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [],
+      "entities": [
+        "エリー運河",
+        "エリー"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:59.904Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/ライン・マイン・ドナウ運河/ライン・マイン・ドナウ運河": {
+    "page_id": "20240622_kixixixixi/ライン・マイン・ドナウ運河/ライン・マイン・ドナウ運河",
+    "content_hash": "sha256:11000c75daeb429399d3898d4af0184bd3de122b0578427c2aac74a9a56370db",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "8世紀",
+        "9世紀",
+        "10世紀",
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀",
+        "15世紀",
+        "16世紀",
+        "17世紀",
+        "18世紀",
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "ライン・マイン・ドナウ運河",
+        "ライン・マイン・ドナウ",
+        "ドナウ",
+        "マイン",
+        "ライン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:00.008Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/琵琶湖疏水/琵琶湖疏水": {
+    "page_id": "20240622_kixixixixi/琵琶湖疏水/琵琶湖疏水",
+    "content_hash": "sha256:805d773bd23059acddb28c1a7c8785da934f66511d7d9f33cb0d92cf81ed445a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本",
+        "東アジア"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "琵琶湖疏水"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:59.992Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/放水路との違い/放水路との違い": {
+    "page_id": "20240622_kixixixixi/放水路との違い/放水路との違い",
+    "content_hash": "sha256:b04f6871251003c15985a4786ecc1b2505e514bd7a041938d7d180856dfe1588",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "放水路との違い"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:00.088Z",
+    "model": "jev-1.13.0"
+  },
+  "20240622_kixixixixi/放水路/放水路": {
+    "page_id": "20240622_kixixixixi/放水路/放水路",
+    "content_hash": "sha256:3e6d7ff21b438ad3c4ef084e50d97a840c5606af58d78846d7b00901584fd026",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "放水路"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:00.116Z",
+    "model": "jev-1.13.0"
+  }
+}

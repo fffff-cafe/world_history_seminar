@@ -1,0 +1,286 @@
+{
+  "20240121_nishihara/競馬の歴史/競馬の歴史": {
+    "page_id": "20240121_nishihara/競馬の歴史/競馬の歴史",
+    "content_hash": "sha256:c7522bb5e32f00d724839e0e1b6d0f048480b104fe1d0adee2024c54571b6198",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "競馬の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:50.222Z",
+    "model": "jev-1.13.0"
+  },
+  "20240121_nishihara/参考/参考": {
+    "page_id": "20240121_nishihara/参考/参考",
+    "content_hash": "sha256:4316826c2ec55df9ffd782972262ba560c6babd4100be786f1558dd5abd36371",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:50.264Z",
+    "model": "jev-1.13.0"
+  },
+  "20240121_nishihara/競馬の起源/競馬の起源": {
+    "page_id": "20240121_nishihara/競馬の起源/競馬の起源",
+    "content_hash": "sha256:37a3759e2c2604cf6dea979fcabc98261adb3d28618e0453bac09a0d2404c832",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ギリシャ",
+        "ホメロス",
+        "イリアス"
+      ],
+      "tags": [
+        "競馬の起源"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:50.318Z",
+    "model": "jev-1.13.0"
+  },
+  "20240121_nishihara/近代競馬の歴史/近代競馬の歴史": {
+    "page_id": "20240121_nishihara/近代競馬の歴史/近代競馬の歴史",
+    "content_hash": "sha256:5a108e429cb3e07c9ceb63a0b2de2cbf17898cf7d66dc16c74585daf4c23e407",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "16世紀",
+        "17世紀",
+        "18世紀",
+        "19世紀"
+      ],
+      "entities": [
+        "イングランド",
+        "フランス",
+        "アイルランド",
+        "ドイツ",
+        "イタリア"
+      ],
+      "tags": [
+        "近代競馬の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:50.360Z",
+    "model": "jev-1.13.0"
+  },
+  "20240121_nishihara/日本の競馬/日本の競馬": {
+    "page_id": "20240121_nishihara/日本の競馬/日本の競馬",
+    "content_hash": "sha256:dad5a762b2e6564862c7acd7922beda3ca6a9078a78c4a5b651d34411286a715",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本",
+        "東アジア"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "共同競馬会社"
+      ],
+      "tags": [
+        "日本の競馬"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:50.426Z",
+    "model": "jev-1.13.0"
+  },
+  "20240121_nishihara/賭博としての競馬/賭博としての競馬": {
+    "page_id": "20240121_nishihara/賭博としての競馬/賭博としての競馬",
+    "content_hash": "sha256:f85edb7e93a2b1a8970fb8cd12ef3ef0f5d9dd89ef09cf3ce85796b7c00ed98f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "賭博としての競馬",
+        "パリミュチュエル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:50.490Z",
+    "model": "jev-1.13.0"
+  },
+  "20240121_nishihara/賭博としての競馬/各国でのルール": {
+    "page_id": "20240121_nishihara/賭博としての競馬/各国でのルール",
+    "content_hash": "sha256:262013aa53336fabefb13fcb7219da8935fb5cdaa516a4f68ed6cd1eae4ec218",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "世界全体"
+      ],
+      "period": [],
+      "entities": [
+        "アイルランド",
+        "シンガポール",
+        "マレーシア",
+        "イギリス",
+        "フィリピン",
+        "アメリカ",
+        "アラブ"
+      ],
+      "tags": [
+        "各国でのルール",
+        "18歳未満は馬券購入禁止",
+        "20歳未満は馬券購入禁止",
+        "21歳未満は馬券購入禁止",
+        "州によって異なる",
+        "ルール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:50.529Z",
+    "model": "jev-1.13.0"
+  },
+  "20240121_nishihara/賭博としての競馬/馬券の種類": {
+    "page_id": "20240121_nishihara/賭博としての競馬/馬券の種類",
+    "content_hash": "sha256:7abfeecbf8741fa56ea2207cdc1f353f88f764bdfbe2f393b332a238c8c94a05",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "馬券の種類",
+        "ワイド"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:50.566Z",
+    "model": "jev-1.13.0"
+  },
+  "20240121_nishihara/賭博としての競馬/血統": {
+    "page_id": "20240121_nishihara/賭博としての競馬/血統",
+    "content_hash": "sha256:1b7d5b5785036ecdf318a3bdf1e685c562b28562742166e8a435bfdd6e53f0c7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "血統"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:50.628Z",
+    "model": "jev-1.13.0"
+  },
+  "20240121_nishihara/賭博としての競馬/血統の歴史": {
+    "page_id": "20240121_nishihara/賭博としての競馬/血統の歴史",
+    "content_hash": "sha256:6c510fd69296d8e903d61428f6a4de78cc096f06a8e55382239142ed2aa04e0d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ノーザンダンサー",
+        "トニービン",
+        "ブライアンズタイム",
+        "サンデーサイレンス"
+      ],
+      "tags": [
+        "血統の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:50.756Z",
+    "model": "jev-1.13.0"
+  },
+  "20240121_nishihara/賭博としての競馬/サンデーサイレンス": {
+    "page_id": "20240121_nishihara/賭博としての競馬/サンデーサイレンス",
+    "content_hash": "sha256:6b060b71b51bed1fce57c04669be62b8715bc701db5fb55f31e25c3bfd27b00f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "サンデーサイレンス",
+        "ステイゴールド",
+        "ディープインパクト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:50.743Z",
+    "model": "jev-1.13.0"
+  },
+  "20240121_nishihara/賭博としての競馬/競馬場": {
+    "page_id": "20240121_nishihara/賭博としての競馬/競馬場",
+    "content_hash": "sha256:0c21698e64456803e457d9c871369e705393427ec60443790ab0238c09c217ad",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:50.760Z",
+    "model": "jev-1.13.0"
+  },
+  "20240121_nishihara/賭博としての競馬/競馬場~2": {
+    "page_id": "20240121_nishihara/賭博としての競馬/競馬場~2",
+    "content_hash": "sha256:4fa0eceee92a4aa024a155918fec32095f12c250d33766c3a4290aa706865c69",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:50.860Z",
+    "model": "jev-1.13.0"
+  }
+}

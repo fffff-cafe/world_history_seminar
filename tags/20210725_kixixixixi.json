@@ -1,0 +1,227 @@
+{
+  "20210725_kixixixixi/ユダヤの歴史/ユダヤの歴史": {
+    "page_id": "20210725_kixixixixi/ユダヤの歴史/ユダヤの歴史",
+    "content_hash": "sha256:62b62d60ba0063d0e9407a8d698ce47ccbb6e72d5b93017a20d77ebcfb9764ad",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ユダヤの歴史",
+        "ユダヤ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:50.779Z",
+    "model": "jev-1.13.0"
+  },
+  "20210725_kixixixixi/ユダヤの歴史/ユダヤ人とは": {
+    "page_id": "20210725_kixixixixi/ユダヤの歴史/ユダヤ人とは",
+    "content_hash": "sha256:e99bdb5440797e0042091541c3a532dee8d02772503d62ddcbd2211373aec015",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ユダヤ人とは",
+        "ユダヤ",
+        "イスラエル",
+        "ヘブライ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:50.862Z",
+    "model": "jev-1.13.0"
+  },
+  "20210725_kixixixixi/ユダヤの歴史/これより、その戦禍・支配にさられてきたヘブライ人、イスラエルについて調べたことを": {
+    "page_id": "20210725_kixixixixi/ユダヤの歴史/これより、その戦禍・支配にさられてきたヘブライ人、イスラエルについて調べたことを",
+    "content_hash": "sha256:1fb4c58a5725fab50aaeb125766c58ec012226f53f4e6879d9815d6191ed841d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ヘブライ",
+        "イスラエル"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:50.896Z",
+    "model": "jev-1.13.0"
+  },
+  "20210725_kixixixixi/ユダヤの歴史/ユダヤ教とは": {
+    "page_id": "20210725_kixixixixi/ユダヤの歴史/ユダヤ教とは",
+    "content_hash": "sha256:e06b13d91328d525b0ea42243b02fcc73b9c750034c55e6f102cd3b78541e303",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [
+        "宗教"
+      ],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ユダヤ教とは",
+        "ユダヤ",
+        "メシア"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:50.874Z",
+    "model": "jev-1.13.0"
+  },
+  "20210725_kixixixixi/ユダヤの歴史/ユダヤ人の祖先": {
+    "page_id": "20210725_kixixixixi/ユダヤの歴史/ユダヤ人の祖先",
+    "content_hash": "sha256:f68fa07ce723eda16d3f0bf2d4765bad07e8e0b44f13b3cfd8cb4ad9863d3bb9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [
+        "ユダヤ人の祖先",
+        "ユダヤ",
+        "ヘブライ",
+        "イスラエル",
+        "ヤコブ",
+        "エジプト",
+        "モーセ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:50.989Z",
+    "model": "jev-1.13.0"
+  },
+  "20210725_kixixixixi/ユダヤの歴史/ヘブライ王国のはじまり": {
+    "page_id": "20210725_kixixixixi/ユダヤの歴史/ヘブライ王国のはじまり",
+    "content_hash": "sha256:61df61dd5827a35dae7a1e116bf15ff3656e6d6cc70544ae61daa8be4271a887",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "ヘブライ王国のはじまり",
+        "ヘブライ",
+        "イスラエル",
+        "サウル",
+        "ダヴィデ",
+        "ソロモン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:51.078Z",
+    "model": "jev-1.13.0"
+  },
+  "20210725_kixixixixi/ユダヤの歴史/イスラエル王国とユダ王国": {
+    "page_id": "20210725_kixixixixi/ユダヤの歴史/イスラエル王国とユダ王国",
+    "content_hash": "sha256:c47d0191a57a1f379f6e0b08dd2634727945f169bfca6491e69db188ec91e21e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "8世紀"
+      ],
+      "entities": [
+        "イスラエル王国とユダ王国",
+        "イスラエル",
+        "アッシリア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:51.107Z",
+    "model": "jev-1.13.0"
+  },
+  "20210725_kixixixixi/ユダヤの歴史/ユダ王国の崩壊": {
+    "page_id": "20210725_kixixixixi/ユダヤの歴史/ユダ王国の崩壊",
+    "content_hash": "sha256:f2bd039c57a5ea7db5589491f6257cf10fb4b06f709edbb6f3bc9fc90f1817de",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀",
+        "4世紀",
+        "5世紀",
+        "6世紀"
+      ],
+      "entities": [
+        "ユダ王国の崩壊",
+        "エジプト",
+        "バビロニア",
+        "エルサレム",
+        "バビロン",
+        "アケメネス",
+        "キュロス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:51.149Z",
+    "model": "jev-1.13.0"
+  },
+  "20210725_kixixixixi/ユダヤの歴史/バビロン捕囚の影響": {
+    "page_id": "20210725_kixixixixi/ユダヤの歴史/バビロン捕囚の影響",
+    "content_hash": "sha256:7825749830cf76b98fdcabc4cb06f434d3cddd4d24f280b3b1691fb6c4cb2cc1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "バビロン捕囚の影響",
+        "バビロン"
+      ],
+      "tags": [
+        "シナゴーグ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:51.190Z",
+    "model": "jev-1.13.0"
+  }
+}

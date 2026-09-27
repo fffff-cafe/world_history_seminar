@@ -1,0 +1,542 @@
+{
+  "20240518_kixixixixi/時間の歴史/時間の歴史": {
+    "page_id": "20240518_kixixixixi/時間の歴史/時間の歴史",
+    "content_hash": "sha256:84a3a267e6b247a4d1bbeb0163c9453c2259588b54d1fa473577f7f91c389471",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "時間の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:55.783Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/丑三つ時っていつ/丑三つ時っていつ": {
+    "page_id": "20240518_kixixixixi/丑三つ時っていつ/丑三つ時っていつ",
+    "content_hash": "sha256:902664022a2cfe8d39e6d25b3094fbec1d358d7cd5804b726fe0a924df47861b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "丑三つ時っていつ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:55.717Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/丑三つ時っていつ/丑三つ時っていつ~2": {
+    "page_id": "20240518_kixixixixi/丑三つ時っていつ/丑三つ時っていつ~2",
+    "content_hash": "sha256:a21ca182cbacb5cc35acc9453504e68fa0c3f759f8d90abf79aea6159b7e6d2e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "丑三つ時っていつ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:55.730Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/時間の表し方/時間の表し方": {
+    "page_id": "20240518_kixixixixi/時間の表し方/時間の表し方",
+    "content_hash": "sha256:e0e7112f65fdb18fc6db409170a66d830b875fc588cc72998acc9d03b07af974",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "時間の表し方"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:55.920Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/時間の歴史とはそれを計るものの歴史/時間の歴史とはそれを計るものの歴史": {
+    "page_id": "20240518_kixixixixi/時間の歴史とはそれを計るものの歴史/時間の歴史とはそれを計るものの歴史",
+    "content_hash": "sha256:be8626b1cf15b46603a0f9537bd847053f82c4a70604157cb4a70201118e56ee",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "時間の歴史とはそれを計るものの歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:55.910Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/日・月・年/日・月・年": {
+    "page_id": "20240518_kixixixixi/日・月・年/日・月・年",
+    "content_hash": "sha256:6a02dc7fe65cc81b1751508b3a77651116194469e796854e5fa921fb332f99ec",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "日・月・年"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:55.977Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/時間/時間": {
+    "page_id": "20240518_kixixixixi/時間/時間",
+    "content_hash": "sha256:fe0711be9285e6348cc66cd211745d4df7fe865199b779e0cfecf6c6dd87093b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "時間"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:56.025Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/時計の歴史/時計の歴史": {
+    "page_id": "20240518_kixixixixi/時計の歴史/時計の歴史",
+    "content_hash": "sha256:02f5b251f6e5be0b30c4ca224c5ecc0ee1d7aa36d402e1f70349a7a4f74c1499",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "時計の歴史",
+        "クオーツ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:56.154Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/日時計/日時計": {
+    "page_id": "20240518_kixixixixi/日時計/日時計",
+    "content_hash": "sha256:2116c102fa1b016ba2184e675f2cc7c33db0e80076c6b1a8f45449a2f91479b0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [],
+      "tags": [
+        "日時計"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:56.139Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/水時計/水時計": {
+    "page_id": "20240518_kixixixixi/水時計/水時計",
+    "content_hash": "sha256:693f47581583e4d1bd94d499f3f2f82e5b47ac06d9a44bc2272a7dc726b78351",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [],
+      "tags": [
+        "水時計"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:56.208Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/燃焼時計/燃焼時計": {
+    "page_id": "20240518_kixixixixi/燃焼時計/燃焼時計",
+    "content_hash": "sha256:2a53fca516e162f80075caa0da59bbe829d9606f1da6e4b4b7d2443e9f61f22f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "6世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "燃焼時計"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:56.238Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/砂時計/砂時計": {
+    "page_id": "20240518_kixixixixi/砂時計/砂時計",
+    "content_hash": "sha256:e552ec7dd7e780af60802ced1779f3476624e2765d62419c14c4c03eb06e19c9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "14世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "砂時計"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:56.427Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/機械時計/機械時計": {
+    "page_id": "20240518_kixixixixi/機械時計/機械時計",
+    "content_hash": "sha256:5a5ac73c47b3327e396d9caae390883f8ab3d03c366b7a9bb612db5de5adb565",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "14世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "機械時計"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:56.378Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/懐中時計/懐中時計": {
+    "page_id": "20240518_kixixixixi/懐中時計/懐中時計",
+    "content_hash": "sha256:e94e839568b49a8f164f6e14f0f1d95b87d162644a6c16b24e76d88a1b791cc7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "14世紀"
+      ],
+      "entities": [
+        "懐中時計"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:56.607Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/クオーツ時計/クオーツ時計": {
+    "page_id": "20240518_kixixixixi/クオーツ時計/クオーツ時計",
+    "content_hash": "sha256:651f8dd888a9f5349f2a25d007f32c2381b74055dd4e7956dbcaf74ea3886fe5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "クオーツ"
+      ],
+      "tags": [
+        "クオーツ時計"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:56.463Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/時間とはなんなのか/時間とはなんなのか": {
+    "page_id": "20240518_kixixixixi/時間とはなんなのか/時間とはなんなのか",
+    "content_hash": "sha256:99415a5fd43a5d846abd31ec566ad3c9a4af81643cc2810b65f9500fe4d4d344",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "時間とはなんなのか"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:56.615Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/絶対時間/絶対時間": {
+    "page_id": "20240518_kixixixixi/絶対時間/絶対時間",
+    "content_hash": "sha256:b19fb33d617be167b1aab3393a302ebfde8c9237c57d13135f1ff4e2371ed863",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "絶対時間",
+        "空間はどこも均質で、無限に広がっている"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:56.682Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/相対性理論/相対性理論": {
+    "page_id": "20240518_kixixixixi/相対性理論/相対性理論",
+    "content_hash": "sha256:8478955c377a03805569500c5fb9ba720038b919bc65e5b7050926e2ecf228b8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "思想",
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "相対性理論"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:56.723Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/時間は存在しない/時間は存在しない": {
+    "page_id": "20240518_kixixixixi/時間は存在しない/時間は存在しない",
+    "content_hash": "sha256:5ae6a61943636a57db26c8c103a67da283d551f0b72aa87cbdefb43bebed795a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "時間は存在しない"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:56.862Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/人間と時間/人間と時間": {
+    "page_id": "20240518_kixixixixi/人間と時間/人間と時間",
+    "content_hash": "sha256:aa0d0672733e6368025bf973c0071d1b79b3f4de899f997d07a5ee582be33fa3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "人間と時間"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:56.854Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/古代〜中世の宗教における時間観/古代〜中世の宗教における時間観": {
+    "page_id": "20240518_kixixixixi/古代〜中世の宗教における時間観/古代〜中世の宗教における時間観",
+    "content_hash": "sha256:885c4af4af15f2d2e4d58794bab9ba3e4b55b518f2b3afc78292a6fca68a13bf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教",
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "エジプト",
+        "ギリシャ"
+      ],
+      "tags": [
+        "古代〜中世の宗教における時間観"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:56.896Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/定時法/定時法": {
+    "page_id": "20240518_kixixixixi/定時法/定時法",
+    "content_hash": "sha256:10588e22024d0cbe53701dbea256f219862afb4e1f1bb4abdf68f7ff4f267258",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "定時法"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:56.956Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/時間-=-お金/時間-=-お金": {
+    "page_id": "20240518_kixixixixi/時間-=-お金/時間-=-お金",
+    "content_hash": "sha256:858013216a482ecd564d1c9b9cebfe66ebf59ab8d5b13fdc18f6b32890b8ef39",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "時間 = お金"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:57.051Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/標準時/標準時": {
+    "page_id": "20240518_kixixixixi/標準時/標準時",
+    "content_hash": "sha256:5241331783af0ec4183f76a2fcb111209a73405909f36b35ced77abaca656e80",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "世界全体"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "標準時",
+        "鉄道時間"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:57.058Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/恒常的な徹夜/恒常的な徹夜": {
+    "page_id": "20240518_kixixixixi/恒常的な徹夜/恒常的な徹夜",
+    "content_hash": "sha256:2a6f03875779448ed5881c8fb024bc83f6093eda32ad62b7a4671844dc9fdc11",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "世界全体"
+      ],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "恒常的な徹夜"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:57.115Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_kixixixixi/世界はどんどん忙しくなっている/世界はどんどん忙しくなっている": {
+    "page_id": "20240518_kixixixixi/世界はどんどん忙しくなっている/世界はどんどん忙しくなっている",
+    "content_hash": "sha256:06723f591af19608ec79f5a9a011115849a032481b891ad501e2cfab1a8850cb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "世界はどんどん忙しくなっている"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:57.225Z",
+    "model": "jev-1.13.0"
+  }
+}

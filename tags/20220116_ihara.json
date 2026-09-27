@@ -1,0 +1,230 @@
+{
+  "20220116_ihara/パンの歴史/パンの歴史": {
+    "page_id": "20220116_ihara/パンの歴史/パンの歴史",
+    "content_hash": "sha256:2c7661f275fef2d9693ef3aa195a3f4028002fb1bca11adaebee6dacd758b453",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "パンの歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:03.784Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_ihara/概要/概要": {
+    "page_id": "20220116_ihara/概要/概要",
+    "content_hash": "sha256:6d3bb7931965db883b2227204c842bfe3f56b3e0bfda21c72936539e09083d0e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:03.780Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_ihara/パンの原形/パンの原形": {
+    "page_id": "20220116_ihara/パンの原形/パンの原形",
+    "content_hash": "sha256:789de8c39dea93fe5e81db6e150892a4f7c75519f66a9b6c1a82a48130dbc247",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [
+        "メソポタミア"
+      ],
+      "tags": [
+        "パンの原形"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:03.935Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_ihara/発酵パンへの進化-(エジプト)/発酵パンへの進化-(エジプト)": {
+    "page_id": "20220116_ihara/発酵パンへの進化-(エジプト)/発酵パンへの進化-(エジプト)",
+    "content_hash": "sha256:5024dc92c31fa9a5aa5a00e3124af1eca8aa77fff31a8a5a9eb2e221a1a493e9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "エジプト"
+      ],
+      "tags": [
+        "発酵パンへの進化"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:03.988Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_ihara/パンの多様化-(古代ギリシャ)/パンの多様化-(古代ギリシャ)": {
+    "page_id": "20220116_ihara/パンの多様化-(古代ギリシャ)/パンの多様化-(古代ギリシャ)",
+    "content_hash": "sha256:2ad8cfc343c2900a9dd9df08ac96a8bd96e7199ec05462ca00628ea9392ed265",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [],
+      "entities": [
+        "ギリシャ"
+      ],
+      "tags": [
+        "パンの多様化"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:03.985Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_ihara/ローマ帝国におけるパン/ローマ帝国におけるパン": {
+    "page_id": "20220116_ihara/ローマ帝国におけるパン/ローマ帝国におけるパン",
+    "content_hash": "sha256:c6103cacc7663c61a1f8b6a9f29e4dd3f05c1f4125644db9b6f326ef96454382",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ローマ帝国におけるパン",
+        "ローマ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:04.006Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_ihara/ルネサンス/ルネサンス": {
+    "page_id": "20220116_ihara/ルネサンス/ルネサンス",
+    "content_hash": "sha256:2f53b7996ae7ea9d7df8679d70aa2460f69609438377ff256fe890f2195f7e9c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [],
+      "entities": [
+        "ルネサンス"
+      ],
+      "tags": [
+        "パン・ナショナルブレッド"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:04.133Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_ihara/[コラム]-スープとパン/[コラム]-スープとパン": {
+    "page_id": "20220116_ihara/[コラム]-スープとパン/[コラム]-スープとパン",
+    "content_hash": "sha256:c5101c2510d2c51c9dc19defa67beca36695daa69ac241ac5d99657076c62541",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [
+        "生活"
+      ],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "[コラム] スープとパン",
+        "スープ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:04.215Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_ihara/日本へのパンの伝来/日本へのパンの伝来": {
+    "page_id": "20220116_ihara/日本へのパンの伝来/日本へのパンの伝来",
+    "content_hash": "sha256:d7e11b6d1d9c41db5af8b0ade6fcca926324e941dcba56b542f3d7aacaf3aacb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本",
+        "東アジア"
+      ],
+      "period": [
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀",
+        "4世紀",
+        "5世紀",
+        "6世紀",
+        "7世紀",
+        "8世紀",
+        "9世紀",
+        "10世紀",
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀",
+        "15世紀",
+        "16世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "日本へのパンの伝来"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:04.204Z",
+    "model": "jev-1.13.0"
+  },
+  "20220116_ihara/日本でパンが脚光を浴びた/日本でパンが脚光を浴びた": {
+    "page_id": "20220116_ihara/日本でパンが脚光を浴びた/日本でパンが脚光を浴びた",
+    "content_hash": "sha256:7a855a79668f1a8bff42364fd791c1bc86e6f73bd0bfa0d311ba632022fad30e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "日本でパンが脚光を浴びた",
+        "兵糧"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:04.207Z",
+    "model": "jev-1.13.0"
+  }
+}

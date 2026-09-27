@@ -1,0 +1,428 @@
+{
+  "20230924_nishihara/フランス革命期における処刑の歴史/フランス革命期における処刑の歴史": {
+    "page_id": "20230924_nishihara/フランス革命期における処刑の歴史/フランス革命期における処刑の歴史",
+    "content_hash": "sha256:f9bc34256c558c881ac84477e160e57b1b1d1425fd8715f7aaea8d2726043f1b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "フランス"
+      ],
+      "tags": [
+        "フランス革命期における処刑の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:39.615Z",
+    "model": "jev-1.13.0"
+  },
+  "20230924_nishihara/フランス革命期における処刑の歴史/書籍": {
+    "page_id": "20230924_nishihara/フランス革命期における処刑の歴史/書籍",
+    "content_hash": "sha256:5a83c5e96ab509ec026248d0d72985f5b25ace99c2a99a08449217a72743f9cc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:39.672Z",
+    "model": "jev-1.13.0"
+  },
+  "20230924_nishihara/シャルル=アンリ・サンソン/シャルル=アンリ・サンソン": {
+    "page_id": "20230924_nishihara/シャルル=アンリ・サンソン/シャルル=アンリ・サンソン",
+    "content_hash": "sha256:6516d057c2634c3bb9632b91c14076adabd98661e0508d3fd49a0e8b56d86dd3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "シャルル=アンリ・サンソン",
+        "シャルル",
+        "アンリ・サンソン",
+        "フランス",
+        "サンソン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:39.677Z",
+    "model": "jev-1.13.0"
+  },
+  "20230924_nishihara/年表/年表": {
+    "page_id": "20230924_nishihara/年表/年表",
+    "content_hash": "sha256:a98aa7cffa325e71dc44b231a1a2eb693019e3b0e33430ced4e1f93e580d79a0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "18世紀",
+        "19世紀"
+      ],
+      "entities": [
+        "シャルル",
+        "ダミアン",
+        "マリー・アンヌ・ジュジェ",
+        "ムッシュー・ド・パリ",
+        "ロベルピエール",
+        "アンリ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:39.675Z",
+    "model": "jev-1.13.0"
+  },
+  "20230924_nishihara/サンソンの立場/サンソンの立場": {
+    "page_id": "20230924_nishihara/サンソンの立場/サンソンの立場",
+    "content_hash": "sha256:560283e1697da80dcb10da598b720452e716e1f7c5340cc28e6f91c92ee779a3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "サンソンの立場",
+        "サンソン",
+        "フランス",
+        "シャルル",
+        "アンリ・サンソン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:39.845Z",
+    "model": "jev-1.13.0"
+  },
+  "20230924_nishihara/処刑人の仕事/処刑人の仕事": {
+    "page_id": "20230924_nishihara/処刑人の仕事/処刑人の仕事",
+    "content_hash": "sha256:43817ff8b07ba01866d92d33410aeb7bf03f35a45c2f9c972025956a3066223f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "処刑人の仕事"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:39.903Z",
+    "model": "jev-1.13.0"
+  },
+  "20230924_nishihara/処刑方法/処刑方法": {
+    "page_id": "20230924_nishihara/処刑方法/処刑方法",
+    "content_hash": "sha256:ae047981747b10a3be071cd4681673c9fd30aa6cb38937c5f7edcc28326a168d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "ダミアン"
+      ],
+      "tags": [
+        "処刑方法"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:39.939Z",
+    "model": "jev-1.13.0"
+  },
+  "20230924_nishihara/ギロチンの登場/ギロチンの登場": {
+    "page_id": "20230924_nishihara/ギロチンの登場/ギロチンの登場",
+    "content_hash": "sha256:702aee0183ba73e9efb5322ef2e40b2d095b69e64ca288c4e77fd144a26ba2de",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "ギロチンの登場",
+        "ギロチン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:39.882Z",
+    "model": "jev-1.13.0"
+  },
+  "20230924_nishihara/ルイ16世の人となり/ルイ16世の人となり": {
+    "page_id": "20230924_nishihara/ルイ16世の人となり/ルイ16世の人となり",
+    "content_hash": "sha256:ddd977ccd0b016cb5fa5b4bceeee752afb76017aded4f891d70b41ddfc8ab7d1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "ルイ16世の人となり"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:40.066Z",
+    "model": "jev-1.13.0"
+  },
+  "20230924_nishihara/王政への不信/王政への不信": {
+    "page_id": "20230924_nishihara/王政への不信/王政への不信",
+    "content_hash": "sha256:185510d7757e8a54d090e60c9b5443ec57397e5ef7a0d54e119e2dfa50607ed0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "ヴァレンヌ"
+      ],
+      "tags": [
+        "王政への不信"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:40.110Z",
+    "model": "jev-1.13.0"
+  },
+  "20230924_nishihara/王政の崩壊へ/王政の崩壊へ": {
+    "page_id": "20230924_nishihara/王政の崩壊へ/王政の崩壊へ",
+    "content_hash": "sha256:c3a69e085b5ca1b5b906c433740439bb138080ed44fa772ae337fc5b4b2a1710",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "王政の崩壊へ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:40.118Z",
+    "model": "jev-1.13.0"
+  },
+  "20230924_nishihara/9月虐殺/9月虐殺": {
+    "page_id": "20230924_nishihara/9月虐殺/9月虐殺",
+    "content_hash": "sha256:f071b9552337e7d2482342cefa88ec3998ae8646d78071b0b54081340868737a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世",
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "9月虐殺",
+        "フランス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:40.160Z",
+    "model": "jev-1.13.0"
+  },
+  "20230924_nishihara/ルイ16世の裁判/ルイ16世の裁判": {
+    "page_id": "20230924_nishihara/ルイ16世の裁判/ルイ16世の裁判",
+    "content_hash": "sha256:a9fe60d4def5b8804f9710f5f81729a2db0d507c720437bf7e9ffa596f04bc80",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "ルイ16世の裁判"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:40.345Z",
+    "model": "jev-1.13.0"
+  },
+  "20230924_nishihara/ルイ16世の処刑/ルイ16世の処刑": {
+    "page_id": "20230924_nishihara/ルイ16世の処刑/ルイ16世の処刑",
+    "content_hash": "sha256:896ddd5c563f87ea160edd10211a8a05e711f5fde2bea7efcaf22c6f22db2490",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "ルイ16世の処刑"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:40.318Z",
+    "model": "jev-1.13.0"
+  },
+  "20230924_nishihara/ルイ16世のミサ/ルイ16世のミサ": {
+    "page_id": "20230924_nishihara/ルイ16世のミサ/ルイ16世のミサ",
+    "content_hash": "sha256:571fda9be401f9ffddb3424b8341eaf2afb710330a50c795f14e50f00f148daf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "ルイ16世のミサ"
+      ],
+      "tags": [
+        "カトリック"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:40.332Z",
+    "model": "jev-1.13.0"
+  },
+  "20230924_nishihara/恐怖政治時代/恐怖政治時代": {
+    "page_id": "20230924_nishihara/恐怖政治時代/恐怖政治時代",
+    "content_hash": "sha256:a0d6ea837704f738e894be2940e4a5ad499bbe98c17c38ed985ad47fc7bcb5c9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "恐怖政治時代",
+        "ギロチン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:40.361Z",
+    "model": "jev-1.13.0"
+  },
+  "20230924_nishihara/その後/その後": {
+    "page_id": "20230924_nishihara/その後/その後",
+    "content_hash": "sha256:ca7a740f14610b8af9263e8c45b55f770f9c61b1b30e51f13d9a9832ee06ae38",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "フランス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:40.530Z",
+    "model": "jev-1.13.0"
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "20260124_kixixixixi/字体(フォント)の歴史/字体(フォント)の歴史": {
+    "page_id": "20260124_kixixixixi/字体(フォント)の歴史/字体(フォント)の歴史",
+    "content_hash": "sha256:b922d2ac72df6b379d01c7f0539a437143e0af70049141ee108b55269f14e1d4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "字体の歴史",
+        "フォント"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:32.477Z",
+    "model": "jev-1.13.0"
+  },
+  "20260124_kixixixixi/字体(フォント)の歴史/フォントとは": {
+    "page_id": "20260124_kixixixixi/字体(フォント)の歴史/フォントとは",
+    "content_hash": "sha256:449ce39c93d56db15a254ccb95b90ff1f465ff809d660cc74d33a4f236f85c3c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "フォントとは",
+        "フォント"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:32.519Z",
+    "model": "jev-1.13.0"
+  },
+  "20260124_kixixixixi/字体(フォント)の歴史/参考": {
+    "page_id": "20260124_kixixixixi/字体(フォント)の歴史/参考",
+    "content_hash": "sha256:7729c5c1bb7aa8c63bae49f2c416280a8b782929dfad97f50ca994f5047b2b94",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "フォント"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:32.604Z",
+    "model": "jev-1.13.0"
+  },
+  "20260124_kixixixixi/字体(フォント)の歴史/印刷にまつわる言葉": {
+    "page_id": "20260124_kixixixixi/字体(フォント)の歴史/印刷にまつわる言葉",
+    "content_hash": "sha256:34466bebbcf9fec073f93cb835aff38fa7f896ab868a388c958784ab652a68e7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "印刷にまつわる言葉",
+        "字面の高さ",
+        "行間",
+        "余白",
+        "タイポグラフィ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:32.620Z",
+    "model": "jev-1.13.0"
+  },
+  "20260124_kixixixixi/字体(フォント)の歴史/手書き文字-(写本文化)": {
+    "page_id": "20260124_kixixixixi/字体(フォント)の歴史/手書き文字-(写本文化)",
+    "content_hash": "sha256:83256ee1ebef6fbfcd8300608c064e13d8120ba6d8ba6e0f261c68aa607723dd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "4世紀",
+        "5世紀",
+        "6世紀",
+        "7世紀",
+        "8世紀"
+      ],
+      "entities": [
+        "アイルランド・ブリテン"
+      ],
+      "tags": [
+        "手書き文字"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:32.714Z",
+    "model": "jev-1.13.0"
+  },
+  "20260124_kixixixixi/字体(フォント)の歴史/カロリング小文字体": {
+    "page_id": "20260124_kixixixixi/字体(フォント)の歴史/カロリング小文字体",
+    "content_hash": "sha256:af62fe950ada589924d6a6390f33e0c7ed5688833e60fc7a96b4f123c3b39ca6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "8世紀"
+      ],
+      "entities": [
+        "フランク"
+      ],
+      "tags": [
+        "カロリング小文字体"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:32.762Z",
+    "model": "jev-1.13.0"
+  },
+  "20260124_kixixixixi/字体(フォント)の歴史/ゴシック体": {
+    "page_id": "20260124_kixixixixi/字体(フォント)の歴史/ゴシック体",
+    "content_hash": "sha256:4b9a41f8b041ab856aba744f2dd8b442350a1edd860be9722f56e1583c04dbc5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "12世紀"
+      ],
+      "entities": [
+        "フランス・ドイツ"
+      ],
+      "tags": [
+        "ゴシック体",
+        "Gothic",
+        "ローマン書体以外の文字",
+        "ブラックレター",
+        "ゴシック"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:32.810Z",
+    "model": "jev-1.13.0"
+  },
+  "20260124_kixixixixi/字体(フォント)の歴史/>-ブラックレター体が用いられたグーテンベルクの聖書": {
+    "page_id": "20260124_kixixixixi/字体(フォント)の歴史/>-ブラックレター体が用いられたグーテンベルクの聖書",
+    "content_hash": "sha256:568b075c2f2a5022ddf047b8c77a100893a74aadee1c60cb583d3e35a80fc5cf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ブラックレター"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:32.822Z",
+    "model": "jev-1.13.0"
+  },
+  "20260124_kixixixixi/字体(フォント)の歴史/さまざまなゴシック体": {
+    "page_id": "20260124_kixixixixi/字体(フォント)の歴史/さまざまなゴシック体",
+    "content_hash": "sha256:135406a3a9090fbdd82ff3b28ceb02ce9dbe0d356d8401d836bf27968693e676",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "15世紀",
+        "16世紀",
+        "17世紀",
+        "18世紀",
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "マクシミリアン"
+      ],
+      "tags": [
+        "さまざまなゴシック体",
+        "ゴシック"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:32.912Z",
+    "model": "jev-1.13.0"
+  },
+  "20260124_kixixixixi/字体(フォント)の歴史/活版印刷の発明": {
+    "page_id": "20260124_kixixixixi/字体(フォント)の歴史/活版印刷の発明",
+    "content_hash": "sha256:339aa438b332046eac0d958593d08272dca0671315481a5f8ed3c92604c2ae5c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [
+        "グーテンベルク"
+      ],
+      "tags": [
+        "活版印刷の発明",
+        "複製できる情報",
+        "手書き文字の再現"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:32.961Z",
+    "model": "jev-1.13.0"
+  },
+  "20260124_kixixixixi/字体(フォント)の歴史/ローマン体": {
+    "page_id": "20260124_kixixixixi/字体(フォント)の歴史/ローマン体",
+    "content_hash": "sha256:eed8b59655168c9b99f52d4ccba514f9025b86b5662c94ee81a5ef240bf68dbb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "15世紀",
+        "16世紀"
+      ],
+      "entities": [
+        "ローマ",
+        "フランス",
+        "ニコラ・ジャンソン"
+      ],
+      "tags": [
+        "ローマン体",
+        "セリフ",
+        "ローマン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:33.053Z",
+    "model": "jev-1.13.0"
+  },
+  "20260124_kixixixixi/字体(フォント)の歴史/イタリック体": {
+    "page_id": "20260124_kixixixixi/字体(フォント)の歴史/イタリック体",
+    "content_hash": "sha256:c7cdc740464f8677a7f7d332370cfd819497aaab6cf0b58fee3d6c287263ddb7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [
+        "イタリア",
+        "フランチェスコ・グリフォ",
+        "クロード・ギャラモン"
+      ],
+      "tags": [
+        "イタリック体",
+        "イタリック"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:33.023Z",
+    "model": "jev-1.13.0"
+  },
+  "20260124_kixixixixi/字体(フォント)の歴史/オールドスタイル": {
+    "page_id": "20260124_kixixixixi/字体(フォント)の歴史/オールドスタイル",
+    "content_hash": "sha256:ff35dab4388f3b9091f03ae7514bc2103858c24f7eb4f38cc51316ef2b669d46",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "ウィリアム・キャスロン"
+      ],
+      "tags": [
+        "オールドスタイル",
+        "ローマン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:33.151Z",
+    "model": "jev-1.13.0"
+  },
+  "20260124_kixixixixi/字体(フォント)の歴史/モダンセリフ": {
+    "page_id": "20260124_kixixixixi/字体(フォント)の歴史/モダンセリフ",
+    "content_hash": "sha256:59ba7434976a3d91d3cb468eb3b3507670656ebf42ebc18f0b82c1d1d761bba0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "フランス",
+        "フィルミン・ディドー"
+      ],
+      "tags": [
+        "モダンセリフ",
+        "コントラスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:33.203Z",
+    "model": "jev-1.13.0"
+  },
+  "20260124_kixixixixi/字体(フォント)の歴史/サンセリフ": {
+    "page_id": "20260124_kixixixixi/字体(フォント)の歴史/サンセリフ",
+    "content_hash": "sha256:072a86294c74f2d12a854462bf67a394146e78ed4bdfb0921166e8f67fcd9efa",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "イギリス",
+        "ウィリアム・キャスロン"
+      ],
+      "tags": [
+        "サンセリフ",
+        "サンセリフ体",
+        "セリフ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:33.255Z",
+    "model": "jev-1.13.0"
+  },
+  "20260124_kixixixixi/字体(フォント)の歴史/フォントデザイナー": {
+    "page_id": "20260124_kixixixixi/字体(フォント)の歴史/フォントデザイナー",
+    "content_hash": "sha256:346f7c266da6068ca91bd50b300ea16ee7125919acfb2ffe8136f94cda61a972",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "フレデリック・ガウディ",
+        "マックス・ミーディンガー",
+        "アドリアン・フルティガー"
+      ],
+      "tags": [
+        "フォントデザイナー",
+        "フォント",
+        "デザイナー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:33.252Z",
+    "model": "jev-1.13.0"
+  },
+  "20260124_kixixixixi/字体(フォント)の歴史/写真植字": {
+    "page_id": "20260124_kixixixixi/字体(フォント)の歴史/写真植字",
+    "content_hash": "sha256:91157e6e92a51f3b428c69f67da795ca3bbb48666768c9e9d8740bf109659ff2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "写真植字"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:33.342Z",
+    "model": "jev-1.13.0"
+  },
+  "20260124_kixixixixi/字体(フォント)の歴史/デジタルフォント": {
+    "page_id": "20260124_kixixixixi/字体(フォント)の歴史/デジタルフォント",
+    "content_hash": "sha256:9cffcc608472f045b9d7e726bf146d82e2ac4dde818e8e91eb609e637178e83c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "デジタルフォント",
+        "フォント",
+        "スクリプト",
+        "バリアブルフォント",
+        "バリエーション"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:33.430Z",
+    "model": "jev-1.13.0"
+  }
+}

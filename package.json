@@ -1,8 +1,10 @@
 {
   "scripts": {
     "start": "marp ./slides --html --server",
-    "build": "marp -I ./slides -o dist && cpx 'images/**' dist/images && ts-node generate.ts",
+    "build": "marp -I ./slides -o dist && cpx 'images/**' dist/images && ts-node generate.ts && ts-node graph.ts",
     "lint": "markdownlint slides -f",
+    "tag": "ts-node tagging/tag.ts",
+    "tag:check": "ts-node tagging/check.ts",
     "prepare": "husky install"
   },
   "packageManager": "pnpm@11.9.0",

@@ -1,0 +1,355 @@
+{
+  "20220910_kixixixixi/ゾロアスター教/ゾロアスター教": {
+    "page_id": "20220910_kixixixixi/ゾロアスター教/ゾロアスター教",
+    "content_hash": "sha256:e4f36d005660792761f8e2565d85a3bec35c6b73bcef5d25e233adf656030ac6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ゾロアスター"
+      ],
+      "tags": [
+        "ゾロアスター教"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:23.359Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_kixixixixi/目次/目次": {
+    "page_id": "20220910_kixixixixi/目次/目次",
+    "content_hash": "sha256:72be313ebc0446809231703dcc617c1e7a6e13bdd972ee605d52762179fd46de",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:23.488Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_kixixixixi/目次/はじめに": {
+    "page_id": "20220910_kixixixixi/目次/はじめに",
+    "content_hash": "sha256:2ea113c0399257cf4d005e910ed8162368dc2baf97888f071059603d333da95a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ゾロアスター"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:23.539Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_kixixixixi/目次/ゾロアスター教とは": {
+    "page_id": "20220910_kixixixixi/目次/ゾロアスター教とは",
+    "content_hash": "sha256:e98a257ae141a8ee46edead0ce5a6f9327c7da4876270f1b277113759105aac8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ゾロアスター",
+        "ザラスシュトラ"
+      ],
+      "tags": [
+        "ゾロアスター教とは"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:23.549Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_kixixixixi/目次/教義": {
+    "page_id": "20220910_kixixixixi/目次/教義",
+    "content_hash": "sha256:17b3de2fb940d13364e20624a4a82c74a2f2ed402c6df73f2e87d2e36d391477",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教",
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "アフラ",
+        "マズダ",
+        "アングラ",
+        "マイニュ",
+        "アフリマン"
+      ],
+      "tags": [
+        "教義"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:23.729Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_kixixixixi/目次/起源": {
+    "page_id": "20220910_kixixixixi/目次/起源",
+    "content_hash": "sha256:e4c28f9305fa34d1d87dc4c886b764a2417f0e169f6c7013e88455791f74cd97",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前",
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "イラン",
+        "ザラスシュトラ",
+        "ゾロアスター",
+        "アフラ",
+        "マズダ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:23.754Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_kixixixixi/目次/繁栄": {
+    "page_id": "20220910_kixixixixi/目次/繁栄",
+    "content_hash": "sha256:2a91a3a7e68873e62cb5e999bf0426587d4a05cc8dad3f6ed74bec403404bc7c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "メディア",
+        "イラン"
+      ],
+      "tags": [
+        "繁栄"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:23.783Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_kixixixixi/目次/アケメネス朝での保護と発展": {
+    "page_id": "20220910_kixixixixi/目次/アケメネス朝での保護と発展",
+    "content_hash": "sha256:b2e5b96c5c1e853178f302407a198a70835ffe10a43db27c0b04b5106e2a78a5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "6世紀"
+      ],
+      "entities": [
+        "アケメネス朝での保護と発展",
+        "アケメネス",
+        "ペルシア",
+        "ゾロアスター"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:23.931Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_kixixixixi/目次/アレクサンドロスの侵入": {
+    "page_id": "20220910_kixixixixi/目次/アレクサンドロスの侵入",
+    "content_hash": "sha256:106415bb7fa71686af37644be138d7cc85863050d355083913e589399320f9ae",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "アレクサンドロスの侵入",
+        "アレクサンドロス",
+        "アケメネス",
+        "ペルシア",
+        "ゾロアスター",
+        "ササン",
+        "セレウコス",
+        "シリア",
+        "パルティア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:23.963Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_kixixixixi/目次/ササン朝での国教化": {
+    "page_id": "20220910_kixixixixi/目次/ササン朝での国教化",
+    "content_hash": "sha256:4d836b26ff4dd47594eac110cc00e96b7a22cdfc8ad8d1c76546b8e40db4c7da",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治",
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "3世紀"
+      ],
+      "entities": [
+        "ササン",
+        "アルデシール"
+      ],
+      "tags": [
+        "ササン朝での国教化",
+        "ゾロアスター"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:23.944Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_kixixixixi/目次/マニ教": {
+    "page_id": "20220910_kixixixixi/目次/マニ教",
+    "content_hash": "sha256:30cc0626e9dc299f0445265e907c0d5cb044e0433173d381674df6f23fac81cc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教",
+        "思想"
+      ],
+      "culture": [
+        "宗教"
+      ],
+      "region": [],
+      "period": [
+        "3世紀",
+        "4世紀",
+        "5世紀",
+        "6世紀"
+      ],
+      "entities": [
+        "マニ教",
+        "ササン",
+        "バフラーム",
+        "ホスロー"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:24.030Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_kixixixixi/目次/衰退": {
+    "page_id": "20220910_kixixixixi/目次/衰退",
+    "content_hash": "sha256:2715ba389098aebc37be1e9b816372dd0465956ef72c3e2521e5a97265e66ec5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "7世紀"
+      ],
+      "entities": [
+        "イラン",
+        "ササン",
+        "ペルシア",
+        "ゾロアスター"
+      ],
+      "tags": [
+        "衰退"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:24.171Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_kixixixixi/目次/現在": {
+    "page_id": "20220910_kixixixixi/目次/現在",
+    "content_hash": "sha256:275117d642f3e40b174ec8bc7bd7b8f4a9908e3fed5286d2f60fb417def9e310",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "パールスィー"
+      ],
+      "tags": [
+        "ゾロアスター"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:24.147Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_kixixixixi/目次/タタ財閥": {
+    "page_id": "20220910_kixixixixi/目次/タタ財閥",
+    "content_hash": "sha256:a5fa67217d25a9f243753e057f7455120784a15187227ee5daa808f07eba84a5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [
+        "タタ財閥",
+        "タタグループ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:24.200Z",
+    "model": "jev-1.13.0"
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "20260426_kixixixixi/翻訳の歴史/翻訳の歴史": {
+    "page_id": "20260426_kixixixixi/翻訳の歴史/翻訳の歴史",
+    "content_hash": "sha256:670fe4d3d4895705602d5d03e797b73d5482669621c09308670a83771012569f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "翻訳の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:35.240Z",
+    "model": "jev-1.13.0"
+  },
+  "20260426_kixixixixi/翻訳の歴史/翻訳とは": {
+    "page_id": "20260426_kixixixixi/翻訳の歴史/翻訳とは",
+    "content_hash": "sha256:6d6e59f80f1dc1ef7e8611668bd646496fe7cb515da30d315b9cad2851d84ad3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "翻訳とは"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:35.389Z",
+    "model": "jev-1.13.0"
+  },
+  "20260426_kixixixixi/翻訳の歴史/翻訳の種類": {
+    "page_id": "20260426_kixixixixi/翻訳の歴史/翻訳の種類",
+    "content_hash": "sha256:80cb04fc07e4c7c64949d0749e972fce6efdec9a5dcdb942c8f632f25c1a5a59",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "翻訳の種類"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:35.398Z",
+    "model": "jev-1.13.0"
+  },
+  "20260426_kixixixixi/翻訳の歴史/バベルの塔": {
+    "page_id": "20260426_kixixixixi/翻訳の歴史/バベルの塔",
+    "content_hash": "sha256:96d33009c7c9aadda3482e044b7d3d814bf784e940fd9e2c59a8c22fe354b4af",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "バベルの塔",
+        "バベル"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:35.420Z",
+    "model": "jev-1.13.0"
+  },
+  "20260426_kixixixixi/翻訳の歴史/シュメール=アッカド辞典": {
+    "page_id": "20260426_kixixixixi/翻訳の歴史/シュメール=アッカド辞典",
+    "content_hash": "sha256:0adc8c2d93a8a8fc87dc69b82184ca95a16837409d00e75f53643a99f603cd33",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "シュメール=アッカド辞典",
+        "シュメール",
+        "アッカド",
+        "ギルガメシュ"
+      ],
+      "tags": [
+        "バイリンガル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:35.480Z",
+    "model": "jev-1.13.0"
+  },
+  "20260426_kixixixixi/翻訳の歴史/プトレマイオス王朝の翻訳": {
+    "page_id": "20260426_kixixixixi/翻訳の歴史/プトレマイオス王朝の翻訳",
+    "content_hash": "sha256:90b0868e1186f862d9ef06eb5fe64df6d86f4e0b1c7062af1947d5fe999ad106",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "プトレマイオス王朝の翻訳",
+        "ムセイオン",
+        "プトレマイオス",
+        "ギリシャ",
+        "エジプト",
+        "アレキサンドリア",
+        "ギリシア",
+        "アレクサンドリア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:35.604Z",
+    "model": "jev-1.13.0"
+  },
+  "20260426_kixixixixi/翻訳の歴史/ロゼッタ・ストーン": {
+    "page_id": "20260426_kixixixixi/翻訳の歴史/ロゼッタ・ストーン",
+    "content_hash": "sha256:701a20c36c996f5cb31304d51c5b5e705d9990aa5d02a2ee1dd1236e5bf45551",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "ロゼッタ・ストーン"
+      ],
+      "tags": [
+        "ヒエログリフ",
+        "デモティック"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:35.600Z",
+    "model": "jev-1.13.0"
+  },
+  "20260426_kixixixixi/翻訳の歴史/知恵の館": {
+    "page_id": "20260426_kixixixixi/翻訳の歴史/知恵の館",
+    "content_hash": "sha256:1e7bae157439de6c915090991bba3ec7f22c2888a46d95652686f384247910c2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "西アジア"
+      ],
+      "period": [
+        "9世紀"
+      ],
+      "entities": [
+        "知恵の館",
+        "バグダード"
+      ],
+      "tags": [
+        "研究・発展"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:35.634Z",
+    "model": "jev-1.13.0"
+  },
+  "20260426_kixixixixi/翻訳の歴史/トレド翻訳学校": {
+    "page_id": "20260426_kixixixixi/翻訳の歴史/トレド翻訳学校",
+    "content_hash": "sha256:317125a7461511c7772bf5df2d82f135134cbe4d2a6925ba16cb0869fbe88e3d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "12世紀",
+        "13世紀"
+      ],
+      "entities": [
+        "トレド翻訳学校",
+        "トレド",
+        "イスラム・ユダヤ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:35.795Z",
+    "model": "jev-1.13.0"
+  },
+  "20260426_kixixixixi/翻訳の歴史/ルネサンス": {
+    "page_id": "20260426_kixixixixi/翻訳の歴史/ルネサンス",
+    "content_hash": "sha256:dacc050b4f65fe3ebb22a20786eed09ccef583408482093dc89ef81c719099d1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "14世紀",
+        "15世紀",
+        "16世紀"
+      ],
+      "entities": [
+        "イタリア"
+      ],
+      "tags": [
+        "ルネサンス",
+        "ヒューマニズム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:35.823Z",
+    "model": "jev-1.13.0"
+  },
+  "20260426_kixixixixi/翻訳の歴史/明治維新": {
+    "page_id": "20260426_kixixixixi/翻訳の歴史/明治維新",
+    "content_hash": "sha256:3fce6958f6bafa3360b92211325df64816e82d1731e8eee9b4367a5f8ada51f3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "明治維新"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:35.814Z",
+    "model": "jev-1.13.0"
+  },
+  "20260426_kixixixixi/翻訳の歴史/機械翻訳": {
+    "page_id": "20260426_kixixixixi/翻訳の歴史/機械翻訳",
+    "content_hash": "sha256:bf95f53d1786abb80ed98db506ae41a53486eaf2d1e1ee37f9c5127ad2cc74f5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "機械翻訳",
+        "ルールベース",
+        "ニューラル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:35.855Z",
+    "model": "jev-1.13.0"
+  }
+}

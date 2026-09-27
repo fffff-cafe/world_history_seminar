@@ -1,0 +1,230 @@
+{
+  "20220618_hasegawa/イングランド海軍-黎明編/イングランド海軍-黎明編": {
+    "page_id": "20220618_hasegawa/イングランド海軍-黎明編/イングランド海軍-黎明編",
+    "content_hash": "sha256:2917f62ccae4001fd43797cfde805481779138557bfb797ba14a55e47da72d96",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "イングランド海軍 黎明編",
+        "イングランド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:17.157Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_hasegawa/イングランド海軍-黎明編/イギリスの歴史おさらい-1": {
+    "page_id": "20220618_hasegawa/イングランド海軍-黎明編/イギリスの歴史おさらい-1",
+    "content_hash": "sha256:56b159483070ce91bf90cc086d1fd51ba785e6ef2993f2bc6f1b8e6c9a6cffa6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀",
+        "4世紀",
+        "5世紀",
+        "6世紀",
+        "7世紀",
+        "8世紀",
+        "9世紀"
+      ],
+      "entities": [
+        "イギリス",
+        "アングロサクソン",
+        "アルフレッド",
+        "イングランド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:17.229Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_hasegawa/イングランド海軍-黎明編/イギリスの歴史おさらい-2": {
+    "page_id": "20220618_hasegawa/イングランド海軍-黎明編/イギリスの歴史おさらい-2",
+    "content_hash": "sha256:672a1e1038e169824b354434ca5b0abc83f34dba3c6661bf79b3a6a6594c260f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "10世紀",
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀",
+        "15世紀",
+        "16世紀"
+      ],
+      "entities": [
+        "イギリス",
+        "デーン",
+        "フランス",
+        "ウィリアム",
+        "ノルマンコンクエスト",
+        "イングランド",
+        "プランタジネット",
+        "ヨーク",
+        "ランカスター",
+        "チューダー"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:17.281Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_hasegawa/イングランド海軍-黎明編/船の分類": {
+    "page_id": "20220618_hasegawa/イングランド海軍-黎明編/船の分類",
+    "content_hash": "sha256:0667f140cbb2dba4da342c2664e4fb495b2a5a1306f9f73b73d37935a6e005e5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "船の分類",
+        "ガレー",
+        "ラウンド"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:17.310Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_hasegawa/イングランド海軍-黎明編/帆船の進化": {
+    "page_id": "20220618_hasegawa/イングランド海軍-黎明編/帆船の進化",
+    "content_hash": "sha256:7a269068fccad36ff78d42570faa1c4ac7468062a14faaca2afd2d6e9d002328",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "8世紀",
+        "9世紀",
+        "10世紀",
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "帆船の進化",
+        "カラヴェル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:17.393Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_hasegawa/イングランド海軍-黎明編/--カラック": {
+    "page_id": "20220618_hasegawa/イングランド海軍-黎明編/--カラック",
+    "content_hash": "sha256:e6876163b36800a3cc7fcd2ded60596c0176252813abe80831048ee11be2aa41",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "- カラック",
+        "カラック",
+        "ガレオン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:17.431Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_hasegawa/イングランド海軍-黎明編/当時のイギリス海軍": {
+    "page_id": "20220618_hasegawa/イングランド海軍-黎明編/当時のイギリス海軍",
+    "content_hash": "sha256:974995aa980760a336a49c927611ec58b3e93bdfe2946f9f06b1d55a4ffa93c0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [
+        "イギリス"
+      ],
+      "tags": [
+        "当時のイギリス海軍",
+        "シンク・ポーツ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:17.488Z",
+    "model": "jev-1.13.0"
+  },
+  "20220618_hasegawa/イングランド海軍-黎明編/初期の大きな海戦": {
+    "page_id": "20220618_hasegawa/イングランド海軍-黎明編/初期の大きな海戦",
+    "content_hash": "sha256:84c3983871debfeaf079ac42938e52bad7a0bdf9fe7d8694ac5c84837c9ff5ab",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "14世紀"
+      ],
+      "entities": [
+        "ダーム",
+        "ドーバー",
+        "スロイス",
+        "イングランド",
+        "フランス",
+        "ラロシェル"
+      ],
+      "tags": [
+        "初期の大きな海戦"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:17.519Z",
+    "model": "jev-1.13.0"
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "20230513_kixixixixi/自然言語処理の歴史/自然言語処理の歴史": {
+    "page_id": "20230513_kixixixixi/自然言語処理の歴史/自然言語処理の歴史",
+    "content_hash": "sha256:755a1902814c60492b6a01b9300c7609dbc0b70ca696f84cfe72bcb9d077a149",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "自然言語処理の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:29.772Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_kixixixixi/はじめに/はじめに": {
+    "page_id": "20230513_kixixixixi/はじめに/はじめに",
+    "content_hash": "sha256:50e7f588c1e4afaea52d1891c1a7a6b3c1257b19197bac7a1397ed6cff6b5637",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:29.894Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_kixixixixi/The-False-Promise-of-ChatGPT/The-False-Promise-of-ChatGPT": {
+    "page_id": "20230513_kixixixixi/The-False-Promise-of-ChatGPT/The-False-Promise-of-ChatGPT",
+    "content_hash": "sha256:5ac6c72468127f6dd9f85f4ae8c9da3a59c1b11f1fe7001d8c5228e5a760ab9c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:29.946Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_kixixixixi/The-False-Promise-of-ChatGPT/![width:200](https:-upload.wikimedia.or": {
+    "page_id": "20230513_kixixixixi/The-False-Promise-of-ChatGPT/![width:200](https:-upload.wikimedia.or",
+    "content_hash": "sha256:96c453e7d3ca730bee953019530ae14a032f87ddc72d01369ead2b536fab2f3f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:29.949Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_kixixixixi/The-False-Promise-of-ChatGPT/![width:200](https:-upload.wikimedia.or~2": {
+    "page_id": "20230513_kixixixixi/The-False-Promise-of-ChatGPT/![width:200](https:-upload.wikimedia.or~2",
+    "content_hash": "sha256:bdeb2c490db21339d594e4dd854f94c6119e7af5794edc210ef5ada684d61446",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:29.985Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_kixixixixi/自然言語処理とは/自然言語処理とは": {
+    "page_id": "20230513_kixixixixi/自然言語処理とは/自然言語処理とは",
+    "content_hash": "sha256:eb044f529286d852ec4bd02e48ec33a355dd41e167f4013fbb46eec2f3cf66cb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "自然言語処理とは"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:30.119Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_kixixixixi/自然言語理解とは/自然言語理解とは": {
+    "page_id": "20230513_kixixixixi/自然言語理解とは/自然言語理解とは",
+    "content_hash": "sha256:1a8dffa1302689e1f3aba931e356dff02f5a687ea9d18bdb203b35bc9599f0fc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "自然言語理解とは",
+        "理解"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:30.158Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_kixixixixi/沿革-1/沿革-1": {
+    "page_id": "20230513_kixixixixi/沿革-1/沿革-1",
+    "content_hash": "sha256:e56276317782b9e97f7a4ee32fddd89f90aa7356eb524738d5ec6907412b6e74",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ジョージタウン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:30.146Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_kixixixixi/Warren-Weaver/Warren-Weaver": {
+    "page_id": "20230513_kixixixixi/Warren-Weaver/Warren-Weaver",
+    "content_hash": "sha256:d7cce69adc2feb430ecc2cc71e6e2b7664b6381452dd3f2c05f559320b840549",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "Warren Weaver"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:30.188Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_kixixixixi/ELIZA/ELIZA": {
+    "page_id": "20230513_kixixixixi/ELIZA/ELIZA",
+    "content_hash": "sha256:87f718f85c64c44f91a40e6046e3ca91cd345938a048983894b21961c28dc666",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ELIZA"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:30.362Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_kixixixixi/ノーム・チョムスキー/ノーム・チョムスキー": {
+    "page_id": "20230513_kixixixixi/ノーム・チョムスキー/ノーム・チョムスキー",
+    "content_hash": "sha256:aaeeebc364cf5c68ef7218677ca4c3236f7fa96f0e6379d29ed3887f7c40887d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ノーム・チョムスキー"
+      ],
+      "tags": [
+        "モデル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:30.351Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_kixixixixi/沿革-2/沿革-2": {
+    "page_id": "20230513_kixixixixi/沿革-2/沿革-2",
+    "content_hash": "sha256:9043e9bce2429fcebf952644c0857b95dac1fcc6b9ab796cc11c671dc011cae3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [
+        "プロジェクト"
+      ],
+      "tags": [
+        "ニューラルネットワーク"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:30.369Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_kixixixixi/Cyc-プロジェクト/Cyc-プロジェクト": {
+    "page_id": "20230513_kixixixixi/Cyc-プロジェクト/Cyc-プロジェクト",
+    "content_hash": "sha256:bc7d3957df22208c26875bc5ce2ce40c3341a7a5d07e25c2a75ccff0ae71dfb9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "Cyc プロジェクト",
+        "プロジェクト",
+        "ダグラス・レナート"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:30.443Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_kixixixixi/Word2Vec/Word2Vec": {
+    "page_id": "20230513_kixixixixi/Word2Vec/Word2Vec",
+    "content_hash": "sha256:af00ec8fc88e2306f4b024f89e36c3d5476c3b8c0123ba37f7ae94416d7e9ab1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:30.558Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_kixixixixi/Transformer/Transformer": {
+    "page_id": "20230513_kixixixixi/Transformer/Transformer",
+    "content_hash": "sha256:3e31d5e3e9a6947f254b4c1c8378e6476ed664ca2dba28049c7be4a087ec57f6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "Transformer"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:30.570Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_kixixixixi/GPT/GPT": {
+    "page_id": "20230513_kixixixixi/GPT/GPT",
+    "content_hash": "sha256:65a76db5898e55c4d16c183750d25870a22abb591924ef32f12131630a96235c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:30.567Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_kixixixixi/ソシュールの言語論的転回/ソシュールの言語論的転回": {
+    "page_id": "20230513_kixixixixi/ソシュールの言語論的転回/ソシュールの言語論的転回",
+    "content_hash": "sha256:d4fbdd8d8ee488996fe0bab65869a3475480dbe4058862ae6b29f313b565c690",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ソシュール"
+      ],
+      "tags": [
+        "ソシュールの言語論的転回"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:30.640Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_kixixixixi/言語学/言語学": {
+    "page_id": "20230513_kixixixixi/言語学/言語学",
+    "content_hash": "sha256:d16eacab2076578438b06154941a3d126750598e50497fd751202706f7777820",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "コンスタンチノープル",
+        "ソシュール",
+        "チョムスキー"
+      ],
+      "tags": [
+        "言語学"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:30.775Z",
+    "model": "jev-1.13.0"
+  }
+}

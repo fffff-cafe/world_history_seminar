@@ -1,0 +1,315 @@
+{
+  "20220910_ihara/土の歴史/土の歴史": {
+    "page_id": "20220910_ihara/土の歴史/土の歴史",
+    "content_hash": "sha256:2bc339335da1ec63b39afd1d5f29f4b6ff9f5238e265897584196809658b5ae1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "土の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:22.281Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_ihara/まえがき/まえがき": {
+    "page_id": "20220910_ihara/まえがき/まえがき",
+    "content_hash": "sha256:91165893f62c3cce49f91df7c0afaca96991940be74987b2b611ea6ee2ea2605",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:22.464Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_ihara/土とは/土とは": {
+    "page_id": "20220910_ihara/土とは/土とは",
+    "content_hash": "sha256:8883b531c4806a6e00c283bff5c8dc3fdd2d8583e74d96b7ff8cce5fafd34e2d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "土とは"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:22.451Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_ihara/土の成り立ち/土の成り立ち": {
+    "page_id": "20220910_ihara/土の成り立ち/土の成り立ち",
+    "content_hash": "sha256:c5b2904a1d6b3da828b6876a5dc5a0e3222e557d30f56cbf59f37b4c826e74bb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "土の成り立ち"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:22.514Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_ihara/土の恩恵/土の恩恵": {
+    "page_id": "20220910_ihara/土の恩恵/土の恩恵",
+    "content_hash": "sha256:f448735e963d0808791499282d02aca4027cb8a54f646fc416669dbcdf5e1101",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "土の恩恵"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:22.652Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_ihara/土の歴史/土の歴史~2": {
+    "page_id": "20220910_ihara/土の歴史/土の歴史~2",
+    "content_hash": "sha256:082046849aef17cd3601dae651aa0cc2ef03dd735e1408018464e76282c0cde7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "土の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:22.677Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_ihara/植物の進化/植物の進化": {
+    "page_id": "20220910_ihara/植物の進化/植物の進化",
+    "content_hash": "sha256:003756122b5c6b3360191f6580b35804ccea94756464f307d687ef7a8b1a0721",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "植物の進化",
+        "シダ植物"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:22.712Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_ihara/シダ植物/シダ植物": {
+    "page_id": "20220910_ihara/シダ植物/シダ植物",
+    "content_hash": "sha256:c1cd46e30e869563b1d7fa04f23b79dc9e417de9267ecc1e96edb1715105b750",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "シダ植物"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:22.860Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_ihara/地衣類やコケ類の衰退/地衣類やコケ類の衰退": {
+    "page_id": "20220910_ihara/地衣類やコケ類の衰退/地衣類やコケ類の衰退",
+    "content_hash": "sha256:726118001e84aa5612c4b8efac547ff0c1290c0e7054e724f0747b8578d7243e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "先史"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "地衣類やコケ類の衰退"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:22.863Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_ihara/CO2の固定/CO2の固定": {
+    "page_id": "20220910_ihara/CO2の固定/CO2の固定",
+    "content_hash": "sha256:94b9cd8bdf9a3f2142881ac39654ff26474a6c250a1685e2f0d833550e1e7894",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "CO2の固定"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:22.923Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_ihara/泥炭土/泥炭土": {
+    "page_id": "20220910_ihara/泥炭土/泥炭土",
+    "content_hash": "sha256:2b433b3385c0ef6534c42bc82d1a7e6628d390b7236e9cd87b63e56e5d1d7d50",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "泥炭土"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:23.077Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_ihara/石炭/石炭": {
+    "page_id": "20220910_ihara/石炭/石炭",
+    "content_hash": "sha256:f17cb89ec5da891dea366aeacb68ed432984cfc5972815e862820e2615c13cfd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "石炭"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:23.074Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_ihara/裸子植物/裸子植物": {
+    "page_id": "20220910_ihara/裸子植物/裸子植物",
+    "content_hash": "sha256:ae0d184270fb216f7f5e67d9008ea5bf78056204ebac4942af3103e07766d302",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "裸子植物"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:23.069Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_ihara/シダ植物の衰退/シダ植物の衰退": {
+    "page_id": "20220910_ihara/シダ植物の衰退/シダ植物の衰退",
+    "content_hash": "sha256:f03908e01d07199df93430d8fcaada5045dabb9e5d338e80f30cb3a26ccdfaa2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "シダ植物の衰退"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:23.121Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_ihara/リグニンや石炭紀/リグニンや石炭紀": {
+    "page_id": "20220910_ihara/リグニンや石炭紀/リグニンや石炭紀",
+    "content_hash": "sha256:69d9832b365a6b99f944a09e57aea08cb684241857de6710ca982679e1430bfd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "リグニンや石炭紀",
+        "リグニン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:23.339Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_ihara/リグニンの破壊/リグニンの破壊": {
+    "page_id": "20220910_ihara/リグニンの破壊/リグニンの破壊",
+    "content_hash": "sha256:9c16ea46c2fa77d6f3a0bcb3b76c6cf33f68a0209c7c71c4e44b6f9a7c55e093",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "先史"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "リグニンの破壊",
+        "リグニン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:23.263Z",
+    "model": "jev-1.13.0"
+  },
+  "20220910_ihara/被子植物/被子植物": {
+    "page_id": "20220910_ihara/被子植物/被子植物",
+    "content_hash": "sha256:ffd8015ce89129874b0bbf09bd7e1e197fff596e7d3c14c7f3e8a90f655adf36",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "被子植物"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:23.750Z",
+    "model": "jev-1.13.0"
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "20230312_kixixixixi/ロシアの歴史-3/ロシアの歴史-3": {
+    "page_id": "20230312_kixixixixi/ロシアの歴史-3/ロシアの歴史-3",
+    "content_hash": "sha256:11c9d27acb6865e51392f17130e1166428dd086f523a8270581ad41c249fd72a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [],
+      "entities": [
+        "ロシアの歴史 3",
+        "ロシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:28.638Z",
+    "model": "jev-1.13.0"
+  },
+  "20230312_kixixixixi/前回のはなし/前回のはなし": {
+    "page_id": "20230312_kixixixixi/前回のはなし/前回のはなし",
+    "content_hash": "sha256:4374934964fe528cfc1e2a65a2b727b910a6ea471744d385bb4e0b7107adf3a8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [],
+      "entities": [
+        "ロマノフ",
+        "ロシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:28.689Z",
+    "model": "jev-1.13.0"
+  },
+  "20230312_kixixixixi/民衆の不満/民衆の不満": {
+    "page_id": "20230312_kixixixixi/民衆の不満/民衆の不満",
+    "content_hash": "sha256:a53bdd90f8bcc5a3cccf163049338a4edac45484c424e7bc510b34d9496a6b49",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ニコライ",
+        "ラスプーチン"
+      ],
+      "tags": [
+        "民衆の不満"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:28.829Z",
+    "model": "jev-1.13.0"
+  },
+  "20230312_kixixixixi/第一次世界大戦/第一次世界大戦": {
+    "page_id": "20230312_kixixixixi/第一次世界大戦/第一次世界大戦",
+    "content_hash": "sha256:5e167ec40ab33ed18584453e568fb5c7c62a252477f50629258b7adecc02da38",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "第一次世界大戦",
+        "バルカン",
+        "ロシア",
+        "ドイツ・オーストリア",
+        "ドイツ",
+        "イギリス・フランス"
+      ],
+      "tags": [
+        "パンスラブ",
+        "スラブ",
+        "パンゲルマン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:28.844Z",
+    "model": "jev-1.13.0"
+  },
+  "20230312_kixixixixi/革命/革命": {
+    "page_id": "20230312_kixixixixi/革命/革命",
+    "content_hash": "sha256:551c438bb19fed34a0866feb7a51d7d9a25d71cd36a754d6a46037be99a5e956",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ニコライ",
+        "ロマノフ",
+        "レーニン"
+      ],
+      "tags": [
+        "革命",
+        "ソビエト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:28.914Z",
+    "model": "jev-1.13.0"
+  },
+  "20230312_kixixixixi/レーニン/レーニン": {
+    "page_id": "20230312_kixixixixi/レーニン/レーニン",
+    "content_hash": "sha256:4c423ea1d486a6dab33157f27606efcca82d677d6e27c1cc46c6bd8a17ab853d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "レーニン",
+        "ロシア",
+        "ソビエト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:28.895Z",
+    "model": "jev-1.13.0"
+  },
+  "20230312_kixixixixi/スターリン/スターリン": {
+    "page_id": "20230312_kixixixixi/スターリン/スターリン",
+    "content_hash": "sha256:97870bcc6f8fe6ef5c440a0e04446907906295bcf3c18d5938d8ff549a5e4a23",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "スターリン"
+      ],
+      "tags": [
+        "テロル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:29.030Z",
+    "model": "jev-1.13.0"
+  },
+  "20230312_kixixixixi/第二次世界大戦/第二次世界大戦": {
+    "page_id": "20230312_kixixixixi/第二次世界大戦/第二次世界大戦",
+    "content_hash": "sha256:f7bcf4b6d82202d4795284876de14b661d9847a05001915a26407a6ff5dec34e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "第二次世界大戦",
+        "ドイツ",
+        "ルーマニア・ウクライナ",
+        "バルト",
+        "ロシア",
+        "モスクワ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:29.047Z",
+    "model": "jev-1.13.0"
+  },
+  "20230312_kixixixixi/冷戦/冷戦": {
+    "page_id": "20230312_kixixixixi/冷戦/冷戦",
+    "content_hash": "sha256:065470b2c5f9d9168facee810a1df4d2bdb24db64c211de83a5596dc9da18e6b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "冷戦",
+        "鉄のカーテン",
+        "カーテン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:29.090Z",
+    "model": "jev-1.13.0"
+  },
+  "20230312_kixixixixi/冷戦-2/冷戦-2": {
+    "page_id": "20230312_kixixixixi/冷戦-2/冷戦-2",
+    "content_hash": "sha256:3e983ae053fb0b6e497ca14036f144d2c1dd972825f5dc4a631547d563e01fa9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治",
+        "外交"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "フルシチョフ",
+        "ワルシャワ",
+        "ベルリン",
+        "キューバ",
+        "プラハ",
+        "アフガニスタン"
+      ],
+      "tags": [
+        "冷戦 2"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:29.125Z",
+    "model": "jev-1.13.0"
+  },
+  "20230312_kixixixixi/ペレストロイカ/ペレストロイカ": {
+    "page_id": "20230312_kixixixixi/ペレストロイカ/ペレストロイカ",
+    "content_hash": "sha256:8252a8028eca089957ed5d1281339cc11bef17d1bd64cf3f7e51342b4a160c8c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ゴルバチョフ"
+      ],
+      "tags": [
+        "ペレストロイカ",
+        "グラスノスチ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:29.261Z",
+    "model": "jev-1.13.0"
+  }
+}

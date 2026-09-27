@@ -1,0 +1,431 @@
+{
+  "20251026_nishihara/マカオの歴史と現在/マカオの歴史と現在": {
+    "page_id": "20251026_nishihara/マカオの歴史と現在/マカオの歴史と現在",
+    "content_hash": "sha256:0b92ec750bdd6cef95d36d3208b3e65e0087dcbbde136e2debc50adb495546ab",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "マカオの歴史と現在",
+        "マカオ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:28.556Z",
+    "model": "jev-1.13.0"
+  },
+  "20251026_nishihara/目的/目的": {
+    "page_id": "20251026_nishihara/目的/目的",
+    "content_hash": "sha256:a08fdf7ddc0a4bccb6844707b7d8430b452bf23e699d325b5499350d44706652",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "マカオ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:28.700Z",
+    "model": "jev-1.13.0"
+  },
+  "20251026_nishihara/概要/概要": {
+    "page_id": "20251026_nishihara/概要/概要",
+    "content_hash": "sha256:adf4ef594485febf790604dc1aa4664d771fb34008fffa75a2236f6ca2ef9b4f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [],
+      "entities": [
+        "マカオ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:28.706Z",
+    "model": "jev-1.13.0"
+  },
+  "20251026_nishihara/概要/<img-src=\"https:-cdn-ak.f.st-hatena.com": {
+    "page_id": "20251026_nishihara/概要/<img-src=\"https:-cdn-ak.f.st-hatena.com",
+    "content_hash": "sha256:9a99d988c6b57a08b2b1779a7ca8340611a8c104388af6d2d840fad70305b5ec",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:28.890Z",
+    "model": "jev-1.13.0"
+  },
+  "20251026_nishihara/人口・分布・人種・宗教/人口・分布・人種・宗教": {
+    "page_id": "20251026_nishihara/人口・分布・人種・宗教/人口・分布・人種・宗教",
+    "content_hash": "sha256:a6a1e7291edc34120c60a9593d2b69591b5221e20001b04888d3b66cadf1ed6a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "社会"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "マカオ",
+        "タイパ・コロアン",
+        "コタイ",
+        "マカニーズ"
+      ],
+      "tags": [
+        "人口・分布・人種・宗教"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:28.764Z",
+    "model": "jev-1.13.0"
+  },
+  "20251026_nishihara/マカオ税制/マカオ税制": {
+    "page_id": "20251026_nishihara/マカオ税制/マカオ税制",
+    "content_hash": "sha256:cccd5c920e3f779a7d8af34380a79c447df6edf9c7bd9c6991ceb60ffadf66d9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "マカオ"
+      ],
+      "tags": [
+        "マカオ税制",
+        "法人税",
+        "個人所得税",
+        "消費税・付加価値税",
+        "相続税・贈与税",
+        "不動産税"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:28.940Z",
+    "model": "jev-1.13.0"
+  },
+  "20251026_nishihara/ポルトガル領化の経緯(〜1999)/ポルトガル領化の経緯(〜1999)": {
+    "page_id": "20251026_nishihara/ポルトガル領化の経緯(〜1999)/ポルトガル領化の経緯(〜1999)",
+    "content_hash": "sha256:c1738b528980a261f6f5727d90d323b39c7fe3a16433329e3aee44cc7fb4e116",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "16世紀",
+        "17世紀",
+        "18世紀",
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "ポルトガル",
+        "カーネーション",
+        "マカオ"
+      ],
+      "tags": [
+        "ポルトガル領化の経緯",
+        "永久居住・管理"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:28.916Z",
+    "model": "jev-1.13.0"
+  },
+  "20251026_nishihara/返還後の統治枠組み/返還後の統治枠組み": {
+    "page_id": "20251026_nishihara/返還後の統治枠組み/返還後の統治枠組み",
+    "content_hash": "sha256:a67689aa032ec6e62903c19be16b98d2b7e6a4b1af916fbc2d21cc4f2a3aa444",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [
+        "マカオ"
+      ],
+      "tags": [
+        "返還後の統治枠組み",
+        "一国二制度"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:28.988Z",
+    "model": "jev-1.13.0"
+  },
+  "20251026_nishihara/ギャンブルについて/ギャンブルについて": {
+    "page_id": "20251026_nishihara/ギャンブルについて/ギャンブルについて",
+    "content_hash": "sha256:3b0b631e040976d29589e02e227aaa00bdcd7f217a6187a4e5cb17f08a1c4d82",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "ギャンブルについて",
+        "ギャンブル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:29.141Z",
+    "model": "jev-1.13.0"
+  },
+  "20251026_nishihara/経済構造と動向/経済構造と動向": {
+    "page_id": "20251026_nishihara/経済構造と動向/経済構造と動向",
+    "content_hash": "sha256:e32e54a6b4cab6572e3aa4d89f5d24442ba7dd5f063254725e835b7a3dd69561",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "経済構造と動向",
+        "カジノ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:29.118Z",
+    "model": "jev-1.13.0"
+  },
+  "20251026_nishihara/中国の中での独自性/中国の中での独自性": {
+    "page_id": "20251026_nishihara/中国の中での独自性/中国の中での独自性",
+    "content_hash": "sha256:c951c268c3fe8fd3cb96b6cf687a674343ad2b9245099e79706dbf80ee091c52",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "マカオ",
+        "ポルトガル"
+      ],
+      "tags": [
+        "中国の中での独自性",
+        "ギャンブル",
+        "カジノ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:29.132Z",
+    "model": "jev-1.13.0"
+  },
+  "20251026_nishihara/地政学的意味合い/地政学的意味合い": {
+    "page_id": "20251026_nishihara/地政学的意味合い/地政学的意味合い",
+    "content_hash": "sha256:7e490e33a9f1a6b59396e1ea9ee22bad48ec6cd5784184ca5269f38ac624cd1e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "デルタ",
+        "マカオ",
+        "カーボベルデ",
+        "ギニアビサウ",
+        "サントメ・プリンシペ",
+        "ギニア",
+        "ティモール"
+      ],
+      "tags": [
+        "地政学的意味合い"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:29.195Z",
+    "model": "jev-1.13.0"
+  },
+  "20251026_nishihara/香港との関係/香港との関係": {
+    "page_id": "20251026_nishihara/香港との関係/香港との関係",
+    "content_hash": "sha256:f18322f9220149af5de4727e403bb5d9f921ff97b0da4f3a88b188fa34ed81e4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "香港との関係",
+        "マカオ"
+      ],
+      "tags": [
+        "経済構造",
+        "政治・社会"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:29.318Z",
+    "model": "jev-1.13.0"
+  },
+  "20251026_nishihara/カジノリゾートとしての立ち位置/カジノリゾートとしての立ち位置": {
+    "page_id": "20251026_nishihara/カジノリゾートとしての立ち位置/カジノリゾートとしての立ち位置",
+    "content_hash": "sha256:58ce930e30bae46620463965984018fb88f77693880f9310b6607255319d9fbb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "マカオ",
+        "コタイ"
+      ],
+      "tags": [
+        "カジノリゾートとしての立ち位置",
+        "カジノリゾート",
+        "カジノ",
+        "バランス",
+        "リゾート",
+        "ゲーミング",
+        "コンセッション",
+        "ライセンス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:29.381Z",
+    "model": "jev-1.13.0"
+  },
+  "20251026_nishihara/VIPとジャンケット/VIPとジャンケット": {
+    "page_id": "20251026_nishihara/VIPとジャンケット/VIPとジャンケット",
+    "content_hash": "sha256:76259d5615a1d2e878aa3b917c8703bc129511c9d81b68d86194e1506bc3d7d6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "VIPとジャンケット",
+        "ジャンケット"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:29.391Z",
+    "model": "jev-1.13.0"
+  },
+  "20251026_nishihara/有名カジノたち/有名カジノたち": {
+    "page_id": "20251026_nishihara/有名カジノたち/有名カジノたち",
+    "content_hash": "sha256:61e3c3a2d41e22e5a0b9b2302948ac984b7393d995a0dd1f4bd566964cbd87da",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "カジノ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:29.394Z",
+    "model": "jev-1.13.0"
+  },
+  "20251026_nishihara/おまけ(日本カジノ)/おまけ(日本カジノ)": {
+    "page_id": "20251026_nishihara/おまけ(日本カジノ)/おまけ(日本カジノ)",
+    "content_hash": "sha256:ab487a69c699a2d38ea0bba0f5d4841f28a15af2c737e12218840ccc1b081ee3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "日本",
+        "東アジア"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "事業者側が契約を解除できる権利",
+        "カジノ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:29.528Z",
+    "model": "jev-1.13.0"
+  },
+  "20251026_nishihara/まとめ/まとめ": {
+    "page_id": "20251026_nishihara/まとめ/まとめ",
+    "content_hash": "sha256:291364c1e79877cbed2e02966deffd1f6253352fea03243088b152a6ad51c109",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "マカオ"
+      ],
+      "tags": [
+        "中葡文化の結節点",
+        "世界的IR集積地"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:29.621Z",
+    "model": "jev-1.13.0"
+  }
+}

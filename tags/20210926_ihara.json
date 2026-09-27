@@ -1,0 +1,410 @@
+{
+  "20210926_ihara/ヨーロッパより早い中華の大航海を成し遂げた永楽帝について/ヨーロッパより早い中華の大航海を成し遂げた永楽帝について": {
+    "page_id": "20210926_ihara/ヨーロッパより早い中華の大航海を成し遂げた永楽帝について/ヨーロッパより早い中華の大航海を成し遂げた永楽帝について",
+    "content_hash": "sha256:8f09839618b119caaeff82598af80908e3cf268d43c9e3a8ba5a4c7d5b4d5116",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "14世紀",
+        "15世紀"
+      ],
+      "entities": [
+        "ヨーロッパより早い中華の大航海を成し遂げた永楽帝について"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:55.266Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_ihara/永楽帝-(1360-~-1424)/永楽帝-(1360-~-1424)": {
+    "page_id": "20210926_ihara/永楽帝-(1360-~-1424)/永楽帝-(1360-~-1424)",
+    "content_hash": "sha256:bb079d18469ec130060024893ffc875e577a4cb86325a24ae8c3837d0282b1e9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "14世紀",
+        "15世紀"
+      ],
+      "entities": [
+        "永楽帝"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:55.335Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_ihara/生まれ-~-燕王/生まれ-~-燕王": {
+    "page_id": "20210926_ihara/生まれ-~-燕王/生まれ-~-燕王",
+    "content_hash": "sha256:aff26f27e5107a2896154730ed0db9d6c4eb1461e69eef45b9e3c185474325ff",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "14世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:55.397Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_ihara/靖難の変-(1399-~-1401)/靖難の変-(1399-~-1401)": {
+    "page_id": "20210926_ihara/靖難の変-(1399-~-1401)/靖難の変-(1399-~-1401)",
+    "content_hash": "sha256:98ea9995a10cc99ac922d43d27d87709add9ad055b0858a7adac23cb7849b04d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "政治",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "14世紀",
+        "15世紀"
+      ],
+      "entities": [
+        "靖難の変"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:55.436Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_ihara/皇帝/皇帝": {
+    "page_id": "20210926_ihara/皇帝/皇帝",
+    "content_hash": "sha256:3220f60ca0cbffdff5f6fdd78599bb01af283d9f1b270507a4905d6b6693784f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [
+        "皇帝"
+      ],
+      "tags": [
+        "東廠"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:55.495Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_ihara/中華思想の体現/中華思想の体現": {
+    "page_id": "20210926_ihara/中華思想の体現/中華思想の体現",
+    "content_hash": "sha256:0418bffb3a565924573aa2e5ccbe796f3240ff4515c52dc27f4ceb47b4161923",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [
+        "ベトナム",
+        "ラオス"
+      ],
+      "tags": [
+        "中華思想の体現"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:55.592Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_ihara/鄭和の大航海/鄭和の大航海": {
+    "page_id": "20210926_ihara/鄭和の大航海/鄭和の大航海",
+    "content_hash": "sha256:1f91c0a9692c2a4079588116aca112ed113be36ea0591b60226aded4be9e60cc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [
+        "鄭和の大航海"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:55.601Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_ihara/第1次航海(1405---1407)/第1次航海(1405---1407)": {
+    "page_id": "20210926_ihara/第1次航海(1405---1407)/第1次航海(1405---1407)",
+    "content_hash": "sha256:15d0a8b2a042c5ce0e83264d7ad2779830a07c63573117fe0a56701fa16c7baa",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [
+        "第1次航海",
+        "シュリー・ヴィナーヤ",
+        "スラバヤ",
+        "パレンバン",
+        "ムドラ・パサイ",
+        "セイロン",
+        "コーリコード",
+        "カリカット"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:55.654Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_ihara/第2次航海(1407---1409)/第2次航海(1407---1409)": {
+    "page_id": "20210926_ihara/第2次航海(1407---1409)/第2次航海(1407---1409)",
+    "content_hash": "sha256:92fb7b51051b30a256f54ca90c36c875f8a9d169604d3510df3f0bd4958d5e30",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [
+        "第2次航海"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:55.701Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_ihara/第3次航海(1409---1411)/第3次航海(1409---1411)": {
+    "page_id": "20210926_ihara/第3次航海(1409---1411)/第3次航海(1409---1411)",
+    "content_hash": "sha256:e2b03989c975e38867c54a3dc9efbae05f21d15aa44530d4af35e8c7439f6865",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [
+        "第3次航海"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:55.789Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_ihara/第4次航海(1413---1415)/第4次航海(1413---1415)": {
+    "page_id": "20210926_ihara/第4次航海(1413---1415)/第4次航海(1413---1415)",
+    "content_hash": "sha256:d4171ebd28708027ea596d07185d15894a6deef647a5808060ee1bfc6b3ef805",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [
+        "第4次航海",
+        "コーリコード",
+        "ホムルズ",
+        "スマトラ",
+        "モルディブ",
+        "モガディシオ",
+        "ブラバ",
+        "ジューブ",
+        "マリンディ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:55.877Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_ihara/第5次航海(1417---1419)/第5次航海(1417---1419)": {
+    "page_id": "20210926_ihara/第5次航海(1417---1419)/第5次航海(1417---1419)",
+    "content_hash": "sha256:8c73f3b67d6031160e7fdc9fb1ef5a510b983451a3e004aa791924f95edc4a90",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [
+        "第5次航海",
+        "コーリコード",
+        "ホムルズ",
+        "スマトラ",
+        "モルディブ",
+        "ブラバ",
+        "ジューブ",
+        "マリンディ",
+        "ホルムズ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:55.886Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_ihara/第6次航海(1421---1422)/第6次航海(1421---1422)": {
+    "page_id": "20210926_ihara/第6次航海(1421---1422)/第6次航海(1421---1422)",
+    "content_hash": "sha256:e2cbdc5136153c2ccfa4ef495ca5cfdab9aac56a4aef2c985319a37adffea67a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [
+        "第6次航海",
+        "コーリコード",
+        "ホムルズ",
+        "スマトラ",
+        "モルディブ",
+        "アデン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:55.907Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_ihara/第7次航海(1430---1433)/第7次航海(1430---1433)": {
+    "page_id": "20210926_ihara/第7次航海(1430---1433)/第7次航海(1430---1433)",
+    "content_hash": "sha256:d7d1a94094c08eda294bf00052ba61fb4b6bdfbc7c711f26bd4f20e41edf54e8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "東南アジア"
+      ],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [
+        "第7次航海",
+        "シュリー・ヴィナーヤ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:56.013Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_ihara/大航海の結果/大航海の結果": {
+    "page_id": "20210926_ihara/大航海の結果/大航海の結果",
+    "content_hash": "sha256:65a63b0e241a8d1900f3a00d8a081aad66629f1fd3e8249cc6fc1c627bc3315e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "大航海の結果"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:56.084Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_ihara/死去/死去": {
+    "page_id": "20210926_ihara/死去/死去",
+    "content_hash": "sha256:c03a1ef3b60e8459619573ff3f27f773ab7920af5c5620ab31f2b86591402203",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:56.115Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_ihara/中国の大航海について/中国の大航海について": {
+    "page_id": "20210926_ihara/中国の大航海について/中国の大航海について",
+    "content_hash": "sha256:bb115961faa954b9a706758d2b64bf8a45f2a9e90997dd6a180bb15dfda14bc0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:56.138Z",
+    "model": "jev-1.13.0"
+  }
+}

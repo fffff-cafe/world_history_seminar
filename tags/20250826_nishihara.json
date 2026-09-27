@@ -1,0 +1,402 @@
+{
+  "20250826_nishihara/気候の歴史/気候の歴史": {
+    "page_id": "20250826_nishihara/気候の歴史/気候の歴史",
+    "content_hash": "sha256:baa7bc794ca57f547b273e5d71fbd9cb549fef1e277a67bcc0aa7a414a0ad058",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "気候の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:24.741Z",
+    "model": "jev-1.13.0"
+  },
+  "20250826_nishihara/参考/参考": {
+    "page_id": "20250826_nishihara/参考/参考",
+    "content_hash": "sha256:4f5479c4a9ddde641419f2e18c72fe53b5df940faff9fbf4785587fa0e682ce4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:24.726Z",
+    "model": "jev-1.13.0"
+  },
+  "20250826_nishihara/古代の気候/古代の気候": {
+    "page_id": "20250826_nishihara/古代の気候/古代の気候",
+    "content_hash": "sha256:c1a9383f6c6ac84f49c367448470f37fe27f4e6beee35c88d736ee36437efede",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "先史"
+      ],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [
+        "アフリカ",
+        "パナマ"
+      ],
+      "tags": [
+        "古代の気候",
+        "エルニーニョ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:24.802Z",
+    "model": "jev-1.13.0"
+  },
+  "20250826_nishihara/気候の近代研究の歴史/気候の近代研究の歴史": {
+    "page_id": "20250826_nishihara/気候の近代研究の歴史/気候の近代研究の歴史",
+    "content_hash": "sha256:8d4c149055b1b6d600f427a033fe56661b150298e7f7eb58d3d78445acce119a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "エルズワース・ハンチントン",
+        "ヒューバート・ラム"
+      ],
+      "tags": [
+        "気候の近代研究の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:24.794Z",
+    "model": "jev-1.13.0"
+  },
+  "20250826_nishihara/著者曰く/著者曰く": {
+    "page_id": "20250826_nishihara/著者曰く/著者曰く",
+    "content_hash": "sha256:0b6f2ff22515096bbeda31122f911769aa9578ec04be5a1993679295114593bf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "キーワード"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:24.918Z",
+    "model": "jev-1.13.0"
+  },
+  "20250826_nishihara/「律動的気候変動仮説」/「律動的気候変動仮説」": {
+    "page_id": "20250826_nishihara/「律動的気候変動仮説」/「律動的気候変動仮説」",
+    "content_hash": "sha256:ff971fb531360cebd8b09cfdc8da493d98b7e06450fdbe0ec8be61298789d380",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "「律動的気候変動仮説」",
+        "律動的気候変動仮説"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:24.957Z",
+    "model": "jev-1.13.0"
+  },
+  "20250826_nishihara/現在の位置づけ/現在の位置づけ": {
+    "page_id": "20250826_nishihara/現在の位置づけ/現在の位置づけ",
+    "content_hash": "sha256:737029b0d004bb1748aade8640c0f6dece8ed0215bf2471735d0d7868aa917bb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "第四紀氷河期",
+        "完新世"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:25.013Z",
+    "model": "jev-1.13.0"
+  },
+  "20250826_nishihara/古代から現代までの気温/古代から現代までの気温": {
+    "page_id": "20250826_nishihara/古代から現代までの気温/古代から現代までの気温",
+    "content_hash": "sha256:7271ccdd12f90e5c9db025975b59f2d2c0ed0dcffce58eea57146e2927ef9994",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "古代から現代までの気温",
+        "サイクル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:25.017Z",
+    "model": "jev-1.13.0"
+  },
+  "20250826_nishihara/気温のサイクル/気温のサイクル": {
+    "page_id": "20250826_nishihara/気温のサイクル/気温のサイクル",
+    "content_hash": "sha256:6cd9075bdffb57db82702b0c66c2da5f91f4cb18de826428072119d710b54af5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "気温のサイクル",
+        "サイクル",
+        "パターン",
+        "ダンスガード・オシュガー・サイクル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:25.138Z",
+    "model": "jev-1.13.0"
+  },
+  "20250826_nishihara/ハインリッヒ・イベント/ハインリッヒ・イベント": {
+    "page_id": "20250826_nishihara/ハインリッヒ・イベント/ハインリッヒ・イベント",
+    "content_hash": "sha256:e169ad687eeaaf9f7deab298307404e5d8d0aefd154e957a84410fe11ab018be",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "先史"
+      ],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ハインリッヒ・イベント"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:25.193Z",
+    "model": "jev-1.13.0"
+  },
+  "20250826_nishihara/最終氷期の日本列島/最終氷期の日本列島": {
+    "page_id": "20250826_nishihara/最終氷期の日本列島/最終氷期の日本列島",
+    "content_hash": "sha256:c0cb7ea3feb194f7a3052ab9a6c20f63654f4a0e160d7037e03917b95a2119f8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [],
+      "entities": [
+        "最終氷期の日本列島"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:25.227Z",
+    "model": "jev-1.13.0"
+  },
+  "20250826_nishihara/日本人のルーツ/日本人のルーツ": {
+    "page_id": "20250826_nishihara/日本人のルーツ/日本人のルーツ",
+    "content_hash": "sha256:e99dfc8e8fb6112cfa7945a968970dba18c0bbf0bbaa934606b0f471facce3e4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "先史"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [
+        "日本人のルーツ"
+      ],
+      "tags": [
+        "ルーツ",
+        "モデル",
+        "タイプ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:25.235Z",
+    "model": "jev-1.13.0"
+  },
+  "20250826_nishihara/大型哺乳動物の絶滅(マンモスなど)/大型哺乳動物の絶滅(マンモスなど)": {
+    "page_id": "20250826_nishihara/大型哺乳動物の絶滅(マンモスなど)/大型哺乳動物の絶滅(マンモスなど)",
+    "content_hash": "sha256:9e0c3aa4c62cac5d870181ae0b1772e640d12b7947b18567cbf5a09222cf543c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "先史"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "マンモス"
+      ],
+      "tags": [
+        "大型哺乳動物の絶滅"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:25.380Z",
+    "model": "jev-1.13.0"
+  },
+  "20250826_nishihara/農業の開始/農業の開始": {
+    "page_id": "20250826_nishihara/農業の開始/農業の開始",
+    "content_hash": "sha256:bfbeea3a24479f6613c3d728950f74dc7eebc6c6a76cb6299d3afd6479e86b77",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "先史"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [
+        "テル・アブ・フレイラ"
+      ],
+      "tags": [
+        "農業の開始"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:25.387Z",
+    "model": "jev-1.13.0"
+  },
+  "20250826_nishihara/農業の開始の動機/農業の開始の動機": {
+    "page_id": "20250826_nishihara/農業の開始の動機/農業の開始の動機",
+    "content_hash": "sha256:194656917eaad1b37547d89b0f19364ea67944b9e893aebbf726c9bb492582e6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "先史"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [
+        "ヤンガードリアス・イベント",
+        "テル・アブ・フレイラ"
+      ],
+      "tags": [
+        "農業の開始の動機"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:25.461Z",
+    "model": "jev-1.13.0"
+  },
+  "20250826_nishihara/肥沃な三日月地帯/肥沃な三日月地帯": {
+    "page_id": "20250826_nishihara/肥沃な三日月地帯/肥沃な三日月地帯",
+    "content_hash": "sha256:b085281a4089ee6a36b53bdf9cedb18a4d21fce9c411f0494a3cdd2cc1cfb361",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "肥沃な三日月地帯"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:25.430Z",
+    "model": "jev-1.13.0"
+  },
+  "20250826_nishihara/その他地域での農作/その他地域での農作": {
+    "page_id": "20250826_nishihara/その他地域での農作/その他地域での農作",
+    "content_hash": "sha256:5c852be648f807503ca4611c995db184e44cd35e29dbdca3015105d0ba4e2241",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "アメリカ"
+      ],
+      "tags": [
+        "その他地域での農作"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:25.584Z",
+    "model": "jev-1.13.0"
+  },
+  "20250826_nishihara/ミランコヴィッチ・サイクル/ミランコヴィッチ・サイクル": {
+    "page_id": "20250826_nishihara/ミランコヴィッチ・サイクル/ミランコヴィッチ・サイクル",
+    "content_hash": "sha256:72c42c4386aae2bb99915d1d4d6cd444a95ed739acef2cf6d1f255e07cf7466a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術",
+        "地理"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ミランコヴィッチ・サイクル",
+        "サイクル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:25.583Z",
+    "model": "jev-1.13.0"
+  }
+}

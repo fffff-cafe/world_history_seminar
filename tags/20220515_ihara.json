@@ -1,0 +1,242 @@
+{
+  "20220515_ihara/モンゴル帝国はなぜ強いか/モンゴル帝国はなぜ強いか": {
+    "page_id": "20220515_ihara/モンゴル帝国はなぜ強いか/モンゴル帝国はなぜ強いか",
+    "content_hash": "sha256:38abdf1f7a4cd73e054024928dbe060900ef16191b70d212787002b4eba04303",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "モンゴル帝国はなぜ強いか",
+        "モンゴル"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:15.204Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_ihara/モンゴル帝国/モンゴル帝国": {
+    "page_id": "20220515_ihara/モンゴル帝国/モンゴル帝国",
+    "content_hash": "sha256:892e65dd08f2b2d29f40bdcd743b2c7441721334b065c39a77ce47827bec24c4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "13世紀"
+      ],
+      "entities": [
+        "モンゴル帝国",
+        "モンゴル",
+        "チンギス・ハーン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:15.158Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_ihara/1.-狩猟民族/1.-狩猟民族": {
+    "page_id": "20220515_ihara/1.-狩猟民族/1.-狩猟民族",
+    "content_hash": "sha256:aa0a0e3d4839d012988d129cc5e8e6766152aa06bf736c98f5c511549385b857",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "1. 狩猟民族",
+        "パルティアンショット"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:15.225Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_ihara/2.-多民族の人・技術の採用/2.-多民族の人・技術の採用": {
+    "page_id": "20220515_ihara/2.-多民族の人・技術の採用/2.-多民族の人・技術の採用",
+    "content_hash": "sha256:6a8c9d3f35d3bb73f93f34c5fbf5fcc6b57d89a0321a6b9c1b09380fd9f09132",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "イスラム"
+      ],
+      "tags": [
+        "2. 多民族の人・技術の採用"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:15.276Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_ihara/3.-イメージ戦略/3.-イメージ戦略": {
+    "page_id": "20220515_ihara/3.-イメージ戦略/3.-イメージ戦略",
+    "content_hash": "sha256:8424ef192a16389e4543fc5fcdf9bed595356a0b29bb9b9ba0dc7ffa0ed8790d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "13世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "3. イメージ戦略",
+        "イメージ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:15.360Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_ihara/4.-指揮/4.-指揮": {
+    "page_id": "20220515_ihara/4.-指揮/4.-指揮",
+    "content_hash": "sha256:57c035d5dac927fe9bbccc37b6620af99fd5cd852a0b2408a67f6ae620ca50da",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "4. 指揮"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:15.455Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_ihara/5.-包囲殲滅作戦/5.-包囲殲滅作戦": {
+    "page_id": "20220515_ihara/5.-包囲殲滅作戦/5.-包囲殲滅作戦",
+    "content_hash": "sha256:354dce4741bf3d0d56fa6bd0daf89ad3c22e17ecb86b8ea96982b22cab34a1b7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "13世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "5. 包囲殲滅作戦"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:15.432Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_ihara/6.-十字軍との関係/6.-十字軍との関係": {
+    "page_id": "20220515_ihara/6.-十字軍との関係/6.-十字軍との関係",
+    "content_hash": "sha256:cbc55f80522fd425ad5b844b8c457edec5f6b866676fabbf81b57bfb89e95e7e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "13世紀"
+      ],
+      "entities": [
+        "モンゴル",
+        "アンティオキア",
+        "ボエモン",
+        "アルメニア",
+        "ジョージア",
+        "アイユーブ"
+      ],
+      "tags": [
+        "6. 十字軍との関係"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:15.521Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_ihara/支配地域/支配地域": {
+    "page_id": "20220515_ihara/支配地域/支配地域",
+    "content_hash": "sha256:d6d313299a0d340139fd6e8949b46fad5875c544a281090d4281ea3f06743b96",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "キエフ",
+        "バグダード",
+        "ユーラシア",
+        "フビライ・ハン",
+        "モンゴル"
+      ],
+      "tags": [
+        "支配地域",
+        "ウルス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:15.561Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_ihara/連邦地域/連邦地域": {
+    "page_id": "20220515_ihara/連邦地域/連邦地域",
+    "content_hash": "sha256:10e9b112332fce8e1e526cb65cf7f4fdf687fe3c7ae90f716a49b1a6244300b4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ジョチ・ウルス",
+        "ジョチ",
+        "キプチャク・ハン",
+        "チャガタイ・ウルス",
+        "チャガタイ",
+        "オゴデイ・ウルス",
+        "ジュンガリア",
+        "オゴデイ",
+        "イルハン",
+        "イラン"
+      ],
+      "tags": [
+        "連邦地域"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:15.650Z",
+    "model": "jev-1.13.0"
+  }
+}

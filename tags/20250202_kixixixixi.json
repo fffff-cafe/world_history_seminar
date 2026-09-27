@@ -1,0 +1,374 @@
+{
+  "20250202_kixixixixi/画像の歴史/画像の歴史": {
+    "page_id": "20250202_kixixixixi/画像の歴史/画像の歴史",
+    "content_hash": "sha256:5087f5ddada7680cfd119f85ea32325d12208116e1a88b7bcac3d337a5ec1e94",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "画像の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:11.455Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_kixixixixi/画像/画像": {
+    "page_id": "20250202_kixixixixi/画像/画像",
+    "content_hash": "sha256:915f9568f4399d7e1f00be9fbf6fd880746eb7004bb3bc525468513057b77015",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "画像"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:11.466Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_kixixixixi/写真と画像の違い/写真と画像の違い": {
+    "page_id": "20250202_kixixixixi/写真と画像の違い/写真と画像の違い",
+    "content_hash": "sha256:b896246664c76f6300272edca023903a03d18b3c35d67adbdf7e515172f8c5d8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "写真と画像の違い"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:11.483Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_kixixixixi/画像の範囲/画像の範囲": {
+    "page_id": "20250202_kixixixixi/画像の範囲/画像の範囲",
+    "content_hash": "sha256:c9688a6ca6027ad4c44d6b18e3b0ba00dbb6a0b6721aa8ab02886cf444a84fae",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "画像"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:11.568Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_kixixixixi/前史/前史": {
+    "page_id": "20250202_kixixixixi/前史/前史",
+    "content_hash": "sha256:3feca3f354be13c1dab16b668a73663436d69844fc66da9621c00062701db864",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "ラスコー",
+        "アルタミラ",
+        "ビザンティン"
+      ],
+      "tags": [
+        "前史",
+        "洞窟壁画",
+        "象形文字や絵文字",
+        "モザイク画",
+        "写実主義",
+        "木版画や銅版画",
+        "写真の誕生",
+        "ヒエログリフ",
+        "モザイク",
+        "ルネサンス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:11.677Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_kixixixixi/世界初の写真/世界初の写真": {
+    "page_id": "20250202_kixixixixi/世界初の写真/世界初の写真",
+    "content_hash": "sha256:b91166890563c79e691ee6b61899f23599a8162ef9e6a03d866e9527f4d5a2cc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "世界初の写真",
+        "1824年",
+        "ル・グラの窓からの眺め",
+        "フランス",
+        "ジョセフ・ニセフォール・ニエプス",
+        "ル・グラ",
+        "ニセフォール・ニエプス"
+      ],
+      "tags": [
+        "ヘリオグラフィ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:11.673Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_kixixixixi/ピンホールカメラ/ピンホールカメラ": {
+    "page_id": "20250202_kixixixixi/ピンホールカメラ/ピンホールカメラ",
+    "content_hash": "sha256:578f912a7b318bfa5c622953a051ad5a28c7e08d87a2136036309ac2548af957",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ピンホールカメラ",
+        "カメラ・オブスクラ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:11.698Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_kixixixixi/ヘリオグラフィ/ヘリオグラフィ": {
+    "page_id": "20250202_kixixixixi/ヘリオグラフィ/ヘリオグラフィ",
+    "content_hash": "sha256:c58b3eceaf47d9ed0f2a93faa7997ac70bd9aaf7476424e4ccf228291a60f5a7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "ヘリオグラフィ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:11.788Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_kixixixixi/ダゲレオタイプ/ダゲレオタイプ": {
+    "page_id": "20250202_kixixixixi/ダゲレオタイプ/ダゲレオタイプ",
+    "content_hash": "sha256:20e58fe5a20eecf9924cfbf65e6aa2e761e26430b638bf0f396d3351c7887a45",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "ルイ・ジャック・マンデ・ダゲール"
+      ],
+      "tags": [
+        "ダゲレオタイプ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:11.879Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_kixixixixi/ネガ/ネガ": {
+    "page_id": "20250202_kixixixixi/ネガ/ネガ",
+    "content_hash": "sha256:d85ca6dfc843b1bd06482fed6298d949df80a1676e58c355a08671c1829ff1be",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "1841年",
+        "ウイリアム・タルボット"
+      ],
+      "tags": [
+        "ネガ",
+        "ネガポジ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:11.960Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_kixixixixi/感光材料の進化/感光材料の進化": {
+    "page_id": "20250202_kixixixixi/感光材料の進化/感光材料の進化",
+    "content_hash": "sha256:8d82d667663b1936faef66630a160073d728403d09c2f8ba6aedf4f218d432a9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "フレデリック・スコット・アーチャー",
+        "リチャード・リーチ・マドックス"
+      ],
+      "tags": [
+        "感光材料の進化"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:11.898Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_kixixixixi/フィルムカメラ/フィルムカメラ": {
+    "page_id": "20250202_kixixixixi/フィルムカメラ/フィルムカメラ",
+    "content_hash": "sha256:31bcaab8035231c23e75d1ee766042bb0d26c8995eed00fddc8e70d60ab388b3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "イーストマン・コダック"
+      ],
+      "tags": [
+        "フィルムカメラ",
+        "フィルム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:11.997Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_kixixixixi/電子化/電子化": {
+    "page_id": "20250202_kixixixixi/電子化/電子化",
+    "content_hash": "sha256:238cdce027f3d32e6ead4242d5de3cc25407d9a329e65805bb8d695957a7e2eb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "電子化",
+        "オートフォーカス・オートストロボ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:12.070Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_kixixixixi/フィルムからデジタル/フィルムからデジタル": {
+    "page_id": "20250202_kixixixixi/フィルムからデジタル/フィルムからデジタル",
+    "content_hash": "sha256:b6772fb5e72f98dc3b269563b10afb70599c3ecc749ebea323577b9abda27f2f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "フィルムからデジタル",
+        "フィルム",
+        "デジタル",
+        "デジタルスチルカメラ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:12.087Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_kixixixixi/イメージセンサー/イメージセンサー": {
+    "page_id": "20250202_kixixixixi/イメージセンサー/イメージセンサー",
+    "content_hash": "sha256:1a159b2b9fa421fe126eae8963118b874b5dc0c6903f5202c5ff8df8c6b4274f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "イメージセンサー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:12.380Z",
+    "model": "jev-1.13.0"
+  },
+  "20250202_kixixixixi/画像処理/画像処理": {
+    "page_id": "20250202_kixixixixi/画像処理/画像処理",
+    "content_hash": "sha256:53607d75332194f1cbe948ceaf81b69cca60c485bcce0a9f277ad97d260c4f5e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:12.198Z",
+    "model": "jev-1.13.0"
+  }
+}

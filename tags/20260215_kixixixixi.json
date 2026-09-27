@@ -1,0 +1,269 @@
+{
+  "20260215_kixixixixi/婚姻の歴史/婚姻の歴史": {
+    "page_id": "20260215_kixixixixi/婚姻の歴史/婚姻の歴史",
+    "content_hash": "sha256:e6a4280277eb02a9d57a3b062376ede8f2d414a7cdd14951b8c0a8c603845605",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "婚姻の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:33.447Z",
+    "model": "jev-1.13.0"
+  },
+  "20260215_kixixixixi/婚姻の歴史/婚姻とは": {
+    "page_id": "20260215_kixixixixi/婚姻の歴史/婚姻とは",
+    "content_hash": "sha256:ce4dd9921ceb3a1b8961c80d0a77dd12d0d06ea369b7cfe51088d1ac6ccdf84c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "婚姻とは",
+        "婚姻",
+        "結婚"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:33.478Z",
+    "model": "jev-1.13.0"
+  },
+  "20260215_kixixixixi/婚姻の歴史/参考": {
+    "page_id": "20260215_kixixixixi/婚姻の歴史/参考",
+    "content_hash": "sha256:add57f58fc7235501bf0c73cc548a3a29a539b3b3dbf0a32dd9ef08f88bd205d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "婚姻"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:33.539Z",
+    "model": "jev-1.13.0"
+  },
+  "20260215_kixixixixi/婚姻の歴史/婚姻とは何か": {
+    "page_id": "20260215_kixixixixi/婚姻の歴史/婚姻とは何か",
+    "content_hash": "sha256:a4bcaa0d46d4abe2cc08acecb29bdfbd86647c60150265cb42adb9d55d8692dd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [
+        "社会"
+      ],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "婚姻とは何か",
+        "社会的に承認された男女の継続的結合関係"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:33.649Z",
+    "model": "jev-1.13.0"
+  },
+  "20260215_kixixixixi/婚姻の歴史/婚姻制度の起源": {
+    "page_id": "20260215_kixixixixi/婚姻の歴史/婚姻制度の起源",
+    "content_hash": "sha256:3a59a762848022156cb3e0189d148c4240f0d91e567fadecfeb874312c761932",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [
+        "古代エジプト",
+        "古代ギリシャ・ローマ",
+        "エジプト",
+        "ギリシャ・ローマ"
+      ],
+      "tags": [
+        "婚姻制度の起源",
+        "最古の結婚の形跡",
+        "制度成立の背景",
+        "財産の継承・血統の正統性",
+        "家族の利益や社会階級の強化"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:33.658Z",
+    "model": "jev-1.13.0"
+  },
+  "20260215_kixixixixi/婚姻の歴史/宗教と婚姻制度の関係": {
+    "page_id": "20260215_kixixixixi/婚姻の歴史/宗教と婚姻制度の関係",
+    "content_hash": "sha256:018b2457900fb741c5b57eeac34fc98025a3648460fad6dc3103c2729d35b3c2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "キリスト"
+      ],
+      "tags": [
+        "宗教と婚姻制度の関係",
+        "神聖な秘跡",
+        "サクラメント"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:33.713Z",
+    "model": "jev-1.13.0"
+  },
+  "20260215_kixixixixi/婚姻の歴史/宗教と婚姻制度の関係~2": {
+    "page_id": "20260215_kixixixixi/婚姻の歴史/宗教と婚姻制度の関係~2",
+    "content_hash": "sha256:5565d46533e3eb0afaf817e130c8c3ae419219cae41acc45dcfcd1534f99ce0c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ヒンドゥー"
+      ],
+      "tags": [
+        "宗教と婚姻制度の関係",
+        "信仰義務",
+        "一夫多妻制",
+        "神聖な儀式",
+        "世俗的行為",
+        "カースト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:33.739Z",
+    "model": "jev-1.13.0"
+  },
+  "20260215_kixixixixi/婚姻の歴史/中世以降": {
+    "page_id": "20260215_kixixixixi/婚姻の歴史/中世以降",
+    "content_hash": "sha256:e796c2a34a3642beffa9df71befcaf5d3dbef0f308c86c61b51895ee2b8d950c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "12世紀",
+        "13世紀",
+        "14世紀",
+        "15世紀",
+        "16世紀",
+        "17世紀",
+        "18世紀",
+        "19世紀"
+      ],
+      "entities": [
+        "1753年婚姻法令"
+      ],
+      "tags": [
+        "中世以降"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:33.901Z",
+    "model": "jev-1.13.0"
+  },
+  "20260215_kixixixixi/婚姻の歴史/従来の結婚の目的": {
+    "page_id": "20260215_kixixixixi/婚姻の歴史/従来の結婚の目的",
+    "content_hash": "sha256:1c57f2cac9e71daf2ee473c140b46ef295b9d5637c36d3bd75dfdd63395b0a6a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "従来の結婚の目的"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:33.881Z",
+    "model": "jev-1.13.0"
+  },
+  "20260215_kixixixixi/婚姻の歴史/婚姻制度の社会的機能": {
+    "page_id": "20260215_kixixixixi/婚姻の歴史/婚姻制度の社会的機能",
+    "content_hash": "sha256:0299dbe1221f0d6eb4bba65727e1bd5d81904fa5b8f06b8a7a70b4632e3087b8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [
+        "社会"
+      ],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "婚姻制度の社会的機能"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:34.010Z",
+    "model": "jev-1.13.0"
+  },
+  "20260215_kixixixixi/婚姻の歴史/現代の変化": {
+    "page_id": "20260215_kixixixixi/婚姻の歴史/現代の変化",
+    "content_hash": "sha256:b88a670565667d58938d3c4b080695af3fe00ea036c67d0cc10c6c3fe0a4188f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "現代の変化",
+        "社会義務",
+        "個人の選択",
+        "するもの",
+        "選ぶもの"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:33.971Z",
+    "model": "jev-1.13.0"
+  },
+  "20260215_kixixixixi/婚姻の歴史/多様化": {
+    "page_id": "20260215_kixixixixi/婚姻の歴史/多様化",
+    "content_hash": "sha256:4aac426d428e06c85c1ed038c1f3741e3649b6cabbdede674c0bf1b8e58c10cc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [
+        "社会"
+      ],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "多様化",
+        "パートナーシップ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:34.091Z",
+    "model": "jev-1.13.0"
+  }
+}

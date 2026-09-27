@@ -1,0 +1,291 @@
+{
+  "20240825_02_kixixixixi/マケドニアの歴史/マケドニアの歴史": {
+    "page_id": "20240825_02_kixixixixi/マケドニアの歴史/マケドニアの歴史",
+    "content_hash": "sha256:cda74d820255d2dd5a20ac84938d58cb7113f37c65042cec8fef06c47f7e68fb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "マケドニアの歴史",
+        "マケドニア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:03.605Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_02_kixixixixi/マケドニア-/マケドニア-": {
+    "page_id": "20240825_02_kixixixixi/マケドニア-/マケドニア-",
+    "content_hash": "sha256:a5206f1d0813c15a1c66cedef65540df27e98f52f43694362b8e4602173de2de",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "マケドニア?",
+        "マケドニア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:03.609Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_02_kixixixixi/マケドニアのイメージ/マケドニアのイメージ": {
+    "page_id": "20240825_02_kixixixixi/マケドニアのイメージ/マケドニアのイメージ",
+    "content_hash": "sha256:d67be6b97140a6e4dd4f6021434dfe8d60b0fbbf274c6bf3831154450664fd7e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "マケドニアのイメージ",
+        "マケドニア",
+        "オフリド",
+        "アレキサンドロス",
+        "マザーテレサ"
+      ],
+      "tags": [
+        "イメージ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:03.689Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_02_kixixixixi/北マケドニア共和国/北マケドニア共和国": {
+    "page_id": "20240825_02_kixixixixi/北マケドニア共和国/北マケドニア共和国",
+    "content_hash": "sha256:e60a42c26454329d3c4ead8d71e725ed648ef30fd32cfe77cac2a5b65006a406",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "北マケドニア共和国",
+        "マケドニア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:03.703Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_02_kixixixixi/マケドニアの由来/マケドニアの由来": {
+    "page_id": "20240825_02_kixixixixi/マケドニアの由来/マケドニアの由来",
+    "content_hash": "sha256:b1bcc06f6e028656248bbe058a6e4a3554227d859415aba1093e4ffa400ebe92",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "マケドニアの由来",
+        "マケドニア旧ユーゴスラビア共和国",
+        "マケドニア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:03.843Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_02_kixixixixi/概要/概要": {
+    "page_id": "20240825_02_kixixixixi/概要/概要",
+    "content_hash": "sha256:978035eb0b7c65f1b8eff922190cf757e95f52d7b2fdab8a845b70bbac76f597",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "マケドニア",
+        "ビザンツ",
+        "ブルガリア",
+        "オスマン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:03.810Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_02_kixixixixi/古代/古代": {
+    "page_id": "20240825_02_kixixixixi/古代/古代",
+    "content_hash": "sha256:3e6f9b11fef2e541c1793df44df6a43f86afcb4ee459b84c835dcb6f363547d8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "イリュリア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:03.893Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_02_kixixixixi/マケドニア王国/マケドニア王国": {
+    "page_id": "20240825_02_kixixixixi/マケドニア王国/マケドニア王国",
+    "content_hash": "sha256:24dca50a272735e7729b9fe7cf1c443d1b07fa1387e174be1bad9f4740bb7812",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "マケドニア王国",
+        "マケドニア",
+        "ピリッポス",
+        "アレクサドロス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:03.984Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_02_kixixixixi/ビザンツ帝国/ビザンツ帝国": {
+    "page_id": "20240825_02_kixixixixi/ビザンツ帝国/ビザンツ帝国",
+    "content_hash": "sha256:0b90e04fa6aee3092a2f85a488a39cb1cf8eef0a93de01b085d1b401cfb33614",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "14世紀"
+      ],
+      "entities": [
+        "ビザンツ帝国",
+        "ビザンツ",
+        "ブルガリア",
+        "マケドニア",
+        "バシレイオス",
+        "ラテン",
+        "セルビア",
+        "オスマン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:04.022Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_02_kixixixixi/バルカン戦争/バルカン戦争": {
+    "page_id": "20240825_02_kixixixixi/バルカン戦争/バルカン戦争",
+    "content_hash": "sha256:8965bce61fb274e7ee105c3567dcfb4027ce290408afec0a3e08c37e9f428618",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "バルカン戦争",
+        "バルカン",
+        "ブルガリア",
+        "ユーゴスラビア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:04.081Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_02_kixixixixi/ユーゴスラビア/ユーゴスラビア": {
+    "page_id": "20240825_02_kixixixixi/ユーゴスラビア/ユーゴスラビア",
+    "content_hash": "sha256:846d464cdb241f46ec9ab8f64a0a60728c130f6aeaad93cb501e27e70b881dc8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ユーゴスラビア",
+        "ユーゴスラヴィア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:04.205Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_02_kixixixixi/ユーゴスラビア内戦/ユーゴスラビア内戦": {
+    "page_id": "20240825_02_kixixixixi/ユーゴスラビア内戦/ユーゴスラビア内戦",
+    "content_hash": "sha256:66116e710c243934c5d2b465be0ba334c60af6367a21786ad87147b67ca68e4f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ユーゴスラビア内戦",
+        "ユーゴスラビア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:04.192Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_02_kixixixixi/現代/現代": {
+    "page_id": "20240825_02_kixixixixi/現代/現代",
+    "content_hash": "sha256:2cef7057bf2c651a96935dd81c3ae66288d55a2d67f662df297a7c342f0ae035",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "コソボ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:04.227Z",
+    "model": "jev-1.13.0"
+  }
+}

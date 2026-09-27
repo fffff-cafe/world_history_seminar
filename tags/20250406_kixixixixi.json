@@ -1,0 +1,362 @@
+{
+  "20250406_kixixixixi/国際博覧会の歴史/国際博覧会の歴史": {
+    "page_id": "20250406_kixixixixi/国際博覧会の歴史/国際博覧会の歴史",
+    "content_hash": "sha256:2f0446c70fc717ec889fa09a64841c5b5cc9a44beda134c63090a6af93d1c642",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "国際博覧会の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:15.743Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_kixixixixi/2025-年-4-月-13-日-大阪万博開幕/2025-年-4-月-13-日-大阪万博開幕": {
+    "page_id": "20250406_kixixixixi/2025-年-4-月-13-日-大阪万博開幕/2025-年-4-月-13-日-大阪万博開幕",
+    "content_hash": "sha256:08707ec8f1bd485ee8644ad31f343001b6cca35302c01360b30b111263f25854",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "2025 年 4 月 13 日 大阪万博開幕"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:15.830Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_kixixixixi/万博とは/万博とは": {
+    "page_id": "20250406_kixixixixi/万博とは/万博とは",
+    "content_hash": "sha256:849558145f66e602aaedd950b9c2f7ffc84bf388b6a848abc3c6bb43e87792f1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "万博とは"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:15.897Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_kixixixixi/万博の目的/万博の目的": {
+    "page_id": "20250406_kixixixixi/万博の目的/万博の目的",
+    "content_hash": "sha256:84a8cd5d7dd42a0998fb0d43b417e86135838e066556180d21062f852b9f0cad",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "万博の目的"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:15.921Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_kixixixixi/万博のはじまり/万博のはじまり": {
+    "page_id": "20250406_kixixixixi/万博のはじまり/万博のはじまり",
+    "content_hash": "sha256:0cca892244d0f80dc8490727b8a23c383172664ccf20b4e06ffa50d4778a9cb3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "万博のはじまり",
+        "各国の技術や製品を展示し、交流を深める場",
+        "国際展示会"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:15.963Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_kixixixixi/フランスの国内博覧会/フランスの国内博覧会": {
+    "page_id": "20250406_kixixixixi/フランスの国内博覧会/フランスの国内博覧会",
+    "content_hash": "sha256:812c990acb5160250f4a001098ac2983f99cf0ed4a3c087b36ce31d613ce3665",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "18世紀",
+        "19世紀"
+      ],
+      "entities": [
+        "フランス"
+      ],
+      "tags": [
+        "フランスの国内博覧会"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:16.022Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_kixixixixi/はじめての万博/はじめての万博": {
+    "page_id": "20250406_kixixixixi/はじめての万博/はじめての万博",
+    "content_hash": "sha256:6c50f3fea5dc428a257b2ff3bd7f2681859fdf9b4a6d5e585c8f626712e91f0f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "はじめての万博",
+        "ロンドン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:16.118Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_kixixixixi/万国博覧会の運営組織/万国博覧会の運営組織": {
+    "page_id": "20250406_kixixixixi/万国博覧会の運営組織/万国博覧会の運営組織",
+    "content_hash": "sha256:5f611b07ac8d60bd331ce79c044975806ca6bc8c3a8eb60dea93b444811cc5e6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "万国博覧会の運営組織",
+        "ルール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:16.167Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_kixixixixi/博覧会の種類/博覧会の種類": {
+    "page_id": "20250406_kixixixixi/博覧会の種類/博覧会の種類",
+    "content_hash": "sha256:663347635955520b364edb50f62f3b29febfb8b5393135e5addff122526609ab",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "博覧会の種類",
+        "登録博",
+        "認定博",
+        "園芸博",
+        "ミラノ条約以前の万博"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:16.218Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_kixixixixi/開催ルール/開催ルール": {
+    "page_id": "20250406_kixixixixi/開催ルール/開催ルール",
+    "content_hash": "sha256:2117caa0708deb8b19e005d5cc7e668d568b943a19905c6c0c7aa9fe36d343c5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "開催ルール",
+        "ルール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:16.234Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_kixixixixi/主な万博/主な万博": {
+    "page_id": "20250406_kixixixixi/主な万博/主な万博",
+    "content_hash": "sha256:52e20c05ab08dd01a7215bc0d36d2c4042f6ad1e53f26dbd5515949247c19aca",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [
+        "水晶宮博覧会",
+        "進歩の一世紀",
+        "ロンドン",
+        "シカゴ",
+        "ブリュッセル",
+        "ドバイ"
+      ],
+      "tags": [
+        "主な万博"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:16.376Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_kixixixixi/ロンドン万国博覧会-(1851-年)/ロンドン万国博覧会-(1851-年)": {
+    "page_id": "20250406_kixixixixi/ロンドン万国博覧会-(1851-年)/ロンドン万国博覧会-(1851-年)",
+    "content_hash": "sha256:9a1e5cb30e190cf7545d1db79a457ee5d88df02aa9dc75e7f1c8f13d342566ef",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "ロンドン万国博覧会",
+        "ロンドン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:16.380Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_kixixixixi/大阪万博-2025/大阪万博-2025": {
+    "page_id": "20250406_kixixixixi/大阪万博-2025/大阪万博-2025",
+    "content_hash": "sha256:feb39e271a9cf426ec8a00355068647852746302e57f9c720b705bb907c7a06c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "大阪万博 2025"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:16.423Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_kixixixixi/いのち輝く未来社会のデザイン/いのち輝く未来社会のデザイン": {
+    "page_id": "20250406_kixixixixi/いのち輝く未来社会のデザイン/いのち輝く未来社会のデザイン",
+    "content_hash": "sha256:a2bcf24c9d7ded53507e9b12cfd2163c9939681c49f806fb5987df3c9014c16f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "デザイン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:16.441Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_kixixixixi/アクセス/アクセス": {
+    "page_id": "20250406_kixixixixi/アクセス/アクセス",
+    "content_hash": "sha256:03d05ce64ce9f1ca993607b94268e1719e7d2c4cb8da9979ee3afbe01eb7e946",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:16.573Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_kixixixixi/パビリオン/パビリオン": {
+    "page_id": "20250406_kixixixixi/パビリオン/パビリオン",
+    "content_hash": "sha256:99e332d2078e99e36b6ac75f7eb72596337d225c12627dea9f76cffde0da82a7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "パビリオン",
+        "シグネチャーパビリオン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:16.596Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_kixixixixi/大阪万博のみどころ/大阪万博のみどころ": {
+    "page_id": "20250406_kixixixixi/大阪万博のみどころ/大阪万博のみどころ",
+    "content_hash": "sha256:13183c06f6d96bc113260a8a52c87df8504d84a9afcca0eda1a16e6ef132f72d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "大阪万博のみどころ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:16.654Z",
+    "model": "jev-1.13.0"
+  }
+}

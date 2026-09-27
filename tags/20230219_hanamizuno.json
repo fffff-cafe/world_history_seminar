@@ -1,0 +1,118 @@
+{
+  "20230219_hanamizuno/ヴェネツィアの歴史-4/ヴェネツィアの歴史-4": {
+    "page_id": "20230219_hanamizuno/ヴェネツィアの歴史-4/ヴェネツィアの歴史-4",
+    "content_hash": "sha256:d0e6aaa6e5a39089d2d6a261b24e76656dbef15281102e8d64c63e1a08a7a396",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ヴェネツィアの歴史 4",
+        "ヴェネツィア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:27.835Z",
+    "model": "jev-1.13.0"
+  },
+  "20230219_hanamizuno/ヴェネツィアの歴史-4/参考文献": {
+    "page_id": "20230219_hanamizuno/ヴェネツィアの歴史-4/参考文献",
+    "content_hash": "sha256:5fff6dd5d2c05d7f331d602ec5ceaab1ed9f51a5b4140258dbfd030fd5a2fb99",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:27.893Z",
+    "model": "jev-1.13.0"
+  },
+  "20230219_hanamizuno/ヴェネツィアの歴史-4/イタリア中世海運都市": {
+    "page_id": "20230219_hanamizuno/ヴェネツィアの歴史-4/イタリア中世海運都市",
+    "content_hash": "sha256:c0b9fb9b3633aa46a9df100ca561683d0ac28e098e4c50f2da92af8f8586a905",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "13世紀",
+        "14世紀"
+      ],
+      "entities": [
+        "イタリア",
+        "アマルフィ",
+        "ジェノヴァ",
+        "ヴェネツィア"
+      ],
+      "tags": [
+        "イタリア中世海運都市"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:28.019Z",
+    "model": "jev-1.13.0"
+  },
+  "20230219_hanamizuno/ヴェネツィアの歴史-4/ヴェニスの商人": {
+    "page_id": "20230219_hanamizuno/ヴェネツィアの歴史-4/ヴェニスの商人",
+    "content_hash": "sha256:fdefb952d9dc1bdea069bdf057c91def6795160d5ab0accbd4e105dcc3ae848b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "14世紀",
+        "15世紀"
+      ],
+      "entities": [
+        "ヴェニスの商人",
+        "ヴェニス",
+        "ヴェネツィア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:28.022Z",
+    "model": "jev-1.13.0"
+  },
+  "20230219_hanamizuno/ヴェネツィアの歴史-4/国際情勢の変化": {
+    "page_id": "20230219_hanamizuno/ヴェネツィアの歴史-4/国際情勢の変化",
+    "content_hash": "sha256:fd87bb903f2a88cb716c5d5c0c0b7cbbaf767466ceed377bf4587c74c6e8cfc3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀",
+        "16世紀"
+      ],
+      "entities": [
+        "コンスタンティノープル",
+        "オスマン",
+        "マルムーク",
+        "ポルトガル"
+      ],
+      "tags": [
+        "国際情勢の変化"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:28.055Z",
+    "model": "jev-1.13.0"
+  }
+}

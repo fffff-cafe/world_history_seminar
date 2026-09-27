@@ -1,0 +1,336 @@
+{
+  "20260628_kixixixixi/サッカーの歴史/サッカーの歴史": {
+    "page_id": "20260628_kixixixixi/サッカーの歴史/サッカーの歴史",
+    "content_hash": "sha256:809b17e6c540fb606676f2bb13531e400a02b199fceed9729229d6c7305dd47e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "サッカーの歴史",
+        "サッカー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:37.659Z",
+    "model": "jev-1.13.0"
+  },
+  "20260628_kixixixixi/サッカーの歴史/サッカーとは": {
+    "page_id": "20260628_kixixixixi/サッカーの歴史/サッカーとは",
+    "content_hash": "sha256:d20f0a90a6b3d23846f1f5c3e03f5526cab8077244dd58647a7bb3d432bab185",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "サッカーとは",
+        "サッカー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:37.709Z",
+    "model": "jev-1.13.0"
+  },
+  "20260628_kixixixixi/サッカーの歴史/起源": {
+    "page_id": "20260628_kixixixixi/サッカーの歴史/起源",
+    "content_hash": "sha256:28ec9f6b49b166daf78eb62ca45815a7d9aa78fbfa7a2f6a997d58949e6bc307",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [
+        "エピスキュロス",
+        "ギリシャ",
+        "ローマ",
+        "ラ・シュール",
+        "フランス",
+        "フィレンツェ",
+        "イタリア・フィレンツェ"
+      ],
+      "tags": [
+        "起源",
+        "サッカー",
+        "カルチョ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:37.775Z",
+    "model": "jev-1.13.0"
+  },
+  "20260628_kixixixixi/サッカーの歴史/フットボール禁止令": {
+    "page_id": "20260628_kixixixixi/サッカーの歴史/フットボール禁止令",
+    "content_hash": "sha256:2ee38e7e4d0b3d57d3208eab6e1644d496f3b0592ce152a9db38f432ea22fea5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "14世紀",
+        "15世紀",
+        "16世紀",
+        "17世紀"
+      ],
+      "entities": [
+        "イングランド"
+      ],
+      "tags": [
+        "フットボール禁止令",
+        "フットボール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:37.817Z",
+    "model": "jev-1.13.0"
+  },
+  "20260628_kixixixixi/サッカーの歴史/ラグビーとの分岐": {
+    "page_id": "20260628_kixixixixi/サッカーの歴史/ラグビーとの分岐",
+    "content_hash": "sha256:4cd53270f667dd96436e1c0941d4f4503eb7560c7c673bbc391c3ad17e98177b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "ケンブリッジ"
+      ],
+      "tags": [
+        "ラグビーとの分岐",
+        "手でボールを持って走る",
+        "ルール",
+        "ケンブリッジ・ルール",
+        "ゴールキック",
+        "スローイン",
+        "フォワードパス",
+        "オフサイド",
+        "サッカー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:37.861Z",
+    "model": "jev-1.13.0"
+  },
+  "20260628_kixixixixi/サッカーの歴史/フットボール協会の設立": {
+    "page_id": "20260628_kixixixixi/サッカーの歴史/フットボール協会の設立",
+    "content_hash": "sha256:2f28a6d143bc1fbe8bd2abc280eb76f2fe7a3680c22c1faf3d4c8ab1ceba9859",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "フットボール協会の設立",
+        "フットボール"
+      ],
+      "tags": [
+        "パブリックスクール",
+        "ルール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:37.928Z",
+    "model": "jev-1.13.0"
+  },
+  "20260628_kixixixixi/サッカーの歴史/IFAB": {
+    "page_id": "20260628_kixixixixi/サッカーの歴史/IFAB",
+    "content_hash": "sha256:8e911279ec685dc272c3b6a37d6356bf74f4c930e4832b4b31b1553580baf907",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "IFAB",
+        "アイルランド"
+      ],
+      "tags": [
+        "ルール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:37.988Z",
+    "model": "jev-1.13.0"
+  },
+  "20260628_kixixixixi/サッカーの歴史/ルールの変遷": {
+    "page_id": "20260628_kixixixixi/サッカーの歴史/ルールの変遷",
+    "content_hash": "sha256:c438abd637c2e57cc582119d307ecf93ab0591092b53fe0c8ec348211c1e20d7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "ルールの変遷",
+        "1925年 オフサイド改正",
+        "ルール",
+        "コーナーキック",
+        "ペナルティキック",
+        "ゴールネット",
+        "ペナルティエリア",
+        "イエロー",
+        "レッドカード",
+        "バックパスルール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:38.035Z",
+    "model": "jev-1.13.0"
+  },
+  "20260628_kixixixixi/サッカーの歴史/オフサイド": {
+    "page_id": "20260628_kixixixixi/サッカーの歴史/オフサイド",
+    "content_hash": "sha256:39257c30b575a84d9c0a0d240cb35b719068f50e82d9cb70690308a71c6d1c18",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "オフサイド"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:38.080Z",
+    "model": "jev-1.13.0"
+  },
+  "20260628_kixixixixi/サッカーの歴史/FIFA": {
+    "page_id": "20260628_kixixixixi/サッカーの歴史/FIFA",
+    "content_hash": "sha256:40e75f8ca4b801313d61d99f4a4935afc721d7819106ac87c6578dd91d4c64b7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "FIFA",
+        "フランス",
+        "ベルギー",
+        "デンマーク",
+        "オランダ",
+        "スペイン",
+        "スウェーデン",
+        "スイス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:38.171Z",
+    "model": "jev-1.13.0"
+  },
+  "20260628_kixixixixi/サッカーの歴史/イングランドのFIFA加盟": {
+    "page_id": "20260628_kixixixixi/サッカーの歴史/イングランドのFIFA加盟",
+    "content_hash": "sha256:ad063d3b1b59920df30d7baa35631be5e6ab1a4e959d5bd564a70a6f2107df54",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "イングランドのFIFA加盟",
+        "イングランド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:38.200Z",
+    "model": "jev-1.13.0"
+  },
+  "20260628_kixixixixi/サッカーの歴史/オリンピックとワールドカップ": {
+    "page_id": "20260628_kixixixixi/サッカーの歴史/オリンピックとワールドカップ",
+    "content_hash": "sha256:ccc8b99b35fd6a4cdc7e0833728175138a2203efb019c1695922e2648ef0f107",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "オリンピック",
+        "ワールドカップ",
+        "ロンドン"
+      ],
+      "tags": [
+        "オリンピックとワールドカップ",
+        "アマチュア選手のみ",
+        "アマチュア"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:38.281Z",
+    "model": "jev-1.13.0"
+  },
+  "20260628_kixixixixi/サッカーの歴史/ワールドカップ": {
+    "page_id": "20260628_kixixixixi/サッカーの歴史/ワールドカップ",
+    "content_hash": "sha256:63dea9b8fb19453efeb1591da473dd7328ae033612dd9306d1ebb8e4b6bd0b34",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ワールドカップ",
+        "ウルグアイ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:38.277Z",
+    "model": "jev-1.13.0"
+  }
+}

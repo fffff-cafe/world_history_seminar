@@ -1,0 +1,507 @@
+{
+  "20250928_nishihara/気候の歴史-2/気候の歴史-2": {
+    "page_id": "20250928_nishihara/気候の歴史-2/気候の歴史-2",
+    "content_hash": "sha256:e72b88adb17f55c3f8dceee0bae03f55ab2fdb84fe29181a7c6cbbc38100d4b4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "気候の歴史 2"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:26.443Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/参考/参考": {
+    "page_id": "20250928_nishihara/参考/参考",
+    "content_hash": "sha256:4f5479c4a9ddde641419f2e18c72fe53b5df940faff9fbf4785587fa0e682ce4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:26.531Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/ハドレー循環/ハドレー循環": {
+    "page_id": "20250928_nishihara/ハドレー循環/ハドレー循環",
+    "content_hash": "sha256:a69f629ffd45233ced0be626620e10cacbc750845e2447f2f931a2e8a71901e5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "サハラ",
+        "カラハリ"
+      ],
+      "tags": [
+        "ハドレー循環",
+        "ハドレー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:26.527Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/現代人/現代人": {
+    "page_id": "20250928_nishihara/現代人/現代人",
+    "content_hash": "sha256:5eb4feb2e9a643fd3609307d41f2cb7fdbc438abb9bf5ca435b39f36f2d6ade0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "現代人"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:26.573Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/現代人/現代人~2": {
+    "page_id": "20250928_nishihara/現代人/現代人~2",
+    "content_hash": "sha256:4899d1d0e2e593135d61d4161f0a8adfa3e7d1dfc44ad1824bd666427b00e7b6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "現代人"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:26.633Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/日本/日本": {
+    "page_id": "20250928_nishihara/日本/日本",
+    "content_hash": "sha256:a6e3eae2abf3468c94a08679051ac3b6768af192b6f12c6c0cee648ce7e76e39",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "先史"
+      ],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [
+        "日本"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:26.752Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/ノア/ノア": {
+    "page_id": "20250928_nishihara/ノア/ノア",
+    "content_hash": "sha256:594924dc2b0bce35e003186b63b6e71cda2b735813507ae322a1b5529dfc93f4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ノア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:26.727Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/アイスマン/アイスマン": {
+    "page_id": "20250928_nishihara/アイスマン/アイスマン",
+    "content_hash": "sha256:9e7a45fb638f7ec6c07fd793ef72348802a6e5e6308bbd047c607daaf7c62886",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [],
+      "entities": [
+        "アイスマン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:26.767Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/エルニーニョ/エルニーニョ": {
+    "page_id": "20250928_nishihara/エルニーニョ/エルニーニョ",
+    "content_hash": "sha256:ea67e9078d4b505a578f09314d6271f6b6e492fd2ebc512dccfce395929d7772",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ペルー"
+      ],
+      "tags": [
+        "エルニーニョ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:26.835Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/エルニーニョ/エルニーニョ~2": {
+    "page_id": "20250928_nishihara/エルニーニョ/エルニーニョ~2",
+    "content_hash": "sha256:265d4386aaf73cc4a442d642c883941f8af837696d92c139649c7ac1a6c18d20",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術",
+        "地理"
+      ],
+      "culture": [],
+      "region": [
+        "世界全体"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ギルバート・ウォーカー",
+        "ヤコブ・ビャークネス",
+        "ノルウェー"
+      ],
+      "tags": [
+        "エルニーニョ",
+        "エルニーニョ南方振動(ENSO"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:26.942Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/エルニーニョ/エルニーニョ~3": {
+    "page_id": "20250928_nishihara/エルニーニョ/エルニーニョ~3",
+    "content_hash": "sha256:a9cc695d1cdf7ce25a36ff0fdb493e59779668418c8e2aa4c1e9759667818347",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "エルニーニョ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:26.949Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/サハラ/サハラ": {
+    "page_id": "20250928_nishihara/サハラ/サハラ",
+    "content_hash": "sha256:f7572ae8dfae0b8f484f468f6a69f0f2b1d3163d288177b868e83e4d11998361",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [
+        "北アフリカ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "サハラ"
+      ],
+      "tags": [
+        "ハドレー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:27.006Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/集団生活/集団生活": {
+    "page_id": "20250928_nishihara/集団生活/集団生活",
+    "content_hash": "sha256:fdcafaefd25ee444e35a7ab00c64187394bb4e567ff9f2798bcfe6adb888e06a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "集団生活"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:27.041Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/3つの寒冷期/3つの寒冷期": {
+    "page_id": "20250928_nishihara/3つの寒冷期/3つの寒冷期",
+    "content_hash": "sha256:5d971eb37bb321cd9c6ff77827264d53b4667f55281b69ad82abda1da9a069d9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前",
+        "紀元前1千年紀"
+      ],
+      "entities": [],
+      "tags": [
+        "3つの寒冷期"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:27.160Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/人類史と気候/人類史と気候": {
+    "page_id": "20250928_nishihara/人類史と気候/人類史と気候",
+    "content_hash": "sha256:7b06a002ebc59200e60a08c0893598841e2c40a34fc1c9cb5a685d741b40438c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [
+        "メソポタミア",
+        "シュメール",
+        "エジプト",
+        "ファラオ",
+        "ナイル"
+      ],
+      "tags": [
+        "人類史と気候",
+        "コントロール"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:27.207Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/食の禁忌/食の禁忌": {
+    "page_id": "20250928_nishihara/食の禁忌/食の禁忌",
+    "content_hash": "sha256:291f183436831777dcb496446092dffa87c88ea4d186d82c0c8102279f3bc93f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "インド"
+      ],
+      "tags": [
+        "食の禁忌"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:27.222Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/多くの文明の変遷/多くの文明の変遷": {
+    "page_id": "20250928_nishihara/多くの文明の変遷/多くの文明の変遷",
+    "content_hash": "sha256:0a0fd14d79832c1239e2e99ce7e841bfba597b682b063a6ac1352711a5b23a50",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ミケーネ",
+        "ヒッタイト"
+      ],
+      "tags": [
+        "多くの文明の変遷"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:27.256Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/ミケーネ文明の崩壊/ミケーネ文明の崩壊": {
+    "page_id": "20250928_nishihara/ミケーネ文明の崩壊/ミケーネ文明の崩壊",
+    "content_hash": "sha256:d014c41a6af706033fb0a1e07dcaa44fdf4b752e34e3444e94d4ecb5e33e4852",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ミケーネ文明の崩壊",
+        "ミケーネ",
+        "サントリーニ",
+        "クレタ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:27.362Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/ミケーネ文明の崩壊/ミケーネ文明の崩壊~2": {
+    "page_id": "20250928_nishihara/ミケーネ文明の崩壊/ミケーネ文明の崩壊~2",
+    "content_hash": "sha256:15a6e92a597ffee99cf9c9231b4e28a09724d8520e9afc2da3cef75622da7d08",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ミケーネ文明の崩壊",
+        "ミケーネ",
+        "ティリンス",
+        "ドーリア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:27.420Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/ヒッタイト滅亡/ヒッタイト滅亡": {
+    "page_id": "20250928_nishihara/ヒッタイト滅亡/ヒッタイト滅亡",
+    "content_hash": "sha256:fbdabb38739974d7ca5002f7c6265b12f8646020d10a4b9f07ea9347da82f55b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "12世紀",
+        "13世紀"
+      ],
+      "entities": [
+        "ヒッタイト滅亡",
+        "ヒッタイト",
+        "エジプト",
+        "カデシュ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:27.434Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/周の勃興、殷の滅亡/周の勃興、殷の滅亡": {
+    "page_id": "20250928_nishihara/周の勃興、殷の滅亡/周の勃興、殷の滅亡",
+    "content_hash": "sha256:4a659699ad1641f38bf9f7873560b251956a9fd01edaf299e41cfc041a79a4e4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "地理"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [
+        "周の勃興、殷の滅亡"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:27.446Z",
+    "model": "jev-1.13.0"
+  },
+  "20250928_nishihara/二八〇〇年前の寒冷化を契機にした民族の大移動/二八〇〇年前の寒冷化を契機にした民族の大移動": {
+    "page_id": "20250928_nishihara/二八〇〇年前の寒冷化を契機にした民族の大移動/二八〇〇年前の寒冷化を契機にした民族の大移動",
+    "content_hash": "sha256:5859c5e8cce0867d502caf476086ec9bee91ded12c1c5c962c7ecff5582fda6e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "二八〇〇年前の寒冷化を契機にした民族の大移動",
+        "アジア",
+        "ヨーロッパ",
+        "スカンジナビア",
+        "ユトランド",
+        "ゲルマン",
+        "バルト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:27.601Z",
+    "model": "jev-1.13.0"
+  }
+}

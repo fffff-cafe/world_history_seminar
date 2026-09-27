@@ -1,0 +1,420 @@
+{
+  "20220313_hanamizuno/西洋音楽史-3/西洋音楽史-3": {
+    "page_id": "20220313_hanamizuno/西洋音楽史-3/西洋音楽史-3",
+    "content_hash": "sha256:5cf3040207d5751d852eed1b761e76357f00ec1e069667d0d370c3e5817b272c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:08.557Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_hanamizuno/西洋音楽史-3/前回までのあらすじ": {
+    "page_id": "20220313_hanamizuno/西洋音楽史-3/前回までのあらすじ",
+    "content_hash": "sha256:06b6a3fb7f01b2fde8ea002edcf26e039c767520b1f73fbcbffd3c8a701c9d31",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ルネサンス",
+        "ウィーン"
+      ],
+      "tags": [
+        "市民による、市民のための、市民の心に訴える音楽",
+        "ロマン",
+        "ブランド",
+        "スター"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:08.624Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_hanamizuno/西洋音楽史-3/今回の内容": {
+    "page_id": "20220313_hanamizuno/西洋音楽史-3/今回の内容",
+    "content_hash": "sha256:939f340112f51e6cc19b8efd9e9f2c1787601eb9b28cbaa25e8fbbbe1845d8b8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "ロマン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:08.571Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_hanamizuno/西洋音楽史-3/6.-印象派、後期ロマン派": {
+    "page_id": "20220313_hanamizuno/西洋音楽史-3/6.-印象派、後期ロマン派",
+    "content_hash": "sha256:764cc4bc43ccaef927615d824bafe5218c81f4b0a7a3c8891051b8392d2c190b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "マーラー",
+        "シュトラウス",
+        "プッチーニ",
+        "ドビュッシー",
+        "ラヴェル",
+        "サティ",
+        "ラフマニノフ",
+        "スクリャービン"
+      ],
+      "tags": [
+        "6. 印象派、後期ロマン派",
+        "ロマン",
+        "ベルエポック",
+        "アールヌーヴォー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:08.660Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_hanamizuno/西洋音楽史-3/フランス音楽の再生": {
+    "page_id": "20220313_hanamizuno/西洋音楽史-3/フランス音楽の再生",
+    "content_hash": "sha256:028888c943d32e573c6198e8305939fd162eb28193d87c1f4169734340936c81",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "フランス",
+        "サンサーンス",
+        "フォーレ"
+      ],
+      "tags": [
+        "フランス音楽の再生",
+        "ドイツに負けない正統的な器楽文化を"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:08.792Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_hanamizuno/西洋音楽史-3/印象派-フランス": {
+    "page_id": "20220313_hanamizuno/西洋音楽史-3/印象派-フランス",
+    "content_hash": "sha256:e4881e99a224a4f32dc6c3a14487b5da548f2998f3a0982ca7f27344d943cfbf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [],
+      "entities": [
+        "フランス",
+        "ドビュッシー",
+        "ラヴェル"
+      ],
+      "tags": [
+        "印象派 フランス",
+        "哲学や宗教を語ったりしない音楽",
+        "軽さ",
+        "スノビズム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:08.813Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_hanamizuno/西洋音楽史-3/エキゾチズム": {
+    "page_id": "20220313_hanamizuno/西洋音楽史-3/エキゾチズム",
+    "content_hash": "sha256:001e4a07947228802db0961fb711fbe70960c510a8b2ec931fe6971a6cfb6c3e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "芸術"
+      ],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "フランス",
+        "ドイツ"
+      ],
+      "tags": [
+        "エキゾチズム",
+        "拡張・解体"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:08.819Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_hanamizuno/西洋音楽史-3/後期ロマン派-ドイツ": {
+    "page_id": "20220313_hanamizuno/西洋音楽史-3/後期ロマン派-ドイツ",
+    "content_hash": "sha256:972f34c018ea3cf320d3e5431e23f48b16faae63bd179582592fb19f97fff4e8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "シュトラウス",
+        "<--> ベートーヴェン",
+        "マーラー",
+        "ドイツ"
+      ],
+      "tags": [
+        "後期ロマン派 ドイツ",
+        "ロマン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:08.934Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_hanamizuno/西洋音楽史-3/既成概念の破壊-第一次世界大戦前夜": {
+    "page_id": "20220313_hanamizuno/西洋音楽史-3/既成概念の破壊-第一次世界大戦前夜",
+    "content_hash": "sha256:2123f6b0cfedb06b104b9ef573478f2fdf8304d4591ffbe9718657e55c25949b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "芸術"
+      ],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "シェーンベルク",
+        "ストラヴィンスキー",
+        "ルイジ・ルッソ"
+      ],
+      "tags": [
+        "既成概念の破壊 第一次世界大戦前夜"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:08.992Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_hanamizuno/西洋音楽史-3/7.-第一次世界大戦以後": {
+    "page_id": "20220313_hanamizuno/西洋音楽史-3/7.-第一次世界大戦以後",
+    "content_hash": "sha256:956aecd39669cb5b53279dc781c873de6f1d56d03b24176ecd00f584aa0f6efc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "芸術"
+      ],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ストラヴィンスキー",
+        "シェーンベルク",
+        "プロコフィエフ",
+        "ショスタコーヴィチ",
+        "ヒンデミット",
+        "ミヨー",
+        "プーランク",
+        "ブーレーズ",
+        "シュトックハウゼン",
+        "ノーノ",
+        "ケージ"
+      ],
+      "tags": [
+        "7. 第一次世界大戦以後"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:09.031Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_hanamizuno/西洋音楽史-3/新即物主義、新古典主義": {
+    "page_id": "20220313_hanamizuno/西洋音楽史-3/新即物主義、新古典主義",
+    "content_hash": "sha256:3948400a14a89e9731b2cdf130eda23c509c2f185c2897817b1d90bbdad0be3c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "芸術"
+      ],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "プロコフィエフ",
+        "ショスタコーヴィチ",
+        "ヒンデミット",
+        "ミヨー",
+        "プーランク"
+      ],
+      "tags": [
+        "新即物主義、新古典主義"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:09.046Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_hanamizuno/西洋音楽史-3/オリジナリティ神話の否定": {
+    "page_id": "20220313_hanamizuno/西洋音楽史-3/オリジナリティ神話の否定",
+    "content_hash": "sha256:2c567b349c8776dfe1fa8ea3d419adf659422259fdfba39319febdc7b51f139a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ストラヴィンスキー"
+      ],
+      "tags": [
+        "オリジナリティ神話の否定",
+        "既知の材料の引用とアレンジだけ",
+        "オリジナリティ",
+        "コラージュ",
+        "パロディ",
+        "アレンジ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:09.149Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_hanamizuno/西洋音楽史-3/無調音楽、十二音技法": {
+    "page_id": "20220313_hanamizuno/西洋音楽史-3/無調音楽、十二音技法",
+    "content_hash": "sha256:999621110bce649a2a07684cacfb2a1999229fbe0dd35cf03ba1bc245805e28a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "シェーンベルク",
+        "ストラヴィンスキー"
+      ],
+      "tags": [
+        "無調音楽、十二音技法",
+        "破壊"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:09.213Z",
+    "model": "jev-1.13.0"
+  },
+  "20220313_hanamizuno/西洋音楽史-3/第二次世界大戦後": {
+    "page_id": "20220313_hanamizuno/西洋音楽史-3/第二次世界大戦後",
+    "content_hash": "sha256:c193984d4141a82f1f1a221ca5970f2c9df743b194baff19d29ac302d9c42706",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "第二次世界大戦後"
+      ],
+      "tags": [
+        "アングラ音楽、サブカルチャーへと化す",
+        "「誰が何を演奏するか」",
+        "現代のポピュラー音楽",
+        "西洋音楽史",
+        "誰が何を作るか",
+        "誰が何を演奏するか",
+        "パトロン",
+        "アングラ",
+        "サブカルチャー",
+        "サロン",
+        "ポピュラー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:09.261Z",
+    "model": "jev-1.13.0"
+  }
+}

@@ -1,0 +1,481 @@
+{
+  "20231119_hm/ゴーストの歴史/ゴーストの歴史": {
+    "page_id": "20231119_hm/ゴーストの歴史/ゴーストの歴史",
+    "content_hash": "sha256:05b4ff254685b472828ffa009db7432fc838069b35f5ab9c694eeb12bc5efc99",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ゴーストの歴史",
+        "ゴースト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:44.197Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_hm/ゴーストの歴史/読んだ本": {
+    "page_id": "20231119_hm/ゴーストの歴史/読んだ本",
+    "content_hash": "sha256:05b723f33c180a5a4225dbd51b7303f9f9564de605823ed92e41a1764bb74770",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ゴースト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:44.232Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_hm/ゴーストの歴史/Ghost(幽霊)-とは": {
+    "page_id": "20231119_hm/ゴーストの歴史/Ghost(幽霊)-とは",
+    "content_hash": "sha256:5dd917c5118838650f51536b528e740382a85b7e6d1963df03ac401cfd7f9b07",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "Ghost とは"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:44.218Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_hm/ゴーストの歴史/分類": {
+    "page_id": "20231119_hm/ゴーストの歴史/分類",
+    "content_hash": "sha256:7d8834d3b43cb9ed68734de012fb112dd4ce37a2318adac64b68a68013497fdb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "分類"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:44.266Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_hm/ゴーストの歴史/分類~2": {
+    "page_id": "20231119_hm/ゴーストの歴史/分類~2",
+    "content_hash": "sha256:d4c494a2572c1f92db051f31c31769ff3bdc24ebf30f5d959510226995b7d9c5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "分類",
+        "geist(ガイスト",
+        "エレメンタル",
+        "ポルターガイスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:44.404Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_hm/ゴーストの歴史/伝統的な幽霊": {
+    "page_id": "20231119_hm/ゴーストの歴史/伝統的な幽霊",
+    "content_hash": "sha256:312fd6cd3d83da7434bc8060928180a81024f24b9a2827ea3064755a0906238b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "伝統的な幽霊"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:44.443Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_hm/ゴーストの歴史/タイムスリップ": {
+    "page_id": "20231119_hm/ゴーストの歴史/タイムスリップ",
+    "content_hash": "sha256:efd3ab3c2a76570a44c8e5c00d857c37eac6e6befd8c95265eb0a03a29b0b1d1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "タイムスリップ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:44.451Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_hm/ゴーストの歴史/HAUNTING-(ホーンティング:取り憑き)": {
+    "page_id": "20231119_hm/ゴーストの歴史/HAUNTING-(ホーンティング:取り憑き)",
+    "content_hash": "sha256:8e505b95db3144be08c75568f03bcc175c9c890ce671d12a379f5672f4d7eb89",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "HAUNTING",
+        "ホーンティング",
+        "ファントム・ミュージック",
+        "コールドスポット",
+        "ハイ・ストレンジネス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:44.510Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_hm/ゴーストの歴史/SKEPTICAL-INQUIRY-(懐疑的調査)": {
+    "page_id": "20231119_hm/ゴーストの歴史/SKEPTICAL-INQUIRY-(懐疑的調査)",
+    "content_hash": "sha256:28102ab093c42b1f1b4edadbd254882eaa74389c26e5500971852c1d5f8ed222",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "SKEPTICAL INQUIRY",
+        "イカサマ",
+        "パレイドリア"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:44.652Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_hm/ゴーストの歴史/近代以前": {
+    "page_id": "20231119_hm/ゴーストの歴史/近代以前",
+    "content_hash": "sha256:d4dcd9b62d7fc2e2e361375dfacc1710c80b1393a16ed1e253f46501acb19935",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "近代以前",
+        "エクソシズム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:44.672Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_hm/ゴーストの歴史/古代の神話における死後の世界": {
+    "page_id": "20231119_hm/ゴーストの歴史/古代の神話における死後の世界",
+    "content_hash": "sha256:99e15f6686a81da92da4010d545b353bee569bb72713577648d58b9cb8c63543",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "エジプト"
+      ],
+      "tags": [
+        "古代の神話における死後の世界",
+        "ミイラ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:44.687Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_hm/ゴーストの歴史/古代ギリシャ": {
+    "page_id": "20231119_hm/ゴーストの歴史/古代ギリシャ",
+    "content_hash": "sha256:c3ef98bd6fb3f8ff6312feccd897ed9d8e7bf3d696490360ee271de8550e1254",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [],
+      "entities": [
+        "古代ギリシャ",
+        "ギリシャ"
+      ],
+      "tags": [
+        "こだま"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:44.725Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_hm/ゴーストの歴史/アステカ神話": {
+    "page_id": "20231119_hm/ゴーストの歴史/アステカ神話",
+    "content_hash": "sha256:4ef74cf36120ac46d1fd989371748710223c39585f21e87334a9abcd1e36e9a2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "アステカ神話",
+        "アステカ",
+        "ショロトル",
+        "ショロイツクインツレ"
+      ],
+      "tags": [
+        "魂を指揮するもの",
+        "サイコポンプ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:44.863Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_hm/ゴーストの歴史/古代中国": {
+    "page_id": "20231119_hm/ゴーストの歴史/古代中国",
+    "content_hash": "sha256:841df90137092bbcb635fcefaee7d082cdd681a904871d429e1bd6b4b34da3f0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "古代中国",
+        "ヨーロッパ"
+      ],
+      "tags": [
+        "免罪符",
+        "Linbo(リンボ",
+        "カトリック",
+        "リンボ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:44.887Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_hm/ゴーストの歴史/インドネシア・マレーシア周辺": {
+    "page_id": "20231119_hm/ゴーストの歴史/インドネシア・マレーシア周辺",
+    "content_hash": "sha256:75fc5f26f4a4f307e46b35aef6a1dd82114cff2486e2fd11d0eb95f9880738e4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "インドネシア・マレーシア周辺",
+        "インドネシア・マレーシア",
+        "インドネシア",
+        "ポモー",
+        "カリブ",
+        "ローリング・カーフ",
+        "リバー・ムンマ"
+      ],
+      "tags": [
+        "ハントゥ",
+        "ダピー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:44.899Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_hm/ゴーストの歴史/幽霊の訪問イベント": {
+    "page_id": "20231119_hm/ゴーストの歴史/幽霊の訪問イベント",
+    "content_hash": "sha256:4476bb77f0cc37ee09f8c88c39f8fd4cb758a16b7de85684573c2963a0105209",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "宗教"
+      ],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ラ・サンタ・コンパーニャ",
+        "ポルトガル・スペイン",
+        "マレーシア・ベトナム"
+      ],
+      "tags": [
+        "幽霊の訪問イベント",
+        "死者が座る席"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:44.964Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_hm/ゴーストの歴史/ディア・デ・ロス・ムエルトス(死者の日)-メキシコ": {
+    "page_id": "20231119_hm/ゴーストの歴史/ディア・デ・ロス・ムエルトス(死者の日)-メキシコ",
+    "content_hash": "sha256:dd67424996f556b432e33ae69a23f24dfb5bf85bab57067e1c8803514436d2ef",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "宗教"
+      ],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ディア・デ・ロス・ムエルトス/メキシコ",
+        "ディア・デ・ロス・ムエルトス",
+        "メキシコ",
+        "ヨーロッパ"
+      ],
+      "tags": [
+        "万聖節前日",
+        "夏の終わり",
+        "サムハイン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:45.088Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_hm/ゴーストの歴史/歴史に残るホーンティング": {
+    "page_id": "20231119_hm/ゴーストの歴史/歴史に残るホーンティング",
+    "content_hash": "sha256:8ce0aa4c7cd31f3d8112dcd253a52a7bf4138af056747497de21ff160327b7f7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "1世紀",
+        "2世紀",
+        "3世紀",
+        "4世紀",
+        "5世紀",
+        "6世紀",
+        "7世紀",
+        "8世紀",
+        "9世紀",
+        "10世紀",
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀"
+      ],
+      "entities": [
+        "お菊の霊",
+        "アテナイ",
+        "ギリシャ"
+      ],
+      "tags": [
+        "歴史に残るホーンティング",
+        "ホーンティング"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:45.114Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_hm/ゴーストの歴史/デッドワースのドラマー(1661-1663-年-イングランド-デッドワース)": {
+    "page_id": "20231119_hm/ゴーストの歴史/デッドワースのドラマー(1661-1663-年-イングランド-デッドワース)",
+    "content_hash": "sha256:d8141e7c8e9f6523786cca3c90333428d25b55692400865194a09d6048dc8aad",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "17世紀",
+        "18世紀"
+      ],
+      "entities": [
+        "デッドワースのドラマー",
+        "ジョセフ・グランビル",
+        "デッドワース",
+        "ドラマー",
+        "ファニー",
+        "ロンドン",
+        "コック・レーン",
+        "ファニー・ラインズ"
+      ],
+      "tags": [
+        "ポルターガイスト",
+        "ホーンティング"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:45.118Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_hm/ゴーストの歴史/次回": {
+    "page_id": "20231119_hm/ゴーストの歴史/次回",
+    "content_hash": "sha256:0244a6f09647b5f60ad53ee7ec92ad9c86945f78c9b6d1bcd7d82dc840ba3305",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:45.178Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_hm/ゴーストの歴史/参考文献": {
+    "page_id": "20231119_hm/ゴーストの歴史/参考文献",
+    "content_hash": "sha256:676952ba866c9799affad0086a8c3a4d766eff796d228a4b94cfe8b8c114256d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:45.317Z",
+    "model": "jev-1.13.0"
+  }
+}

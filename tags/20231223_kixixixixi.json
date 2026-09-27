@@ -1,0 +1,321 @@
+{
+  "20231223_kixixixixi/漫才の歴史/漫才の歴史": {
+    "page_id": "20231223_kixixixixi/漫才の歴史/漫才の歴史",
+    "content_hash": "sha256:caab37e26e65b2075f4009501ade19a6f108e5f1f56ce4b04544800908661ed2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "漫才の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:47.366Z",
+    "model": "jev-1.13.0"
+  },
+  "20231223_kixixixixi/お笑いとは/お笑いとは": {
+    "page_id": "20231223_kixixixixi/お笑いとは/お笑いとは",
+    "content_hash": "sha256:840ae6c610e70da9a33706127d200a0ff313db72373342ba18af45715d95fb1d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "お笑いとは"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:47.433Z",
+    "model": "jev-1.13.0"
+  },
+  "20231223_kixixixixi/漫才とは/漫才とは": {
+    "page_id": "20231223_kixixixixi/漫才とは/漫才とは",
+    "content_hash": "sha256:20ec15e69af589e1f6199bef845957cfcf37ada2207cce4553d8154a695c4ddf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "娯楽"
+      ],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "漫才とは"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:47.521Z",
+    "model": "jev-1.13.0"
+  },
+  "20231223_kixixixixi/万歳/万歳": {
+    "page_id": "20231223_kixixixixi/万歳/万歳",
+    "content_hash": "sha256:89f5436e5f0ac6e57c85675af4d2138c1afbae4efd693d0df1040eeb0335b667",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "12世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "万歳"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:47.525Z",
+    "model": "jev-1.13.0"
+  },
+  "20231223_kixixixixi/万才/万才": {
+    "page_id": "20231223_kixixixixi/万才/万才",
+    "content_hash": "sha256:b6e5c0a15f61625b1089472b955af693e82ff86563d3540dc38efd40317a6386",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "娯楽"
+      ],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "万才"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:47.572Z",
+    "model": "jev-1.13.0"
+  },
+  "20231223_kixixixixi/玉子屋円辰/玉子屋円辰": {
+    "page_id": "20231223_kixixixixi/玉子屋円辰/玉子屋円辰",
+    "content_hash": "sha256:73774ba8b85496b15bed905369d9dcded34910d4ebbd50a774b251993fd2a1cc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "娯楽"
+      ],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "玉子屋円辰"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:47.635Z",
+    "model": "jev-1.13.0"
+  },
+  "20231223_kixixixixi/吉本興業/吉本興業": {
+    "page_id": "20231223_kixixixixi/吉本興業/吉本興業",
+    "content_hash": "sha256:0c850da4ada883170702856148e7790c1ddb733e8dc57f844b904a197fb3b1ea",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "娯楽"
+      ],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "吉本興業"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:47.744Z",
+    "model": "jev-1.13.0"
+  },
+  "20231223_kixixixixi/エンタツ・アチャコ/エンタツ・アチャコ": {
+    "page_id": "20231223_kixixixixi/エンタツ・アチャコ/エンタツ・アチャコ",
+    "content_hash": "sha256:216c61cc4a079d30dbbf1c95a2f5b4b7e97d99b7f68a89fe2fdbd86ce7c34e1f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "娯楽"
+      ],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "エンタツ・アチャコ",
+        "エンタツ",
+        "アチャコ"
+      ],
+      "tags": [
+        "しゃべくり漫才",
+        "スタイル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:47.740Z",
+    "model": "jev-1.13.0"
+  },
+  "20231223_kixixixixi/戦後の漫才/戦後の漫才": {
+    "page_id": "20231223_kixixixixi/戦後の漫才/戦後の漫才",
+    "content_hash": "sha256:629028610c4ff02e356d8360a04bdc201b392c6d968d2752173d0eff9e3e7a76",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "娯楽"
+      ],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "戦後の漫才"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:47.790Z",
+    "model": "jev-1.13.0"
+  },
+  "20231223_kixixixixi/落語ブーム・演芸ブーム/落語ブーム・演芸ブーム": {
+    "page_id": "20231223_kixixixixi/落語ブーム・演芸ブーム/落語ブーム・演芸ブーム",
+    "content_hash": "sha256:8c791b0a696e54ebe7fff4efa9e13f6b0976bd59f95ec2c4d0363e60e4837750",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "娯楽"
+      ],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "落語ブーム・演芸ブーム",
+        "ブーム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:47.850Z",
+    "model": "jev-1.13.0"
+  },
+  "20231223_kixixixixi/漫才ブーム/漫才ブーム": {
+    "page_id": "20231223_kixixixixi/漫才ブーム/漫才ブーム",
+    "content_hash": "sha256:46e3cb3b12e9d839f0858bff750d61cc5e30e63b93dce01da6f0957290fb9166",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "娯楽"
+      ],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "漫才ブーム",
+        "ブーム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:47.949Z",
+    "model": "jev-1.13.0"
+  },
+  "20231223_kixixixixi/お笑い第三世代/お笑い第三世代": {
+    "page_id": "20231223_kixixixixi/お笑い第三世代/お笑い第三世代",
+    "content_hash": "sha256:5f40966eb0557ad7fd071a1676824a23b58767eb74ebb04dd9d12be255b32912",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "娯楽"
+      ],
+      "region": [
+        "日本"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ダウンタウン",
+        "ダウンタウン・ウッチャンナンチャン",
+        "スペシャル"
+      ],
+      "tags": [
+        "お笑い第三世代"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:47.962Z",
+    "model": "jev-1.13.0"
+  }
+}

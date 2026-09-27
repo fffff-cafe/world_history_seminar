@@ -1,0 +1,443 @@
+{
+  "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/原子力潜水艦(原潜)の歴史・要点(要約版)": {
+    "page_id": "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/原子力潜水艦(原潜)の歴史・要点(要約版)",
+    "content_hash": "sha256:4ca09f6393e132f795c89d0747b40b4ae0e24218e7031922114877c2df6c625d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "原子力潜水艦の歴史・要点"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:30.719Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/目次": {
+    "page_id": "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/目次",
+    "content_hash": "sha256:fc9b03619f524323d67ca54cd57728504b33c3a95939bd85440e905032a6a041",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:30.725Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/ニュース要旨:韓国の原潜開発を米国が承認": {
+    "page_id": "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/ニュース要旨:韓国の原潜開発を米国が承認",
+    "content_hash": "sha256:829d37ac06a921163855de22d27c76d9f570dc0e25fa5e377200b0e1e0359fbf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:30.838Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/なぜ米国が「承認」するか(要因)": {
+    "page_id": "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/なぜ米国が「承認」するか(要因)",
+    "content_hash": "sha256:a42a78b9adad2f54211675cff5f001ac0544d703289c3b593e610e32419550d6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "なぜ米国が「承認」するか",
+        "承認",
+        "原潜技術・燃料は拡散リスクが高く、同盟内で管理・統制する(例"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:30.947Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/原潜を保有・運用する主な国(概観)": {
+    "page_id": "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/原潜を保有・運用する主な国(概観)",
+    "content_hash": "sha256:5bcbbb14579af7b9e8dcbd247a321d75ec7e7e4fc195792ffc8e2a960b339198",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "アメリカ",
+        "ロシア",
+        "フランス",
+        "インド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:30.943Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/なぜ保有国が少ないのか": {
+    "page_id": "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/なぜ保有国が少ないのか",
+    "content_hash": "sha256:3d7d1d526a6625f062fe68200add1306bc304f7df9f372d3f78bf32b12ea5e49",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "なぜ保有国が少ないのか",
+        "高コスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:30.955Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/そもそも原潜が各国独力で作れるのか": {
+    "page_id": "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/そもそも原潜が各国独力で作れるのか",
+    "content_hash": "sha256:d411f2214d9b6226e62cc33e0680aad7b2f808c1b76cc1ae9359ef762d0a9da9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "軍事",
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "そもそも原潜が各国独力で作れるのか",
+        "海軍用原子炉",
+        "燃料サイクル",
+        "安全・規制・インフラ",
+        "造船・静粛化",
+        "統合・人材・維持費",
+        "国際制約",
+        "サイクル",
+        "インフラ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:31.080Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/主な分類・略号例": {
+    "page_id": "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/主な分類・略号例",
+    "content_hash": "sha256:7390c4f2a78a218d41e9e1daec9c837c412b3b08bd811fe98787a0df520b103e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "SSN",
+        "SSBN",
+        "SSGN"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:31.198Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/原潜の基本": {
+    "page_id": "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/原潜の基本",
+    "content_hash": "sha256:6925c11b41cc692026cceb79a1dcb6a9f654bd1b9c034e61e23e50d4b3f26d81",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "原潜の基本",
+        "種別",
+        "強み",
+        "制約"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:31.200Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/代表クラス(各1行・出典併記)": {
+    "page_id": "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/代表クラス(各1行・出典併記)",
+    "content_hash": "sha256:428302283a9c8e09727d817d1c1099296d5251e64d2a563da963bd14826e1418",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "Ohio",
+        "Borei",
+        "Vanguard/Le Triomphant",
+        "Type 094 Jin",
+        "Arihant",
+        "Virginia",
+        "Astute",
+        "インド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:31.194Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/「見せる脅威」=敢えて見せる理由": {
+    "page_id": "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/「見せる脅威」=敢えて見せる理由",
+    "content_hash": "sha256:5d2553880a359475d7c8120b3f238b9be9100872f25d07f0a07ba58024becd93",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "「見せる脅威」=敢えて見せる理由",
+        "見せる脅威",
+        "手段は進水/就役式、寄港/共同演習、限定的露出(研究例",
+        "メッセージ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:31.292Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/通信(本国→原潜)": {
+    "page_id": "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/通信(本国→原潜)",
+    "content_hash": "sha256:3f04533ad01a5c67ee871887c076bb5c66e0fbeca2a7bc90ec8bac105a86a94a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "通信"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:31.411Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/「無限航行」の誤解と実際の制約": {
+    "page_id": "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/「無限航行」の誤解と実際の制約",
+    "content_hash": "sha256:ea38a02f6b0031cced4a021cf41f017880d107b3416f21aeb94d6711d4db28ab",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "「無限航行」の誤解と実際の制約",
+        "無限航行"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:31.481Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/探知:音響と非音響": {
+    "page_id": "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/探知:音響と非音響",
+    "content_hash": "sha256:d6ed32349e65137b109fe829dc979d56a62ee4daf9d6ba34037a4d52a887233d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "軍事",
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "探知:音響と非音響",
+        "非音響は衛星・光学・SAR・磁気・環境の総合活用(CSIS"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:31.396Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/クイズ": {
+    "page_id": "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/クイズ",
+    "content_hash": "sha256:3bfb2d54863d7031f2052a1745dc8add94a71c00e36970a892056334a08d64be",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:31.549Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/解答": {
+    "page_id": "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/解答",
+    "content_hash": "sha256:b20163f9fce125a1d14e4d8b591efc6910e0648147bf2fb3f48c3c21e5095df6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:31.612Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/法・慣習:やってよい-悪い": {
+    "page_id": "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/法・慣習:やってよい-悪い",
+    "content_hash": "sha256:0526e8e96891e906c31c5a19d3f6a9328c4ab697e4fcefc431badfd64a014013",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "法・慣習:やってよい/悪い",
+        "グレー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:31.609Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/代表的事件(要点)": {
+    "page_id": "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/代表的事件(要点)",
+    "content_hash": "sha256:9df91d078433cdbbdc25e1c991ee96d096b151625a425f05299194bcb7f1a7ec",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [
+        "1981–82 スウェーデン座礁事件",
+        "2009 英仏原潜衝突",
+        "2021 USS Connecticut 事故",
+        "スウェーデン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:31.739Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/日本が原潜を持つ論点(現状:未保有)": {
+    "page_id": "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/日本が原潜を持つ論点(現状:未保有)",
+    "content_hash": "sha256:02acbd0429b9f9237b4cb22fb162bd2d1521ca889d12dd283c002f7cbabc19f6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本"
+      ],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "日本が原潜を持つ論点",
+        "法・政策",
+        "技術・体制",
+        "戦略"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:31.752Z",
+    "model": "jev-1.13.0"
+  },
+  "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/まとめ(3行)": {
+    "page_id": "20251116_nishihara/原子力潜水艦(原潜)の歴史・要点(要約版)/まとめ(3行)",
+    "content_hash": "sha256:a397bf9686876d3e58b8ca16fd52ccec5263526f7743d02ec97ce390ba10f7c0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:31.841Z",
+    "model": "jev-1.13.0"
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "20230415_kixixixixi/ロシアの歴史-4/ロシアの歴史-4": {
+    "page_id": "20230415_kixixixixi/ロシアの歴史-4/ロシアの歴史-4",
+    "content_hash": "sha256:c8881a26fbdffcdf3cbc386fa6b00d67a3c8a047aa3d6f8491741eca5bbac19d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [],
+      "entities": [
+        "ロシアの歴史 4",
+        "ロシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:29.266Z",
+    "model": "jev-1.13.0"
+  },
+  "20230415_kixixixixi/前回のはなし/前回のはなし": {
+    "page_id": "20230415_kixixixixi/前回のはなし/前回のはなし",
+    "content_hash": "sha256:967583e17c57b4f1212d6ebac1c0da39938d176c340208908a03eefcd89c343f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:29.299Z",
+    "model": "jev-1.13.0"
+  },
+  "20230415_kixixixixi/ソ連の崩壊/ソ連の崩壊": {
+    "page_id": "20230415_kixixixixi/ソ連の崩壊/ソ連の崩壊",
+    "content_hash": "sha256:dad4a01e6dd45a847f4cb70ea4dfe1c177e07fff86adcd78483b4618a4afadfa",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ソ連の崩壊",
+        "エリツィン",
+        "ゴルバチョフ",
+        "ロシア",
+        "ウクライナ",
+        "ベラルーシ"
+      ],
+      "tags": [
+        "ペレストロイカ",
+        "グラスノスチ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:29.322Z",
+    "model": "jev-1.13.0"
+  },
+  "20230415_kixixixixi/急激な資本主義化/急激な資本主義化": {
+    "page_id": "20230415_kixixixixi/急激な資本主義化/急激な資本主義化",
+    "content_hash": "sha256:2e9607f8423fcd40fd82486d9e0476d6286e366b21476921b4db0ed62e508af0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "エリツィン"
+      ],
+      "tags": [
+        "急激な資本主義化",
+        "ショック療法",
+        "オリガルヒ",
+        "ショック",
+        "ハイパーインフレ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:29.479Z",
+    "model": "jev-1.13.0"
+  },
+  "20230415_kixixixixi/プーチン/プーチン": {
+    "page_id": "20230415_kixixixixi/プーチン/プーチン",
+    "content_hash": "sha256:0b84c70c784b255ea6d9091d527bbb6e182011ffda6e2fd20af0d3c9cad2821a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "プーチン",
+        "ロシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:29.485Z",
+    "model": "jev-1.13.0"
+  },
+  "20230415_kixixixixi/チェチェン紛争/チェチェン紛争": {
+    "page_id": "20230415_kixixixixi/チェチェン紛争/チェチェン紛争",
+    "content_hash": "sha256:96898570c580c4c5dec463cfbec42725729ee2292747be2a670c9db32c3b7dbf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [
+        "チェチェン紛争",
+        "チェチェン",
+        "アフマド・カディロフ",
+        "ラムザン・カディロフ",
+        "カディロフ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:29.561Z",
+    "model": "jev-1.13.0"
+  },
+  "20230415_kixixixixi/ジョージア紛争/ジョージア紛争": {
+    "page_id": "20230415_kixixixixi/ジョージア紛争/ジョージア紛争",
+    "content_hash": "sha256:805b787e066ee14644c3a0cec17a0727a4f3cba9c6a8707e1c29262075ecda38",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "ジョージア紛争",
+        "ジョージア",
+        "アブハジア",
+        "オセチア",
+        "ロシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:29.535Z",
+    "model": "jev-1.13.0"
+  },
+  "20230415_kixixixixi/ウクライナ紛争/ウクライナ紛争": {
+    "page_id": "20230415_kixixixixi/ウクライナ紛争/ウクライナ紛争",
+    "content_hash": "sha256:a4963013233952486aebfaba287e3fdfb1470469989e916dff5a5e058f3dc1e4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "ウクライナ紛争",
+        "ウクライナ",
+        "ユシチェンコ",
+        "ヤヌコーヴィチ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:29.702Z",
+    "model": "jev-1.13.0"
+  },
+  "20230415_kixixixixi/ウクライナ紛争-2/ウクライナ紛争-2": {
+    "page_id": "20230415_kixixixixi/ウクライナ紛争-2/ウクライナ紛争-2",
+    "content_hash": "sha256:6c2fcdd48846830e9a44f9dde9050f0a17a1974b579c14b1174c95fae217d868",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "ウクライナ紛争 2",
+        "ウクライナ",
+        "クリミア",
+        "ロシア",
+        "ドンバス",
+        "ドネツク・ルハンスク"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:29.718Z",
+    "model": "jev-1.13.0"
+  },
+  "20230415_kixixixixi/ウクライナ紛争-3/ウクライナ紛争-3": {
+    "page_id": "20230415_kixixixixi/ウクライナ紛争-3/ウクライナ紛争-3",
+    "content_hash": "sha256:af4c2fc5bd7d5f205b65f4ed98ed5126be5070adaa8f2bf94664a87674da52ee",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "ウクライナ紛争 3",
+        "ウクライナ",
+        "ロシア",
+        "ベラルーシ",
+        "ドネツク・ルハンスク",
+        "キエフ",
+        "ドネツク",
+        "マリウーポリ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:29.748Z",
+    "model": "jev-1.13.0"
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "20221126_kixixixixi/ロシアの歴史/ロシアの歴史": {
+    "page_id": "20221126_kixixixixi/ロシアの歴史/ロシアの歴史",
+    "content_hash": "sha256:e62c535278ee84ba558f57b95aa9f686b5f4e85a7224a886418e45b1456ad0b8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [],
+      "entities": [
+        "ロシアの歴史",
+        "ロシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:26.619Z",
+    "model": "jev-1.13.0"
+  },
+  "20221126_kixixixixi/はじめに/はじめに": {
+    "page_id": "20221126_kixixixixi/はじめに/はじめに",
+    "content_hash": "sha256:e7b0de74e6567917c31316ef0b36533d34f2e63d55de30f27e7107d4e5159682",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ロシア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:26.595Z",
+    "model": "jev-1.13.0"
+  },
+  "20221126_kixixixixi/ロシアのはじまり/ロシアのはじまり": {
+    "page_id": "20221126_kixixixixi/ロシアのはじまり/ロシアのはじまり",
+    "content_hash": "sha256:c7dd0632aa1d1b8f96186a0d5bbab158ecf98d5368c39daba1b2bd9874265b66",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [
+        "ロシアのはじまり",
+        "ツァーリ",
+        "雷帝",
+        "ロシア",
+        "スラヴ",
+        "キエフ",
+        "タタール",
+        "イヴァン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:26.674Z",
+    "model": "jev-1.13.0"
+  },
+  "20221126_kixixixixi/スラヴ人の大移動/スラヴ人の大移動": {
+    "page_id": "20221126_kixixixixi/スラヴ人の大移動/スラヴ人の大移動",
+    "content_hash": "sha256:46240d177e6db7c1937da519eaaba1f6806e19477d0bcde5f8236eb700672ce4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ",
+        "ロシア・東欧"
+      ],
+      "period": [
+        "6世紀"
+      ],
+      "entities": [
+        "スラヴ人の大移動",
+        "スラヴ",
+        "ブルガリア",
+        "ブルガール",
+        "モラヴィア",
+        "チェコ",
+        "ノヴゴロド",
+        "リューリク"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:26.712Z",
+    "model": "jev-1.13.0"
+  },
+  "20221126_kixixixixi/キエフ大公国/キエフ大公国": {
+    "page_id": "20221126_kixixixixi/キエフ大公国/キエフ大公国",
+    "content_hash": "sha256:c6a65b368935fec05fb96276f6de35cc9683ec848718237714fe0cf6b98cf11f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "9世紀",
+        "10世紀",
+        "11世紀"
+      ],
+      "entities": [
+        "キエフ大公国",
+        "キエフ",
+        "ビザンツ",
+        "ウラディミル"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:26.798Z",
+    "model": "jev-1.13.0"
+  },
+  "20221126_kixixixixi/タタールのくびき/タタールのくびき": {
+    "page_id": "20221126_kixixixixi/タタールのくびき/タタールのくびき",
+    "content_hash": "sha256:63af503137b5cee0b9f6efcad30a31188c60782f731f2ce0dd5b3fea1deb06d9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "13世紀"
+      ],
+      "entities": [
+        "タタール",
+        "モンゴル",
+        "ロシア",
+        "キプチャクハン",
+        "アレクサンドル・ネフスキー",
+        "ウラディミル"
+      ],
+      "tags": [
+        "タタールのくびき"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:26.862Z",
+    "model": "jev-1.13.0"
+  },
+  "20221126_kixixixixi/「ツァーリ」イヴァン-3-世/「ツァーリ」イヴァン-3-世": {
+    "page_id": "20221126_kixixixixi/「ツァーリ」イヴァン-3-世/「ツァーリ」イヴァン-3-世",
+    "content_hash": "sha256:8a481b46fc156c47f25325c1c640e800ca8ae65b8f0c9af42361ff25f9b87288",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [
+        "「ツァーリ」イヴァン 3 世",
+        "ツァーリ",
+        "イヴァン",
+        "モスクワ",
+        "キプチャクハン",
+        "ビザンツ",
+        "ロシア",
+        "オルダー"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:26.888Z",
+    "model": "jev-1.13.0"
+  },
+  "20221126_kixixixixi/「雷帝」イヴァン-4-世/「雷帝」イヴァン-4-世": {
+    "page_id": "20221126_kixixixixi/「雷帝」イヴァン-4-世/「雷帝」イヴァン-4-世",
+    "content_hash": "sha256:b59944e28d52c6574baeb54bf0c08afa7aec6377a5029d65a604bda8c9783734",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "ロシア・東欧"
+      ],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [
+        "「雷帝」イヴァン 4 世",
+        "雷帝",
+        "イヴァン",
+        "リトアニア・ポーランド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:26.924Z",
+    "model": "jev-1.13.0"
+  }
+}

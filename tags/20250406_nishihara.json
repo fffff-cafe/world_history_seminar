@@ -1,0 +1,346 @@
+{
+  "20250406_nishihara/フィリピンの歴史/フィリピンの歴史": {
+    "page_id": "20250406_nishihara/フィリピンの歴史/フィリピンの歴史",
+    "content_hash": "sha256:d2e550ada0b0ee3d442a5cdc8775911c75b3c37acc57279b32d728970594b0f1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "フィリピンの歴史",
+        "フィリピン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:16.636Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_nishihara/概要/概要": {
+    "page_id": "20250406_nishihara/概要/概要",
+    "content_hash": "sha256:9742b54e3aa31da3543dc70ab459dea87a14969ddc2e6ca069a07a117336165e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "フィリピン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:16.777Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_nishihara/参考/参考": {
+    "page_id": "20250406_nishihara/参考/参考",
+    "content_hash": "sha256:52e5615bbc95f09a0c4f576ebf2a92d32e671f2f7f780780eb59cff80cf434f3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:16.817Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_nishihara/現在のフィリピン/現在のフィリピン": {
+    "page_id": "20250406_nishihara/現在のフィリピン/現在のフィリピン",
+    "content_hash": "sha256:591fe0fe6796100af5a03a6cb268078db7227a5d2a3594c40b9659acdeaaea6d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "現在のフィリピン",
+        "フィリピン",
+        "マニラ",
+        "フェリペ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:16.851Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_nishihara/現在のフィリピン2/現在のフィリピン2": {
+    "page_id": "20250406_nishihara/現在のフィリピン2/現在のフィリピン2",
+    "content_hash": "sha256:d060cdf1b10f25246a7f77f33239e43e9e5eae613e3e270e0fba6c32cda304f6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "宗教"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "フィリピン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:16.856Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_nishihara/現在のフィリピン3/現在のフィリピン3": {
+    "page_id": "20250406_nishihara/現在のフィリピン3/現在のフィリピン3",
+    "content_hash": "sha256:e2b64ed637282dac68c325425b5ac7f9aa2a2378c519fc128c783950621495da",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "フィリピン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:16.972Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_nishihara/現在のフィリピン3/<img-src=\"https:-philippinetravel.jp-wp": {
+    "page_id": "20250406_nishihara/現在のフィリピン3/<img-src=\"https:-philippinetravel.jp-wp",
+    "content_hash": "sha256:8e5a12fd05ccdbb4e9e729a65915048e65ad840ec07e7cacf987d92f53dbdf67",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:17.011Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_nishihara/歴史(中世あたりから)/歴史(中世あたりから)": {
+    "page_id": "20250406_nishihara/歴史(中世あたりから)/歴史(中世あたりから)",
+    "content_hash": "sha256:68f77a97de26860585a5551fd51065aa4d72f629624651bb4f55c94dccaf44bf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "14世紀",
+        "15世紀",
+        "16世紀"
+      ],
+      "entities": [
+        "マゼラン",
+        "フィリピン",
+        "ホモンホン"
+      ],
+      "tags": [
+        "イスラム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:17.046Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_nishihara/歴史(中世あたりから)2/歴史(中世あたりから)2": {
+    "page_id": "20250406_nishihara/歴史(中世あたりから)2/歴史(中世あたりから)2",
+    "content_hash": "sha256:dd494a316f3db8eb33a7eb4a80cc0f0bfe24f7561d6f72108a192c8f1291209e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀",
+        "16世紀",
+        "17世紀",
+        "18世紀",
+        "19世紀"
+      ],
+      "entities": [
+        "フィリピン",
+        "スペイン",
+        "トルデシリャス",
+        "サラゴサ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:17.088Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_nishihara/独立戦争/独立戦争": {
+    "page_id": "20250406_nishihara/独立戦争/独立戦争",
+    "content_hash": "sha256:bcf1548ae281a20288bed6a37c9483b2ad9fa11c09d027889995be586a5732a7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "独立戦争",
+        "アメリカ",
+        "フィリピン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:17.191Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_nishihara/第二次世界大戦/第二次世界大戦": {
+    "page_id": "20250406_nishihara/第二次世界大戦/第二次世界大戦",
+    "content_hash": "sha256:9f5899a5f29d4ec00a5ac014882914100aeca8b92ce08a926b703a48350078b9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "第二次世界大戦",
+        "フィリピン",
+        "アメリカ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:17.233Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_nishihara/マルコス独裁(反共産)~現在/マルコス独裁(反共産)~現在": {
+    "page_id": "20250406_nishihara/マルコス独裁(反共産)~現在/マルコス独裁(反共産)~現在",
+    "content_hash": "sha256:186e394afcef3c6345743fef09488d06961726d5f64506348215d8a89b26fe2e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [
+        "マルコス独裁~現在",
+        "マルコス",
+        "フィリピン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:17.255Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_nishihara/世界遺産/世界遺産": {
+    "page_id": "20250406_nishihara/世界遺産/世界遺産",
+    "content_hash": "sha256:d29d5a5d9c2946e05dfe73df0f9067cb5725cf7a22ab21bc8b890e9a4954cbe4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:17.306Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_nishihara/ドゥテルテ元大統領/ドゥテルテ元大統領": {
+    "page_id": "20250406_nishihara/ドゥテルテ元大統領/ドゥテルテ元大統領",
+    "content_hash": "sha256:aaf21ee05ba932e041fe3bc8037a40817ca3bff9171a43299ead463642e2434c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "ドゥテルテ元大統領",
+        "ドゥテルテ",
+        "スール"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:17.413Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_nishihara/エルサルバドルの刑務所/エルサルバドルの刑務所": {
+    "page_id": "20250406_nishihara/エルサルバドルの刑務所/エルサルバドルの刑務所",
+    "content_hash": "sha256:0d41676ba817d2dcf7755ff1bbc6bf0d6038c6b921ac6db21fabdd4139fd408a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "エルサルバドルの刑務所",
+        "エルサルバドル"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:17.456Z",
+    "model": "jev-1.13.0"
+  },
+  "20250406_nishihara/おすすめの観光/おすすめの観光": {
+    "page_id": "20250406_nishihara/おすすめの観光/おすすめの観光",
+    "content_hash": "sha256:1c3db5a86e6bc250a23b8f1f3f68760a6bb92d43fc668814e97204af6fc50fb2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:17.469Z",
+    "model": "jev-1.13.0"
+  }
+}

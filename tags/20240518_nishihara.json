@@ -1,0 +1,448 @@
+{
+  "20240518_nishihara/毒と薬の歴史2/毒と薬の歴史2": {
+    "page_id": "20240518_nishihara/毒と薬の歴史2/毒と薬の歴史2",
+    "content_hash": "sha256:99584e094e1230a54d053ce60b6ab323bac3f7f604a73bda35a4b98f5e62b8a6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "毒と薬の歴史2"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:57.245Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/参考/参考": {
+    "page_id": "20240518_nishihara/参考/参考",
+    "content_hash": "sha256:26afb3b2f3eb7f62c3daa53089f0cb910d78dc65d0eb8110114fa5a7172ee8d1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:57.272Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/致死量ランキング/致死量ランキング": {
+    "page_id": "20240518_nishihara/致死量ランキング/致死量ランキング",
+    "content_hash": "sha256:0d0962b38c7c3449621665faaa0f56d55503c20b2cec48bf7aa4dd2865e3cc44",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "致死量ランキング",
+        "ランキング"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:57.349Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/毒物の恩恵/毒物の恩恵": {
+    "page_id": "20240518_nishihara/毒物の恩恵/毒物の恩恵",
+    "content_hash": "sha256:100c298de36cef50f094879f65ea77e6ea697593902725247dbca3fb5bc6db3d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "毒物の恩恵"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:57.507Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/毒の文化圏/毒の文化圏": {
+    "page_id": "20240518_nishihara/毒の文化圏/毒の文化圏",
+    "content_hash": "sha256:4c36916d35dccc334f329db32acb7fd31f3ebf543d4178af7fea66b5d05f7efa",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "毒の文化圏"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:57.434Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/日本の最大毒植物/日本の最大毒植物": {
+    "page_id": "20240518_nishihara/日本の最大毒植物/日本の最大毒植物",
+    "content_hash": "sha256:b9cfb8abf2ea00631e11e4bd1db0ca38e8a2fd19fa6f13f9c1a0ad786edac1bf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本",
+        "東アジア"
+      ],
+      "period": [],
+      "entities": [
+        "トリカブト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:57.491Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/草本類1/草本類1": {
+    "page_id": "20240518_nishihara/草本類1/草本類1",
+    "content_hash": "sha256:2a112996955a4f8129ce740ad6cb66cec74978db97d66c1d4cb906c4ae13830b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ダチュラ",
+        "ヒガンバナ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:57.561Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/草本類2/草本類2": {
+    "page_id": "20240518_nishihara/草本類2/草本類2",
+    "content_hash": "sha256:a51c31279630aafd95d97c7c2a02a409eac23d774a583ccadaaf2eda36613eb8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:57.674Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/本木類/本木類": {
+    "page_id": "20240518_nishihara/本木類/本木類",
+    "content_hash": "sha256:ac43154f13cea73adefb23033d6aa8a53c60eacd45a3125ae5fba1bac3900a87",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "トウゴマ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:57.705Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/キノコ/キノコ": {
+    "page_id": "20240518_nishihara/キノコ/キノコ",
+    "content_hash": "sha256:fb49e445c53c719b0113d0b64253a8c99a0d23f485fbde219226971d10ab28ba",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "カエンダケ",
+        "ドクツルタケ",
+        "タマゴテングタケ",
+        "シロタマゴテングタケ",
+        "ニガクリタケ",
+        "スギヒラタケ",
+        "ヒトヨタケ"
+      ],
+      "tags": [
+        "キノコ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:57.726Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/毒をもつ哺乳類/毒をもつ哺乳類": {
+    "page_id": "20240518_nishihara/毒をもつ哺乳類/毒をもつ哺乳類",
+    "content_hash": "sha256:9960e2897731ec8fc59001829fbbed489906bafb5a2476d04f1356de727b4f0c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "カモノハシ",
+        "トガリネズミ",
+        "スローロリス"
+      ],
+      "tags": [
+        "毒をもつ哺乳類"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:57.787Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/毒蛇/毒蛇": {
+    "page_id": "20240518_nishihara/毒蛇/毒蛇",
+    "content_hash": "sha256:5b6f6c8b31b191177f82611ca55b6a89f54bd2ea58fcc0c6ade698f056e13cf0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:57.873Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/毒ガエル/毒ガエル": {
+    "page_id": "20240518_nishihara/毒ガエル/毒ガエル",
+    "content_hash": "sha256:f619da78772d9d1598a9624f8a84cee467082ad48f0118f1110e33634f6933b9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "毒ガエル"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:57.897Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/魚介類の毒/魚介類の毒": {
+    "page_id": "20240518_nishihara/魚介類の毒/魚介類の毒",
+    "content_hash": "sha256:0e4a525c9a6a961a243afe5f0cc98d76d72ad8c6e5626bee4d396c607ee6ad41",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "魚介類の毒"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:57.930Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/金属の毒/金属の毒": {
+    "page_id": "20240518_nishihara/金属の毒/金属の毒",
+    "content_hash": "sha256:b46c2177b88ab0391b53fac44680f5a79a50335892c50825829f675e1f559672",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "イタイイタイ"
+      ],
+      "tags": [
+        "金属の毒"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:58.011Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/化学兵器としての毒/化学兵器としての毒": {
+    "page_id": "20240518_nishihara/化学兵器としての毒/化学兵器としての毒",
+    "content_hash": "sha256:d62a6293aa615ca1ff561d7214c02c7f0eea7a41f7479c5cf7339c60a43617e6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ギリシャ",
+        "ドイツ",
+        "ベルギー",
+        "フランス"
+      ],
+      "tags": [
+        "化学兵器としての毒"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:58.108Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/薬物/薬物": {
+    "page_id": "20240518_nishihara/薬物/薬物",
+    "content_hash": "sha256:57169a611ea77b74143d66865ab10113de78bc0f4186247c138fcd4adc3e0798",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "薬物"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:58.120Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/麻薬と覚せい剤/麻薬と覚せい剤": {
+    "page_id": "20240518_nishihara/麻薬と覚せい剤/麻薬と覚せい剤",
+    "content_hash": "sha256:4dc6e19d747e609f062891fc70462be95bcb6ba2c62e680103c242300a80f56a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "麻薬と覚せい剤"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:58.173Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/アヘン/アヘン": {
+    "page_id": "20240518_nishihara/アヘン/アヘン",
+    "content_hash": "sha256:1339f1c76da121d2cd8577ffac515d9a12e720f761f42a7a41e273a5871465ea",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "アヘン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:58.214Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/コカイン/コカイン": {
+    "page_id": "20240518_nishihara/コカイン/コカイン",
+    "content_hash": "sha256:a75b462c47ac5b46269a3104b54fd61fb34ebd08c43c5890ad08df92ec28ca04",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "コカイン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:58.301Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/覚せい剤/覚せい剤": {
+    "page_id": "20240518_nishihara/覚せい剤/覚せい剤",
+    "content_hash": "sha256:f64dd42fa41b7babfe6d3ce6c9905ef7bc9a3655243b803278ad36d2951b8ea1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "覚せい剤"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:58.388Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/大麻、LSD/大麻、LSD": {
+    "page_id": "20240518_nishihara/大麻、LSD/大麻、LSD",
+    "content_hash": "sha256:80180cc5257ab63d5bd207caf14c3cb258166fdb6f21dba8ec34cf941e810432",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "大麻、LSD"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:58.391Z",
+    "model": "jev-1.13.0"
+  },
+  "20240518_nishihara/その他/その他": {
+    "page_id": "20240518_nishihara/その他/その他",
+    "content_hash": "sha256:8d7a7fe4cf20b94d364b5da25984a6f8277dc9e28306b46adb9b2a96ca94fd56",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:58.407Z",
+    "model": "jev-1.13.0"
+  }
+}

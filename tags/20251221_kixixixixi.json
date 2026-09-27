@@ -1,0 +1,291 @@
+{
+  "20251221_kixixixixi/数学の歴史-2/数学の歴史-2": {
+    "page_id": "20251221_kixixixixi/数学の歴史-2/数学の歴史-2",
+    "content_hash": "sha256:3c04c8977138c7721cf26bd0a1c02893db790b63d2b66250bfd9939bf1f7e493",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:31.804Z",
+    "model": "jev-1.13.0"
+  },
+  "20251221_kixixixixi/数学の歴史-2/前回の続き": {
+    "page_id": "20251221_kixixixixi/数学の歴史-2/前回の続き",
+    "content_hash": "sha256:c87a4820fe0df25bee66ff1b36b84b8db50c97b1e9ca0a87d8b201903da25aa8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ギリシャ・ヘレニズム",
+        "ユークリッド",
+        "ローマ",
+        "イスラム"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:31.960Z",
+    "model": "jev-1.13.0"
+  },
+  "20251221_kixixixixi/数学の歴史-2/12-世紀ルネサンスの大翻訳運動": {
+    "page_id": "20251221_kixixixixi/数学の歴史-2/12-世紀ルネサンスの大翻訳運動",
+    "content_hash": "sha256:d67aa31836f88139bc53acb493af2bc8d816959029b312cd9d5e49724fd35c67",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "12世紀"
+      ],
+      "entities": [
+        "12 世紀ルネサンスの大翻訳運動",
+        "ルネサンス",
+        "イスラム",
+        "アラビア",
+        "トレド",
+        "シチリア",
+        "フワーリズミー"
+      ],
+      "tags": [
+        "大学",
+        "商人・職人"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:31.964Z",
+    "model": "jev-1.13.0"
+  },
+  "20251221_kixixixixi/数学の歴史-2/ルネサンス期": {
+    "page_id": "20251221_kixixixixi/数学の歴史-2/ルネサンス期",
+    "content_hash": "sha256:806319b9c7e92f66858f0d2634962fb6a61b05d2ba660d5b4d1b0022e012d3be",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ルネサンス",
+        "ギリシャ",
+        "インドアラビア",
+        "ヴィエト",
+        "デカルト"
+      ],
+      "tags": [
+        "ルネサンス期",
+        "総合的・演繹的数学",
+        "解析的・発見的数学"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:32.052Z",
+    "model": "jev-1.13.0"
+  },
+  "20251221_kixixixixi/数学の歴史-2/代数学の発展": {
+    "page_id": "20251221_kixixixixi/数学の歴史-2/代数学の発展",
+    "content_hash": "sha256:c3aef30b8944ec919250efdc9a0a06e83b8c85e4bf38eab37bba39ecbede83c3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [
+        "タルタリア",
+        "カルダノ",
+        "フェラーリ",
+        "イタリア",
+        "ヴィエト"
+      ],
+      "tags": [
+        "代数学の発展",
+        "解法の技"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:32.056Z",
+    "model": "jev-1.13.0"
+  },
+  "20251221_kixixixixi/数学の歴史-2/解析学の誕生": {
+    "page_id": "20251221_kixixixixi/数学の歴史-2/解析学の誕生",
+    "content_hash": "sha256:2a1cacdcb549a9b999ed19d96362ef16ca4d83b7c545e7176ef8f1cb314fe5f6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "デカルト",
+        "フェルマー"
+      ],
+      "tags": [
+        "解析学の誕生"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:32.199Z",
+    "model": "jev-1.13.0"
+  },
+  "20251221_kixixixixi/数学の歴史-2/微積分学の誕生": {
+    "page_id": "20251221_kixixixixi/数学の歴史-2/微積分学の誕生",
+    "content_hash": "sha256:b6a6cd145d13557725f85e32a149b9cda480bc3d27c6091fb0193cfd7ea1cac4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "ニュートン",
+        "ライプニッツ"
+      ],
+      "tags": [
+        "微積分学の誕生"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:32.195Z",
+    "model": "jev-1.13.0"
+  },
+  "20251221_kixixixixi/数学の歴史-2/確率論": {
+    "page_id": "20251221_kixixixixi/数学の歴史-2/確率論",
+    "content_hash": "sha256:a046bc9bb4c82e543aeec221c8dba821263c1a10fb1de6a24e0e82b6ef1ba31b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "17世紀",
+        "18世紀"
+      ],
+      "entities": [
+        "ベルヌーイ",
+        "ラプラス",
+        "パスカル",
+        "フェルマー",
+        "ホイヘンス"
+      ],
+      "tags": [
+        "確率論"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:32.313Z",
+    "model": "jev-1.13.0"
+  },
+  "20251221_kixixixixi/数学の歴史-2/解析学の発展(18-世紀)": {
+    "page_id": "20251221_kixixixixi/数学の歴史-2/解析学の発展(18-世紀)",
+    "content_hash": "sha256:c561b3439ffdd5b858728a25d51ed97b6cf34cc1a532d5c7de05a1793a75c182",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "オイラー",
+        "ベルヌーイ",
+        "ダランベール",
+        "ラグランジュ",
+        "ラプラス"
+      ],
+      "tags": [
+        "解析学の発展"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:32.260Z",
+    "model": "jev-1.13.0"
+  },
+  "20251221_kixixixixi/数学の歴史-2/解析学の厳密化": {
+    "page_id": "20251221_kixixixixi/数学の歴史-2/解析学の厳密化",
+    "content_hash": "sha256:3039511e476c2e7912f6efa1a644b819f6327cae74d0b58ba67a03e0b3ad5122",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "コーシー",
+        "ワイエルシュトラス",
+        "デデキント"
+      ],
+      "tags": [
+        "解析学の厳密化",
+        "無限"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:32.422Z",
+    "model": "jev-1.13.0"
+  },
+  "20251221_kixixixixi/数学の歴史-2/非ユークリッド幾何学": {
+    "page_id": "20251221_kixixixixi/数学の歴史-2/非ユークリッド幾何学",
+    "content_hash": "sha256:aadfd016f5a079cfce67acb04e9604f1093229a4ceccf71e9635a17ae7bc47d7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "ガウス"
+      ],
+      "tags": [
+        "非ユークリッド幾何学",
+        "唯一",
+        "ユークリッド"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:32.411Z",
+    "model": "jev-1.13.0"
+  }
+}

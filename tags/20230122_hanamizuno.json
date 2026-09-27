@@ -1,0 +1,224 @@
+{
+  "20230122_hanamizuno/ヴェネツィアの歴史-3/ヴェネツィアの歴史-3": {
+    "page_id": "20230122_hanamizuno/ヴェネツィアの歴史-3/ヴェネツィアの歴史-3",
+    "content_hash": "sha256:3135cfeaae5d8eb289b799fa79488cfad8c4eaca5cdc3d867c8d27edd95f7887",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ヴェネツィアの歴史 3",
+        "ヴェネツィア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:27.331Z",
+    "model": "jev-1.13.0"
+  },
+  "20230122_hanamizuno/ヴェネツィアの歴史-3/参考文献": {
+    "page_id": "20230122_hanamizuno/ヴェネツィアの歴史-3/参考文献",
+    "content_hash": "sha256:5fff6dd5d2c05d7f331d602ec5ceaab1ed9f51a5b4140258dbfd030fd5a2fb99",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:27.335Z",
+    "model": "jev-1.13.0"
+  },
+  "20230122_hanamizuno/ヴェネツィアの歴史-3/第四回十字軍": {
+    "page_id": "20230122_hanamizuno/ヴェネツィアの歴史-3/第四回十字軍",
+    "content_hash": "sha256:9c11680ee04d20989a32eccb7e619f478d8a0c77b6532c6d4a2f49151b40d7b0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "13世紀"
+      ],
+      "entities": [
+        "第四回十字軍",
+        "フランス",
+        "ローマ",
+        "エジプト",
+        "ヴェネツィア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:27.364Z",
+    "model": "jev-1.13.0"
+  },
+  "20230122_hanamizuno/ヴェネツィアの歴史-3/ヴェネツィアの意図": {
+    "page_id": "20230122_hanamizuno/ヴェネツィアの歴史-3/ヴェネツィアの意図",
+    "content_hash": "sha256:af8e18eea4132f89547780885f27149ad3cabcd336bba12900dc5bb10cb7da60",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ヴェネツィアの意図",
+        "ヴェネツィア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:27.448Z",
+    "model": "jev-1.13.0"
+  },
+  "20230122_hanamizuno/ヴェネツィアの歴史-3/フランス諸侯資金難": {
+    "page_id": "20230122_hanamizuno/ヴェネツィアの歴史-3/フランス諸侯資金難",
+    "content_hash": "sha256:66537e9b5f30ba9e69f7f5608f3806c4446b7a0976d66f8b1b8634e433cf0aab",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [],
+      "entities": [
+        "フランス",
+        "ヴェネツィア"
+      ],
+      "tags": [
+        "フランス諸侯資金難"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:27.568Z",
+    "model": "jev-1.13.0"
+  },
+  "20230122_hanamizuno/ヴェネツィアの歴史-3/ザーラ奪還と破門、目標変更": {
+    "page_id": "20230122_hanamizuno/ヴェネツィアの歴史-3/ザーラ奪還と破門、目標変更",
+    "content_hash": "sha256:e0f2e4fd6a14d70ba147dbb8d8da28cb52194285d8a8b9db76014b1197b71306",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "13世紀"
+      ],
+      "entities": [
+        "ザーラ奪還と破門、目標変更",
+        "ザーラ",
+        "ヴェネツィア",
+        "ローマ",
+        "アレクシオス",
+        "コンスタンティノープル",
+        "ビザンツ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:27.780Z",
+    "model": "jev-1.13.0"
+  },
+  "20230122_hanamizuno/ヴェネツィアの歴史-3/コンスタンティノープル征服": {
+    "page_id": "20230122_hanamizuno/ヴェネツィアの歴史-3/コンスタンティノープル征服",
+    "content_hash": "sha256:f96a96ad18f5ab8d1b4b47aca8c3574d69d38cc5ee62b5aeea30835be2b7ad00",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "政治",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "13世紀"
+      ],
+      "entities": [
+        "コンスタンティノープル征服",
+        "コンスタンティノープル",
+        "アレクシオス",
+        "ビザンツ",
+        "ラテン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:27.572Z",
+    "model": "jev-1.13.0"
+  },
+  "20230122_hanamizuno/ヴェネツィアの歴史-3/ローマ帝国領の分割": {
+    "page_id": "20230122_hanamizuno/ヴェネツィアの歴史-3/ローマ帝国領の分割",
+    "content_hash": "sha256:0a8f5986db3f62cde579b0105207f1a6a2c6acd3723e10dc052858eaf75908ec",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "13世紀"
+      ],
+      "entities": [
+        "ローマ帝国領の分割",
+        "ローマ",
+        "パルティティオ・ロマニアエ",
+        "ビザンツ",
+        "ヴェネツィア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:27.691Z",
+    "model": "jev-1.13.0"
+  },
+  "20230122_hanamizuno/ヴェネツィアの歴史-3/イタリア中世海運都市": {
+    "page_id": "20230122_hanamizuno/ヴェネツィアの歴史-3/イタリア中世海運都市",
+    "content_hash": "sha256:9ebe0162bc11b79e0b97c1a9ffa0158edcd7aef621fdbc8ff3d22724063484fd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [],
+      "entities": [
+        "イタリア",
+        "アマルフィ",
+        "ジェノヴァ"
+      ],
+      "tags": [
+        "イタリア中世海運都市"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:27.784Z",
+    "model": "jev-1.13.0"
+  }
+}

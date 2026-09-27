@@ -1,0 +1,374 @@
+{
+  "20211114_ihara/西洋美術史-超入門/西洋美術史-超入門": {
+    "page_id": "20211114_ihara/西洋美術史-超入門/西洋美術史-超入門",
+    "content_hash": "sha256:23301d417ec426dcf3280e7a733a37331e47bcd7b5f2a8f64b73883d27e1c48f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:59.170Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_ihara/概要/概要": {
+    "page_id": "20211114_ihara/概要/概要",
+    "content_hash": "sha256:c27d821ad98a540c07da124914eab55f94f39d295f40ca763d1c3fc92c76d90b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "芸術"
+      ],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ブーム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:59.245Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_ihara/興味を持ったきっかけ/興味を持ったきっかけ": {
+    "page_id": "20211114_ihara/興味を持ったきっかけ/興味を持ったきっかけ",
+    "content_hash": "sha256:4437471c4698c7769556c14c012be0bacf2138e8a083f615cc2bbe63879a88d7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:59.417Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_ihara/ざっくりとした年表-(1)/ざっくりとした年表-(1)": {
+    "page_id": "20211114_ihara/ざっくりとした年表-(1)/ざっくりとした年表-(1)",
+    "content_hash": "sha256:7943f260a2608c1a929155b30f75fa23a658bd28049672efe5eb12547692ba2e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "エジプト・メソポタミア",
+        "エーゲ",
+        "ギリシャ",
+        "エトルリア・ローマ",
+        "キリスト",
+        "ビザンティン",
+        "プロト・ルネサンス",
+        "ルネサンス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:59.338Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_ihara/ざっくりとした年表---次回-(2)/ざっくりとした年表---次回-(2)": {
+    "page_id": "20211114_ihara/ざっくりとした年表---次回-(2)/ざっくりとした年表---次回-(2)",
+    "content_hash": "sha256:8e2ea66b9fe2cfab5e993bf1e2c420e5801a2158746eef5e27e8fc8dd10b3997",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "マニエリスム",
+        "バロック",
+        "ロココ",
+        "ロマン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:59.379Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_ihara/エジプト・メソポタミア/エジプト・メソポタミア": {
+    "page_id": "20211114_ihara/エジプト・メソポタミア/エジプト・メソポタミア",
+    "content_hash": "sha256:727cf84548ca276fb0eeafc10b1d2faf0efe92409b0c115e31c28a8aaaf06ae8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "思想"
+      ],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前",
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀",
+        "4世紀"
+      ],
+      "entities": [
+        "エジプト・メソポタミア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:59.471Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_ihara/エーゲ文明・ギリシャ/エーゲ文明・ギリシャ": {
+    "page_id": "20211114_ihara/エーゲ文明・ギリシャ/エーゲ文明・ギリシャ",
+    "content_hash": "sha256:3a658150ed223e456f946e18cb00aa327ede32c53e2fb6ae85a13578ed8e6bef",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前2千年紀以前",
+        "紀元前1千年紀",
+        "1世紀"
+      ],
+      "entities": [
+        "エーゲ文明・ギリシャ",
+        "エーゲ",
+        "ギリシャ",
+        "ヴィーナス",
+        "サモトラケ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:59.554Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_ihara/エトルリア・ローマ/エトルリア・ローマ": {
+    "page_id": "20211114_ihara/エトルリア・ローマ/エトルリア・ローマ",
+    "content_hash": "sha256:54055ecf57570f9458fb0297fc63360fc18fe4dfacd891df7b444f599468b426",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀",
+        "4世紀"
+      ],
+      "entities": [
+        "エトルリア・ローマ",
+        "ローマ",
+        "プリマ・ポルタ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:59.601Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_ihara/初期キリスト教・ビザンティン/初期キリスト教・ビザンティン": {
+    "page_id": "20211114_ihara/初期キリスト教・ビザンティン/初期キリスト教・ビザンティン",
+    "content_hash": "sha256:64543e2310b0577be94f210a891f011b7c14331939e9edd35b2ca7c2dab9d705",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "3世紀",
+        "4世紀",
+        "5世紀",
+        "6世紀",
+        "7世紀",
+        "8世紀",
+        "9世紀",
+        "10世紀",
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀",
+        "15世紀"
+      ],
+      "entities": [
+        "初期キリスト教・ビザンティン",
+        "ビザンティン"
+      ],
+      "tags": [
+        "アトリビュート"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:59.618Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_ihara/ロマネスク・ゴシック/ロマネスク・ゴシック": {
+    "page_id": "20211114_ihara/ロマネスク・ゴシック/ロマネスク・ゴシック",
+    "content_hash": "sha256:48a0c2af84d94be10d9a02a56dff2f8491a49ffd2874590cd53c593c3bfee896",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "芸術"
+      ],
+      "region": [],
+      "period": [
+        "10世紀",
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "ロマネスク・ゴシック",
+        "ゴシック",
+        "ロマネスク",
+        "キリスト",
+        "ステンドグラス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:59.716Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_ihara/プロト・ルネサンス/プロト・ルネサンス": {
+    "page_id": "20211114_ihara/プロト・ルネサンス/プロト・ルネサンス",
+    "content_hash": "sha256:bdcad1fb2fbe8720090dfdef867b762f3f0126ec9dd07d2753ab94d75bfc5ea4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [
+        "宗教",
+        "文化"
+      ],
+      "culture": [
+        "芸術"
+      ],
+      "region": [],
+      "period": [
+        "13世紀",
+        "14世紀"
+      ],
+      "entities": [
+        "プロト・ルネサンス"
+      ],
+      "tags": [
+        "勝者としてのキリスト",
+        "人間的なキリスト",
+        "キリスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:59.758Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_ihara/ルネサンス-(1)/ルネサンス-(1)": {
+    "page_id": "20211114_ihara/ルネサンス-(1)/ルネサンス-(1)",
+    "content_hash": "sha256:c3f45eab4daff9f9d8ea73344b292314073b1e99ed4d2310d846c10dec7897a0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "14世紀",
+        "15世紀",
+        "16世紀"
+      ],
+      "entities": [
+        "メディチ"
+      ],
+      "tags": [
+        "ルネサンス",
+        "復活",
+        "再生"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:59.825Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_ihara/ルネサンス-(2)/ルネサンス-(2)": {
+    "page_id": "20211114_ihara/ルネサンス-(2)/ルネサンス-(2)",
+    "content_hash": "sha256:6d961f98b670a76fb3fa3ec8e0e30e8c066b94d621df76ca72f90f795d38e178",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [
+        "芸術"
+      ],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ミケランジェロ",
+        "ダヴィデ",
+        "レオナルド・ダ・ヴィンチ",
+        "ラファエロ",
+        "ボッティチェリ"
+      ],
+      "tags": [
+        "ルネサンス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:59.857Z",
+    "model": "jev-1.13.0"
+  },
+  "20211114_ihara/ルネサンス-(3)/ルネサンス-(3)": {
+    "page_id": "20211114_ihara/ルネサンス-(3)/ルネサンス-(3)",
+    "content_hash": "sha256:0ede1698d71a77cd1e2abcc06a0d4e0c93ed298c477b2d7dfe2a9ff6dd5c7637",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "文化"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ルネサンス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:59.919Z",
+    "model": "jev-1.13.0"
+  }
+}

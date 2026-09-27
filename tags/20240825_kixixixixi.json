@@ -1,0 +1,333 @@
+{
+  "20240825_kixixixixi/アルバニアの歴史/アルバニアの歴史": {
+    "page_id": "20240825_kixixixixi/アルバニアの歴史/アルバニアの歴史",
+    "content_hash": "sha256:0bd96a952dc249361121630d93bbbdd295f14884bf1c418da4b54b2b8a015ee2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "アルバニアの歴史",
+        "アルバニア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:04.285Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_kixixixixi/アルバニア-/アルバニア-": {
+    "page_id": "20240825_kixixixixi/アルバニア-/アルバニア-",
+    "content_hash": "sha256:fa6b294e3060037f90eecd588747aae74fd0ca6889139afd125d88b2969b15fa",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "アルバニア?",
+        "アルバニア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:04.417Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_kixixixixi/アルバニアのイメージ/アルバニアのイメージ": {
+    "page_id": "20240825_kixixixixi/アルバニアのイメージ/アルバニアのイメージ",
+    "content_hash": "sha256:7d0665ee8f2a60f602ac6c424b2bb2bf6b88e233da4447a7d15368d38f2cbc96",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "アルバニア"
+      ],
+      "tags": [
+        "イメージ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:04.415Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_kixixixixi/アルバニア/アルバニア": {
+    "page_id": "20240825_kixixixixi/アルバニア/アルバニア",
+    "content_hash": "sha256:45d7b7e4a3b30265ba10f749e30d27207d54dd54d72e3c9f9f2640815dd6a79f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "アルバニア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:04.451Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_kixixixixi/アルバニアの語源/アルバニアの語源": {
+    "page_id": "20240825_kixixixixi/アルバニアの語源/アルバニアの語源",
+    "content_hash": "sha256:07dfb909b35b9184061fa01b22c4bef485d2908f48d834314756db0688c5f39e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "アルバニアの語源",
+        "アルバニア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:04.490Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_kixixixixi/概要/概要": {
+    "page_id": "20240825_kixixixixi/概要/概要",
+    "content_hash": "sha256:c866e9d9ed14a817bcdecef5891f163ea0afaee3a63fd7c3cae0cb9cbc61c9f5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "イリュリア",
+        "ローマ",
+        "オスマン",
+        "イタリア",
+        "ソビエト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:04.632Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_kixixixixi/古代/古代": {
+    "page_id": "20240825_kixixixixi/古代/古代",
+    "content_hash": "sha256:ad05d7a8cc1a673781b589ca8e79a468a51c4531d5825b607804de003a9d4e93",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀",
+        "1世紀",
+        "2世紀",
+        "3世紀",
+        "4世紀"
+      ],
+      "entities": [
+        "イリュリア"
+      ],
+      "tags": [
+        "古代"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:04.625Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_kixixixixi/ローマ帝国支配/ローマ帝国支配": {
+    "page_id": "20240825_kixixixixi/ローマ帝国支配/ローマ帝国支配",
+    "content_hash": "sha256:b26b54640d73e08f92f1a46c19ecd27608dcbb39434794de03234e514a6e9d9f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "ローマ帝国支配",
+        "ローマ",
+        "イリュリア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:04.661Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_kixixixixi/オスマン帝国支配/オスマン帝国支配": {
+    "page_id": "20240825_kixixixixi/オスマン帝国支配/オスマン帝国支配",
+    "content_hash": "sha256:9be787bb2d2e23f786d33d425af1dcd603baadefa0646c5c3eaf621511b24f46",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "14世紀",
+        "15世紀"
+      ],
+      "entities": [
+        "オスマン帝国支配",
+        "オスマン",
+        "スカンデルベク",
+        "アルバニア",
+        "メフメト"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:44:04.745Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_kixixixixi/独立/独立": {
+    "page_id": "20240825_kixixixixi/独立/独立",
+    "content_hash": "sha256:d30a4d2d379bb9766ed6404ff3f537fe2b0e3c606e0e23fe85ccbc2af30ca8de",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "アルバニア",
+        "ゾグー"
+      ],
+      "tags": [
+        "独立"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:04.825Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_kixixixixi/共産主義時代-「設立〜対立」/共産主義時代-「設立〜対立」": {
+    "page_id": "20240825_kixixixixi/共産主義時代-「設立〜対立」/共産主義時代-「設立〜対立」",
+    "content_hash": "sha256:fd9a69e4dfc11d82c9f8003dcc0c0c375da60bc66c54469fbd9d6933c8e37abe",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治",
+        "外交"
+      ],
+      "culture": [],
+      "region": [
+        "ヨーロッパ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ホッジャ",
+        "アルバニア",
+        "ユーゴスラビア",
+        "ロシア"
+      ],
+      "tags": [
+        "共産主義時代 「設立〜対立」",
+        "設立〜対立"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:04.886Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_kixixixixi/共産主義時代-「鎖国」/共産主義時代-「鎖国」": {
+    "page_id": "20240825_kixixixixi/共産主義時代-「鎖国」/共産主義時代-「鎖国」",
+    "content_hash": "sha256:75dad35db708c1922921aa831fcb44509f0dc37e08eb05b2c25423807788234a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "共産主義時代 「鎖国」",
+        "鎖国"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:04.871Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_kixixixixi/非共産化・ねずみ講/非共産化・ねずみ講": {
+    "page_id": "20240825_kixixixixi/非共産化・ねずみ講/非共産化・ねずみ講",
+    "content_hash": "sha256:811c829e6f514a45b314d1c6a12fd4ee3f4cae6290aaddfd91aad7095822a066",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "アルバニア共和国",
+        "ラミズ・アリア",
+        "アルバニア"
+      ],
+      "tags": [
+        "非共産化・ねずみ講",
+        "ネズミ",
+        "ポンジ・スキーム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:04.969Z",
+    "model": "jev-1.13.0"
+  },
+  "20240825_kixixixixi/現代/現代": {
+    "page_id": "20240825_kixixixixi/現代/現代",
+    "content_hash": "sha256:2114f264a5a430be7db39ea153cbc0562ab5a57090983dd043713cd6a694fa86",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "現代"
+      ]
+    },
+    "processed_at": "2026-09-25T13:44:05.024Z",
+    "model": "jev-1.13.0"
+  }
+}

@@ -1,0 +1,1037 @@
+{
+  "20230513_nishihara/アフリカの歴史/アフリカの歴史": {
+    "page_id": "20230513_nishihara/アフリカの歴史/アフリカの歴史",
+    "content_hash": "sha256:1d789c90032cee2cfa9b4a1cc3a897ba2f1283444b0e3227776bbc0767301b66",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "アフリカの歴史",
+        "アフリカ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:30.763Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/地図": {
+    "page_id": "20230513_nishihara/アフリカの歴史/地図",
+    "content_hash": "sha256:73fca55473b29ecb3d37032ed74567296026779893c96c2bc64d3e9869017ba5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:30.773Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/登場する主な国": {
+    "page_id": "20230513_nishihara/アフリカの歴史/登場する主な国",
+    "content_hash": "sha256:2cd9170abaded24aecdd70d5486076ffd50a823dc405e85541ea9e325d77161a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "コンゴ",
+        "ザイール"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:30.853Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/--コンゴ民主共和国": {
+    "page_id": "20230513_nishihara/アフリカの歴史/--コンゴ民主共和国",
+    "content_hash": "sha256:56485b97bd129980c255d6909d18c61ca20613abcd985c5477fde0199cab1b32",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "- コンゴ民主共和国",
+        "コンゴ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:30.972Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/--ルワンダ": {
+    "page_id": "20230513_nishihara/アフリカの歴史/--ルワンダ",
+    "content_hash": "sha256:054c01da94b762ad7fdbd6e69d541e2e67c92c45a803041ac1657986e460a5d6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "- ルワンダ",
+        "ルワンダ",
+        "スーダン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:30.980Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/ざっくりまとめ": {
+    "page_id": "20230513_nishihara/アフリカの歴史/ざっくりまとめ",
+    "content_hash": "sha256:cf42b8a03fb5894d64ddb151978052fbfe6e7d277024f7fce448408a342790f3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:30.968Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/白人流入以前の時代のアフリカ(ウガンダ、スーダン、コンゴなどの地域)": {
+    "page_id": "20230513_nishihara/アフリカの歴史/白人流入以前の時代のアフリカ(ウガンダ、スーダン、コンゴなどの地域)",
+    "content_hash": "sha256:560624b34f1feb788a91ef84fcc66bd36672825413bb5a5de5ff12dbe4050631",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [
+        "アフリカ",
+        "ウガンダ",
+        "スーダン",
+        "コンゴ"
+      ],
+      "tags": [
+        "白人流入以前の時代のアフリカ",
+        "クラン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:31.051Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/白人がやってきた": {
+    "page_id": "20230513_nishihara/アフリカの歴史/白人がやってきた",
+    "content_hash": "sha256:0094a54419ac6d016cd6b86be13c9ee71abb7a2d037b1715501619bfb7c9fdfa",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "サハラ以南アフリカ"
+      ],
+      "period": [
+        "15世紀",
+        "16世紀",
+        "17世紀",
+        "18世紀"
+      ],
+      "entities": [
+        "エドワード",
+        "コンゴ"
+      ],
+      "tags": [
+        "白人がやってきた"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:31.181Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/アフリカ人同士の争い": {
+    "page_id": "20230513_nishihara/アフリカの歴史/アフリカ人同士の争い",
+    "content_hash": "sha256:4fba8ff681b3fab56d79e9de599ebb7ce6f74ea94e0be8ce4372f363a6e172fc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "アフリカ"
+      ],
+      "tags": [
+        "アフリカ人同士の争い"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:31.176Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/イギリスをはじめとした欧米諸国の奴隷貿易(世界最大の人権侵害を犯した「イギリス」)": {
+    "page_id": "20230513_nishihara/アフリカの歴史/イギリスをはじめとした欧米諸国の奴隷貿易(世界最大の人権侵害を犯した「イギリス」)",
+    "content_hash": "sha256:7f767f1586d2ca5711a1b61dd13f40083797e24d9bf9d97f63151802feff0027",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "イギリス",
+        "オランダ",
+        "フランス",
+        "ルソー"
+      ],
+      "tags": [
+        "イギリスをはじめとした欧米諸国の奴隷貿易"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:31.204Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/--1人の奴隷を得るために、10倍の人々の命を奪ったといわれる": {
+    "page_id": "20230513_nishihara/アフリカの歴史/--1人の奴隷を得るために、10倍の人々の命を奪ったといわれる",
+    "content_hash": "sha256:0ef4a50f8b9e76bb7c8932b0d77049db662f1dbeb761e30402644a9279b5bdc1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "イギリス",
+        "アフリカ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:31.269Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/--1807年、イギリスは「奴隷禁止」の法律を作る": {
+    "page_id": "20230513_nishihara/アフリカの歴史/--1807年、イギリスは「奴隷禁止」の法律を作る",
+    "content_hash": "sha256:d921e2d208884cfcd0d99642a277501bc80dec6a54c8a8f986c08251fa80b9a9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "- 1807年、イギリスは「奴隷禁止」の法律を作る",
+        "イギリス"
+      ],
+      "tags": [
+        "奴隷禁止"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:31.388Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/三角貿易": {
+    "page_id": "20230513_nishihara/アフリカの歴史/三角貿易",
+    "content_hash": "sha256:b1099d16402439abb4976804b0fb89d3252dcfa84f31ff86fcac5ad37355d217",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "三角貿易"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:31.411Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/奴隷貿易後の資源の奪い合い": {
+    "page_id": "20230513_nishihara/アフリカの歴史/奴隷貿易後の資源の奪い合い",
+    "content_hash": "sha256:0e11319798ee0b5746baeb802afe44580e41b01dc564066c99eb2daa4cbbf669",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "ベルリン",
+        "アフリカ",
+        "コンゴ",
+        "ベルギー",
+        "レオポルド"
+      ],
+      "tags": [
+        "奴隷貿易後の資源の奪い合い"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:31.407Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/レオポルド2世": {
+    "page_id": "20230513_nishihara/アフリカの歴史/レオポルド2世",
+    "content_hash": "sha256:477c38969af3288e654f691bcc69a679ba26fd4f39da0946a439a50e27622d5c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "レオポルド2世",
+        "レオポルド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:31.497Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/ベルリン会議時の勢力図": {
+    "page_id": "20230513_nishihara/アフリカの歴史/ベルリン会議時の勢力図",
+    "content_hash": "sha256:e6a6cbea264ca7d45aaae9c2ef2c3df7bc4c1b7078ed763ded18b4168068bb0a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "ベルリン会議時の勢力図",
+        "ベルリン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:31.672Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/--例えばコンゴでは": {
+    "page_id": "20230513_nishihara/アフリカの歴史/--例えばコンゴでは",
+    "content_hash": "sha256:7f2c9a7e9d67120fec37d3053d4dee53c19435920a32b3582ea6b0ea74632435",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "サハラ以南アフリカ"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "コンゴ",
+        "アフリカ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:31.605Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/![image:350](https:-cdn.kibe.la-media-s": {
+    "page_id": "20230513_nishihara/アフリカの歴史/![image:350](https:-cdn.kibe.la-media-s",
+    "content_hash": "sha256:aa9688df98054de1784d814d97b8302ccdb4b064f4cfac329f839c0a4d65771d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:31.622Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/--間接統治": {
+    "page_id": "20230513_nishihara/アフリカの歴史/--間接統治",
+    "content_hash": "sha256:c8af08591840b305200a1702f81d10e92bad9f124aa54decc26911306068dfee",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "コンゴ",
+        "ベルギー",
+        "レオポルド"
+      ],
+      "tags": [
+        "- 間接統治"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:31.691Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/--さすがにスキャンダルに": {
+    "page_id": "20230513_nishihara/アフリカの歴史/--さすがにスキャンダルに",
+    "content_hash": "sha256:cdb6436c0ff945cbdd7c24a6d1e2783cbdd50cb34534c6e6a9f137a92c4c4358",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "レオポルド"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:31.878Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/BLMの影響": {
+    "page_id": "20230513_nishihara/アフリカの歴史/BLMの影響",
+    "content_hash": "sha256:84e7deefb26331676ed16809de7cd946f54702360163f14ed11cd2cd96e8299e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:31.826Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/コンゴの最高額紙幣(500コンゴフラン)": {
+    "page_id": "20230513_nishihara/アフリカの歴史/コンゴの最高額紙幣(500コンゴフラン)",
+    "content_hash": "sha256:1010eeb7e9f7e32729811e80659f67be37aa4108142e79269256358d0ee3e0a7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "コンゴの最高額紙幣",
+        "コンゴ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:31.887Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/民族間の紛争": {
+    "page_id": "20230513_nishihara/アフリカの歴史/民族間の紛争",
+    "content_hash": "sha256:88a4c903782123758428a75eb25ca00ed2faee3459eacbaafb9bafa2841f09e8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "アフリカ"
+      ],
+      "tags": [
+        "民族間の紛争",
+        "資金",
+        "知識、情報"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:31.895Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/--武器ビジネス": {
+    "page_id": "20230513_nishihara/アフリカの歴史/--武器ビジネス",
+    "content_hash": "sha256:27de067128866f156733eb24d6d4294e5029bc3e5b4f83b74f385b75ea6f9633",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "アフリカ"
+      ],
+      "tags": [
+        "- 武器ビジネス",
+        "ビジネス"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:32.025Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/--例えばコンゴのモブツ": {
+    "page_id": "20230513_nishihara/アフリカの歴史/--例えばコンゴのモブツ",
+    "content_hash": "sha256:c42c6500bce40d24f10e48126595a9f9dc3eca1dc9346d50432c47725b6f5d53",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "- 例えばコンゴのモブツ",
+        "コンゴ",
+        "モブツ",
+        "アメリカ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:32.092Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/大国が確保したかった利益": {
+    "page_id": "20230513_nishihara/アフリカの歴史/大国が確保したかった利益",
+    "content_hash": "sha256:e8bc43acd65d2fde03d4d2a81b0ee4bc995a801b75cd5088d136e0d7c4f5d6d0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "アフリカ",
+        "スーダン",
+        "ブルンジ"
+      ],
+      "tags": [
+        "大国が確保したかった利益"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:32.117Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/スーダンの油田の争い": {
+    "page_id": "20230513_nishihara/アフリカの歴史/スーダンの油田の争い",
+    "content_hash": "sha256:12bc4c0a9fc87d6bb748da24cc528c3c8479a5df683f6525f2ac8a101a1f7ac8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "スーダンの油田の争い",
+        "スーダン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:32.090Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/--72年に南部が一部権力を北部から奪い取ることに成功": {
+    "page_id": "20230513_nishihara/アフリカの歴史/--72年に南部が一部権力を北部から奪い取ることに成功",
+    "content_hash": "sha256:d0a076bd0c3cd538acec23e974e41e25aae7188022a25d6857d6fcc55e4c6add",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "イスラム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:32.236Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/シェブロン撤退": {
+    "page_id": "20230513_nishihara/アフリカの歴史/シェブロン撤退",
+    "content_hash": "sha256:b4d0cc19ffd7fb82a3bd8af81e731d2c93cab83e6f9983311aa7dfb8ed1ecb59",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "シェブロン撤退",
+        "シェブロン",
+        "アメリカ",
+        "スーダン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:32.325Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/--中国が軍事的、経済的な支援の見返りに油田の権利を獲得(アメリカが最初にみつけ": {
+    "page_id": "20230513_nishihara/アフリカの歴史/--中国が軍事的、経済的な支援の見返りに油田の権利を獲得(アメリカが最初にみつけ",
+    "content_hash": "sha256:d102ec2a0193f176c12c38a2904f208ef040a508a994fa637975bd6efeca71bb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治",
+        "外交"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "スーダン",
+        "エビエイ",
+        "アビエイ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:32.327Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/2013年の画像(アビエイ地区)": {
+    "page_id": "20230513_nishihara/アフリカの歴史/2013年の画像(アビエイ地区)",
+    "content_hash": "sha256:1c72717ec12b5410f3e19f26253251a6954effabb9c8dcfcda014c811a394f42",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [
+        "アビエイ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:32.321Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/地図~2": {
+    "page_id": "20230513_nishihara/アフリカの歴史/地図~2",
+    "content_hash": "sha256:6e33f14c8db654b1cdfe32b1431e378d6cf9e02d85c2739b7c3c76abc4d5a089",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:32.426Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/アフリカ中東部の紛争の震源地、コンゴ": {
+    "page_id": "20230513_nishihara/アフリカの歴史/アフリカ中東部の紛争の震源地、コンゴ",
+    "content_hash": "sha256:468af30b004f1e437f294784e3a2b3081bce339a68759df8cee45ac471ba0a16",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "サハラ以南アフリカ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "アフリカ中東部の紛争の震源地、コンゴ",
+        "コンゴ",
+        "ルムンバ",
+        "モブツ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:32.521Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/ルムンバ": {
+    "page_id": "20230513_nishihara/アフリカの歴史/ルムンバ",
+    "content_hash": "sha256:5e5a444de6589bb67fe1014273ad4db392152235cf1a47b4a5d4cbfd22cb757a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ルムンバ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:32.535Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/モブツ": {
+    "page_id": "20230513_nishihara/アフリカの歴史/モブツ",
+    "content_hash": "sha256:8df0ab8a4e52cf01cfe441bba855d5c8f7b5f1b9efa2794b5c0e66f389be5784",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "モブツ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:32.532Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/ツチ人とフツ人": {
+    "page_id": "20230513_nishihara/アフリカの歴史/ツチ人とフツ人",
+    "content_hash": "sha256:c2f876471fd35dc14aa4be7c7c68c4c33fd26ae7f2f5cb00638eefd6e79abc71",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "社会"
+      ],
+      "culture": [],
+      "region": [
+        "サハラ以南アフリカ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ツチ人とフツ人",
+        "ルワンダ",
+        "ブルンジ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:32.639Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/ルワンダの周辺": {
+    "page_id": "20230513_nishihara/アフリカの歴史/ルワンダの周辺",
+    "content_hash": "sha256:a3800a3ab250ec095d721b72249af5196d09ef9912261d4d2de0e3c3ec1d0bd4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ルワンダの周辺",
+        "ルワンダ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:32.710Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/ルワンダ大虐殺": {
+    "page_id": "20230513_nishihara/アフリカの歴史/ルワンダ大虐殺",
+    "content_hash": "sha256:bc128f6520cc498f12943923a69cce1b696f8428192943e26f5bd9611b125c9e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "サハラ以南アフリカ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ルワンダ大虐殺",
+        "ルワンダ",
+        "ブルンジ"
+      ],
+      "tags": [
+        "英語圏VSフランス語圏"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:32.735Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/--英米とウガンダはツチ勢力によるルワンダ侵攻を支援(1990年)": {
+    "page_id": "20230513_nishihara/アフリカの歴史/--英米とウガンダはツチ勢力によるルワンダ侵攻を支援(1990年)",
+    "content_hash": "sha256:25114a25272da4a8a712cbe5ec810db007bda182edd99ff13a9ba288a0aebe84",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "サハラ以南アフリカ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ルワンダ",
+        "アメリカ",
+        "フランス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:32.740Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/ルワンダジェノサイドでの逮捕記事(2020年フランス)": {
+    "page_id": "20230513_nishihara/アフリカの歴史/ルワンダジェノサイドでの逮捕記事(2020年フランス)",
+    "content_hash": "sha256:4ae683a408c47c8dcdece4c07642613c6922f3a05a68ea07a3640081df40c671",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [
+        "ルワンダジェノサイド",
+        "フランス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:32.840Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/コンゴの紛争": {
+    "page_id": "20230513_nishihara/アフリカの歴史/コンゴの紛争",
+    "content_hash": "sha256:786560234d555f2caea6eab212668dbfd2e629bc56cd6f254b4a03366dd5da21",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "コンゴの紛争",
+        "コンゴ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:32.906Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/--第1次コンゴ紛争": {
+    "page_id": "20230513_nishihara/アフリカの歴史/--第1次コンゴ紛争",
+    "content_hash": "sha256:65479bdf0a4cd997eb3a6fad5c9ce9e716649013a5e29898beedbf809efbe63c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "サハラ以南アフリカ"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "- 第1次コンゴ紛争",
+        "コンゴ",
+        "ルワンダ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:32.949Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/![image:1024](https:-cdn.kibe.la-media-": {
+    "page_id": "20230513_nishihara/アフリカの歴史/![image:1024](https:-cdn.kibe.la-media-",
+    "content_hash": "sha256:7bda992a003162611c25e5aec4e04c4562f32d093934394b06c588489e89cf6c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:32.952Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/--第2次コンゴ紛争": {
+    "page_id": "20230513_nishihara/アフリカの歴史/--第2次コンゴ紛争",
+    "content_hash": "sha256:c329f19b1d3282efc85a8e626f68684f9bbee3e248ebb9154b700c6407a185e1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "- 第2次コンゴ紛争",
+        "コンゴ",
+        "アフリカ",
+        "ローラン・カビラ",
+        "カビラ",
+        "ルワンダ",
+        "ウガンダ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:33.041Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/![image:1024](https:-cdn.kibe.la-media-~2": {
+    "page_id": "20230513_nishihara/アフリカの歴史/![image:1024](https:-cdn.kibe.la-media-~2",
+    "content_hash": "sha256:bf069cb3bd2d6fe6033c523f784fc2187ff8320057233ecc265ffe3b00f8d004",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:33.145Z",
+    "model": "jev-1.13.0"
+  },
+  "20230513_nishihara/アフリカの歴史/コンゴの死者": {
+    "page_id": "20230513_nishihara/アフリカの歴史/コンゴの死者",
+    "content_hash": "sha256:8e580e8f8747a2d06c8d48d5d475419aa99b889b7542b2346bfb09c46ba3d7b9",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "コンゴの死者",
+        "コンゴ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:33.141Z",
+    "model": "jev-1.13.0"
+  }
+}

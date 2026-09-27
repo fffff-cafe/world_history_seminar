@@ -1,0 +1,806 @@
+{
+  "20210926_kixixixixi/中国共産党/中国共産党": {
+    "page_id": "20210926_kixixixixi/中国共産党/中国共産党",
+    "content_hash": "sha256:abc2f65bfe6b9d7a61f69561dcc1d28fecdb1a721cc44a97307096496f4b9c8a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "中国共産党"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:56.241Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/目次/目次": {
+    "page_id": "20210926_kixixixixi/目次/目次",
+    "content_hash": "sha256:7ad548d2cfccb6ec922af13298808d8f30ca43b2af60905430186f42e3754a02",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:56.302Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/中国共産党とは/中国共産党とは": {
+    "page_id": "20210926_kixixixixi/中国共産党とは/中国共産党とは",
+    "content_hash": "sha256:6f3529a8c37dc99e3ae1abeb2b6e505c4d84b0fc38a74ec447cd15a93321fb75",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "中国共産党とは"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:56.351Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/中国共産党とは/共産主義とは-": {
+    "page_id": "20210926_kixixixixi/中国共産党とは/共産主義とは-",
+    "content_hash": "sha256:6f7f720e2ee775668128870a90594bba4fe9e9a9a40039f4ab06d48b683673e2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "共産主義とは?"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:56.357Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/中国共産党とは/共産主義-社会主義-": {
+    "page_id": "20210926_kixixixixi/中国共産党とは/共産主義-社会主義-",
+    "content_hash": "sha256:fc508ca30cebba22feb325d7fab5f21841b6158d26840bbb38ce14f32cc177e6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "共産主義?社会主義?"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:56.487Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/中国共産党とは/--全体主義": {
+    "page_id": "20210926_kixixixixi/中国共産党とは/--全体主義",
+    "content_hash": "sha256:f6a3367561b022e41c07ad3241d195791f491338508f6d043b41a70593c72111",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "思想"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "- 全体主義"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:56.510Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/結党/結党": {
+    "page_id": "20210926_kixixixixi/結党/結党",
+    "content_hash": "sha256:ee3060c2d332d462642c869032103305d6ec4b5baff64f8f11297a2cc3479450",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "クーデタ"
+      ],
+      "tags": [
+        "結党"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:56.545Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/結党/五・四運動": {
+    "page_id": "20210926_kixixixixi/結党/五・四運動",
+    "content_hash": "sha256:581d97ab3a5afe9abeb855b77a2a31616bf23c64840b025b7e467ddd6f286c1a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治",
+        "外交"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "五・四運動"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:56.571Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/結党/創立大会": {
+    "page_id": "20210926_kixixixixi/結党/創立大会",
+    "content_hash": "sha256:563aa661f12d57e13db27bb8f5e7c32542192de4f8b5c68e1701ca1bac6c99d6",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "創立大会"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:56.698Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/結党/結党後": {
+    "page_id": "20210926_kixixixixi/結党/結党後",
+    "content_hash": "sha256:6f88a133675c3e2e760f0b853e941738937839155f3192b9a965707e4439b86f",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "結党後"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:56.754Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/結党/第1次国共合作": {
+    "page_id": "20210926_kixixixixi/結党/第1次国共合作",
+    "content_hash": "sha256:a534ccf0b5ad048cc7e0b0a9d7d53a57482fc1d60ea58ba59cfe750f6cf27d09",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "第1次国共合作"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:56.748Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/結党/上海クーデター": {
+    "page_id": "20210926_kixixixixi/結党/上海クーデター",
+    "content_hash": "sha256:e4f70c45198eda8a8292a0362fc3b69ece4d529d22e6f45a6675130a097bd9a3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "上海クーデター",
+        "クーデター",
+        "クーデタ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:56.811Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/結党/政権は銃口から生まれる": {
+    "page_id": "20210926_kixixixixi/結党/政権は銃口から生まれる",
+    "content_hash": "sha256:f8f45febc386c2cfabc6b41111daf35d2fd8985f6d3ccffaf51810453af12af3",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ソヴィエト"
+      ],
+      "tags": [
+        "政権は銃口から生まれる"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:56.911Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/結党/第2次国共合作": {
+    "page_id": "20210926_kixixixixi/結党/第2次国共合作",
+    "content_hash": "sha256:8094dd743b25f3cc7b9da007fa0611728e066a8e84de3e583a124f198952a1f0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "第2次国共合作"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:56.963Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/国共内戦/国共内戦": {
+    "page_id": "20210926_kixixixixi/国共内戦/国共内戦",
+    "content_hash": "sha256:9b9b520a935ff3f24cc065ca115e01ece7834b53fd78fc22fbab2dc1a282724c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "国共内戦"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:56.946Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/国共内戦/双十協定": {
+    "page_id": "20210926_kixixixixi/国共内戦/双十協定",
+    "content_hash": "sha256:b5ee87d7cf4d7619c030b048d370f5461858db7db7ec99cf3e097346e4cdb3b2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "双十協定"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:56.998Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/建国/建国": {
+    "page_id": "20210926_kixixixixi/建国/建国",
+    "content_hash": "sha256:9f29b59b4a34704598a8b5de19949ac27f0e092ca7d4a0399f0a826d2a5201dd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "建国"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:57.120Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/建国/中華人民共和国": {
+    "page_id": "20210926_kixixixixi/建国/中華人民共和国",
+    "content_hash": "sha256:7b275e1fadcb89eef2dd2730c8de8868bb0be724ee46d08a075f11a780298b4e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "中華人民共和国"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:57.133Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/建国/中ソ友好同盟相互援助条約": {
+    "page_id": "20210926_kixixixixi/建国/中ソ友好同盟相互援助条約",
+    "content_hash": "sha256:0bd089ae50e4369483b210d198ac02aad8ab53f602b67f4952bbda3555441d86",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治",
+        "外交",
+        "軍事"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "中ソ友好同盟相互援助条約"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:57.175Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/建国/第1次五カ年計画": {
+    "page_id": "20210926_kixixixixi/建国/第1次五カ年計画",
+    "content_hash": "sha256:a2e49c88332578b5230c0845c285e1397e46a1ee88a27439adf670db45807c25",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "第1次五カ年計画"
+      ],
+      "tags": [
+        "工業化と農業の集団化"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:57.218Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/建国/第2次五カ年計画": {
+    "page_id": "20210926_kixixixixi/建国/第2次五カ年計画",
+    "content_hash": "sha256:53eb28f63f29535f15b303401ea1268a7fe387d4830e45ad828d1c3cf0cacb36",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "第2次五カ年計画"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:57.314Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/建国/大躍進運動の挫折": {
+    "page_id": "20210926_kixixixixi/建国/大躍進運動の挫折",
+    "content_hash": "sha256:d36dcfd39e93e8ba3e0fa40d560f595451191f687656eca919745cb5efd18dc8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "大躍進運動の挫折"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:57.322Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/文化大革命/文化大革命": {
+    "page_id": "20210926_kixixixixi/文化大革命/文化大革命",
+    "content_hash": "sha256:c9778b33abd1cfd8a1f28da10a285cfa9c53991fb1e7826d91a5fd3c9f092958",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "文化大革命",
+        "プロレタリア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:57.383Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/文化大革命/プロレタリア文化大革命": {
+    "page_id": "20210926_kixixixixi/文化大革命/プロレタリア文化大革命",
+    "content_hash": "sha256:8d6f6d520896100598aa73e190e2b8d802a817905d3fcff93332866cdd25ffe5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "プロレタリア文化大革命",
+        "プロレタリア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:57.416Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/文化大革命/林彪事件": {
+    "page_id": "20210926_kixixixixi/文化大革命/林彪事件",
+    "content_hash": "sha256:87c66fd9ea16dd04bd9dbac8a842fca98e221921a820a3d00cca4e1237509a18",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "林彪事件"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:57.518Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/文化大革命/第1次天安門事件": {
+    "page_id": "20210926_kixixixixi/文化大革命/第1次天安門事件",
+    "content_hash": "sha256:24b67b980ac4ea73d1570858690096650a6c7f6d2bd1535b0ebc80f4eec4f66a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "第1次天安門事件"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:57.598Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/文化大革命/文化大革命の終結": {
+    "page_id": "20210926_kixixixixi/文化大革命/文化大革命の終結",
+    "content_hash": "sha256:8c8759a3483707eadad024b9db2fb2b83ac831bf4410364a6297379d8bc9e4a2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "文化大革命の終結"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:57.577Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/改革開放/改革開放": {
+    "page_id": "20210926_kixixixixi/改革開放/改革開放",
+    "content_hash": "sha256:2dcbdb7749c4b1fd6b8a51b8dca1a8c76f7689b61af9dc9d08c3cf58cf09846b",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "改革開放"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:57.622Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/改革開放/改革開放~2": {
+    "page_id": "20210926_kixixixixi/改革開放/改革開放~2",
+    "content_hash": "sha256:587d93601de99d67ac780e4b10ece52a1f2b5b4f6e74c9ff3e9a784c74dd8125",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "改革開放"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:57.732Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/改革開放/人民公社の解体": {
+    "page_id": "20210926_kixixixixi/改革開放/人民公社の解体",
+    "content_hash": "sha256:318688fc5d707dfe799fbb12d43912a83649315e5af2848e8cda1f670905aebe",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "人民公社の解体"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:57.780Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/改革開放/第2次天安門事件": {
+    "page_id": "20210926_kixixixixi/改革開放/第2次天安門事件",
+    "content_hash": "sha256:70b8481e1760707f699db461e919cf49e4b230a962967c68c12e081a160026f1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "第2次天安門事件"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:57.804Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/改革開放/民主化に理解を示していた前総書記胡耀邦が急死すると、その追悼の集会が北京の天安門": {
+    "page_id": "20210926_kixixixixi/改革開放/民主化に理解を示していた前総書記胡耀邦が急死すると、その追悼の集会が北京の天安門",
+    "content_hash": "sha256:d69cdc4ae8cc2b53d0e8e1e916c05c69dcdd5fd0f8358cc043a8344aee34744c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:42:57.823Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/共産党の現在/共産党の現在": {
+    "page_id": "20210926_kixixixixi/共産党の現在/共産党の現在",
+    "content_hash": "sha256:b746ae4ac7885cce473302e00a9f1a6978a51d3fa0aa809701118128b7026c82",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "社会主義市場経済"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:57.929Z",
+    "model": "jev-1.13.0"
+  },
+  "20210926_kixixixixi/共産党の現在/共産党のナショナリズム": {
+    "page_id": "20210926_kixixixixi/共産党の現在/共産党のナショナリズム",
+    "content_hash": "sha256:1ea93043d6c5b98c45df3de31c8249eef9fbf0674a6e561246de8a1d9a72f303",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [
+        "21世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "共産党のナショナリズム",
+        "ナショナリズム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:42:58.011Z",
+    "model": "jev-1.13.0"
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "20220515_hanamizuno/ニューヨークの歴史/ニューヨークの歴史": {
+    "page_id": "20220515_hanamizuno/ニューヨークの歴史/ニューヨークの歴史",
+    "content_hash": "sha256:fd7c5f7209452112d454571a80c81c85050dc16a3fd1ea33700676d7bca0fe46",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ニューヨークの歴史",
+        "ニューヨーク"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:13.799Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hanamizuno/ニューヨークの歴史/はじめに": {
+    "page_id": "20220515_hanamizuno/ニューヨークの歴史/はじめに",
+    "content_hash": "sha256:b83bd95d4ae12f861f5b082e4bf227c6bc57875abf4b8b424aecf73bf7e191c8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:13.803Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hanamizuno/ニューヨークの歴史/MCU": {
+    "page_id": "20220515_hanamizuno/ニューヨークの歴史/MCU",
+    "content_hash": "sha256:204c5228926400b9c28f464f75dc4d9189a7dcf62f7aaaced54fcc99b75e229c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:13.881Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hanamizuno/ニューヨークの歴史/NetflixのMCUドラマ": {
+    "page_id": "20220515_hanamizuno/ニューヨークの歴史/NetflixのMCUドラマ",
+    "content_hash": "sha256:18b9b4496473d40be7ef426dee8b4f7c9e5a77b1eed49892c1348ae8824e0f11",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:13.941Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hanamizuno/ニューヨークの歴史/他のフィクション": {
+    "page_id": "20220515_hanamizuno/ニューヨークの歴史/他のフィクション",
+    "content_hash": "sha256:61fe5c5f26737033d645ea0d7829f6f33f31dd0b99d97fe62a10ba69af89ca19",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:14.009Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hanamizuno/ニューヨークの歴史/今回の内容": {
+    "page_id": "20220515_hanamizuno/ニューヨークの歴史/今回の内容",
+    "content_hash": "sha256:f39f6685e4879bbc5f6f9ab137164f0e09f4df33f950c565d5d6e1461b9fe8e4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀",
+        "16世紀",
+        "17世紀",
+        "18世紀"
+      ],
+      "entities": [
+        "ニューヨーク"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:14.016Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hanamizuno/ニューヨークの歴史/ヨーロッパによる発見まで": {
+    "page_id": "20220515_hanamizuno/ニューヨークの歴史/ヨーロッパによる発見まで",
+    "content_hash": "sha256:992bd8f541be0e09494583db6f6d74392b99da9167125ccaf1cc181504dc37b4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "先史"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "紀元前2千年紀以前"
+      ],
+      "entities": [
+        "丘の島",
+        "ネイティブアメリカン",
+        "マンハッタン",
+        "アルゴンキン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:14.079Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hanamizuno/ニューヨークの歴史/ヨーロッパによる発見-1": {
+    "page_id": "20220515_hanamizuno/ニューヨークの歴史/ヨーロッパによる発見-1",
+    "content_hash": "sha256:9b18e65f0670195fe212fafdf20ebda2b522a585c6b20143eb14c7035d1fff2c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀",
+        "17世紀"
+      ],
+      "entities": [
+        "ジョヴァンニ・ダ・ヴェラツァーノ",
+        "ヘンリー・ハドソン",
+        "オランダ",
+        "ニューヨーク"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:14.153Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hanamizuno/ニューヨークの歴史/ニュー・アムステルダム": {
+    "page_id": "20220515_hanamizuno/ニューヨークの歴史/ニュー・アムステルダム",
+    "content_hash": "sha256:aad01f2322eb3f3984795d12d5f3535caaf76930b148a22c2a6ed9c739150647",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "経済"
+      ],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "ニュー・アムステルダム",
+        "ピーター・ミニュイット",
+        "マンハッタン",
+        "ニューヨーク"
+      ],
+      "tags": [
+        "経済行為",
+        "商売"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:14.216Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hanamizuno/ニューヨークの歴史/ニューヨークへ": {
+    "page_id": "20220515_hanamizuno/ニューヨークの歴史/ニューヨークへ",
+    "content_hash": "sha256:3b856f00d772c89e22df419ab57946a7e175cd8a7d69c7977f76100408ba99c4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [
+        "政治"
+      ],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "17世紀"
+      ],
+      "entities": [
+        "ニューヨークへ",
+        "ニューヨーク",
+        "イギリス",
+        "ニュー・ネザランド",
+        "オランダ",
+        "チャールズ",
+        "ヨーク"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:14.293Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hanamizuno/ニューヨークの歴史/アメリカ首府へ-1": {
+    "page_id": "20220515_hanamizuno/ニューヨークの歴史/アメリカ首府へ-1",
+    "content_hash": "sha256:1f4dfe861fa295e58922d196452ea96a5504cc9c7f1a67679b391ac29e06fc2a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "18世紀"
+      ],
+      "entities": [
+        "ピーター・ゼンガー",
+        "キングズ・カレッジ",
+        "イギリス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:14.290Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hanamizuno/ニューヨークの歴史/アメリカ首府へ-2": {
+    "page_id": "20220515_hanamizuno/ニューヨークの歴史/アメリカ首府へ-2",
+    "content_hash": "sha256:60dae916bd1701c3e6db3f496d09afe7a1bfd208b55ad2726c39c5be09f3ecf2",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "18世紀",
+        "19世紀"
+      ],
+      "entities": [
+        "アメリカ",
+        "ワシントン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:14.364Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hanamizuno/ニューヨークの歴史/ざっくり年表-独立〜南北戦争": {
+    "page_id": "20220515_hanamizuno/ニューヨークの歴史/ざっくり年表-独立〜南北戦争",
+    "content_hash": "sha256:75aef80bab8b93126ddff7f79c96cc5f43a0ba8c8ee3710fa586ceab1130e214",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "ニューヨーク",
+        "エリー"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:14.475Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hanamizuno/ニューヨークの歴史/ざっくり年表-南北戦争〜米西戦争": {
+    "page_id": "20220515_hanamizuno/ニューヨークの歴史/ざっくり年表-南北戦争〜米西戦争",
+    "content_hash": "sha256:8f4ff46331b4e8f56ae98180ecad4e6e3ad2e535ab6d230aecf01547393dd271",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "19世紀"
+      ],
+      "entities": [
+        "自由の女神",
+        "グランド・セントラル",
+        "セントラル・パーク",
+        "ブルックリン・ブリッジ"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:14.528Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hanamizuno/ニューヨークの歴史/ざっくり年表-米西戦争〜現在": {
+    "page_id": "20220515_hanamizuno/ニューヨークの歴史/ざっくり年表-米西戦争〜現在",
+    "content_hash": "sha256:679ca34c5c01eb0bfe73aeb8477746253c3cf2a293b4b842afb04285e98e6494",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "20世紀",
+        "21世紀"
+      ],
+      "entities": [
+        "エンパイア・ステート・ビル",
+        "ハーレム",
+        "ツイン・タワー"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:14.532Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hanamizuno/ニューヨークの歴史/人口の変化": {
+    "page_id": "20220515_hanamizuno/ニューヨークの歴史/人口の変化",
+    "content_hash": "sha256:7f5cf7d87e52eb520a5a3f926d535e622780d177fa4b727814343cc43e8ef2e5",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "社会"
+      ],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [
+        "17世紀",
+        "18世紀",
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [
+        "マンハッタン",
+        "ニューヨーク"
+      ],
+      "tags": [
+        "人口の変化"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:14.586Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hanamizuno/ニューヨークの歴史/ニューヨークの発展": {
+    "page_id": "20220515_hanamizuno/ニューヨークの歴史/ニューヨークの発展",
+    "content_hash": "sha256:aa922ccf77ac45a8f2e7575302851f08288ed3bee9a70c4984f1a84f3ffa5b8d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "北アメリカ"
+      ],
+      "period": [],
+      "entities": [
+        "ニューヨークの発展",
+        "ニューヨーク"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:14.667Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hanamizuno/ニューヨークの歴史/次回予告": {
+    "page_id": "20220515_hanamizuno/ニューヨークの歴史/次回予告",
+    "content_hash": "sha256:61b85fda64a8dc4b70844fdcc3d027dea131bf0f6f974f3dab41e87b11f47838",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:14.722Z",
+    "model": "jev-1.13.0"
+  },
+  "20220515_hanamizuno/ニューヨークの歴史/参考文献": {
+    "page_id": "20220515_hanamizuno/ニューヨークの歴史/参考文献",
+    "content_hash": "sha256:57c3f4c4901bc4c0f5f72657e7ed281d0ffd35c8d721fce00d731aa2188febcf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:14.728Z",
+    "model": "jev-1.13.0"
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "20231119_kixixixixi/焼肉の歴史/焼肉の歴史": {
+    "page_id": "20231119_kixixixixi/焼肉の歴史/焼肉の歴史",
+    "content_hash": "sha256:e3e126fbbf61881d59d12a18038a1e3cd0586f9f3dba173fe747d6f960c907cf",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "焼肉の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:45.313Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_kixixixixi/焼肉とは/焼肉とは": {
+    "page_id": "20231119_kixixixixi/焼肉とは/焼肉とは",
+    "content_hash": "sha256:38424ae6108dc02db2729c1715a8548913a3540263b5ea1259ec31137d1a76fd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "焼肉とは"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:45.359Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_kixixixixi/焼肉とは/焼肉とは~2": {
+    "page_id": "20231119_kixixixixi/焼肉とは/焼肉とは~2",
+    "content_hash": "sha256:4ba8468a47368d6578978e4ea14f949077fb4777c1d20a440d3a0f261da36ac4",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "焼肉とは"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:45.413Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_kixixixixi/BBQ-との違い/BBQ-との違い": {
+    "page_id": "20231119_kixixixixi/BBQ-との違い/BBQ-との違い",
+    "content_hash": "sha256:491d495962dfc109c9af01d6729a70bf49e04eb98152d262994c2644b57409a1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "BBQ との違い"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:45.556Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_kixixixixi/BBQ-との違い/BBQ-との違い~2": {
+    "page_id": "20231119_kixixixixi/BBQ-との違い/BBQ-との違い~2",
+    "content_hash": "sha256:f2c2a20635ba8b2537fd6774a5627d665b42d7207a54539c11bce277125fb403",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "BBQ との違い"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:45.512Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_kixixixixi/BBQ-とは/BBQ-とは": {
+    "page_id": "20231119_kixixixixi/BBQ-とは/BBQ-とは",
+    "content_hash": "sha256:c9b21aecca1496b21d0e23f3d62ed60d8a0fb84b2174befee8ede111a67b6b8d",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "BBQ とは"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:45.568Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_kixixixixi/BBQ-の歴史/BBQ-の歴史": {
+    "page_id": "20231119_kixixixixi/BBQ-の歴史/BBQ-の歴史",
+    "content_hash": "sha256:0593ec2a9e7872f90ab5ada849a4241ae2a794a6c5db508ce9c131f7d1aed750",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [
+        "タイノ",
+        "テキサス",
+        "フロリダ",
+        "ノースカロライナ",
+        "サウスカロライナ"
+      ],
+      "tags": [
+        "BBQ の歴史",
+        "バーベキュー",
+        "ビネガーベース"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:45.658Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_kixixixixi/日本での-BBQ/日本での-BBQ": {
+    "page_id": "20231119_kixixixixi/日本での-BBQ/日本での-BBQ",
+    "content_hash": "sha256:d6ad744a9bb167514ff13cee856ee8666ebc0e2cc11bef7d728d44cca05bbaab",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本",
+        "東アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "日本での BBQ",
+        "炉端焼き",
+        "バーベキュー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:45.735Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_kixixixixi/焼肉とステーキの違い/焼肉とステーキの違い": {
+    "page_id": "20231119_kixixixixi/焼肉とステーキの違い/焼肉とステーキの違い",
+    "content_hash": "sha256:29eb206864c2ffa3b144ca6a1f0488097b241873f8af2584665635288f344ae0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "焼肉とステーキの違い",
+        "ステーキ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:45.777Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_kixixixixi/焼肉とステーキの違い/焼肉とステーキの違い~2": {
+    "page_id": "20231119_kixixixixi/焼肉とステーキの違い/焼肉とステーキの違い~2",
+    "content_hash": "sha256:b40d8c5f2a8274aa2d13e83ffb2f2c82dc3f48b9cdc3dc39272b62a4b5d70ce1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "焼肉とステーキの違い",
+        "ステーキ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:45.792Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_kixixixixi/ステーキの歴史/ステーキの歴史": {
+    "page_id": "20231119_kixixixixi/ステーキの歴史/ステーキの歴史",
+    "content_hash": "sha256:3e37f4e185843e23120d502716e9bc4267f15c28c74532c98c8669276c32b00c",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "ヨーロッパ"
+      ],
+      "tags": [
+        "ステーキの歴史",
+        "ステーキ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:45.934Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_kixixixixi/ソテーとの違い/ソテーとの違い": {
+    "page_id": "20231119_kixixixixi/ソテーとの違い/ソテーとの違い",
+    "content_hash": "sha256:82d962c3c853502ca03a7fdcbe7f63c4773c19619ee5dadcdbee6bc528c91f9a",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ソテーとの違い",
+        "ソテー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:45.943Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_kixixixixi/ソテーとは/ソテーとは": {
+    "page_id": "20231119_kixixixixi/ソテーとは/ソテーとは",
+    "content_hash": "sha256:78491f921c568fea58984f70637b20021c86efba7ef221f515a0f6c80e176f29",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "ソテーとは",
+        "ソテー"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:45.981Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_kixixixixi/焼肉とプルコギの違い/焼肉とプルコギの違い": {
+    "page_id": "20231119_kixixixixi/焼肉とプルコギの違い/焼肉とプルコギの違い",
+    "content_hash": "sha256:5b1a6f0441aabe59c60c3b3e6a80c9c54eba288dff807ebb5718c3128331f2eb",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "焼肉とプルコギの違い",
+        "焼肉",
+        "プルコギ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:46.013Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_kixixixixi/焼肉とプルコギの違い/焼肉とプルコギの違い~2": {
+    "page_id": "20231119_kixixixixi/焼肉とプルコギの違い/焼肉とプルコギの違い~2",
+    "content_hash": "sha256:7c1396f9e2ecad1c97b603b68339dd514cb9fe8872b029567a4bd2389fb288b0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "東アジア"
+      ],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "焼肉とプルコギの違い",
+        "プルコギ"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:46.146Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_kixixixixi/日本での肉食/日本での肉食": {
+    "page_id": "20231119_kixixixixi/日本での肉食/日本での肉食",
+    "content_hash": "sha256:0176cd4130d8cf3efa0436fb4e8dafd55e6bd345bcfa8fd7a877e14fa8abae7e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本",
+        "東アジア"
+      ],
+      "period": [
+        "7世紀",
+        "8世紀",
+        "9世紀",
+        "10世紀",
+        "11世紀",
+        "12世紀",
+        "13世紀",
+        "14世紀",
+        "15世紀",
+        "16世紀",
+        "17世紀",
+        "18世紀",
+        "19世紀"
+      ],
+      "entities": [],
+      "tags": [
+        "日本での肉食",
+        "殺生禁断令"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:46.151Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_kixixixixi/焼肉のはじまり/焼肉のはじまり": {
+    "page_id": "20231119_kixixixixi/焼肉のはじまり/焼肉のはじまり",
+    "content_hash": "sha256:1222406eaa72d47580b0ff43d838d6bfd3e3c521254718807cba9e14a52ad642",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "日本",
+        "東アジア"
+      ],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "明月館",
+        "食道園"
+      ],
+      "tags": [
+        "焼肉のはじまり",
+        "ホルモン焼き",
+        "朝鮮料理",
+        "ホルモン屋",
+        "焼肉店",
+        "ホルモン"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:46.188Z",
+    "model": "jev-1.13.0"
+  },
+  "20231119_kixixixixi/発展/発展": {
+    "page_id": "20231119_kixixixixi/発展/発展",
+    "content_hash": "sha256:fcce3a91123c944c94f7264a3cfbc51c23a35a51211fac7f34234a525fd03cb8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "現代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "20世紀"
+      ],
+      "entities": [
+        "ソウルオリンピック"
+      ],
+      "tags": [
+        "発展",
+        "ブーム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:46.236Z",
+    "model": "jev-1.13.0"
+  }
+}

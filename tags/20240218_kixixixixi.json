@@ -1,0 +1,395 @@
+{
+  "20240218_kixixixixi/地図の歴史/地図の歴史": {
+    "page_id": "20240218_kixixixixi/地図の歴史/地図の歴史",
+    "content_hash": "sha256:ea775f7cb8f93e38cca043b10030fd7f5d9f85b99901d1efdfa23b6b65c165bc",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "地図の歴史"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:50.957Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_kixixixixi/地図の歴史/<img-src=\"https:-upload.wikimedia.org-w": {
+    "page_id": "20240218_kixixixixi/地図の歴史/<img-src=\"https:-upload.wikimedia.org-w",
+    "content_hash": "sha256:e43f5b675a3c7f7a756305249b2786f98664f70359117f3b7bc0cc24030e5fb7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:51.009Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_kixixixixi/最古の地図/最古の地図": {
+    "page_id": "20240218_kixixixixi/最古の地図/最古の地図",
+    "content_hash": "sha256:3c8c6eccf20b280e0e9dff2c4ac0b8f3656a22edb1506d5801a52a3f8f525bbd",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "バビロニア",
+        "バビロン"
+      ],
+      "tags": [
+        "最古の地図"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:50.977Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_kixixixixi/エラトステネス図/エラトステネス図": {
+    "page_id": "20240218_kixixixixi/エラトステネス図/エラトステネス図",
+    "content_hash": "sha256:4d9bba42f00449bdc21f2b61a00bd45ef06c369d8fe3d3c3fcb75df935056cab",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "紀元前1千年紀"
+      ],
+      "entities": [
+        "エラトステネス図",
+        "エラトステネス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:51.059Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_kixixixixi/エラトステネス図/エラトステネス図~2": {
+    "page_id": "20240218_kixixixixi/エラトステネス図/エラトステネス図~2",
+    "content_hash": "sha256:3b15584e91a98bc040acc89cdd7a620b120f38b657448112268b8376d69fb971",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "エラトステネス図",
+        "エラトステネス",
+        "シエネ",
+        "アレキサンドリア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:51.229Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_kixixixixi/プトレマイオス図/プトレマイオス図": {
+    "page_id": "20240218_kixixixixi/プトレマイオス図/プトレマイオス図",
+    "content_hash": "sha256:0cb7218bc506506799c8a6b3b4b0b99bdec4367ea221c0d5719ee523ccc2a274",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "古代"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "世界全体"
+      ],
+      "period": [
+        "2世紀"
+      ],
+      "entities": [
+        "プトレマイオス図",
+        "プトレマイオス"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:51.166Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_kixixixixi/中世ヨーロッパ/中世ヨーロッパ": {
+    "page_id": "20240218_kixixixixi/中世ヨーロッパ/中世ヨーロッパ",
+    "content_hash": "sha256:28dd2ca88914ab7af7b6ac8f822f01899576929e7b5e4c4c2d4231111d8308f1",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "中世ヨーロッパ",
+        "ヨーロッパ"
+      ],
+      "tags": [
+        "キリスト"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:51.216Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_kixixixixi/TO-図/TO-図": {
+    "page_id": "20240218_kixixixixi/TO-図/TO-図",
+    "content_hash": "sha256:1bdaa33672e84c97c9781faa3e324388b38e60284d1dce7a3e565a0ae7b8cefa",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "世界全体"
+      ],
+      "period": [],
+      "entities": [
+        "アジア・ヨーロッパ・アフリカ"
+      ],
+      "tags": [
+        "TO 図"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:51.282Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_kixixixixi/イドリースィー図/イドリースィー図": {
+    "page_id": "20240218_kixixixixi/イドリースィー図/イドリースィー図",
+    "content_hash": "sha256:bd42db245e41f5a8ab0a09c7342556169dc4c80a0aec8eb47bf69e874772cdb8",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "12世紀"
+      ],
+      "entities": [
+        "イドリースィー図",
+        "イドリースィー",
+        "イスラーム"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:51.429Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_kixixixixi/カタロニア図/カタロニア図": {
+    "page_id": "20240218_kixixixixi/カタロニア図/カタロニア図",
+    "content_hash": "sha256:36397c9fd129285ca00c215baa74aa4835756e99486a551b53b541dc460cf389",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "14世紀"
+      ],
+      "entities": [
+        "カタロニア図",
+        "カタロニア"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:51.411Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_kixixixixi/混一疆理歴代国都之図/混一疆理歴代国都之図": {
+    "page_id": "20240218_kixixixixi/混一疆理歴代国都之図/混一疆理歴代国都之図",
+    "content_hash": "sha256:9b3bbc6a05ac636d96e7d49af35b7dbdc6713b3c0be3b845abeba1ddb4f34008",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "中世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "世界全体"
+      ],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [
+        "混一疆理歴代国都之図"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:51.441Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_kixixixixi/大航海時代/大航海時代": {
+    "page_id": "20240218_kixixixixi/大航海時代/大航海時代",
+    "content_hash": "sha256:62d606d1b4a75bcf2cc0a8ef883515c471b3acb868a3f82535bb8d33f5af96a0",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [
+        "大航海時代"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:51.488Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_kixixixixi/ベハイムの地球儀/ベハイムの地球儀": {
+    "page_id": "20240218_kixixixixi/ベハイムの地球儀/ベハイムの地球儀",
+    "content_hash": "sha256:c83445ad87640aa517af08fe7c6153102ef760b560ebf1ca62c3f7c87b90c35e",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "15世紀"
+      ],
+      "entities": [
+        "ベハイムの地球儀",
+        "ベハイム",
+        "マルティン"
+      ],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:51.628Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_kixixixixi/メルカトル図/メルカトル図": {
+    "page_id": "20240218_kixixixixi/メルカトル図/メルカトル図",
+    "content_hash": "sha256:b92a2af282c3e318ab073fa86464527bec32bbd6c86ab52c60d9b6f4886414d7",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [
+        "近世"
+      ],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [
+        "16世紀"
+      ],
+      "entities": [
+        "メルカトル"
+      ],
+      "tags": [
+        "メルカトル図"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:51.677Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_kixixixixi/メルカトル図/1720-年、各大陸の位置をほぼ正確に表現した世界地図が作製": {
+    "page_id": "20240218_kixixixixi/メルカトル図/1720-年、各大陸の位置をほぼ正確に表現した世界地図が作製",
+    "content_hash": "sha256:f90f0752f80b28974bb3ef528c8bc198bf08ffef4d5026a96f54f34394a58c85",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [
+        "世界全体"
+      ],
+      "period": [
+        "18世紀",
+        "19世紀",
+        "20世紀"
+      ],
+      "entities": [],
+      "tags": []
+    },
+    "processed_at": "2026-09-25T13:43:51.642Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_kixixixixi/現代の地図/現代の地図": {
+    "page_id": "20240218_kixixixixi/現代の地図/現代の地図",
+    "content_hash": "sha256:779fc8fdc8e964f45b36cd48f512a26a6ff1bb67552febac216c616664596412",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "現代の地図"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:51.747Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_kixixixixi/GPS/GPS": {
+    "page_id": "20240218_kixixixixi/GPS/GPS",
+    "content_hash": "sha256:e48c380c228913e21e69391f3ff34a9420d9557c62885355ec9db2384499fbae",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "GPS",
+        "システム"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:51.854Z",
+    "model": "jev-1.13.0"
+  },
+  "20240218_kixixixixi/GIS/GIS": {
+    "page_id": "20240218_kixixixixi/GIS/GIS",
+    "content_hash": "sha256:daa7b43d9559862f77379f84204458af748a820cf5e7575cf0cd0a7129229194",
+    "tag_schema_version": "2",
+    "tags": {
+      "era": [],
+      "topic": [
+        "科学・技術"
+      ],
+      "culture": [],
+      "region": [],
+      "period": [],
+      "entities": [],
+      "tags": [
+        "GIS"
+      ]
+    },
+    "processed_at": "2026-09-25T13:43:51.859Z",
+    "model": "jev-1.13.0"
+  }
+}
