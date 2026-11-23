@@ -1,3 +1,7 @@
 {
-    "markdown.validate.enabled": true
+  "markdown.validate.enabled": true,
+  "markdown.validate.ignoredLinks": [
+    "/20230924_kixixixixi",
+    "/20231022_kixixixixi"
+  ]
 }
